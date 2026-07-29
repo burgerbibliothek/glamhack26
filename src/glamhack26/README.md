@@ -1,0 +1,6 @@
+- desk_orte.parquet: Export of all location descriptors from the system.
+    - ID-Nr.: Identifier (Unique, Int)
+    - ID-Name: Identifier (Unique, Str)
+    - Bezeichnung: Description (Str)
+    - Anzahl Verknüpfungen: How many times the descriptor has been linked (Int)
+- 
