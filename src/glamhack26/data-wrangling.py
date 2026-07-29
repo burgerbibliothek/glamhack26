@@ -5,7 +5,7 @@ import re
 p = Path(__file__).parent
 
 # Create table w/ hierarchy
-df_orte = pl.read_parquet(p / "export_desk_orte.parquet")
+df_orte = pl.read_parquet(p / "places_descriptors.parquet")
 df_hierarchy = pl.DataFrame(schema={"id_descriptor_child": pl.Int64, "id_descriptor_parent": pl.Int64})
 
 pattern = re.compile(r"(?<=\()Orte\\.+(?=\))")
@@ -23,7 +23,3 @@ for row in df_orte.rows(named=True):
             df_hierarchy = pl.concat([df_hierarchy, append_df])
     
 df_hierarchy.write_parquet(p / "hierarchy.parquet")
-
-        
-
-
