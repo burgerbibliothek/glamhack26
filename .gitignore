@@ -1,4 +1,4 @@
 # pixi environments
 .pixi/*
 !.pixi/config.toml
-src/glamhack26/export_desk_orte.parquet
+src/glamhack26/export_ve_desk_orte.parquet
