@@ -9,6 +9,7 @@ df_orte = pl.read_parquet(p / "places_descriptors.parquet")
 df_hierarchy = pl.DataFrame(schema={"id_descriptor_child": pl.Int64, "id_descriptor_parent": pl.Int64})
 
 pattern = re.compile(r"(?<=\()Orte\\.+(?=\))")
+print("This takes a while...")
 for row in df_orte.rows(named=True):
     match = re.search(pattern, row['id_name_descriptor'])
     if match is not None:
@@ -22,4 +23,5 @@ for row in df_orte.rows(named=True):
             append_df = pl.DataFrame({"id_descriptor_child" : id_child, "id_descriptor_parent" : id_parent})                             # new DataFrame with the new rows
             df_hierarchy = pl.concat([df_hierarchy, append_df])
     
-df_hierarchy.write_parquet(p / "hierarchy.parquet")
+df_hierarchy.write_parquet(p / "places_descriptors_hierarchy.parquet")
+print("Finished! Output written to places_descriptors_hierarchy.parquet.")
