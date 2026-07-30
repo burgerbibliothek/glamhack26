@@ -1,9 +1,11 @@
-# Data Model
+# Dataset
+
+## Data Model
 ```mermaid
 erDiagram
     descriptive_units }|--|| places_descriptors : id_descriptor
-    places_descriptors_hierarchy }|--|| places_descriptors : id_descriptor
-    places_descriptors_hierarchy }o--|| places_descriptors_hierarchy : id_descriptor_parent
+    places_descriptors_hierarchy }|--|| places_descriptors : id_descriptor_parent
+    places_descriptors_hierarchy }o--|| places_descriptors_hierarchy : id_descriptor_child
     descriptive_units {
         int id_du
         string id_du_name
@@ -20,3 +22,7 @@ erDiagram
         int id_descriptor_parent
     }
 ```
+## Tools
+- [Pixi](https://pixi.prefix.dev)
+- [ParquetViewer](https://parquetviewer.app/)
+
