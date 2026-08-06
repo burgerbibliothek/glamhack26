@@ -1,6 +1,8 @@
 # Dataset
-
-## Data Model
+The dataset consists of three tables:
+- `places_descriptors` contains all available place descriptors.
+- `descriptive_units` contains descriptive units and associations to place descriptors.
+- `places_descriptors_hierarchy` contains the hierarchy of place descriptors.
 ```mermaid
 erDiagram
     descriptive_units }|--|| places_descriptors : id_descriptor
@@ -22,7 +24,13 @@ erDiagram
         int id_descriptor_parent
     }
 ```
-## Tools
-- [Pixi](https://pixi.prefix.dev)
-- [ParquetViewer](https://parquetviewer.app/)
+
+## Table `places_descriptors`
+- The column `id_descriptor` contains the numeric ID for a place descriptor.
+- The column `id_name_descriptor` contains another form of an ID for the place descriptor (e.g. “Bern (BE) (Orte\Sch\Schweiz (CH)\Bern (Kanton)”). In the last outermost pair of parentheses in the id name, the hierarchy can be traced. In the provided example, it's visible, that the place descriptor “Bern (BE)” is a child of the place descriptor “Bern (Kanton)”, which itself is the child of “Schweiz (CH)”, and so on.
+- The column `description` contains a label and describes how the place descriptor is called (mostly with a German exonym).
+
+# Tools
+- [ParquetViewer](https://parquetviewer.app/) is a viewer for parquet files, which runs directly in your browser.
+- [Pixi](https://pixi.prefix.dev) is reproducible package management tool for developers.
 
