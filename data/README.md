@@ -2,12 +2,17 @@
 The dataset consists of three tables:
 - `places_descriptors` contains all available place descriptors.
 - `descriptive_units` contains descriptive units and associations to place descriptors.
+- `main_descriptors_referral_descriptors` contains the relations between main descriptors and referral descriptors.
 - `places_descriptors_hierarchy` contains the hierarchy of place descriptors.
 ```mermaid
 erDiagram
     descriptive_units }|--|| places_descriptors : id_descriptor
     places_descriptors_hierarchy }|--|| places_descriptors : id_descriptor_parent
-    places_descriptors_hierarchy }o--|| places_descriptors_hierarchy : id_descriptor_child
+    places_descriptors_hierarchy }|--|| places_descriptors : id_descriptor_child
+    places_descriptors_hierarchy }|--|| places_descriptors_hierarchy : id_descriptor_child
+    main_descriptors_referral_descriptors }|--|| places_descriptors : id_main_descriptor
+    main_descriptors_referral_descriptors }|--|| places_descriptors : id_referral_descriptor
+    main_descriptors_referral_descriptors }|--|| main_descriptors_referral_descriptors : id_referral_descriptor
     descriptive_units {
         int id_du
         string id_du_name
@@ -18,6 +23,10 @@ erDiagram
         int id_descriptor
         string id_name_descriptor
         string description
+    }
+    main_descriptors_referral_descriptors{
+        int id_main_descriptor
+        int id_referral_descriptor
     }
     places_descriptors_hierarchy{
         int id_descriptor_child
