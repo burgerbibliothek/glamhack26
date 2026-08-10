@@ -50,7 +50,7 @@ This table contains the relations between main descriptors and referral descript
 - The column `id_main_descriptor` contains the ID of a main descriptor.
 - The column `id_referral_descriptor` contains the ID of a referral descriptor.
 
-## Table `places_descriptors_hierarchy
+## Table `places_descriptors_hierarchy`
 This table contains pairs of place descriptor ids in order to reconstruct their hierarchy (e.g. “Bern (BE)” is a child of the place descriptor “Bern (Kanton)”.
 - The column `id_descriptor_child` contains the id of a place descriptor.
 - The column `id_descriptor_parent` contains the id of a place descriptor.
