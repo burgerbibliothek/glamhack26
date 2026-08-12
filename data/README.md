@@ -64,6 +64,15 @@ This table contains pairs of place descriptor ids in order to reconstruct their 
 - The column `id_descriptor_child` contains the id of a place descriptor.
 - The column `id_descriptor_parent` contains the id of a place descriptor.
 
+# Queries
+## Get all descriptors concerning the "Historisch-Topographisches Lexikon"
+```SQL
+# Table places_descriptors
+SELECT id_descriptor, id_name_descriptor, regexp_matches(id_name_descriptor, '\(Orte\\Sch\\Schweiz \(CH\)\\Bern \(Kanton\)\\Bern \(BE\)\\Historisch-Topographisches Lexikon\\[A-Z]\)') AS find
+FROM file
+WHERE find = true
+```
+
 # Tools
 - [ParquetViewer](https://parquetviewer.app/) is a viewer for parquet files, which runs directly in your browser.
 - [Pixi](https://pixi.prefix.dev) is reproducible package management tool for developers.
