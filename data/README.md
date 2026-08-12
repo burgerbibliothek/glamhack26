@@ -7,6 +7,8 @@ The dataset consists of three tables:
 ```mermaid
 erDiagram
     descriptive_units }|--|| places_descriptors : id_descriptor
+    descriptive_units_places_descriptors }|--|| descriptive_units : id_du
+    descriptive_units_places_descriptors }|--|| places_descriptors : id_descriptor
     places_descriptors_hierarchy }|--|| places_descriptors : id_descriptor_parent
     places_descriptors_hierarchy }|--|| places_descriptors : id_descriptor_child
     places_descriptors_hierarchy }|--|| places_descriptors_hierarchy : id_descriptor_child
@@ -16,6 +18,9 @@ erDiagram
     descriptive_units {
         int id_du
         string id_du_name
+    }
+    descriptive_units_places_descriptors {
+        int id_du
         int id_descriptor
         string role
     }
