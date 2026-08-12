@@ -1,17 +1,18 @@
 # Dataset
 The dataset consists of three tables:
 - `places_descriptors` contains all available place descriptors.
-- `descriptive_units` contains descriptive units and associations to place descriptors.
-- `main_descriptors_referral_descriptors` contains the relations between main descriptors and referral descriptors.
+- `descriptive_units` contains descriptive units.
+- `descriptive_units_places_descriptors` contains associations between place descriptors and descriptive units.
+- `main_descriptors_referral_descriptors` contains the associations between main descriptors and referral descriptors.
 - `places_descriptors_hierarchy` contains the hierarchy of place descriptors.
 ```mermaid
 erDiagram
     descriptive_units }|--|| places_descriptors : id_descriptor
     descriptive_units_places_descriptors }|--|| descriptive_units : id_du
     descriptive_units_places_descriptors }|--|| places_descriptors : id_descriptor
-    places_descriptors_hierarchy }|--|| places_descriptors : id_descriptor_parent
-    places_descriptors_hierarchy }|--|| places_descriptors : id_descriptor_child
-    places_descriptors_hierarchy }|--|| places_descriptors_hierarchy : id_descriptor_child
+    places_descriptors_hierarchy }|--|| places_descriptors : id_descriptor
+    places_descriptors_hierarchy }|--|| places_descriptors : id_descriptor
+    places_descriptors_hierarchy }|--|| places_descriptors_hierarchy : id_descriptor_parent
     main_descriptors_referral_descriptors }|--|| places_descriptors : id_main_descriptor
     main_descriptors_referral_descriptors }|--|| places_descriptors : id_referral_descriptor
     main_descriptors_referral_descriptors }|--|| main_descriptors_referral_descriptors : id_referral_descriptor
@@ -47,11 +48,14 @@ erDiagram
 ## Table `descriptive_units`
 - The column The column `id_du` contains the numeric ID for a descriptive unit.
 - The column `id_du_name` contains another form of an ID for a descriptive unit.
-- The column `id_descriptor` contains ...
-- The column `role` contains ...
+
+## Table `descriptive_units_places_descriptors`
+- The column The column `id_du` contains the numeric ID for a descriptive unit.
+- The column `id_descriptor` contains the numeric ID for a place descriptor.
+- The column `role` contains further description for the relation.
 
 ## Table `main_descriptors_referral_descriptors`
-This table contains the relations between main descriptors and referral descriptors. Referral descriptors, always point to a main descriptor (e.g. "Arabergass" → "Arabergasse")
+This table contains the associations between main descriptors and referral descriptors. Referral descriptors, always point to a main descriptor (e.g. "Arabergass" → "Arabergasse") and are not associated with a descriptive unit.
 - The column `id_main_descriptor` contains the ID of a main descriptor.
 - The column `id_referral_descriptor` contains the ID of a referral descriptor.
 
