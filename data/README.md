@@ -64,8 +64,11 @@ This table contains pairs of place descriptor ids in order to reconstruct their 
 - The column `id_descriptor_child` contains the id of a place descriptor.
 - The column `id_descriptor_parent` contains the id of a place descriptor.
 
+## Specialties in the dataset
+The children of the descriptor (Orte\Sch\Schweiz (CH)\Bern (Kanton)\Bern (BE)\Historisch-Topographisches Lexikon\) are a special kind of place descriptor. They represent lexicon entries from the “[Historisch-topographische Lexikon der Stadt Bern von Berchtold Weber](https://archives-quickaccess.ch/search/bbb/lexikon)”. They do contain some additional data about a place (e.g. [ark:36599/nw00xr4nws1](https://ark.burgerbib.ch/ark:36599/nw00xr4nws1)). The Hist.-topo data has been incorporated in the [bernese city map](https://map.bern.ch/stadtplan/?grundplan=Stadtplan_farbig_Geoportal|Stadtplan_farbig_Extern_Region&koor=2600471,1199698&zoom=3&hl=0&layer=Strassennamen), which is the reason why the entries possess a persistent identifier (ARK). For simplicity, the ARK and additional Hist.-topo. data is not included in the above tables.
+
 # Queries
-## Get all descriptors concerning the "Historisch-Topographisches Lexikon"
+## Get all descriptors concerning the “Historisch-Topographisches Lexikon”
 ```SQL
 # Table places_descriptors
 SELECT id_descriptor, id_name_descriptor, regexp_matches(id_name_descriptor, '\(Orte\\Sch\\Schweiz \(CH\)\\Bern \(Kanton\)\\Bern \(BE\)\\Historisch-Topographisches Lexikon\\[A-Z]\)') AS find
