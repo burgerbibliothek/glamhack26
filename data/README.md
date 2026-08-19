@@ -4,7 +4,7 @@ The [dataset](https://github.com/burgerbibliothek/glamhack26/tree/main/data/src/
 - `persons_descriptors` contains all available person descriptors (legal entities and natural persons).
 - `descriptive_units` contains descriptive units.
 - `descriptive_units_places_descriptors` contains associations between place descriptors and descriptive units.
-- `main_descriptors_referral_descriptors` contains the associations between main descriptors and referral descriptors.
+- `main_places_descriptors_referral_places_descriptors` contains the associations between main descriptors and referral descriptors.
 - `persons_descriptors_places_descriptors` contains the associations between place descriptors and person descriptors.
 - `places_descriptors_hierarchy` contains the hierarchy of place descriptors.
 ```mermaid
@@ -96,9 +96,9 @@ The children of the descriptor (Orte\Sch\Schweiz (CH)\Bern (Kanton)\Bern (BE)\Hi
 ## Get all descriptors concerning the “Historisch-Topographisches Lexikon”
 ```SQL
 # Table places_descriptors
-SELECT id_descriptor, id_name_descriptor, regexp_matches(id_name_descriptor, '\(Orte\\Sch\\Schweiz \(CH\)\\Bern \(Kanton\)\\Bern \(BE\)\\Historisch-Topographisches Lexikon\\[A-Z]\)') AS find
+SELECT id, id_name, regexp_matches(id_name, '\(Orte\\Sch\\Schweiz \(CH\)\\Bern \(Kanton\)\\Bern \(BE\)\\Historisch-Topographisches Lexikon\\[A-Z]\)') AS found
 FROM file
-WHERE find = true
+WHERE found = true
 ```
 
 # Tools
