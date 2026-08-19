@@ -1,8 +1,8 @@
 # Dataset
 The [dataset](https://github.com/burgerbibliothek/glamhack26/tree/main/data/src/data) consists of seven tables (in the [parquet](https://parquet.apache.org/docs/overview/) format):
-- `places_descriptors` contains all available place descriptors.
-- `persons_descriptors` contains all available person descriptors (legal entities and natural persons).
-- `descriptive_units` contains descriptive units.
+- `places_descriptors` contains all available place descriptors (23’338 items).
+- `persons_descriptors` contains all available person descriptors (legal entities and natural persons; 21’009 items).
+- `descriptive_units` contains descriptive units (88’389 items).
 - `descriptive_units_places_descriptors` contains associations between place descriptors and descriptive units.
 - `main_places_descriptors_referral_places_descriptors` contains the associations between main descriptors and referral descriptors.
 - `persons_descriptors_places_descriptors` contains the associations between place descriptors and person descriptors.
