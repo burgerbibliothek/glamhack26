@@ -9,11 +9,13 @@ The description of places in archives is more complex than simple point geocodin
 The application of geospatial metadata in archives facilitates the possibility of new visualizations and the gain of new or the confirmation of insights.
 
 The dataset provided contains place descriptors, person descriptors, descriptive units, and their relations to the place descriptors. For a more detailed explanation of the dataset, see the folder `data`.
+
 ## Pains
-‒	The place descriptors lack geospatial coordinates.
-‒	The place descriptors are not differentiated, sometimes a place descriptor describes a point (e. g. Bernastrasse 15) sometimes a zone (e. g. Bern).
-‒	A challenge remains how to describe places in a historical manner
-‒	Most place descriptors have no persistent ID, which makes is not ideal for interoperability.
+- The place descriptors lack geospatial coordinates.
+- The place descriptors are not differentiated, sometimes a place descriptor describes a point (e. g. Bernastrasse 15) sometimes a zone (e. g. Bern).
+- A challenge remains how to describe places in a historical manner
+- Most place descriptors have no persistent ID, which makes is not ideal for interoperability.
+
 ## Goals
 -	Add geospatial data to the existing descriptors (e.g. by from wikidata.org or openstreetmap.org).
 -	Assure the quality of acquired data.
@@ -26,6 +28,7 @@ The dataset provided contains place descriptors, person descriptors, descriptive
 ## We need your help!
 - The challenge owners have a background in History and Web Development and know the dataset very well.
 - Sought after skills: GIS-Specialists, Metadata-Geeks, Wiki(data)pedians, OpenStreetMappers, UX Experts, Knowledge Managers, …
+  
 ## Challenge owners
 <div>Nadja Ackermann ؜؜؜؜؜؜(nadja<span>­.</span>ackermann<span>@­</span>burgerbib<span>.</span>ch), Burgerbibliothek Bern</div> 
 <div>Nadja Glarner (<span>nadja. ­</span>glarner<span>@</span>­burgerbib<span>.ch</span>), Burgerbibliothek Bern</div>
