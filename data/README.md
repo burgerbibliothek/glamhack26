@@ -31,7 +31,7 @@ erDiagram
     places_descriptors {
         int id
         string id_name
-        string description
+        string label
     }
     persons_descriptors {
         int id
