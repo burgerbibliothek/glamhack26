@@ -1,11 +1,11 @@
-# GLAMhack26
+# GLAMhack26 
 >TL;DR Project scope is to enrich a dataset – containing 23 338 places – with geospatial metadata to gain new insights and visualization possibilities.
 ## Baseline
 The Burgerbibliothek Bern uses descriptors (index terms) for the description of their descriptive units. One of the commonly applied descriptor types is “places” of which there are currently 23'338 recorded. The dataset provided contains place descriptors, person descriptors, descriptive units, and their relations to the place descriptors. For a more detailed explanation of the dataset, see the folder [`data`](https://github.com/burgerbibliothek/glamhack26/tree/main/data). As of right now the place descriptors lack geospatial metadata.
 
-The application of geospatial metadata in archives facilitates the possibility of new visualizations and the gain of new or the confirmation of insights. The description of places in archives is more complex than simple point geocoding, because the relevant geography is often temporal, and contextual (e.g. addresses and structures cease to exist, and/or are renamed, borders change; a rare but interesting case: In Aarau (AG) an entire building [was moved 54 meters]( https://www.srf.ch/news/spektakel-1968-in-aarau-die-groesste-haus-verschiebung-der-damaligen-zeit).
+The application of geospatial metadata in archives facilitates the possibility of new visualizations and the gain of new or the confirmation of insights. The description of places in archives is more complex than simple point geocoding, because the relevant geography is often temporal, and contextual (e.g. addresses and structures cease to exist, and/or are renamed, borders change; a rare but interesting case: In Aarau (AG) an entire building [was moved 54 meters]( https://www.srf.ch/news/spektakel-1968-in-aarau-die-groesste-haus-verschiebung-der-damaligen-zeit)).
 
-The goal is to acquire geospatial data for the place descriptors, which the Burgerbibliothek Bern can incorporate in their archival information system. This will permit better research options for users.
+The primary goal is to acquire geospatial data for the place descriptors, which the Burgerbibliothek Bern can incorporate in their archival information system. This will permit better research options for users.
 ## Pains
 -	The place descriptors lack geospatial data.
 -	The place descriptors are not differentiated, sometimes a place descriptor describes a point (e. g. Bernastrasse 15) sometimes a zone (e. g. Bern).
@@ -31,6 +31,6 @@ This repository is organized as a [monorepo](https://en.wikipedia.org/wiki/Monor
 -	The `docs` folder contains the documentation of the project (methodology, insights, etc.)
 
 ## Challenge owners
-<div>Nadja Ackermann ؜؜؜؜؜؜(nadja<span>­.<span></span></span>acke<span>rma</span>nn<span>@­</span>burgerbib<span>.</span>ch), Burgerbibliothek Bern</div> 
+<div>Nadja Ackermann ؜؜؜؜؜؜(nadja<span>­.</span>ackermann<span>@­</span>burgerbib<span>.</span>ch), Burgerbibliothek Bern</div> 
 <div>Nadja Glarner (<span>nadja. ­</span>glarner<span>@</span>­burgerbib<span>.ch</span>), Burgerbibliothek Bern</div>
 <div>Gionathan Diani (<span>gionathan­</span>.­<span>diani</span><span>@</span>burger­bib.<span>ch</span>), Burgerbibliothek Bern</div>
