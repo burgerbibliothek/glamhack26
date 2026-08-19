@@ -15,9 +15,9 @@ erDiagram
     places_descriptors_hierarchy }|--|| places_descriptors : id_descriptor
     places_descriptors_hierarchy }|--|| places_descriptors : id_descriptor
     places_descriptors_hierarchy }|--|| places_descriptors_hierarchy : id_descriptor_parent
-    main_descriptors_referral_descriptors }|--|| places_descriptors : id_descriptor
-    main_descriptors_referral_descriptors }|--|| places_descriptors : id_descriptor
-    main_descriptors_referral_descriptors }|--|| main_descriptors_referral_descriptors : id_main_descriptor
+    main_places_descriptors_referral_places_descriptors }|--|| places_descriptors : id_descriptor
+    main_places_descriptors_referral_places_descriptors }|--|| places_descriptors : id_descriptor
+    main_places_descriptors_referral_places_descriptors }|--|| main_descriptors_referral_descriptors : id_main_descriptor
     persons_descriptors_places_descriptors }|--|| places_descriptors : id_descriptor
     persons_descriptors_places_descriptors }|--|| persons_descriptors : id
     descriptive_units {
