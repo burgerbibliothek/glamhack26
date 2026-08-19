@@ -1,15 +1,4 @@
-GLAMhack26 – Challenge Pitch
-
-
-•	Pains: Why is the challenge… a challenge? What’s the need or problem? For whom? In which situation? 
-•	Impact: What would it mean i.e. what would be different if the challenge could be addressed, or what will happen if the challenge is not addressed
-•	Goal: What is your goal for the Hackathon? (expected outcome)
-•	Small enough: Package small challenges that can be translated into a manageable set of actions. E.g.: «The public sector should improve its API is, probably, too generic.»
-•	Context: Who are the stakeholders? What are the restrictions?
-•	History & context: Share a little bit of history about which solutions were already tried.
-•	
-… and of course, leave room for creativity. Formulate rather open, tricky challenges. Not a clearly defined ‘patch’ that you could actually commission to a programming company. The participants choose their own path around your challenge – trust the process!
-# GLAMhack26 
+# GLAMhack26
 >TL;DR Project scope is to enrich a dataset – containing 23 338 places – with geospatial metadata to gain new insights and visualization possibilities.
 ## Baseline
 The Burgerbibliothek Bern uses descriptors (index terms) for the description of their descriptive units. One of the commonly applied descriptor types is “places” of which there are currently 23'338 recorded. The dataset provided contains place descriptors, person descriptors, descriptive units, and their relations to the place descriptors. For a more detailed explanation of the dataset, see the folder [`data`](https://github.com/burgerbibliothek/glamhack26/tree/main/data). As of right now the place descriptors lack geospatial metadata.
