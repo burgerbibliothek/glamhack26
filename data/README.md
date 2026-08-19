@@ -10,14 +10,14 @@ The [dataset](https://github.com/burgerbibliothek/glamhack26/tree/main/data/src/
 ```mermaid
 erDiagram
     descriptive_units }|--|| places_descriptors : id_descriptor
-    descriptive_units_places_descriptors }|--|| descriptive_units : id_du
-    descriptive_units_places_descriptors }|--|| places_descriptors : id_descriptor
-    places_descriptors_hierarchy }|--|| places_descriptors : id_descriptor
-    places_descriptors_hierarchy }|--|| places_descriptors : id_descriptor
-    places_descriptors_hierarchy }|--|| places_descriptors_hierarchy : id_descriptor_parent
-    main_places_descriptors_referral_places_descriptors }|--|| places_descriptors : id_descriptor
-    main_places_descriptors_referral_places_descriptors }|--|| places_descriptors : id_descriptor
-    persons_descriptors_places_descriptors }|--|| places_descriptors : id_descriptor
+    descriptive_units_places_descriptors }|--|| descriptive_units : id
+    descriptive_units_places_descriptors }|--|| places_descriptors : id
+    places_descriptors_hierarchy }|--|| places_descriptors : id
+    places_descriptors_hierarchy }|--|| places_descriptors : id
+    places_descriptors_hierarchy }|--|| places_descriptors_hierarchy : id_parent
+    main_places_descriptors_referral_places_descriptors }|--|| places_descriptors : id
+    main_places_descriptors_referral_places_descriptors }|--|| places_descriptors : id
+    persons_descriptors_places_descriptors }|--|| places_descriptors : id
     persons_descriptors_places_descriptors }|--|| persons_descriptors : id
     descriptive_units {
         int id
