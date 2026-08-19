@@ -1,9 +1,11 @@
 # Dataset
 The [dataset](https://github.com/burgerbibliothek/glamhack26/tree/main/data/src/data) consists of five tables (in the [parquet](https://parquet.apache.org/docs/overview/) format):
 - `places_descriptors` contains all available place descriptors.
+- `persons_descriptors` contains person descriptors (legal entities and natural persons).
 - `descriptive_units` contains descriptive units.
 - `descriptive_units_places_descriptors` contains associations between place descriptors and descriptive units.
 - `main_descriptors_referral_descriptors` contains the associations between main descriptors and referral descriptors.
+- `persons_descriptors_places_descriptors` contains the associations between place descriptors and person descriptors.
 - `places_descriptors_hierarchy` contains the hierarchy of place descriptors.
 ```mermaid
 erDiagram
@@ -16,6 +18,8 @@ erDiagram
     main_descriptors_referral_descriptors }|--|| places_descriptors : id_descriptor
     main_descriptors_referral_descriptors }|--|| places_descriptors : id_descriptor
     main_descriptors_referral_descriptors }|--|| main_descriptors_referral_descriptors : id_main_descriptor
+    persons_descriptors_places_descriptors }|--|| places_descriptors : id_descriptor
+    persons_descriptors_places_descriptors }|--|| persons_descriptors : id
     descriptive_units {
         int id_du
         string id_du_name
@@ -29,6 +33,17 @@ erDiagram
         int id_descriptor
         string id_name_descriptor
         string description
+    }
+    persons_descriptors {
+        int id
+        string id_name
+        string ark
+        string label
+    }
+    persons_descriptors_places_descriptors{
+        int id_place_descriptor
+        int id_person_descriptor
+        int role
     }
     main_descriptors_referral_descriptors{
         int id_main_descriptor
@@ -46,13 +61,24 @@ erDiagram
 - The column `description` contains a label and describes how the place descriptor is called (mostly with a German exonym).
 
 ## Table `descriptive_units`
-- The column The column `id_du` contains the numeric ID for a descriptive unit.
+- The column `id_du` contains the numeric ID for a descriptive unit.
 - The column `id_du_name` contains another form of an ID for a descriptive unit.
 
+## Table `persons_descriptors`
+- The column `id` contains the numeric ID for the person descriptor.
+- The column `id_name` contains another form of an ID for the person descriptor (e.g. “Bern (Burgergemeinde), Burgerbibliothek (Personen\Juristische Personen\B)”). The id name contains an indication if the descriptor is a legal entity or natural person.
+- The column `ark` contains another form of an ID for a descriptive unit.
+- The column `label` contains another form of an ID for a descriptive unit.
+
 ## Table `descriptive_units_places_descriptors`
-- The column The column `id_du` contains the numeric ID for a descriptive unit.
+- The column `id_du` contains the numeric ID for a descriptive unit.
 - The column `id_descriptor` contains the numeric ID for a place descriptor.
 - The column `role` contains further description for the relation.
+
+## Table `persons_descriptors_places_descriptors`
+- The column `id_place_descriptor` contains the numeric ID for place descriptor.
+- The column `id_person_descriptor` contains the numeric ID for a person descriptor.
+- The column `role` contains further description for the relation (1 = place of birth, 2 = place of death , 3 = place of activity, 4 = place of origin, 5 = place of residence).
 
 ## Table `main_descriptors_referral_descriptors`
 This table contains the associations between main descriptors and referral descriptors. Referral descriptors, always point to a main descriptor (e.g. "Arabergass" → "Arabergasse") and are not associated with a descriptive unit.
