@@ -30,7 +30,7 @@ erDiagram
     }
     places_descriptors {
         int id
-        string id
+        string id_name
         string description
     }
     persons_descriptors {
@@ -57,7 +57,7 @@ erDiagram
 ## Table `places_descriptors`
 - The column `id` contains the numeric ID for a place descriptor.
 - The column `id_name` contains another form of an ID for the place descriptor (e.g. “Bern (BE) (Orte\Sch\Schweiz (CH)\Bern (Kanton)”). In the last outermost pair of parentheses in the id name, the hierarchy can be traced. In the provided example, it's visible, that the place descriptor “Bern (BE)” is a child of the place descriptor “Bern (Kanton)”, which itself is the child of “Schweiz (CH)”, and so on.
-- The column `description` contains a label and describes how the place descriptor is called (mostly with a German exonym).
+- The column `label` contains a label and describes how the place descriptor is called (mostly with a German exonym).
 
 ## Table `descriptive_units`
 - The column `id` contains the numeric ID for a descriptive unit.
