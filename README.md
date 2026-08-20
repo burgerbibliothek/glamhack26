@@ -1,4 +1,4 @@
-# GLAMhack26: Archives getting spatial
+# Locate the Past: Geospacial metadata in Archives
 This project is part of the [GLAMHack26](https://hack.glam.opendata.ch/event/13), the Swiss Open Cultural Data Hackathon.
 ## Baseline
 >TL;DR Project scope is to enrich a dataset – containing 23 338 places – with geospatial metadata to gain new insights and visualization possibilities.
