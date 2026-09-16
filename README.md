@@ -3,7 +3,7 @@ This project is part of the [GLAMHack26](https://hack.glam.opendata.ch/event/13)
 ## Baseline
 >TL;DR Project scope is to enrich a dataset – containing 23 338 places – with geospatial metadata to gain new insights and visualization possibilities.
 
-The Burgerbibliothek Bern uses descriptors (index terms) for the description of their descriptive units. The advantage of assigning descriptors is that archive units relating to, for example, the same place can be found across different archive holdings. One of the commonly applied descriptor types is “places” of which there are currently 23 338 recorded. 
+The [Burgerbibliothek Bern](https://www.burgerbib.ch/en/about-us/overview) uses descriptors (index terms) for the description of their descriptive units. The advantage of assigning descriptors is that archive units relating to, for example, the same place can be found across different archive holdings. One of the commonly applied descriptor types is “places” of which there are currently 23 338 recorded. 
 
 The dataset provided contains these place descriptors and their related person descriptors, and descriptive units. For a more detailed explanation of the dataset, see the folder [`data`](https://github.com/burgerbibliothek/glamhack26/tree/main/data). As of right now the place descriptors lack geospatial metadata.
 
