@@ -11,12 +11,13 @@ df_hierarchy = pl.DataFrame(schema={"id_descriptor_child": pl.Int64, "id_descrip
 pattern = re.compile(r"(?<=\()Orte\\.+(?=\))")
 print("This takes a while...")
 for row in df_orte.rows(named=True):
-    match = re.search(pattern, row['id_name_descriptor'])
+    print(row)
+    match = re.search(pattern, row['id_name'])
     if match is not None:
         name = match.group().split("\\")
-        id_child = row['id_descriptor']
+        id_child = row['id']
         parent_id_name = re.sub(r"'", "''", f'{name[-1]} ({"\\".join(name[:-1])})')
-        parent_df = df_orte.sql(f"SELECT id_descriptor FROM self WHERE id_name_descriptor = '{parent_id_name}'")
+        parent_df = df_orte.sql(f"SELECT id FROM self WHERE id_name = '{parent_id_name}'")
         
         if not parent_df.is_empty():
             id_parent = parent_df.row()[0]
