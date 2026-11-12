@@ -7,6 +7,7 @@ The [dataset](https://github.com/burgerbibliothek/glamhack26/tree/main/data/src/
 - `main_places_descriptors_referral_places_descriptors` contains the associations between main descriptors and referral descriptors.
 - `persons_descriptors_places_descriptors` contains the associations between place descriptors and person descriptors.
 - `places_descriptors_hierarchy` contains the hierarchy of place descriptors.
+- `glamhack26.duckdb` all the Parquet files repackaged as DuckDB.
 ```mermaid
 erDiagram
     descriptive_units }|--|| places_descriptors : id_descriptor
