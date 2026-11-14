@@ -174,6 +174,7 @@ function showInfo(p) {
     (p.description ? `<div class="desc">${esc(p.description)}</div>` : '') +
     `<a href="${esc(p.ark)}" target="_blank" rel="noopener">Open record ↗</a>` +
     (p.matched_entity ? ` · <a href="${esc(p.matched_entity)}" target="_blank" rel="noopener">${esc(entityLabel(p.matched_entity))} ↗</a>` : '') +
+    (p.hls_link ? ` · <a href="${esc(p.hls_link)}" target="_blank" rel="noopener">HLS ↗</a>` : '') +
     (p.ambiguous === true || p.ambiguous === 'true' ? '<br><i>ambiguous place match</i>' : '');
   el.style.display = 'block';
   el.querySelector('.x').onclick = () => { el.style.display = 'none'; $('names').querySelectorAll('button').forEach(b => b.classList.remove('on')); };
@@ -427,7 +428,7 @@ map.on('load', async () => {
   const routeN = new Map();
   for (const a of D.arcs) routeN.set(`${a.source}|${a.target}`, (routeN.get(`${a.source}|${a.target}`) || 0) + 1);
   const arcsFC = { type: 'FeatureCollection', features: D.arcs.map(a =>
-    line(curve(a.from, a.to), { src: a.source, tgt: a.target, by: a.birth_year ?? -1, n: routeN.get(`${a.source}|${a.target}`), ark: a.ark, ambiguous: a.ambiguous, description: a.description, matched_entity: a.matched_entity,
+    line(curve(a.from, a.to), { src: a.source, tgt: a.target, by: a.birth_year ?? -1, n: routeN.get(`${a.source}|${a.target}`), ark: a.ark, ambiguous: a.ambiguous, description: a.description, matched_entity: a.matched_entity, hls_link: a.hls_link,
       name: a.name.replace(/\s*\(\d{3,4}\s*-\s*\d{3,4}\)\s*$/, ''),   // years are shown separately
       birth: `${label(a.source)}, ${a.birth_year ?? '?'}`, death: `${label(a.target)}, ${a.death_year ?? '?'}` })) };
   map.addSource('arcs', { type: 'geojson', data: arcsFC, lineMetrics: true });
