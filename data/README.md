@@ -103,8 +103,77 @@ WHERE found = true
 ```
 
 # Aggregated Data
-- `osm/*.json` contains the result of calls to the Nominatim API.
-- `birth_death_places_geo.csv` contains a list with the geocoordinates of the birth and death place of persons.
+- `osm/*.json` contains the result of calls to the Nominatim API (`fetch-from-nominatim.py`).
+- `birth_death_places_geo.csv` contains a list with the geocoordinates of the birth and death place of persons (columns `place_id, role, ark, person_label, lat, long`; `role` 1 = birth, 2 = death; `place_id` = `places_descriptors.id`).
+
+# Person enrichment and reconciliation
+The persons of `birth_death_places_geo.csv` (identified by `ark`) were enriched with data from their ARK landing pages and reconciled against authority files. All files are keyed by `person_id`, which is `persons_descriptors.id` (the numeric person descriptor id); `ark` is kept as a second key to join back to `birth_death_places_geo.csv`.
+
+```
+birth_death_places_geo.csv ──ark──► enrich_persons.py ──► person_enrichment.csv
+                                                              │  split in 3 batches
+                                                              ▼
+                                    person_enrichment_batches/raw/        (as scraped)
+                                                              │  OpenRefine: reconcile against GND / Wikidata, manual check
+                                                              ▼
+                                    person_enrichment_batches/verified/   (reconciled + verified)
+                                                              │
+birth_death_places_geo.csv ─┐                                 │  description, matched_entity
+fetch_metagrid.py ─► person_metagrid.csv ── hls_link ─────────┤
+                            build_map_json.py ◄───────────────┘
+                                   │
+                                   ▼
+                            map_data.json  ──►  web/ (map + arcs)
+```
+
+## `enrich_persons.py` → `person_enrichment.csv`
+Every ARK resolves (HTTP redirect) to one of two page types: `archives-quickaccess.ch/bbb/person/<id>` (schema.org Person markup, 2,116 of 2,296 persons) or a `katalog.burgerbib.ch/deskriptordetail.aspx?Id=<id>` descriptor page (the other 180; these have no separate name fields, and they include all legal entities). The script fetches and parses both, caches the raw HTML in `ark_cache/` (git-ignored, so it is resumable) and writes one row per person:
+
+| Column | Content |
+|---|---|
+| `person_id`, `ark` | keys |
+| `person_type` | `natural` or `legal`, from the thesaurus path of the descriptor |
+| `page_type`, `page_url`, `http_status` | which page the ARK resolved to |
+| `given_name`, `family_name` | quickaccess pages only |
+| `name` | `LastName, FirstName` for reconciliation. Falls back to the descriptor label without the `(dates)` suffix (catalogue pages, legal entities) |
+| `birth_date`, `death_date` | as printed on the page (`12.11.1679` or `1752`) |
+| `birth_date_iso`, `death_date_iso`, `birth_year`, `death_year` | parsed; empty if not parseable (e.g. `18. Jh.`) |
+| `description` | short biography text of the archive |
+
+Usage: `python enrich_persons.py [--limit N] [--workers 3] [--delay 0.2] [--refresh] [--offline]`. It needs `polars`, `requests`, `beautifulsoup4` and `lxml`.
+
+## Batches and reconciliation
+`person_enrichment.csv` (2,296 persons) was split into three contiguous slices by `person_id` (766, 765 and 765 persons) so that several people can work in parallel; they are in `raw/`. The `name` column was reconciled in OpenRefine against GND and Wikidata and the matches were checked manually. The result is in `verified/` with the same columns plus `matched_entity`, the URI of the matched entity. The files in `verified/` contain only the persons for which a match was found and verified.
+- Currently only `verified/person_enrichment_batch_1.csv` exists (568 of the 766 persons of batch 1; URIs from GND (303), Getty (132), SIK-ISEA (68), Wikidata (56), ETH-GTA (7) and the Library of Congress (2)). Batches 2 and 3 are still to be done. `build_map_json.py` reads every CSV in `verified/`, so they are included automatically once they are added.
+- `birth_death_places_geo.csv` is still being extended. To enrich new persons, re-run `enrich_persons.py` (cached pages are not fetched again); the batches in `raw/` are not updated automatically.
+
+## `fetch_metagrid.py` → `person_metagrid.csv`
+The ARK pages embed a [Metagrid](https://metagrid.ch) widget that loads its links from `api.metagrid.ch/widget/burgerbibliothek/person/<person_id>.json`, so the links are not in the cached HTML. The script queries that API once per person (responses cached in `metagrid_cache/`, git-ignored) and writes one row per person with `n_links` and one URL column per provider, most frequent first: `gnd`, `helveticat`, `viaf`, `hls` (Historisches Lexikon der Schweiz), `hfls`, `sikart`, `loc`, `bsg`, `sudoc`, ... (36 providers). A 404 from Metagrid means that no links are known for the person. 1,649 of 2,295 persons have at least one link, 801 an `hls` link.
+
+## `build_map_json.py` → `map_data.json`
+Generates the JSON for the map and arc visualisation in `web/` (served as `data/src/data/map_data.json`). Usage: `python build_map_json.py [--out PATH] [--keep-suspect]`.
+
+```
+meta   counts, filters, generation time
+places [{id, label, country, lat, lon, births, deaths, suspect}]       points layer
+arcs   [{ark, name, birth_year, death_year, source, target, from, to,   one arc per person
+         distance_km, ambiguous, description, matched_entity, hls_link}]
+flows  [{source, target, count, distance_km}]                          arcs aggregated by origin and destination
+```
+- An arc is drawn from the birth place to the death place; `from`/`to` are `[lon, lat]`. Persons with several birth or death places get one arc per pair (`ambiguous`). Persons with only one of the two places appear only in `places`.
+- Arcs shorter than 0.5 km are dropped (born and died in the same place).
+- `birth_year` and `death_year` are parsed from the person label (`Name (1679-1767)`).
+- `description` and `matched_entity` come from `person_enrichment_batches/verified/*.csv` and are `null` for persons without a verified row. `hls_link` comes from `person_metagrid.csv` and is `null` if there is no HLS article.
+- Places with a Swiss descriptor but coordinates outside Switzerland (bounding box) are flagged `suspect` and left out of places and arcs (`--keep-suspect` keeps them).
+
+## Analysis notebook
+`../notebooks/birth_death_analysis.ipynb` (run with polars, matplotlib and jupyter) describes the data characteristics that led to these choices: only about half of the persons have both a birth and a death place, a few places such as Bern dominate, most arcs are short and Swiss-internal, and about 98% of the arcs have both years.
+
+## Known data issues
+- **Geocoding errors:** OSM matched homonyms abroad. [#2](https://github.com/burgerbibliothek/glamhack26/issues/2) (48 Swiss places outside Switzerland, fixed) and [#3](https://github.com/burgerbibliothek/glamhack26/issues/3) (7 foreign places in the wrong country: Worcester (GB), Carlton (GB), Chesterfield (GB), Dornach (F), Tirano (I), Ofen (H), Yoré (F)). The 12 `USA (USA)` places cannot be checked automatically because their OSM matches carry no country code, and a wrong location inside the right country is not detected.
+- **Duplicated ARK:** 6 `ark` values in `persons_descriptors.parquet` contain the same URL twice, separated by a space (one of them in the CSV, person 13042). `enrich_persons.py` fetches the first URL and keeps the original value in the `ark` column.
+- **Metagrid vs. reconciliation:** for 174 verified persons both the Metagrid and the reconciliation provide a GND link. They agree for 150 and differ for 24 (e.g. Albert Bitzius, Johann Heinrich Maurer, Samuel Moser). These should be checked manually.
+- **Dates:** `birth_date`/`death_date` are empty for about 8% of the persons and some are only a century (`18. Jh.`), so they have no `*_iso` value.
 
 # Tools
 - [ParquetViewer](https://parquetviewer.app/) is a viewer for parquet files, which runs directly in your browser.
