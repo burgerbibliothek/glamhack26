@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <title>Born here, died there – Burgerbibliothek Bern</title>
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
+  <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+  <style>
+    :root { --ui: #0B1B4D; --dot: #89CFF0; --muted: #6b7280; }
+    html, body, #map { height: 100%; margin: 0; overflow: hidden; overscroll-behavior: none; }
+    body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--ui); }
+    .halo { text-shadow: 0 0 3px #fff, 0 0 3px #fff, 0 0 7px #fff; }   /* text straight on the map, no box */
+
+    /* People / Places switch, top centre */
+    .switch {
+      position: fixed; top: 12px; left: 50%; transform: translateX(-50%); z-index: 3; display: flex;
+      background: #fff; border: 2px solid var(--ui); border-radius: 999px; padding: 3px;
+    }
+    .switch button {
+      padding: 8px 26px; font: inherit; font-size: 15px; font-weight: 700; cursor: pointer;
+      color: var(--ui); background: none; border: 0; border-radius: 999px;
+    }
+    .switch button.on { background: var(--ui); color: #fff; }
+
+    /* the two filters, each standalone, top left */
+    .filters { position: fixed; top: 12px; left: 12px; z-index: 2; display: flex; flex-direction: column; align-items: flex-start; gap: 8px; }
+    .fbtn {
+      width: 230px; padding: 7px 34px 7px 14px; font: inherit; font-size: 13px; font-weight: 600; cursor: pointer; text-align: left;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+      color: var(--ui); background-color: #fff; border: 2px solid var(--ui); border-radius: 999px;
+      background-repeat: no-repeat; background-position: right 13px center; background-size: 12px 8px;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%230B1B4D' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    }
+    .fbtn.set {
+      background-color: var(--ui); color: #fff;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%23fff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    }
+    /* the two-layer menu: canton / country column, its places open to the right */
+    #fmenu { position: absolute; left: 0; display: flex; align-items: flex-start; gap: 8px; }
+    #fmenu[hidden] { display: none; }
+    .fcol { width: 230px; box-sizing: border-box; max-height: 320px; overflow-y: auto; padding: 6px;
+            background: #fff; border-radius: 14px; box-shadow: 0 4px 16px rgba(11,27,77,.3); }
+    #fmenu button { display: flex; justify-content: space-between; gap: 8px; width: 100%; padding: 8px 10px; font: inherit; font-size: 13px;
+                    text-align: left; cursor: pointer; color: var(--ui); background: none; border: 0; border-radius: 8px; }
+    #fmenu button:hover, #fmenu button.open { background: #eef2ff; }
+    #fmenu button.on { font-weight: 700; }
+    #fmenu .n { color: #6b7280; font-weight: 400; }
+    #clear { display: none; padding: 5px 12px; font: inherit; font-size: 12px; font-weight: 600; cursor: pointer;
+             color: var(--ui); background: #fff; border: 2px solid var(--ui); border-radius: 999px; }
+    @media (max-width: 720px) { .filters { top: 62px; } }
+
+    /* legend, bottom left */
+    .legend {
+      position: fixed; left: 12px; bottom: 24px; z-index: 2; width: 210px; box-sizing: border-box; padding: 10px 12px;
+      font-size: 12px; color: var(--ui); border-radius: 10px;
+      background: rgba(255,255,255,.8); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);   /* a bit transparent */
+    }
+    .legend .sum { margin-bottom: 6px; font-weight: 600; }
+    .legend .hint { margin-top: 5px; color: #374151; }
+    .legend label { display: block; margin-top: 8px; cursor: pointer; }
+    .grad { height: 8px; border-radius: 4px; margin: 3px 0 2px; border: 1px solid #fff; background: linear-gradient(90deg, var(--dot), var(--ui)); }
+    .legend .row { display: flex; justify-content: space-between; font-weight: 600; }
+    .maplibregl-popup-content { font-size: 13px; color: var(--ui); }
+    .maplibregl-ctrl-bottom-right { bottom: 24px; }   /* keep the zoom buttons above the credit line */
+    #credit { position: fixed; right: 0; bottom: 0; z-index: 2; padding: 0 6px; font-size: 11px; line-height: 20px;
+              color: #333; background: rgba(255,255,255,.7); }
+    #credit a { color: inherit; }
+    /* clicked arcs: name pills along the bottom, details card above them */
+    #names { position: fixed; left: 240px; right: 110px; bottom: 24px; z-index: 2; display: flex; gap: 8px;
+             overflow-x: auto; padding: 2px 2px 6px; scrollbar-width: thin; }
+    #names:empty { display: none; }
+    #names button { flex: none; padding: 8px 16px; font: inherit; font-size: 13px; font-weight: 700; cursor: pointer; white-space: nowrap;
+      color: var(--ui); background: #fff; border: 2px solid var(--ui); border-radius: 999px; }
+    #names button.on { background: var(--ui); color: #fff; }
+    #info { display: none; position: fixed; left: 240px; bottom: 76px; z-index: 3; width: 300px; max-width: calc(100vw - 260px);
+            box-sizing: border-box; padding: 14px 16px; background: #fff; border-radius: 12px; font-size: 13px; line-height: 1.55;
+            color: var(--ui); box-shadow: 0 4px 16px rgba(11,27,77,.3); }
+    #info b { font-size: 14px; }
+    #info a { color: var(--ui); font-weight: 600; }
+    #info .x { position: absolute; top: 6px; right: 10px; padding: 0 4px; border: 0; background: none; font-size: 18px; cursor: pointer; color: var(--ui); }
+    @media (max-width: 720px) { #names { left: 12px; right: 12px; bottom: 190px; } #info { left: 12px; bottom: 242px; max-width: calc(100vw - 24px); } }
+    .maplibregl-popup-content a { color: var(--ui); }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <div class="switch" id="tabs">
+    <button data-mode="people" class="on">People</button>
+    <button data-mode="places">Places</button>
+  </div>
+  <div class="filters">
+    <button class="fbtn" id="bbtn" data-side="b"></button>
+    <button class="fbtn" id="dbtn" data-side="d"></button>
+    <button id="clear">× clear selection</button>
+    <div id="fmenu" hidden></div>
+  </div>
+  <div id="credit">© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors 🇨🇭 odoma</div>
+  <div id="names"></div>
+  <div id="info"></div>
+  <div class="legend">
+    <div id="legend"></div>
+    <label><input type="checkbox" id="suspect" /> show suspect places</label>
+  </div>
+
+<script>
+const DATA_URL = '../data/src/data/map_data.json';   // serve from repo root
+const UI = '#0B1B4D', DOT = '#89CFF0';
+const HOME = [[5.9, 45.7], [10.6, 47.9]];
+const NONE = ['==', ['get', 'src'], -1];                        // filter that matches nothing
+
+const map = new maplibregl.Map({
+  container: 'map',
+  style: 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json',
+  bounds: HOME, fitBoundsOptions: { padding: 40 },
+  attributionControl: false          // replaced by the #credit line below
+});
+map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'bottom-right');
+
+// the map handles pinch/ctrl-wheel itself; stop the browser from zooming the whole page (panel and buttons would slide out of view)
+document.addEventListener('wheel', e => { if (e.ctrlKey) e.preventDefault(); }, { passive: false });
+for (const t of ['gesturestart', 'gesturechange', 'gestureend']) document.addEventListener(t, e => e.preventDefault());
+
+const popup = new maplibregl.Popup({ closeButton: false, maxWidth: '300px' });
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const empty = { type: 'FeatureCollection', features: [] };
+let D, byId;
+// f = what the four dropdowns say; birth/death = the place ids that selection stands for (a Set), or null when unfiltered
+const state = { mode: 'people', suspect: false, f: { b: { g: '', p: 0 }, d: { g: '', p: 0 } }, birth: null, death: null, pick: [] };
+let pickProps = [];   // properties of the clicked arcs, for the name pills
+
+function clearPick() { state.pick = []; pickProps = []; $('names').innerHTML = ''; $('info').style.display = 'none'; }
+function showInfo(p) {
+  const el = $('info');
+  el.innerHTML = `<button class="x" aria-label="close">×</button><b>${esc(p.name)}</b><br>` +
+    `Born: ${esc(p.birth)}<br>Died: ${esc(p.death)}<br>` +
+    `<a href="${esc(p.ark)}" target="_blank" rel="noopener">Open record ↗</a>` +
+    (p.ambiguous === true || p.ambiguous === 'true' ? '<br><i>ambiguous place match</i>' : '');
+  el.style.display = 'block';
+  el.querySelector('.x').onclick = () => { el.style.display = 'none'; $('names').querySelectorAll('button').forEach(b => b.classList.remove('on')); };
+}
+function setPick(ps) {
+  state.pick = ps.map(p => p.ark); pickProps = ps;
+  $('info').style.display = 'none';
+  $('names').innerHTML = ps.map((p, i) => `<button data-i="${i}">${esc(p.name)}</button>`).join('');
+}
+   // pick = arks of the arcs the user clicked
+
+// Curved line between two [lon,lat]: quadratic bezier, control point pushed sideways
+const ARC_HEIGHT = 0.4;   // sideways push of the control point, as a fraction of the arc length (higher = more bulge)
+function curve(a, b, n = 32) {
+  const dx = b[0] - a[0], dy = b[1] - a[1];
+  const c = [(a[0] + b[0]) / 2 - dy * ARC_HEIGHT, (a[1] + b[1]) / 2 + dx * ARC_HEIGHT];
+  return Array.from({ length: n + 1 }, (_, i) => {
+    const t = i / n, u = 1 - t;
+    return [u*u*a[0] + 2*u*t*c[0] + t*t*b[0], u*u*a[1] + 2*u*t*c[1] + t*t*b[1]];
+  });
+}
+const line = (coords, properties) => ({ type: 'Feature', properties, geometry: { type: 'LineString', coordinates: coords } });
+const label = id => byId.get(id)?.label ?? `#${id}`;
+const isSel = () => state.birth || state.death;
+const hit = a => (!state.birth || state.birth.has(a.source)) && (!state.death || state.death.has(a.target));
+
+// Two layers: canton (Swiss places) or country (foreign places), then the place itself.
+// A place label ends in "(BE)" = canton, or "(F)" = country code; 128 Swiss places have neither.
+const CANTONS = { AG: 'Aargau', AI: 'Appenzell Innerrhoden', AR: 'Appenzell Ausserrhoden', BE: 'Bern', BL: 'Basel-Landschaft',
+  BS: 'Basel-Stadt', FR: 'Fribourg', GE: 'Geneva', GL: 'Glarus', GR: 'Grisons', JU: 'Jura', LU: 'Lucerne',
+  NE: 'Neuchâtel', NW: 'Nidwalden', OW: 'Obwalden', SG: 'St. Gallen', SH: 'Schaffhausen', SO: 'Solothurn',
+  SZ: 'Schwyz', TG: 'Thurgau', TI: 'Ticino', UR: 'Uri', VD: 'Vaud', VS: 'Valais', ZG: 'Zug', ZH: 'Zurich' };
+const COUNTRIES = { Frankreich: 'France', Italien: 'Italy', Grossbritannien: 'Great Britain', 'Ägypten': 'Egypt', Griechenland: 'Greece',
+  Algerien: 'Algeria', Deutschland: 'Germany', Libanon: 'Lebanon', Ungarn: 'Hungary' };
+const groupCache = new Map();
+function groupOf(p) {
+  if (!groupCache.has(p.id)) {
+    const code = p.label.match(/\(([^)]*)\)\s*$/)?.[1];
+    const country = p.country.replace(/\s*\(.*\)$/, '');
+    groupCache.set(p.id, country === 'Schweiz'
+      ? (CANTONS[code] ? { key: code, name: CANTONS[code] } : { key: 'CH?', name: 'Switzerland · canton unknown' })
+      : { key: country, name: COUNTRIES[country] || country });
+  }
+  return groupCache.get(p.id);
+}
+const shortLabel = l => l.replace(/\s*\([^)]*\)\s*$/, '');
+const idsOf = f => f.p ? new Set([f.p]) : f.g ? new Set(D.places.filter(p => groupOf(p).key === f.g).map(p => p.id)) : null;
+const groupName = key => key === 'CH?' ? 'Switzerland · canton unknown' : CANTONS[key] || COUNTRIES[key] || key;
+const textOf = f => f.p ? label(f.p) : f.g ? groupName(f.g) : '';
+function sync() { state.birth = idsOf(state.f.b); state.death = idsOf(state.f.d); }
+
+// ---- filters: one pill per side; opens a two-layer list (canton / country, then its places) ----
+const SIDES = { b: { btn: 'bbtn', key: 'source', word: 'Born' }, d: { btn: 'dbtn', key: 'target', word: 'Died' } };
+let menu = null;   // { side, g }: g = canton / country being browsed, '' = top level
+
+// what each side still offers, given the other side's selection
+function optionsFor(side) {
+  const key = SIDES[side].key, otherIds = side === 'b' ? state.death : state.birth;
+  const byPlace = new Map(), byGroup = new Map();
+  for (const a of D.arcs) {
+    if (otherIds && !otherIds.has(key === 'source' ? a.target : a.source)) continue;
+    byPlace.set(a[key], (byPlace.get(a[key]) || 0) + 1);
+  }
+  for (const [id, n] of byPlace) {
+    const g = groupOf(byId.get(id)), e = byGroup.get(g.key) || { name: g.name, n: 0 };
+    e.n += n; byGroup.set(g.key, e);
+  }
+  return { byPlace, byGroup };
+}
+function refreshSelects() {
+  for (const side of ['b', 'd']) {
+    const f = state.f[side], el = $(SIDES[side].btn);
+    el.textContent = `${SIDES[side].word}: ` + (f.p ? `${groupName(f.g)} › ${shortLabel(label(f.p))}` : f.g ? groupName(f.g) : 'anywhere');
+    el.title = el.textContent;
+    el.classList.toggle('set', !!f.g);
+  }
+  $('clear').style.display = isSel() ? 'inline' : 'none';
+}
+function closeMenu() { menu = null; $('fmenu').hidden = true; }
+function renderMenu() {
+  const { side, g } = menu, f = state.f[side], { byPlace, byGroup } = optionsFor(side);
+  const row = (act, attrs, cls, left, right = '') =>
+    `<button data-act="${act}" ${attrs} class="${cls}"><span>${left}</span><span class="n">${right}</span></button>`;
+  const col1 = row('any', '', f.g ? '' : 'on', 'Anywhere') +
+    [...byGroup].sort((x, y) => x[1].name.localeCompare(y[1].name))
+      .map(([k, e]) => row('group', `data-k="${esc(k)}"`, (f.g === k ? 'on ' : '') + (g === k ? 'open' : ''),
+                           `${esc(e.name)} <span class="n">· ${e.n}</span>`, '›')).join('');
+  let col2 = '';
+  if (g) {
+    const places = [...byPlace].filter(([id]) => groupOf(byId.get(id)).key === g)
+      .map(([id, n]) => [id, shortLabel(label(id)), n]).sort((x, y) => x[1].localeCompare(y[1]));
+    col2 = `<div class="fcol">` + row('all', '', f.g === g && !f.p ? 'on' : '', `All of ${esc(groupName(g))}`, byGroup.get(g)?.n ?? 0) +
+      places.map(([id, name, n]) => row('place', `data-id="${id}"`, f.p === id ? 'on' : '', esc(name), n)).join('') + `</div>`;
+  }
+  const keep = $('fmenu').querySelector('.fcol')?.scrollTop || 0;      // don't jump the canton list when one is clicked
+  $('fmenu').innerHTML = `<div class="fcol">${col1}</div>${col2}`;
+  $('fmenu').querySelector('.fcol').scrollTop = keep;
+}
+function openMenu(side) {
+  menu = { side, g: state.f[side].g };                       // reopens where you left off
+  renderMenu();
+  const btn = $(SIDES[side].btn), el = $('fmenu');
+  el.style.top = btn.offsetTop + btn.offsetHeight + 6 + 'px';
+  el.hidden = false;
+}
+
+// ---- fade-in for the highlighted layers ----
+function fadeIn(id, to) {
+  map.setPaintProperty(id, 'line-opacity-transition', { duration: 0, delay: 0 });
+  map.setPaintProperty(id, 'line-opacity', 0);
+  requestAnimationFrame(() => requestAnimationFrame(() => {
+    map.setPaintProperty(id, 'line-opacity-transition', { duration: 700, delay: 0 });
+    map.setPaintProperty(id, 'line-opacity', to);
+  }));
+}
+
+function render() {
+  const sel = isSel();
+  const matched = D.arcs.filter(hit);
+  const picked = state.pick.length, dim = sel || picked;
+  const shown = picked ? D.arcs.filter(a => state.pick.includes(a.ark)) : matched;
+
+  // places: hide suspect unless asked; mark those touched by the selection / clicked arcs
+  const ends = new Set(shown.flatMap(a => [a.source, a.target]));
+  map.getSource('points').setData({ type: 'FeatureCollection', features: D.places
+    .filter(p => state.suspect || !p.suspect)
+    .map(p => ({ type: 'Feature', geometry: { type: 'Point', coordinates: [p.lon, p.lat] },
+      properties: { label: p.label, country: p.country, births: p.births, deaths: p.deaths,
+                    total: p.births + p.deaths, suspect: p.suspect, hit: ends.has(p.id) } })) });
+  const people = state.mode === 'people';
+  map.setPaintProperty('points', 'circle-radius', people
+    ? 3                                                                        // people tab: every dot the same size
+    : ['interpolate', ['linear'], ['get', 'total'], 1, 4, 20, 10, 200, 28]);
+  map.setPaintProperty('points', 'circle-opacity', dim ? ['case', ['get', 'hit'], 0.95, 0.12] : people ? 0.6 : 0.85);
+  map.setPaintProperty('points', 'circle-stroke-opacity', dim ? ['case', ['get', 'hit'], 1, 0.15] : 1);
+
+  // arcs: base layer fades, highlighted layer fades in on top
+  const f = ['all', ...(state.birth ? [['in', ['get', 'src'], ['literal', [...state.birth]]]] : []),
+                    ...(state.death ? [['in', ['get', 'tgt'], ['literal', [...state.death]]]] : [])];
+  map.setLayoutProperty('arcs', 'visibility', people ? 'visible' : 'none');
+  map.setLayoutProperty('arcs-hi', 'visibility', people && sel ? 'visible' : 'none');
+  map.setPaintProperty('arcs', 'line-opacity', dim ? 0.06 : 0.55);
+  map.setFilter('arcs-hi', sel ? f : NONE);
+  if (people && sel) { if (picked) map.setPaintProperty('arcs-hi', 'line-opacity', 0.2); else fadeIn('arcs-hi', 0.95); }
+  // clicked arcs: bold on top, everything else faded
+  map.setLayoutProperty('arcs-pick', 'visibility', people && picked ? 'visible' : 'none');
+  map.setFilter('arcs-pick', picked ? ['in', ['get', 'ark'], ['literal', state.pick]] : NONE);
+  if (people && picked) fadeIn('arcs-pick', 1);
+
+  const who = [state.birth && 'born in ' + esc(textOf(state.f.b)), state.death && 'died in ' + esc(textOf(state.f.d))].filter(Boolean).join(', ');
+  $('legend').innerHTML = people
+    ? `<div class="sum">${sel ? `${matched.length} person${matched.length === 1 ? '' : 's'} ${who}` : `${D.arcs.length} persons`}</div>` +
+      `<div class="grad"></div><div class="row"><span>born</span><span>died</span></div>` +
+      `<div class="hint">Line width = persons on the same route.</div>`
+    : `<div class="hint">Circle size = births + deaths at that place. Hollow grey = suspect geocode.</div>`;
+}
+
+function flyToSelection() {
+  const m = D.arcs.filter(hit);
+  if (!isSel() || !m.length) return map.fitBounds(HOME, { padding: 40, duration: 900 });
+  const b = new maplibregl.LngLatBounds();
+  m.forEach(a => { b.extend(a.from); b.extend(a.to); });
+  map.fitBounds(b, { padding: { top: 60, bottom: 60, left: 300, right: 60 }, maxZoom: 10, duration: 900 });
+}
+
+map.on('load', async () => {
+  D = await (await fetch(DATA_URL)).json();
+  byId = new Map(D.places.map(p => [p.id, p]));
+  const routeN = new Map();
+  for (const a of D.arcs) routeN.set(`${a.source}|${a.target}`, (routeN.get(`${a.source}|${a.target}`) || 0) + 1);
+  const arcsFC = { type: 'FeatureCollection', features: D.arcs.map(a =>
+    line(curve(a.from, a.to), { src: a.source, tgt: a.target, n: routeN.get(`${a.source}|${a.target}`), ark: a.ark, ambiguous: a.ambiguous,
+      name: a.name.replace(/\s*\(\d{3,4}\s*-\s*\d{3,4}\)\s*$/, ''),   // years are shown separately
+      birth: `${label(a.source)}, ${a.birth_year ?? '?'}`, death: `${label(a.target)}, ${a.death_year ?? '?'}` })) };
+  map.addSource('arcs', { type: 'geojson', data: arcsFC, lineMetrics: true });
+  map.addSource('points', { type: 'geojson', data: empty });
+
+  const gradient = ['interpolate', ['linear'], ['line-progress'], 0, DOT, 1, UI];
+  const arcW = ['interpolate', ['linear'], ['get', 'n'], 1, 0.8, 6, 3.5];   // wider = more people on the route
+  const lay = (id, source, width, opacity, extra = {}) => map.addLayer({ id, source, type: 'line', ...extra,
+    layout: { 'line-cap': 'round' }, paint: { 'line-gradient': gradient, 'line-opacity': opacity, 'line-width': width } });
+  lay('arcs', 'arcs', arcW, 0.55);
+  lay('arcs-hi', 'arcs', ['interpolate', ['linear'], ['get', 'n'], 1, 1.6, 6, 4.5], 0, { filter: NONE });
+  lay('arcs-pick', 'arcs', ['interpolate', ['linear'], ['get', 'n'], 1, 2.4, 6, 6], 0, { filter: NONE });
+  map.addLayer({ id: 'points', type: 'circle', source: 'points',
+    paint: { 'circle-color': ['case', ['get', 'suspect'], '#ffffff', DOT],
+             'circle-stroke-color': ['case', ['get', 'suspect'], '#9ca3af', UI], 'circle-stroke-width': 1 } });
+
+  refreshSelects();
+  render();
+
+  map.on('click', e => {
+    const box = [[e.point.x - 4, e.point.y - 4], [e.point.x + 4, e.point.y + 4]];   // thin lines: forgiving hit area
+    const place = map.queryRenderedFeatures(e.point, { layers: ['points'] })[0];
+    popup.remove();
+    if (place) {                                              // place dot: small popup on the map, arcs un-picked
+      const p = place.properties;
+      clearPick();
+      popup.setLngLat(e.lngLat).setHTML(`<b>${esc(p.label)}</b><br>${esc(p.country)}<br>${p.births} births · ${p.deaths} deaths`).addTo(map);
+    } else {
+      // everyone whose arc runs under the click (identical routes overlap exactly)
+      const seen = new Set(), ps = map.queryRenderedFeatures(box, { layers: [isSel() ? 'arcs-hi' : 'arcs'] })
+        .map(f => f.properties).filter(p => !seen.has(p.ark) && seen.add(p.ark));
+      if (ps.length) setPick(ps); else clearPick();          // empty click un-picks
+    }
+    render();
+  });
+  $('names').addEventListener('click', ev => {
+    const b = ev.target.closest('button'); if (!b) return;
+    const on = b.classList.contains('on');
+    $('names').querySelectorAll('button').forEach(x => x.classList.remove('on'));
+    if (on) { $('info').style.display = 'none'; return; }   // click the open name again to close its card
+    b.classList.add('on');
+    showInfo(pickProps[+b.dataset.i]);
+  });
+  for (const l of ['points', 'arcs', 'arcs-hi', 'arcs-pick']) {
+    map.on('mouseenter', l, () => map.getCanvas().style.cursor = 'pointer');
+    map.on('mouseleave', l, () => map.getCanvas().style.cursor = '');
+  }
+});
+
+function changed() { popup.remove(); clearPick(); refreshSelects(); render(); flyToSelection(); }
+const commit = () => { sync(); changed(); };
+for (const side of ['b', 'd']) $(SIDES[side].btn).onclick = e => {
+  e.stopPropagation();
+  menu?.side === side ? closeMenu() : openMenu(side);          // the pill toggles its own menu
+};
+$('fmenu').onclick = e => {
+  e.stopPropagation();
+  const b = e.target.closest('button'); if (!b) return;
+  const act = b.dataset.act, side = menu.side;
+  if (act === 'group') { menu.g = b.dataset.k; renderMenu(); return; }   // open that canton / country's places to the right
+  state.f[side] = act === 'any' ? { g: '', p: 0 } : act === 'all' ? { g: menu.g, p: 0 } : { g: menu.g, p: +b.dataset.id };
+  closeMenu(); commit();
+};
+document.addEventListener('click', closeMenu);                 // click anywhere else closes it
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeMenu(); });
+$('clear').onclick = () => { state.f.b = { g: '', p: 0 }; state.f.d = { g: '', p: 0 }; commit(); };
+$('tabs').addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b || !D) return;
+  state.mode = b.dataset.mode;
+  document.querySelectorAll('#tabs button').forEach(x => x.classList.toggle('on', x === b));
+  render();
+});
+$('suspect').onchange = e => { state.suspect = e.target.checked; D && render(); };
+</script>
+</body>
+</html>
