@@ -2,15 +2,21 @@
 
 Input : birth_death_places_geo.csv  (one row per person x place x role; role 1 = birth, 2 = death)
         places_descriptors.parquet  (place labels + hierarchy, used for country and sanity checks)
+        person_enrichment_batches/verified/*.csv  (reconciled against GND/Wikidata and manually verified;
+                                    supplies `description` and `matched_entity` per person, joined on `ark`)
 Output: map_data.json
 
     {
       "meta":   {...counts, filters, generation info...},
       "places": [{id, label, country, lat, lon, births, deaths, suspect}],   # points layer
       "arcs":   [{ark, name, birth_year, death_year, source, target,
-                  from: [lon, lat], to: [lon, lat], distance_km, ambiguous}], # one arc per person
+                  from: [lon, lat], to: [lon, lat], distance_km, ambiguous,
+                  description, matched_entity}],                              # one arc per person
       "flows":  [{source, target, count, distance_km}]                        # aggregated arcs
     }
+
+`description` (short biography from the archive) and `matched_entity` (authority URI, e.g. GND, Wikidata, Getty)
+are null for persons that are not (yet) in a verified batch file.
 
 Usage:
     python build_map_json.py [--out PATH] [--keep-suspect]
@@ -30,6 +36,7 @@ import polars as pl
 HERE = Path(__file__).parent
 CSV_PATH = HERE / "birth_death_places_geo.csv"
 PLACES_PATH = HERE / "places_descriptors.parquet"
+VERIFIED_DIR = HERE / "person_enrichment_batches" / "verified"
 DEFAULT_OUT = HERE / "map_data.json"
 
 BIRTH, DEATH = 1, 2
@@ -116,12 +123,28 @@ def load_geo(csv_path: Path = CSV_PATH) -> pl.DataFrame:
     return pl.read_csv(csv_path).unique().sort("ark", "role", "place_id")
 
 
+def load_verified(verified_dir: Path = VERIFIED_DIR) -> dict[str, dict]:
+    """`description` and `matched_entity` per ark from all verified batch files (empty values -> None)."""
+    files = sorted(verified_dir.glob("*.csv"))
+    if not files:
+        return {}
+    df = pl.concat([pl.read_csv(f, infer_schema_length=0) for f in files], how="diagonal_relaxed")
+    df = df.select("ark", "description", "matched_entity").with_columns(
+        pl.col("description", "matched_entity").str.strip_chars().replace("", None)
+    )
+    dup = df.group_by("ark").len().filter(pl.col("len") > 1)
+    if dup.height:  # the same person in two batch files must not silently overwrite each other
+        raise ValueError(f"{dup.height} persons occur more than once in {verified_dir}: {dup['ark'].head(3).to_list()}")
+    return {r["ark"]: {"description": r["description"], "matched_entity": r["matched_entity"]} for r in df.iter_rows(named=True)}
+
+
 # --------------------------------------------------------------------------- building
 def build(keep_suspect: bool = False) -> dict:
     geo = load_geo()
     places = load_places()
     place = {r["place_id"]: r for r in places.iter_rows(named=True)}
     suspect_ids = {pid for pid, r in place.items() if r["suspect"]}
+    verified = load_verified()
 
     # place point layer: counts over *all* persons (also those that cannot be drawn as an arc)
     counts = geo.group_by("place_id").agg(
@@ -157,6 +180,7 @@ def build(keep_suspect: bool = False) -> dict:
         name = rows[0]["person_label"]
         by, dy = parse_life_years(name)
         ambiguous = len(births) > 1 or len(deaths) > 1
+        enrich = verified.get(ark[0], {})
         for b in births:
             for d in deaths:
                 if not keep_suspect and (b["place_id"] in suspect_ids or d["place_id"] in suspect_ids):
@@ -178,6 +202,8 @@ def build(keep_suspect: bool = False) -> dict:
                         "to": [round(d["long"], 5), round(d["lat"], 5)],
                         "distance_km": round(dist, 1),
                         "ambiguous": ambiguous,
+                        "description": enrich.get("description"),
+                        "matched_entity": enrich.get("matched_entity"),
                     }
                 )
 
@@ -200,6 +226,9 @@ def build(keep_suspect: bool = False) -> dict:
         "n_arcs": len(arcs),
         "n_flows": len(flows_out),
         "min_arc_km": MIN_ARC_KM,
+        "n_verified_persons": len(verified),
+        "n_arcs_with_description": sum(a["description"] is not None for a in arcs),
+        "n_arcs_with_matched_entity": sum(a["matched_entity"] is not None for a in arcs),
         **stats,
     }
     return {"meta": meta, "places": places_out, "arcs": arcs, "flows": flows_out}
