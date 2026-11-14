@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 304404015,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 224922,
+        "lat": "30.8703881",
+        "lon": "-92.0071260",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.7630883091368922,
+        "addresstype": "state",
+        "name": "Louisiana",
+        "display_name": "Louisiana, Vereinigte Staaten von Amerika",
+        "address": {
+            "state": "Louisiana",
+            "ISO3166-2-lvl4": "US-LA",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "28.8542892",
+            "33.0195943",
+            "-94.0431869",
+            "-88.7583311"
+        ]
+    }
+]

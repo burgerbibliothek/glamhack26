@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 325445947,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1453306,
+        "lat": "44.6200885",
+        "lon": "-110.5606893",
+        "category": "leisure",
+        "type": "nature_reserve",
+        "place_rank": 24,
+        "importance": 0.6001815257803925,
+        "addresstype": "nature_reserve",
+        "name": "Yellowstone-Nationalpark",
+        "display_name": "Yellowstone-Nationalpark, Wyoming, Vereinigte Staaten von Amerika",
+        "address": {
+            "nature_reserve": "Yellowstone-Nationalpark",
+            "state": "Wyoming",
+            "ISO3166-2-lvl4": "US-WY",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "44.1315750",
+            "45.1089567",
+            "-111.1559859",
+            "-109.8254870"
+        ]
+    }
+]

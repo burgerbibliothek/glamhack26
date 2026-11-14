@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 353126246,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6450857639,
+        "lat": "42.1507626",
+        "lon": "-74.6687760",
+        "category": "tourism",
+        "type": "caravan_site",
+        "place_rank": 30,
+        "importance": 4.948729686422549e-05,
+        "addresstype": "tourism",
+        "name": "Catskill Mountains RV Park",
+        "display_name": "Catskill Mountains RV Park, 550, Swart Road, Margaretville, Town of Middletown, Delaware County, New York, 12455, Vereinigte Staaten von Amerika",
+        "address": {
+            "tourism": "Catskill Mountains RV Park",
+            "house_number": "550",
+            "road": "Swart Road",
+            "village": "Margaretville",
+            "municipality": "Town of Middletown",
+            "county": "Delaware County",
+            "state": "New York",
+            "ISO3166-2-lvl4": "US-NY",
+            "postcode": "12455",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "42.1507126",
+            "42.1508126",
+            "-74.6688260",
+            "-74.6687260"
+        ]
+    }
+]

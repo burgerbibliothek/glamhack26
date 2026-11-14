@@ -1,33 +1,6 @@
 [
     {
-        "place_id": 142086624,
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-        "osm_type": "node",
-        "osm_id": 254504103,
-        "lat": "53.1692606",
-        "lon": "8.1498969",
-        "category": "place",
-        "type": "village",
-        "place_rank": 19,
-        "importance": 0.23468656939839805,
-        "addresstype": "village",
-        "name": "Ofen",
-        "display_name": "Ofen, Bad Zwischenahn, Landkreis Ammerland, Niedersachsen, 26160, Deutschland",
-        "address": {
-            "village": "Ofen",
-            "municipality": "Bad Zwischenahn",
-            "county": "Landkreis Ammerland",
-            "state": "Niedersachsen",
-            "ISO3166-2-lvl4": "DE-NI",
-            "postcode": "26160",
-            "country": "Deutschland",
-            "country_code": "de"
-        },
-        "boundingbox": [
-            "53.1492606",
-            "53.1892606",
-            "8.1298969",
-            "8.1698969"
-        ]
+        "lat": "47.4938673",
+        "lon": "19.0417582"
     }
 ]

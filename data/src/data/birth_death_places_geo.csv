@@ -351,7 +351,7 @@ place_id,role,ark,person_label,lat,long
 6710,2,https://ark.burgerbib.ch/ark:36599/4p4pvttq7hn,"Brandmüller, Johann Jakob (16??-1719)",47.5581077,7.5878261
 6752,2,https://ark.burgerbib.ch/ark:36599/8vpjxfbf8t4,"Bratschi, Peter (1886-1975)",46.9484742,7.4521749
 8392,1,https://ark.burgerbib.ch/ark:36599/8vpjxfbf8t4,"Bratschi, Peter (1886-1975)",46.508715,7.3961417
-7058,2,https://ark.burgerbib.ch/ark:36599/2kq4m5j67s5,"Braun, Adolphe (1812-1877)",47.4806097,7.6176609
+7058,2,https://ark.burgerbib.ch/ark:36599/2kq4m5j67s5,"Braun, Adolphe (1812-1877)",47.7429521,7.3036983
 6764,1,https://ark.burgerbib.ch/ark:36599/2kq4m5j67s5,"Braun, Adolphe (1812-1877)",47.2380222,6.0243622
 7298,2,https://ark.burgerbib.ch/ark:36599/wn2h18k9wkm,"Brawand, Samuel (1898-2001)",46.6242733,8.0367462
 7298,1,https://ark.burgerbib.ch/ark:36599/wn2h18k9wkm,"Brawand, Samuel (1898-2001)",46.6242733,8.0367462
@@ -953,7 +953,7 @@ place_id,role,ark,person_label,lat,long
 8215,2,https://ark.burgerbib.ch/ark:36599/tch0mkc1772,"Friedli, Emanuel (1846-1939)",46.489756,7.2615837
 6968,1,https://ark.burgerbib.ch/ark:36599/b1k61z7gsq6,Friedrich I. (1557-1608); Herzog von Württemberg,48.0777517,7.3579641
 8356,2,https://ark.burgerbib.ch/ark:36599/rspvvvc8m3w,Friedrich Tschanz Galerie,47.31874,7.6698284
-8491,2,https://ark.burgerbib.ch/ark:36599/n56r3ds1mv7,"Frisching, Hans (1569-1620)",41.3283781,19.8179825
+8491,2,https://ark.burgerbib.ch/ark:36599/n56r3ds1mv7,"Frisching, Hans (1569-1620)",46.2156719,10.1731777
 8508,1,https://ark.burgerbib.ch/ark:36599/fn9stthhrm7,"Frisching, Jakob (1641-1688)",47.0167827,7.7386149
 8063,2,https://ark.burgerbib.ch/ark:36599/5d7ssznhx57,"Frisching, Johannes (1668-1726)",43.4714722,10.6797912
 7929,1,https://ark.burgerbib.ch/ark:36599/3h1w6x020bw,"Frisching, Samuel (1605-1683)",47.1250287,7.241157
@@ -961,7 +961,7 @@ place_id,role,ark,person_label,lat,long
 7049,2,https://ark.burgerbib.ch/ark:36599/21pbhk5738j,"Frisching, Samuel Rudolf von (1746-1809)",47.3215806,5.0414701
 8558,2,https://ark.burgerbib.ch/ark:36599/ww1q632jq41,"Frisching, Vinzenz (1727-1790)",46.7937156,7.579181
 8128,2,https://ark.burgerbib.ch/ark:36599/sscdvgpxzr5,"Frith, Francis (1822-1898)",51.2376557,-0.2057067
-6948,1,https://ark.burgerbib.ch/ark:36599/sscdvgpxzr5,"Frith, Francis (1822-1898)",37.3859982,-77.578509
+6948,1,https://ark.burgerbib.ch/ark:36599/sscdvgpxzr5,"Frith, Francis (1822-1898)",53.2352134,-1.4264097
 7910,2,https://ark.burgerbib.ch/ark:36599/f0bckrq3xv1,"Froment, Marie Emértrée(?) de (17??-1820)",46.9895828,6.9292641
 7671,1,https://ark.burgerbib.ch/ark:36599/16j0rrfkh1g,"Frullani, Giuliano (1795-1834)",42.7902379,10.3402239
 7967,1,https://ark.burgerbib.ch/ark:36599/4xm3jqrn25f,"Frutiger, Arnold (1860-1898)",46.7313738,7.6687101
@@ -1373,7 +1373,7 @@ place_id,role,ark,person_label,lat,long
 7132,1,https://ark.burgerbib.ch/ark:36599/748h1crpq6w,"Hemmann, Anna (?-?)",47.0433028,7.0975115
 6859,2,https://ark.burgerbib.ch/ark:36599/7kvs9gfkxbm,"Hemmann, Friedrich (belegt 1842-1846)",47.4824633,8.2085662
 6752,2,https://ark.burgerbib.ch/ark:36599/brr5rfj2m3p,"Henn, Franz (1879-1963)",46.9484742,7.4521749
-1028,2,https://ark.burgerbib.ch/ark:36599/p61834m9knv,"Henzi, Heinrich (1785-1849)",53.1692606,8.1498969
+1028,2,https://ark.burgerbib.ch/ark:36599/p61834m9knv,"Henzi, Heinrich (1785-1849)",47.4938673,19.0417582
 6752,1,https://ark.burgerbib.ch/ark:36599/4qjrk2rpmx4,"Henzi, Rudolf Samuel (1731-1803)",46.9484742,7.4521749
 8038,2,https://ark.burgerbib.ch/ark:36599/v3qr6hxr5cn,"Henzi, Samuel Ludwig (1797-1860)",48.8588897,2.320041
 8767,1,https://ark.burgerbib.ch/ark:36599/cnj6303fq54,"Herder, Felix (1741-1810)",47.3744489,8.5410422
@@ -2147,7 +2147,7 @@ place_id,role,ark,person_label,lat,long
 7527,2,https://ark.burgerbib.ch/ark:36599/p7scz88mwwh,"Mülinen, Bertha Eleonore von (1893-1967)",46.9222385,7.4130582
 6752,1,https://ark.burgerbib.ch/ark:36599/p7scz88mwwh,"Mülinen, Bertha Eleonore von (1893-1967)",46.9484742,7.4521749
 6752,1,https://ark.burgerbib.ch/ark:36599/6q916dnr07f,"Mülinen, Eberhard Friedrich von (1861-1927)",46.9484742,7.4521749
-8491,2,https://ark.burgerbib.ch/ark:36599/tgbhtz9qfkq,"Mülinen, Niklaus von (1570-1620)",41.3283781,19.8179825
+8491,2,https://ark.burgerbib.ch/ark:36599/tgbhtz9qfkq,"Mülinen, Niklaus von (1570-1620)",46.2156719,10.1731777
 6752,1,https://ark.burgerbib.ch/ark:36599/8kw6hwxpzhj,"Mülinen, Wolfgang Niklaus Friedrich von (1863-1917)",46.9484742,7.4521749
 6752,2,https://ark.burgerbib.ch/ark:36599/8kw6hwxpzhj,"Mülinen, Wolfgang Niklaus Friedrich von (1863-1917)",46.9484742,7.4521749
 6752,2,https://ark.burgerbib.ch/ark:36599/fqgw66nztnr,"Müller, Caroline (1859-1945)",46.9484742,7.4521749
@@ -2300,7 +2300,6 @@ place_id,role,ark,person_label,lat,long
 6710,1,https://ark.burgerbib.ch/ark:36599/83n4rbbkr78,"Pfister, Jean Jacques (1878-1949)",47.5581077,7.5878261
 6752,1,https://ark.burgerbib.ch/ark:36599/3f00s92bzvk,"Pfister, Johann Gottlieb (1849-1910)",46.9484742,7.4521749
 6752,2,https://ark.burgerbib.ch/ark:36599/3f00s92bzvk,"Pfister, Johann Gottlieb (1849-1910)",46.9484742,7.4521749
-6906,1,https://ark.burgerbib.ch/ark:36599/b7nwcrrtp26,"Pfister, Rosmarie Mona Gertrude (1930-)",46.5799933,-92.7206334
 6752,2,https://ark.burgerbib.ch/ark:36599/f3dkx0g73bb,"Pflüger, Ernst (1846-1903)",46.9484742,7.4521749
 6879,1,https://ark.burgerbib.ch/ark:36599/f3dkx0g73bb,"Pflüger, Ernst (1846-1903)",47.1399099,7.3722632
 7910,1,https://ark.burgerbib.ch/ark:36599/gqm12m4dkjb,"Piaget, Jean William Fritz (1896-1980)",46.9895828,6.9292641
@@ -2963,7 +2962,7 @@ place_id,role,ark,person_label,lat,long
 6752,2,https://ark.burgerbib.ch/ark:36599/s382s64ps7s,"Tavel, Paul Esaias von (1692-1751)",46.9484742,7.4521749
 8596,1,https://ark.burgerbib.ch/ark:36599/s382s64ps7s,"Tavel, Paul Esaias von (1692-1751)",46.4602978,6.8418655
 8042,1,https://ark.burgerbib.ch/ark:36599/41k5zqzwhnq,"Tavel, Samuel Nicolas (1682-1726)",46.8208047,6.939126
-8727,1,https://ark.burgerbib.ch/ark:36599/021qd7b9787,"Taylor, Isaac (1730-1807)",42.2625621,-71.8018877
+8727,1,https://ark.burgerbib.ch/ark:36599/021qd7b9787,"Taylor, Isaac (1730-1807)",52.1965281,-2.2095608
 7211,1,https://ark.burgerbib.ch/ark:36599/b50gc93j0bx,"Theiler, Arnold (1867-1936)",47.5075081,8.0203065
 7678,2,https://ark.burgerbib.ch/ark:36599/b50gc93j0bx,"Theiler, Arnold (1867-1936)",51.5074456,-0.1277653
 6752,2,https://ark.burgerbib.ch/ark:36599/r05rr40bsjt,"Thellung, August (1811-1897)",46.9484742,7.4521749
@@ -3344,7 +3343,7 @@ place_id,role,ark,person_label,lat,long
 7896,2,https://ark.burgerbib.ch/ark:36599/hstctn1r0hb,"Wäber, Friedrich (belegt 1811)",40.8358846,14.2487679
 7678,1,https://ark.burgerbib.ch/ark:36599/10m4h09zzt0,"Wäber, Heinrich (1754-1826)",51.5074456,-0.1277653
 7678,2,https://ark.burgerbib.ch/ark:36599/10m4h09zzt0,"Wäber, Heinrich (1754-1826)",51.5074456,-0.1277653
-8740,2,https://ark.burgerbib.ch/ark:36599/s0d735vd87q,"Wäber, Johann Ludwig (1752-1796)",54.2563755,-1.6569514
+8740,2,https://ark.burgerbib.ch/ark:36599/s0d735vd87q,"Wäber, Johann Ludwig (1752-1796)",43.3437904,-1.7729517
 7678,1,https://ark.burgerbib.ch/ark:36599/5h2w5x076x6,"Wäber, Johannes (1751-1793)",51.5074456,-0.1277653
 7678,2,https://ark.burgerbib.ch/ark:36599/5h2w5x076x6,"Wäber, Johannes (1751-1793)",51.5074456,-0.1277653
 7780,2,https://ark.burgerbib.ch/ark:36599/hpm4vk2g39m,"Würgler, Robert (1912-2003)",46.7285518,8.1870934

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 59507987,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 484027843,
+        "lat": "41.6778577",
+        "lon": "26.5470763",
+        "category": "building",
+        "type": "dormitory",
+        "place_rank": 30,
+        "importance": 0.31353539144981896,
+        "addresstype": "building",
+        "name": "İsmet Kaan Yükseköğretim Erkek Öğrenci Yurdu",
+        "display_name": "İsmet Kaan Yükseköğretim Erkek Öğrenci Yurdu, Mumcular Sokak, Çavuşbey Mahallesi, Edirne Merkez, Edirne, Marmararegion, 22100, Türkei",
+        "address": {
+            "building": "İsmet Kaan Yükseköğretim Erkek Öğrenci Yurdu",
+            "road": "Mumcular Sokak",
+            "suburb": "Çavuşbey Mahallesi",
+            "city": "Edirne Merkez",
+            "province": "Edirne",
+            "ISO3166-2-lvl4": "TR-22",
+            "region": "Marmararegion",
+            "postcode": "22100",
+            "country": "Türkei",
+            "country_code": "tr"
+        },
+        "boundingbox": [
+            "41.6777699",
+            "41.6779454",
+            "26.5468239",
+            "26.5473287"
+        ]
+    }
+]

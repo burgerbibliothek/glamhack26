@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 377915390,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 119144,
+        "lat": "22.2087822",
+        "lon": "-159.4077640",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.3501849283177136,
+        "addresstype": "village",
+        "name": "Kilauea",
+        "display_name": "Kilauea, Kauaʻi County, Hawaii, 96754, Vereinigte Staaten von Amerika",
+        "address": {
+            "village": "Kilauea",
+            "county": "Kauaʻi County",
+            "state": "Hawaii",
+            "ISO3166-2-lvl4": "US-HI",
+            "postcode": "96754",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "22.1961855",
+            "22.2211700",
+            "-159.4225980",
+            "-159.3926820"
+        ]
+    }
+]

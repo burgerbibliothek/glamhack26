@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 180584272,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3009691267,
+        "lat": "50.2169444",
+        "lon": "20.1216667",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333833348592355,
+        "addresstype": "hamlet",
+        "name": "Brus",
+        "display_name": "Brus, Kępa, gmina Słomniki, Landkreis Krakau, Woiwodschaft Kleinpolen, 32-090, Polen",
+        "address": {
+            "hamlet": "Brus",
+            "village": "Kępa",
+            "municipality": "gmina Słomniki",
+            "county": "Landkreis Krakau",
+            "state": "Woiwodschaft Kleinpolen",
+            "ISO3166-2-lvl4": "PL-12",
+            "postcode": "32-090",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "50.1969444",
+            "50.2369444",
+            "20.1016667",
+            "20.1416667"
+        ]
+    }
+]

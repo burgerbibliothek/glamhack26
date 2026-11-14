@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 55889678,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 441183,
+        "lat": "37.9755648",
+        "lon": "23.7348324",
+        "category": "place",
+        "type": "city",
+        "place_rank": 15,
+        "importance": 0.7869062105765003,
+        "addresstype": "city",
+        "name": "Athen",
+        "display_name": "Athen, Municipality of Athens, Regionalbezirk Athen-Zentrum, Region Attika, Attika, 105 57, Griechenland",
+        "address": {
+            "city": "Athen",
+            "municipality": "Municipality of Athens",
+            "county": "Regionalbezirk Athen-Zentrum",
+            "state": "Region Attika",
+            "ISO3166-2-lvl5": "GR-I",
+            "postcode": "105 57",
+            "country": "Griechenland",
+            "country_code": "gr"
+        },
+        "boundingbox": [
+            "37.8155648",
+            "38.1355648",
+            "23.5748324",
+            "23.8948324"
+        ]
+    }
+]

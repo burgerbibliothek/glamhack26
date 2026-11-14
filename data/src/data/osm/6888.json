@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 60035643,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 289534897,
+        "lat": "40.1825734",
+        "lon": "29.0675039",
+        "category": "place",
+        "type": "city",
+        "place_rank": 16,
+        "importance": 0.6424909434520987,
+        "addresstype": "city",
+        "name": "Bursa",
+        "display_name": "Bursa, Osmangazi, Bursa, Marmararegion, 16010, Türkei",
+        "address": {
+            "city": "Bursa",
+            "town": "Osmangazi",
+            "province": "Bursa",
+            "ISO3166-2-lvl4": "TR-16",
+            "region": "Marmararegion",
+            "postcode": "16010",
+            "country": "Türkei",
+            "country_code": "tr"
+        },
+        "boundingbox": [
+            "40.0225734",
+            "40.3425734",
+            "28.9075039",
+            "29.2275039"
+        ]
+    }
+]

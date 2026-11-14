@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 59494190,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1882099475,
+        "lat": "41.0063810",
+        "lon": "28.9758715",
+        "category": "place",
+        "type": "city",
+        "place_rank": 16,
+        "importance": 0.7828175079468411,
+        "addresstype": "city",
+        "name": "Istanbul",
+        "display_name": "Istanbul, Fatih, İstanbul, Marmararegion, 34122, Türkei",
+        "address": {
+            "city": "Istanbul",
+            "town": "Fatih",
+            "province": "İstanbul",
+            "ISO3166-2-lvl4": "TR-34",
+            "region": "Marmararegion",
+            "postcode": "34122",
+            "country": "Türkei",
+            "country_code": "tr"
+        },
+        "boundingbox": [
+            "40.8463810",
+            "41.1663810",
+            "28.8158715",
+            "29.1358715"
+        ]
+    }
+]

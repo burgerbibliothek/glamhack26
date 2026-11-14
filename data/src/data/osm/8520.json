@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 419611364,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 429379,
+        "lat": "50.1209142",
+        "lon": "14.4216529",
+        "category": "boundary",
+        "type": "cadastral",
+        "place_rank": 22,
+        "importance": 0.46188646869027183,
+        "addresstype": "cadastral",
+        "name": "Troja",
+        "display_name": "Troja, Stadtbezirk Prag 7, Prag, Tschechien",
+        "address": {
+            "cadastral": "Troja",
+            "district": "Stadtbezirk Prag 7",
+            "city": "Prag",
+            "ISO3166-2-lvl4": "CZ-10",
+            "country": "Tschechien",
+            "country_code": "cz"
+        },
+        "boundingbox": [
+            "50.1116626",
+            "50.1303415",
+            "14.3949496",
+            "14.4495822"
+        ]
+    }
+]

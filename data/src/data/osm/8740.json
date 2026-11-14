@@ -1,33 +1,6 @@
 [
     {
-        "place_id": 273880962,
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-        "osm_type": "relation",
-        "osm_id": 8099923,
-        "lat": "54.2563755",
-        "lon": "-1.6569514",
-        "category": "boundary",
-        "type": "administrative",
-        "place_rank": 20,
-        "importance": 0.4785525826998984,
-        "addresstype": "hamlet",
-        "name": "Clifton-on-Yore",
-        "display_name": "Clifton-on-Yore, North Yorkshire, York and North Yorkshire, England, Vereinigtes Königreich",
-        "address": {
-            "hamlet": "Clifton-on-Yore",
-            "county": "North Yorkshire",
-            "ISO3166-2-lvl6": "GB-NYK",
-            "state_district": "York and North Yorkshire",
-            "state": "England",
-            "ISO3166-2-lvl4": "GB-ENG",
-            "country": "Vereinigtes Königreich",
-            "country_code": "gb"
-        },
-        "boundingbox": [
-            "54.2467855",
-            "54.2641826",
-            "-1.6806610",
-            "-1.6486207"
-        ]
+        "lat": "43.3437904",
+        "lon": "-1.7729517"
     }
 ]

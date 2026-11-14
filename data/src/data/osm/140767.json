@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 344837867,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 224045,
+        "lat": "35.6729639",
+        "lon": "-79.0392919",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.7750297851452792,
+        "addresstype": "state",
+        "name": "Nord-Carolina",
+        "display_name": "Nord-Carolina, Vereinigte Staaten von Amerika",
+        "address": {
+            "state": "Nord-Carolina",
+            "ISO3166-2-lvl4": "US-NC",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "33.7528780",
+            "36.5881570",
+            "-84.3218293",
+            "-75.4001190"
+        ]
+    }
+]

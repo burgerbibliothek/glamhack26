@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 362863260,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1931997,
+        "lat": "42.4184296",
+        "lon": "-71.1061639",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5372387624690738,
+        "addresstype": "city",
+        "name": "Medford",
+        "display_name": "Medford, Middlesex County, Massachusetts, 02155, Vereinigte Staaten von Amerika",
+        "address": {
+            "city": "Medford",
+            "county": "Middlesex County",
+            "state": "Massachusetts",
+            "ISO3166-2-lvl4": "US-MA",
+            "postcode": "02155",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "42.3954973",
+            "42.4534451",
+            "-71.1498864",
+            "-71.0712966"
+        ]
+    }
+]

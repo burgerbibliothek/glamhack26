@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 348045494,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5396194,
+        "lat": "38.8950982",
+        "lon": "-77.0363849",
+        "category": "place",
+        "type": "city",
+        "place_rank": 16,
+        "importance": 0.8147699678478604,
+        "addresstype": "city",
+        "name": "Washington",
+        "display_name": "Washington, District of Columbia, Vereinigte Staaten von Amerika",
+        "address": {
+            "city": "Washington",
+            "state": "District of Columbia",
+            "ISO3166-2-lvl4": "US-DC",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "38.7916303",
+            "38.9959680",
+            "-77.1197949",
+            "-76.9093660"
+        ]
+    }
+]

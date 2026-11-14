@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 206388605,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1236154,
+        "lat": "40.9476420",
+        "lon": "40.2694068",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.4063398020044483,
+        "addresstype": "town",
+        "name": "Of",
+        "display_name": "Of, Trabzon, Schwarzmeerregion, 61830, Türkei",
+        "address": {
+            "town": "Of",
+            "province": "Trabzon",
+            "ISO3166-2-lvl4": "TR-61",
+            "region": "Schwarzmeerregion",
+            "postcode": "61830",
+            "country": "Türkei",
+            "country_code": "tr"
+        },
+        "boundingbox": [
+            "40.7750818",
+            "40.9880033",
+            "40.1897824",
+            "40.4772198"
+        ]
+    }
+]

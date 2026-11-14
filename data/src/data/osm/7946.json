@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 279901584,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 394021,
+        "lat": "52.2343297",
+        "lon": "-0.9028043",
+        "category": "boundary",
+        "type": "historic",
+        "place_rank": 25,
+        "importance": 0.6017064428324712,
+        "addresstype": "historic",
+        "name": "Northampton",
+        "display_name": "Northampton, West Northamptonshire, England, Vereinigtes Königreich",
+        "address": {
+            "historic": "Northampton",
+            "town": "Northampton",
+            "county": "West Northamptonshire",
+            "ISO3166-2-lvl6": "GB-WNH",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "52.1860899",
+            "52.2826966",
+            "-0.9710267",
+            "-0.7913699"
+        ]
+    }
+]

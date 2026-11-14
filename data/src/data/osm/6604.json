@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 48170995,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 27565020,
+        "lat": "31.1991806",
+        "lon": "29.8951716",
+        "category": "place",
+        "type": "city",
+        "place_rank": 16,
+        "importance": 0.7173554540975876,
+        "addresstype": "city",
+        "name": "Alexandria",
+        "display_name": "Alexandria, 21519, Ägypten",
+        "address": {
+            "city": "Alexandria",
+            "state": "Alexandria",
+            "ISO3166-2-lvl4": "EG-ALX",
+            "postcode": "21519",
+            "country": "Ägypten",
+            "country_code": "eg"
+        },
+        "boundingbox": [
+            "31.0391806",
+            "31.3591806",
+            "29.7351716",
+            "30.0551716"
+        ]
+    }
+]

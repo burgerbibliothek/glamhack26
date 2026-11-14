@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 320195103,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 150972258,
+        "lat": "37.5368699",
+        "lon": "-119.6549160",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.4013947720587043,
+        "addresstype": "hamlet",
+        "name": "Wawona",
+        "display_name": "Wawona, Mariposa County, Kalifornien, Vereinigte Staaten von Amerika",
+        "address": {
+            "hamlet": "Wawona",
+            "county": "Mariposa County",
+            "state": "Kalifornien",
+            "ISO3166-2-lvl4": "US-CA",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "37.5168699",
+            "37.5568699",
+            "-119.6749160",
+            "-119.6349160"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 327815275,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3791973299,
+        "lat": "43.3578532",
+        "lon": "-110.9175060",
+        "category": "natural",
+        "type": "mountain_range",
+        "place_rank": 18,
+        "importance": 0.6450044924002287,
+        "addresstype": "mountain_range",
+        "name": "Rocky Mountains",
+        "display_name": "Rocky Mountains, Teton County, Wyoming, Vereinigte Staaten von Amerika",
+        "address": {
+            "mountain_range": "Rocky Mountains",
+            "county": "Teton County",
+            "state": "Wyoming",
+            "ISO3166-2-lvl4": "US-WY",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "43.3578032",
+            "43.3579032",
+            "-110.9175560",
+            "-110.9174560"
+        ]
+    }
+]

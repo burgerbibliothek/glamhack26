@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 115845808,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2001760877,
+        "lat": "50.8808030",
+        "lon": "7.0827752",
+        "category": "amenity",
+        "type": "fast_food",
+        "place_rank": 30,
+        "importance": 8.006485084301545e-05,
+        "addresstype": "amenity",
+        "name": "Byzanz",
+        "display_name": "Byzanz, Frankfurter Straße, Urbach, Porz, Köln, Nordrhein-Westfalen, 51145, Deutschland",
+        "address": {
+            "amenity": "Byzanz",
+            "road": "Frankfurter Straße",
+            "suburb": "Urbach",
+            "city_district": "Porz",
+            "city": "Köln",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "51145",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.8807530",
+            "50.8808530",
+            "7.0827252",
+            "7.0828252"
+        ]
+    }
+]

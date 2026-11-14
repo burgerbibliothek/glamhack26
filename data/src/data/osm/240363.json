@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 379481581,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 166563,
+        "lat": "19.5938015",
+        "lon": "-155.4283701",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.7664346524993908,
+        "addresstype": "state",
+        "name": "Hawaii",
+        "display_name": "Hawaii, Vereinigte Staaten von Amerika",
+        "address": {
+            "state": "Hawaii",
+            "ISO3166-2-lvl4": "US-HI",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "18.8654600",
+            "28.5172690",
+            "-178.4435930",
+            "-154.7557920"
+        ]
+    }
+]
