@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 288189858,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3401474741,
+        "lat": "47.3482683",
+        "lon": "-1.3056160",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339187991149765,
+        "addresstype": "hamlet",
+        "name": "Le Vaud",
+        "display_name": "Le Vaud, Oudon, Châteaubriant-Ancenis, Loire-Atlantique, Pays de la Loire, Metropolitanes Frankreich, 44521, Frankreich",
+        "address": {
+            "hamlet": "Le Vaud",
+            "village": "Oudon",
+            "municipality": "Châteaubriant-Ancenis",
+            "county": "Loire-Atlantique",
+            "ISO3166-2-lvl6": "FR-44",
+            "state": "Pays de la Loire",
+            "ISO3166-2-lvl4": "FR-PDL",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "44521",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.3282683",
+            "47.3682683",
+            "-1.3256160",
+            "-1.2856160"
+        ]
+    }
+]

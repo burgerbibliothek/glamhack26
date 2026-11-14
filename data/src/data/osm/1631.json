@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93523015,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 74025,
+        "lat": "47.9330055",
+        "lon": "7.9498704",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44875702593866645,
+        "addresstype": "village",
+        "name": "Oberried",
+        "display_name": "Oberried, GVV Dreisamtal, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79254, Deutschland",
+        "address": {
+            "village": "Oberried",
+            "municipality": "GVV Dreisamtal",
+            "county": "Landkreis Breisgau-Hochschwarzwald",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "79254",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.8667300",
+            "47.9491629",
+            "7.8848724",
+            "8.0397911"
+        ]
+    }
+]

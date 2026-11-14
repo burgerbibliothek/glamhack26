@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91876555,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682480,
+        "lat": "46.7357185",
+        "lon": "7.6591147",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41980577698315585,
+        "addresstype": "village",
+        "name": "Hilterfingen",
+        "display_name": "Hilterfingen, Verwaltungskreis Thun, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Hilterfingen",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7335121",
+            "46.7520976",
+            "7.6380194",
+            "7.6780667"
+        ]
+    }
+]

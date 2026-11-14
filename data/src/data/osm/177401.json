@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73323124,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 25717831,
+        "lat": "46.6129856",
+        "lon": "8.0491132",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 22,
+        "importance": 0.16273786379520622,
+        "addresstype": "stream",
+        "name": "Weisse Lütschine",
+        "display_name": "Weisse Lütschine, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3818, Schweiz",
+        "address": {
+            "stream": "Weisse Lütschine",
+            "village": "Grindelwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3818",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6007470",
+            "46.6189579",
+            "8.0359358",
+            "8.0538636"
+        ]
+    }
+]

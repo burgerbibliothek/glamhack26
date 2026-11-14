@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 92195066,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1698882,
+        "lat": "46.6823146",
+        "lon": "6.9493852",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.4557747258879297,
+        "addresstype": "county",
+        "name": "Glanebezirk",
+        "display_name": "Glanebezirk, Freiburg, Schweiz",
+        "address": {
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5740707",
+            "46.7904055",
+            "6.7947744",
+            "7.0406828"
+        ]
+    }
+]

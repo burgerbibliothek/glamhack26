@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92981072,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682671,
+        "lat": "47.2746097",
+        "lon": "7.2438318",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3710973104982575,
+        "addresstype": "village",
+        "name": "Souboz",
+        "display_name": "Souboz, Petit-Val, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2748, Schweiz",
+        "address": {
+            "village": "Souboz",
+            "city": "Petit-Val",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2748",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2587601",
+            "47.2881969",
+            "7.2298171",
+            "7.2954656"
+        ]
+    }
+]

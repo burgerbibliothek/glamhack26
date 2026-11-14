@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 283370184,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2077378501,
+        "lat": "48.6845381",
+        "lon": "-0.1399229",
+        "category": "historic",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.17283327415591612,
+        "addresstype": "historic",
+        "name": "Château de la Motte",
+        "display_name": "Château de la Motte, Route du Buisson Sellier, Ferrière, Joué-du-Plain, Argentan, Orne, Normandie, Metropolitanes Frankreich, 61150, Frankreich",
+        "address": {
+            "historic": "Château de la Motte",
+            "road": "Route du Buisson Sellier",
+            "hamlet": "Ferrière",
+            "village": "Joué-du-Plain",
+            "municipality": "Argentan",
+            "county": "Orne",
+            "ISO3166-2-lvl6": "FR-61",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "61150",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.6844881",
+            "48.6845881",
+            "-0.1399729",
+            "-0.1398729"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92364574,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682474,
+        "lat": "47.0625989",
+        "lon": "7.6572587",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4229600238656843,
+        "addresstype": "village",
+        "name": "Heimiswil",
+        "display_name": "Heimiswil, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Heimiswil",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0270313",
+            "47.0920526",
+            "7.6385760",
+            "7.7238477"
+        ]
+    }
+]

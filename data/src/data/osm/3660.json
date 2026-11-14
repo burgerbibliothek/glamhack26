@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 136649012,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 123475058,
+        "lat": "50.9748803",
+        "lon": "11.3299908",
+        "category": "tourism",
+        "type": "museum",
+        "place_rank": 30,
+        "importance": 0.2885983973306146,
+        "addresstype": "tourism",
+        "name": "Liszt-Haus",
+        "display_name": "Liszt-Haus, 17, Marienstraße, Altstadt, Weimar, Thüringen, 99423, Deutschland",
+        "address": {
+            "tourism": "Liszt-Haus",
+            "house_number": "17",
+            "road": "Marienstraße",
+            "suburb": "Altstadt",
+            "town": "Weimar",
+            "state": "Thüringen",
+            "ISO3166-2-lvl4": "DE-TH",
+            "postcode": "99423",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9748101",
+            "50.9749505",
+            "11.3298789",
+            "11.3301026"
+        ]
+    }
+]

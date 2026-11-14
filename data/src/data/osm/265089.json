@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91840471,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 983984079,
+        "lat": "46.0835043",
+        "lon": "7.9583742",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 4.752956435487934e-05,
+        "addresstype": "highway",
+        "name": "Zermeiggern",
+        "display_name": "Zermeiggern, Talstrasse, Saas-Almagell, Visp, Oberwallis, Wallis, 3905, Schweiz",
+        "address": {
+            "highway": "Zermeiggern",
+            "road": "Talstrasse",
+            "village": "Saas-Almagell",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3905",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0834543",
+            "46.0835543",
+            "7.9583242",
+            "7.9584242"
+        ]
+    }
+]

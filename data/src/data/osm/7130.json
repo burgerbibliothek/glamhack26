@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92623957,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682429,
+        "lat": "47.0776383",
+        "lon": "7.8501785",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4272315799582546,
+        "addresstype": "village",
+        "name": "Eriswil",
+        "display_name": "Eriswil, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4952, Schweiz",
+        "address": {
+            "village": "Eriswil",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4952",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0466481",
+            "47.0914472",
+            "7.8368443",
+            "7.8816484"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 132606604,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 436474,
+        "lat": "50.2321447",
+        "lon": "15.1108651",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 14,
+        "importance": 0.5056171602257441,
+        "addresstype": "municipality",
+        "name": "Neuhof",
+        "display_name": "Neuhof, Bezirk Nimburg, Mittelböhmische Region, Tschechien",
+        "address": {
+            "municipality": "Neuhof",
+            "district": "Bezirk Nimburg",
+            "ISO3166-2-lvl5": "CZ-208",
+            "state": "Mittelböhmische Region",
+            "ISO3166-2-lvl4": "CZ-20",
+            "country": "Tschechien",
+            "country_code": "cz"
+        },
+        "boundingbox": [
+            "50.2244280",
+            "50.2393836",
+            "15.0970666",
+            "15.1296883"
+        ]
+    }
+]

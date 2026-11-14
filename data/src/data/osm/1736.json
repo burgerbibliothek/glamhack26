@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 130017399,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12615887447,
+        "lat": "48.1557535",
+        "lon": "15.9830454",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333835408560311,
+        "addresstype": "hamlet",
+        "name": "Schattau",
+        "display_name": "Schattau, Katastralgemeinde Eichgraben, Hinterleiten, Eichgraben, Bezirk St. Pölten, Niederösterreich, 3032, Österreich",
+        "address": {
+            "hamlet": "Schattau",
+            "suburb": "Katastralgemeinde Eichgraben",
+            "village": "Hinterleiten",
+            "county": "Bezirk St. Pölten",
+            "state": "Niederösterreich",
+            "ISO3166-2-lvl4": "AT-3",
+            "postcode": "3032",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.1357535",
+            "48.1757535",
+            "15.9630454",
+            "16.0030454"
+        ]
+    }
+]

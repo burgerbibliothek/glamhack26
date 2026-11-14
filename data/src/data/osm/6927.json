@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 290864896,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13438362461,
+        "lat": "45.9587876",
+        "lon": "-0.5362701",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10673107728694588,
+        "addresstype": "isolated_dwelling",
+        "name": "Champ Olivier",
+        "display_name": "Champ Olivier, Moulinveau, Saint-Jean-d'Angély, Charente-Maritime, Neu-Aquitanien, Metropolitanes Frankreich, 17400, Frankreich",
+        "address": {
+            "isolated_dwelling": "Champ Olivier",
+            "neighbourhood": "Moulinveau",
+            "town": "Saint-Jean-d'Angély",
+            "municipality": "Saint-Jean-d'Angély",
+            "county": "Charente-Maritime",
+            "ISO3166-2-lvl6": "FR-17",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "17400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.9587376",
+            "45.9588376",
+            "-0.5363201",
+            "-0.5362201"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72586335,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 210870918,
+        "lat": "47.2383253",
+        "lon": "8.1891298",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 4.436636911569417e-05,
+        "addresstype": "building",
+        "name": "Wynental",
+        "display_name": "Wynental, 1, Turnplatzstrasse, Burg AG, Menziken, Bezirk Kulm, Aargau, 5737, Schweiz",
+        "address": {
+            "building": "Wynental",
+            "house_number": "1",
+            "road": "Turnplatzstrasse",
+            "village": "Burg AG",
+            "county": "Bezirk Kulm",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5737",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2382016",
+            "47.2384224",
+            "8.1890060",
+            "8.1892514"
+        ]
+    }
+]

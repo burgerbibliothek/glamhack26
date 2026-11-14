@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 122977553,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 141053712,
+        "lat": "48.8895522",
+        "lon": "8.7009246",
+        "category": "amenity",
+        "type": "theatre",
+        "place_rank": 30,
+        "importance": 0.3078369698940717,
+        "addresstype": "amenity",
+        "name": "Theater Pforzheim",
+        "display_name": "Theater Pforzheim, 5, Am Waisenhausplatz, Innenstadt, Pforzheim, Baden-Württemberg, 75172, Deutschland",
+        "address": {
+            "amenity": "Theater Pforzheim",
+            "house_number": "5",
+            "road": "Am Waisenhausplatz",
+            "suburb": "Innenstadt",
+            "city": "Pforzheim",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "75172",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.8892618",
+            "48.8898198",
+            "8.7003143",
+            "8.7015745"
+        ]
+    }
+]

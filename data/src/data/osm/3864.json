@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 138228426,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 148108983,
+        "lat": "50.1150403",
+        "lon": "8.7055713",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.941481651021618e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "4, Maulbeerstraße, Ostend, Bornheim/Ostend, Frankfurt am Main, Hessen, 60314, Deutschland",
+        "address": {
+            "house_number": "4",
+            "road": "Maulbeerstraße",
+            "suburb": "Ostend",
+            "city_district": "Bornheim/Ostend",
+            "city": "Frankfurt am Main",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "60314",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.1149555",
+            "50.1151251",
+            "8.7054442",
+            "8.7056984"
+        ]
+    }
+]

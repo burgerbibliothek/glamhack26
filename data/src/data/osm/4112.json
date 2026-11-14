@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92499307,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 224443944,
+        "lat": "47.1329410",
+        "lon": "7.2467015",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 6.320210574497623e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "57, Murtenstrasse, Neustadt, Biel, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2501, Schweiz",
+        "address": {
+            "house_number": "57",
+            "road": "Murtenstrasse",
+            "suburb": "Neustadt",
+            "city": "Biel",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2501",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1328077",
+            "47.1329961",
+            "7.2466273",
+            "7.2467733"
+        ]
+    }
+]

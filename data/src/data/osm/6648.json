@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91848643,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1426045729,
+        "lat": "46.7459947",
+        "lon": "7.1227813",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.38438338989703197,
+        "addresstype": "village",
+        "name": "Arconciel",
+        "display_name": "Arconciel, Bois-d’Amont, Saanebezirk, Freiburg, 1732, Schweiz",
+        "address": {
+            "village": "Arconciel",
+            "city": "Bois-d’Amont",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1732",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7259947",
+            "46.7659947",
+            "7.1027813",
+            "7.1427813"
+        ]
+    }
+]

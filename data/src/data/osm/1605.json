@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 93116165,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 385237007,
+        "lat": "47.0040019",
+        "lon": "7.9399419",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4531737914413923,
+        "addresstype": "locality",
+        "name": "Napf",
+        "display_name": "Napf, Trub, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3557, Schweiz",
+        "address": {
+            "locality": "Napf",
+            "village": "Trub",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3557",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0039519",
+            "47.0040519",
+            "7.9398919",
+            "7.9399919"
+        ]
+    }
+]

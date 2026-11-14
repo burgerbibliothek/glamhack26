@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 93011854,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 9441310,
+        "lat": "47.2632989",
+        "lon": "7.6512398",
+        "category": "historic",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.3602803386784236,
+        "addresstype": "historic",
+        "name": "Schloss Bipp",
+        "display_name": "Schloss Bipp, Schlossstrasse, Oberbipp, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4538, Schweiz",
+        "address": {
+            "historic": "Schloss Bipp",
+            "road": "Schlossstrasse",
+            "village": "Oberbipp",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4538",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2631424",
+            "47.2637706",
+            "7.6507916",
+            "7.6525575"
+        ]
+    }
+]

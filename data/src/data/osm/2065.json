@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72129031,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1164224650,
+        "lat": "47.3684131",
+        "lon": "8.5232702",
+        "category": "building",
+        "type": "school",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "9, Aegertenstrasse, Sihlfeld, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8003, Schweiz",
+        "address": {
+            "house_number": "9",
+            "road": "Aegertenstrasse",
+            "quarter": "Sihlfeld",
+            "suburb": "Kreis 3",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8003",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3682672",
+            "47.3685589",
+            "8.5230764",
+            "8.5234640"
+        ]
+    }
+]

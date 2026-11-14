@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91827547,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685077,
+        "lat": "46.2972426",
+        "lon": "6.9950257",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4181697918103512,
+        "addresstype": "village",
+        "name": "Ollon",
+        "display_name": "Ollon, Aigle District, Waadt, Schweiz",
+        "address": {
+            "village": "Ollon",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2639444",
+            "46.3392204",
+            "6.9494641",
+            "7.1491840"
+        ]
+    }
+]

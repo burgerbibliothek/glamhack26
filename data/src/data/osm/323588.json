@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 128477612,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 30443251,
+        "lat": "48.1546610",
+        "lon": "11.6216524",
+        "category": "building",
+        "type": "detached",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "27, Normannenstraße, Priel, Bogenhausen, München, Bayern, 81925, Deutschland",
+        "address": {
+            "house_number": "27",
+            "road": "Normannenstraße",
+            "quarter": "Priel",
+            "suburb": "Bogenhausen",
+            "city_district": "Bogenhausen",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "81925",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1546108",
+            "48.1547550",
+            "11.6215221",
+            "11.6217239"
+        ]
+    }
+]

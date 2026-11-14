@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73387981,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3148274685,
+        "lat": "46.9773638",
+        "lon": "8.6666433",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.31243468429384014,
+        "addresstype": "village",
+        "name": "Stoos",
+        "display_name": "Stoos, Morschach, Schwyz, 6433, Schweiz",
+        "address": {
+            "village": "Stoos",
+            "county": "Schwyz",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "6433",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9573638",
+            "46.9973638",
+            "8.6466433",
+            "8.6866433"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 84419806,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 20224,
+        "lat": "42.6181232",
+        "lon": "2.4230925",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5469669040234669,
+        "addresstype": "town",
+        "name": "Prades",
+        "display_name": "Prades, Ostpyrenäen, Okzitanien, Metropolitanes Frankreich, 66500, Frankreich",
+        "address": {
+            "town": "Prades",
+            "municipality": "Prades",
+            "county": "Ostpyrenäen",
+            "ISO3166-2-lvl6": "FR-66",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "66500",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "42.5872335",
+            "42.6340357",
+            "2.4023852",
+            "2.4537329"
+        ]
+    }
+]

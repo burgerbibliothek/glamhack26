@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 47845449,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 9351124,
+        "lat": "31.5419460",
+        "lon": "35.4812013",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.6141240224732656,
+        "addresstype": "lake",
+        "name": "Totes Meer",
+        "display_name": "Totes Meer, Zone C, Judäa und Samaria, Palestinian Territories",
+        "address": {
+            "lake": "Totes Meer",
+            "county": "Zone C",
+            "state": "Judäa und Samaria",
+            "country": "Palestinian Territories",
+            "country_code": "ps"
+        },
+        "boundingbox": [
+            "31.3201583",
+            "31.7637518",
+            "35.3914126",
+            "35.5914357"
+        ]
+    }
+]

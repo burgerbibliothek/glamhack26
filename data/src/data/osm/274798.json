@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 124049521,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1248405,
+        "lat": "49.7492025",
+        "lon": "8.4022436",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.458574933620845,
+        "addresstype": "village",
+        "name": "Eich",
+        "display_name": "Eich, Landkreis Alzey-Worms, Rheinland-Pfalz, 67575, Deutschland",
+        "address": {
+            "village": "Eich",
+            "municipality": "Eich",
+            "county": "Landkreis Alzey-Worms",
+            "state": "Rheinland-Pfalz",
+            "ISO3166-2-lvl4": "DE-RP",
+            "postcode": "67575",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.7246817",
+            "49.7727523",
+            "8.3504402",
+            "8.4579777"
+        ]
+    }
+]

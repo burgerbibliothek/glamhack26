@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 72806021,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682818,
+        "lat": "47.2076373",
+        "lon": "8.1924386",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4418261338629232,
+        "addresstype": "village",
+        "name": "Beromünster",
+        "display_name": "Beromünster, Luzern, Schweiz",
+        "address": {
+            "village": "Beromünster",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1566454",
+            "47.2587494",
+            "8.1331214",
+            "8.2353843"
+        ]
+    }
+]

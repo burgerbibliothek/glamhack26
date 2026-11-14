@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91901664,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10238113852,
+        "lat": "46.7811190",
+        "lon": "7.8675572",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 5.000152590214416e-05,
+        "addresstype": "information",
+        "name": "Chrinde",
+        "display_name": "Chrinde, Grossenegg, Schangnau, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 6197, Schweiz",
+        "address": {
+            "information": "Chrinde",
+            "road": "Grossenegg",
+            "village": "Schangnau",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "6197",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7810690",
+            "46.7811690",
+            "7.8675072",
+            "7.8676072"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73546751,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 149282,
+        "lat": "46.3699767",
+        "lon": "9.8210372",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.39832776522768565,
+        "addresstype": "glacier",
+        "name": "Roseggletscher",
+        "display_name": "Roseggletscher, Samaden, Maloja, Graubünden, 7503, Schweiz",
+        "address": {
+            "glacier": "Roseggletscher",
+            "village": "Samaden",
+            "county": "Maloja",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7503",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3605033",
+            "46.3795710",
+            "9.8158452",
+            "9.8485658"
+        ]
+    }
+]

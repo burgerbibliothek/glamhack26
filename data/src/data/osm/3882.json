@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72741255,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7193110222,
+        "lat": "47.4128681",
+        "lon": "9.3444617",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 6.722743572132474e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "8, Mingerstrasse, Bruggen, Sankt Gallen, Wahlkreis St. Gallen, St. Gallen, 9014, Schweiz",
+        "address": {
+            "house_number": "8",
+            "road": "Mingerstrasse",
+            "suburb": "Bruggen",
+            "city": "Sankt Gallen",
+            "county": "Wahlkreis St. Gallen",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9014",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4128181",
+            "47.4129181",
+            "9.3444117",
+            "9.3445117"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91424761,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 485511681,
+        "lat": "46.7996497",
+        "lon": "7.1624304",
+        "category": "highway",
+        "type": "unclassified",
+        "place_rank": 26,
+        "importance": 0.053398920424200774,
+        "addresstype": "unclassified",
+        "name": "Promenade de la Maigrauge",
+        "display_name": "Promenade de la Maigrauge, Neustadt, Les Charmettes, Breitfeld, Freiburg, Saanebezirk, Freiburg, 1705, Schweiz",
+        "address": {
+            "road": "Promenade de la Maigrauge",
+            "neighbourhood": "Neustadt",
+            "quarter": "Les Charmettes",
+            "hamlet": "Breitfeld",
+            "town": "Freiburg",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1705",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7994013",
+            "46.7998904",
+            "7.1623986",
+            "7.1624325"
+        ]
+    }
+]

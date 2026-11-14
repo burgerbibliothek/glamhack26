@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91947880,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9091387012,
+        "lat": "46.9480308",
+        "lon": "7.4444615",
+        "category": "information",
+        "type": "board",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "information",
+        "name": "Marktgasse 59",
+        "display_name": "Marktgasse 59, Marktgasse, Gelbes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3000, Schweiz",
+        "address": {
+            "information": "Marktgasse 59",
+            "road": "Marktgasse",
+            "quarter": "Gelbes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9479808",
+            "46.9480808",
+            "7.4444115",
+            "7.4445115"
+        ]
+    }
+]

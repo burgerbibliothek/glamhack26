@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71849640,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 317817278,
+        "lat": "47.3256448",
+        "lon": "8.9796018",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.2954185985350713,
+        "addresstype": "peak",
+        "name": "Schnebelhorn",
+        "display_name": "Schnebelhorn, Fischenthal, Bezirk Hinwil, Zürich, Schweiz",
+        "address": {
+            "peak": "Schnebelhorn",
+            "village": "Fischenthal",
+            "county": "Bezirk Hinwil",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3255948",
+            "47.3256948",
+            "8.9795518",
+            "8.9796518"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91773792,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 435179302,
+        "lat": "46.4005085",
+        "lon": "7.5284329",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.45356092873116677,
+        "addresstype": "peak",
+        "name": "Wildstrubel",
+        "display_name": "Wildstrubel, Lenk, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3775, Schweiz",
+        "address": {
+            "peak": "Wildstrubel",
+            "village": "Lenk",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3775",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4004585",
+            "46.4005585",
+            "7.5283829",
+            "7.5284829"
+        ]
+    }
+]

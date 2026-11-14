@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73770415,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 270447723,
+        "lat": "46.4550797",
+        "lon": "8.9379983",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333833348592355,
+        "addresstype": "hamlet",
+        "name": "Comprovasco",
+        "display_name": "Comprovasco, Prugiasco, Acquarossa, Circolo d'Acquarossa, Bezirk Blenio, Tessin, 6723, Schweiz",
+        "address": {
+            "hamlet": "Comprovasco",
+            "village": "Prugiasco",
+            "municipality": "Circolo d'Acquarossa",
+            "county": "Bezirk Blenio",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6723",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4350797",
+            "46.4750797",
+            "8.9179983",
+            "8.9579983"
+        ]
+    }
+]

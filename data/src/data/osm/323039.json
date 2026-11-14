@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 126708162,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4285015760,
+        "lat": "49.4574837",
+        "lon": "11.0862560",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.61417563133748e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "7, Äußerer Laufer Platz, Altstadt, St. Sebald, Altstadt und engere Innenstadt, Nürnberg, Bayern, 90403, Deutschland",
+        "address": {
+            "house_number": "7",
+            "road": "Äußerer Laufer Platz",
+            "neighbourhood": "Altstadt, St. Sebald",
+            "suburb": "Altstadt und engere Innenstadt",
+            "city": "Nürnberg",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "90403",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.4574337",
+            "49.4575337",
+            "11.0862060",
+            "11.0863060"
+        ]
+    }
+]

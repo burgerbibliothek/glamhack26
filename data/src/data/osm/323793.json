@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 137897943,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1106328074,
+        "lat": "50.2337823",
+        "lon": "8.7621798",
+        "category": "building",
+        "type": "service",
+        "place_rank": 30,
+        "importance": 5.31006332493632e-05,
+        "addresstype": "building",
+        "name": "Rathausplatz 3",
+        "display_name": "Rathausplatz 3, Ramonville Straße, Groß-Karben, Karben, Wetteraukreis, Hessen, 61184, Deutschland",
+        "address": {
+            "building": "Rathausplatz 3",
+            "road": "Ramonville Straße",
+            "village": "Groß-Karben",
+            "municipality": "Karben",
+            "county": "Wetteraukreis",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "61184",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.2337696",
+            "50.2337949",
+            "8.7621571",
+            "8.7622024"
+        ]
+    }
+]

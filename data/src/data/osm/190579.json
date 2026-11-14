@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91984595,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 33520242,
+        "lat": "46.8376682",
+        "lon": "7.4631216",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333857015335317,
+        "addresstype": "hamlet",
+        "name": "Oberbütschel",
+        "display_name": "Oberbütschel, Rüeggisberg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3088, Schweiz",
+        "address": {
+            "hamlet": "Oberbütschel",
+            "village": "Rüeggisberg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3088",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8176682",
+            "46.8576682",
+            "7.4431216",
+            "7.4831216"
+        ]
+    }
+]

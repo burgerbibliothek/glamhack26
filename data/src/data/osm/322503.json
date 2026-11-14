@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 145499793,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1270516213,
+        "lat": "52.4875204",
+        "lon": "13.2860298",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "51, Humboldtstraße, Grunewald, Charlottenburg-Wilmersdorf, Berlin, 14193, Deutschland",
+        "address": {
+            "house_number": "51",
+            "road": "Humboldtstraße",
+            "suburb": "Grunewald",
+            "borough": "Charlottenburg-Wilmersdorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "14193",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4874704",
+            "52.4875704",
+            "13.2859798",
+            "13.2860798"
+        ]
+    }
+]

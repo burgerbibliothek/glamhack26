@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73919044,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 850468705,
+        "lat": "46.8767627",
+        "lon": "10.0338260",
+        "category": "natural",
+        "type": "ridge",
+        "place_rank": 22,
+        "importance": 0.10670880827038984,
+        "addresstype": "ridge",
+        "name": "Mittelgrat",
+        "display_name": "Mittelgrat, Klosters, Prättigau/Davos, Graubünden, Schweiz",
+        "address": {
+            "ridge": "Mittelgrat",
+            "village": "Klosters",
+            "county": "Prättigau/Davos",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8747165",
+            "46.8787761",
+            "10.0297934",
+            "10.0370475"
+        ]
+    }
+]

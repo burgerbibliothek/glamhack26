@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92790071,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6955745273,
+        "lat": "47.0739243",
+        "lon": "6.7071614",
+        "category": "natural",
+        "type": "cave_entrance",
+        "place_rank": 30,
+        "importance": 5.613260090023678e-05,
+        "addresstype": "natural",
+        "name": "Grotte de la Toffière",
+        "display_name": "Grotte de la Toffière, La Crête, Vauladray, Les Brenets, Le Locle, Région Montagnes, Neuenburg, 2416, Schweiz",
+        "address": {
+            "natural": "Grotte de la Toffière",
+            "road": "La Crête",
+            "hamlet": "Vauladray",
+            "village": "Les Brenets",
+            "town": "Le Locle",
+            "region": "Région Montagnes",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2416",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0738743",
+            "47.0739743",
+            "6.7071114",
+            "6.7072114"
+        ]
+    }
+]

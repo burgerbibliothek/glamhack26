@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73344468,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5817201,
+        "lat": "46.7235762",
+        "lon": "9.0691602",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.359473463574925,
+        "addresstype": "city",
+        "name": "Obersaxen-Mundaun",
+        "display_name": "Obersaxen-Mundaun, Surselva, Graubünden, Schweiz",
+        "address": {
+            "city": "Obersaxen-Mundaun",
+            "county": "Surselva",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6748201",
+            "46.7723799",
+            "9.0101462",
+            "9.1906891"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 93018616,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685519,
+        "lat": "46.9895828",
+        "lon": "6.9292641",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.610682197619203,
+        "addresstype": "town",
+        "name": "Neuenburg",
+        "display_name": "Neuenburg, Région Littoral, Neuenburg, Schweiz",
+        "address": {
+            "town": "Neuenburg",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9778414",
+            "47.0638262",
+            "6.8451422",
+            "6.9917717"
+        ]
+    }
+]

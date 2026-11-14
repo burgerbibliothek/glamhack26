@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91886976,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3901532697,
+        "lat": "46.9465812",
+        "lon": "7.5461448",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337758220798046,
+        "addresstype": "hamlet",
+        "name": "Nesselbank",
+        "display_name": "Nesselbank, Boll, Vechigen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3067, Schweiz",
+        "address": {
+            "hamlet": "Nesselbank",
+            "village": "Boll",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3067",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9265812",
+            "46.9665812",
+            "7.5261448",
+            "7.5661448"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72867712,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 29052,
+        "lat": "47.2518591",
+        "lon": "9.4191601",
+        "category": "natural",
+        "type": "water",
+        "place_rank": 22,
+        "importance": 0.22052600253021823,
+        "addresstype": "water",
+        "name": "Fählensee",
+        "display_name": "Fählensee, Rheintaler Sämtis, Schwende-Rüte, Appenzell Innerrhoden, Schweiz",
+        "address": {
+            "water": "Fählensee",
+            "hamlet": "Rheintaler Sämtis",
+            "city": "Schwende-Rüte",
+            "state": "Appenzell Innerrhoden",
+            "ISO3166-2-lvl4": "CH-AI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2498691",
+            "47.2538443",
+            "9.4103305",
+            "9.4240277"
+        ]
+    }
+]

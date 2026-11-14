@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91474793,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 264164441,
+        "lat": "46.8104345",
+        "lon": "7.6474838",
+        "category": "landuse",
+        "type": "farmyard",
+        "place_rank": 24,
+        "importance": 0.08005000152590216,
+        "addresstype": "farmyard",
+        "name": "Stockere",
+        "display_name": "Stockere, Ibach, Buchholterberg, Verwaltungskreis Thun, Oberland administrative region, Bern, 3615, Schweiz",
+        "address": {
+            "farmyard": "Stockere",
+            "hamlet": "Ibach",
+            "city": "Buchholterberg",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3615",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8099598",
+            "46.8110822",
+            "7.6466909",
+            "7.6485873"
+        ]
+    }
+]

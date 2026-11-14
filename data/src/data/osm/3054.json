@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 186929851,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11411007720,
+        "lat": "48.2100802",
+        "lon": "16.3650822",
+        "category": "tourism",
+        "type": "museum",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "tourism",
+        "name": "Kunstraum Niederösterreich",
+        "display_name": "Kunstraum Niederösterreich, 13, Herrengasse, Schottenviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich",
+        "address": {
+            "tourism": "Kunstraum Niederösterreich",
+            "house_number": "13",
+            "road": "Herrengasse",
+            "neighbourhood": "Schottenviertel",
+            "suburb": "Innere Stadt",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1010",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2100302",
+            "48.2101302",
+            "16.3650322",
+            "16.3651322"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72302798,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684377,
+        "lat": "47.4571940",
+        "lon": "8.2402149",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38727847050761693,
+        "addresstype": "village",
+        "name": "Mülligen",
+        "display_name": "Mülligen, Bezirk Brugg, Aargau, 5243, Schweiz",
+        "address": {
+            "village": "Mülligen",
+            "county": "Bezirk Brugg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5243",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4442303",
+            "47.4605479",
+            "8.2218107",
+            "8.2576128"
+        ]
+    }
+]

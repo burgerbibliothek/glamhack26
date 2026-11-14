@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 91143071,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685488,
+        "lat": "46.2017559",
+        "lon": "6.1466014",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.7523100793715075,
+        "addresstype": "city",
+        "name": "Genf",
+        "display_name": "Genf, Schweiz",
+        "address": {
+            "city": "Genf",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1777742",
+            "46.2318859",
+            "6.1102325",
+            "6.1758454"
+        ]
+    }
+]

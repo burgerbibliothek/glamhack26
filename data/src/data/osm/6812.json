@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92118737,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683276,
+        "lat": "46.5217291",
+        "lon": "6.8495191",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3649233439058235,
+        "addresstype": "village",
+        "name": "Bossonnens",
+        "display_name": "Bossonnens, Vivisbachbezirk, Freiburg, 1615, Schweiz",
+        "address": {
+            "village": "Bossonnens",
+            "county": "Vivisbachbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1615",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5169184",
+            "46.5415437",
+            "6.8322719",
+            "6.8619534"
+        ]
+    }
+]

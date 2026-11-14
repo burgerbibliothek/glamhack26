@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92954835,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683558,
+        "lat": "47.4701457",
+        "lon": "7.6936712",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.36467385585497514,
+        "addresstype": "village",
+        "name": "Nuglar-St. Pantaleon",
+        "display_name": "Nuglar-St. Pantaleon, Bezirk Dorneck, Amtei Dorneck-Thierstein, Solothurn, Schweiz",
+        "address": {
+            "village": "Nuglar-St. Pantaleon",
+            "municipality": "Bezirk Dorneck",
+            "county": "Amtei Dorneck-Thierstein",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4527776",
+            "47.4862503",
+            "7.6665592",
+            "7.7098806"
+        ]
+    }
+]

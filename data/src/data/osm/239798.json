@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 186852799,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8309517020,
+        "lat": "48.2208952",
+        "lon": "16.3524293",
+        "category": "amenity",
+        "type": "doctors",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "amenity",
+        "name": "Prof. Dr. Heinrich Husslein",
+        "display_name": "Prof. Dr. Heinrich Husslein, 27, Spitalgasse, Michelbeuern, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich",
+        "address": {
+            "amenity": "Prof. Dr. Heinrich Husslein",
+            "house_number": "27",
+            "road": "Spitalgasse",
+            "quarter": "Michelbeuern",
+            "neighbourhood": "Katastralgemeinde Alsergrund",
+            "suburb": "Alsergrund",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1090",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2208452",
+            "48.2209452",
+            "16.3523793",
+            "16.3524793"
+        ]
+    }
+]

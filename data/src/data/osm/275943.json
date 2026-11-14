@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 272705732,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1636279396,
+        "lat": "69.3756460",
+        "lon": "17.0920482",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1600376646066987,
+        "addresstype": "peak",
+        "name": "Gommen",
+        "display_name": "Gommen, Gryllefjorden, Senja, Troms, 9380, Norwegen",
+        "address": {
+            "peak": "Gommen",
+            "village": "Gryllefjorden",
+            "municipality": "Senja",
+            "county": "Troms",
+            "ISO3166-2-lvl4": "NO-55",
+            "postcode": "9380",
+            "country": "Norwegen",
+            "country_code": "no"
+        },
+        "boundingbox": [
+            "69.3755960",
+            "69.3756960",
+            "17.0919982",
+            "17.0920982"
+        ]
+    }
+]

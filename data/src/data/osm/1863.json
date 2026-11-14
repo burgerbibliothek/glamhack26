@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 145933844,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 288509627,
+        "lat": "52.8447448",
+        "lon": "13.7232589",
+        "category": "man_made",
+        "type": "bridge",
+        "place_rank": 30,
+        "importance": 0.33749181912886295,
+        "addresstype": "man_made",
+        "name": "Teufelsbrücke",
+        "display_name": "Teufelsbrücke, Treidelweg, Messingwerksiedlung, Finow, Eberswalde, Barnim, Brandenburg, 16227, Deutschland",
+        "address": {
+            "man_made": "Teufelsbrücke",
+            "road": "Treidelweg",
+            "neighbourhood": "Messingwerksiedlung",
+            "suburb": "Finow",
+            "city_district": "Finow",
+            "town": "Eberswalde",
+            "county": "Barnim",
+            "state": "Brandenburg",
+            "ISO3166-2-lvl4": "DE-BB",
+            "postcode": "16227",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.8446074",
+            "52.8448821",
+            "13.7231068",
+            "13.7234110"
+        ]
+    }
+]

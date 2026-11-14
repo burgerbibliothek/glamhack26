@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92467232,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11843438885,
+        "lat": "47.1741715",
+        "lon": "7.2457140",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333819600213626,
+        "addresstype": "hamlet",
+        "name": "Rondchâtel",
+        "display_name": "Rondchâtel, Péry, Péry-La Heutte, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2535, Schweiz",
+        "address": {
+            "hamlet": "Rondchâtel",
+            "village": "Péry",
+            "city": "Péry-La Heutte",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2535",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1541715",
+            "47.1941715",
+            "7.2257140",
+            "7.2657140"
+        ]
+    }
+]

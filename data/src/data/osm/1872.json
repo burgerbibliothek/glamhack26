@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91616968,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 389069794,
+        "lat": "46.9768462",
+        "lon": "7.4570369",
+        "category": "man_made",
+        "type": "bridge",
+        "place_rank": 30,
+        "importance": 0.22489365626900393,
+        "addresstype": "man_made",
+        "name": "Tiefenaubrücke",
+        "display_name": "Tiefenaubrücke, Tiefenaustrasse, Altikofen, Worblaufen, Ittigen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3048, Schweiz",
+        "address": {
+            "man_made": "Tiefenaubrücke",
+            "road": "Tiefenaustrasse",
+            "quarter": "Altikofen",
+            "suburb": "Worblaufen",
+            "town": "Ittigen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3048",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9759108",
+            "46.9777844",
+            "7.4566647",
+            "7.4574136"
+        ]
+    }
+]

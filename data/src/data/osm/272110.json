@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72030293,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 208926633,
+        "lat": "47.2621379",
+        "lon": "8.7710827",
+        "category": "leisure",
+        "type": "nature_reserve",
+        "place_rank": 24,
+        "importance": 0.24632300460320036,
+        "addresstype": "nature_reserve",
+        "name": "Lützelsee",
+        "display_name": "Lützelsee, Lutikon, Feldbach, Hombrechtikon, Bezirk Meilen, Zürich, Schweiz",
+        "address": {
+            "nature_reserve": "Lützelsee",
+            "hamlet": "Lutikon",
+            "village": "Feldbach",
+            "county": "Bezirk Meilen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2564474",
+            "47.2679834",
+            "8.7621106",
+            "8.7782348"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91980212,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 4878031,
+        "lat": "46.9427537",
+        "lon": "7.4367976",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "tertiary",
+        "name": "Schwarztorstrasse",
+        "display_name": "Schwarztorstrasse, Villette, Monbijou, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3008, Schweiz",
+        "address": {
+            "road": "Schwarztorstrasse",
+            "neighbourhood": "Villette",
+            "quarter": "Monbijou",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3008",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9425747",
+            "46.9429964",
+            "7.4361347",
+            "7.4374713"
+        ]
+    }
+]

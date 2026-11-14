@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92327606,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 128492310,
+        "lat": "46.8054077",
+        "lon": "7.1589022",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.053398920424200774,
+        "addresstype": "residential",
+        "name": "Ruelle de la Tete-Noire",
+        "display_name": "Ruelle de la Tete-Noire, Neustadt, Pérolles, Freiburg, Saanebezirk, Freiburg, 1700, Schweiz",
+        "address": {
+            "road": "Ruelle de la Tete-Noire",
+            "neighbourhood": "Neustadt",
+            "suburb": "Pérolles",
+            "town": "Freiburg",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1700",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8051958",
+            "46.8056195",
+            "7.1588844",
+            "7.1589175"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91494136,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1244934123,
+        "lat": "46.4952864",
+        "lon": "7.7921737",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.09078915819201436,
+        "addresstype": "peak",
+        "name": "Morgenhorn",
+        "display_name": "Morgenhorn, Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3718, Schweiz",
+        "address": {
+            "peak": "Morgenhorn",
+            "village": "Kandersteg",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3718",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4952364",
+            "46.4953364",
+            "7.7921237",
+            "7.7922237"
+        ]
+    }
+]

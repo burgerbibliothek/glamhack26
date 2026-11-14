@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 132028162,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1059465,
+        "lat": "49.5916596",
+        "lon": "12.4080158",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4402686161245203,
+        "addresstype": "village",
+        "name": "Moosbach",
+        "display_name": "Moosbach, Landkreis Neustadt an der Waldnaab, Bayern, 92709, Deutschland",
+        "address": {
+            "village": "Moosbach",
+            "county": "Landkreis Neustadt an der Waldnaab",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "92709",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.5205634",
+            "49.6266400",
+            "12.3524307",
+            "12.4900364"
+        ]
+    }
+]

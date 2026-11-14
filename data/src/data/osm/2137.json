@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 126020576,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 42637017,
+        "lat": "49.1552740",
+        "lon": "9.3271851",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.753643091473285e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "70, Altenbergstraße, Grantschen, Weinsberg, GVV Raum Weinsberg, Landkreis Heilbronn, Baden-Württemberg, 74189, Deutschland",
+        "address": {
+            "house_number": "70",
+            "road": "Altenbergstraße",
+            "village": "Grantschen",
+            "town": "Weinsberg",
+            "municipality": "GVV Raum Weinsberg",
+            "county": "Landkreis Heilbronn",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "74189",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.1552352",
+            "49.1553128",
+            "9.3270917",
+            "9.3272784"
+        ]
+    }
+]

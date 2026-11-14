@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91831624,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1415047182,
+        "lat": "46.0238814",
+        "lon": "7.4824659",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.053380119783321855,
+        "addresstype": "tertiary",
+        "name": "Route du Vallon",
+        "display_name": "Route du Vallon, Mont-Collon, Arolla, Evolène, Ering, Mittelwallis, Wallis, 1983, Schweiz",
+        "address": {
+            "road": "Route du Vallon",
+            "hamlet": "Mont-Collon",
+            "village": "Arolla",
+            "county": "Ering",
+            "state_district": "Mittelwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1983",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0215457",
+            "46.0262825",
+            "7.4815088",
+            "7.4836653"
+        ]
+    }
+]

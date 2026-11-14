@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 144372213,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 100119325,
+        "lat": "52.3759172",
+        "lon": "12.4757603",
+        "category": "natural",
+        "type": "scrub",
+        "place_rank": 22,
+        "importance": 0.10673040436408024,
+        "addresstype": "scrub",
+        "name": "Kanincheninsel",
+        "display_name": "Kanincheninsel, Malge, Brandenburg an der Havel, Brandenburg, Deutschland",
+        "address": {
+            "scrub": "Kanincheninsel",
+            "hamlet": "Malge",
+            "town": "Brandenburg an der Havel",
+            "state": "Brandenburg",
+            "ISO3166-2-lvl4": "DE-BB",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.3745783",
+            "52.3772149",
+            "12.4745223",
+            "12.4783362"
+        ]
+    }
+]

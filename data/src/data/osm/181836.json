@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92436836,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240046413,
+        "lat": "47.3756339",
+        "lon": "6.9219953",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.31461790426364866,
+        "addresstype": "village",
+        "name": "Réclère",
+        "display_name": "Réclère, Haute-Ajoie, Bezirk Porrentruy, Jura, 2912, Schweiz",
+        "address": {
+            "village": "Réclère",
+            "city": "Haute-Ajoie",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2912",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3556339",
+            "47.3956339",
+            "6.9019953",
+            "6.9419953"
+        ]
+    }
+]

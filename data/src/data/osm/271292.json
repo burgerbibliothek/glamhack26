@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91812387,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240090212,
+        "lat": "46.5981509",
+        "lon": "7.2366231",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671474402990764,
+        "addresstype": "village",
+        "name": "Im Fang",
+        "display_name": "Im Fang, Jaun, Greyerzbezirk, Freiburg, 1656, Schweiz",
+        "address": {
+            "village": "Im Fang",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1656",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5781509",
+            "46.6181509",
+            "7.2166231",
+            "7.2566231"
+        ]
+    }
+]

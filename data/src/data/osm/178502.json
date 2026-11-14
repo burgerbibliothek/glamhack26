@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 139777170,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 338940689,
+        "lat": "52.1781618",
+        "lon": "8.3560255",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14672691157396806,
+        "addresstype": "village",
+        "name": "Selhofe",
+        "display_name": "Selhofe, Melle, Landkreis Osnabrück, Niedersachsen, 49324, Deutschland",
+        "address": {
+            "village": "Selhofe",
+            "city": "Melle",
+            "county": "Landkreis Osnabrück",
+            "state": "Niedersachsen",
+            "ISO3166-2-lvl4": "DE-NI",
+            "postcode": "49324",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.1581618",
+            "52.1981618",
+            "8.3360255",
+            "8.3760255"
+        ]
+    }
+]

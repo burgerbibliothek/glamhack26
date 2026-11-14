@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 138301539,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6215935947,
+        "lat": "50.0287700",
+        "lon": "9.0991670",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671703440909438,
+        "addresstype": "locality",
+        "name": "Wilde Frau",
+        "display_name": "Wilde Frau, Kleinostheim, Landkreis Aschaffenburg, Bayern, 63801, Deutschland",
+        "address": {
+            "locality": "Wilde Frau",
+            "city": "Kleinostheim",
+            "county": "Landkreis Aschaffenburg",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "63801",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.0187700",
+            "50.0387700",
+            "9.0891670",
+            "9.1091670"
+        ]
+    }
+]

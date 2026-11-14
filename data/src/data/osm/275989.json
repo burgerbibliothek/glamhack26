@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 128071772,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 109300618,
+        "lat": "48.1244631",
+        "lon": "11.5627428",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.22697289548003588,
+        "addresstype": "amenity",
+        "name": "Sankt Anton",
+        "display_name": "Sankt Anton, Kapuzinerstraße, Am Alten Südlichen Friedhof, Dreimühlen, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
+        "address": {
+            "amenity": "Sankt Anton",
+            "road": "Kapuzinerstraße",
+            "neighbourhood": "Am Alten Südlichen Friedhof",
+            "quarter": "Dreimühlen",
+            "suburb": "Ludwigsvorstadt",
+            "city_district": "Ludwigsvorstadt-Isarvorstadt",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "80469",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1240902",
+            "48.1247031",
+            "11.5624341",
+            "11.5630342"
+        ]
+    }
+]

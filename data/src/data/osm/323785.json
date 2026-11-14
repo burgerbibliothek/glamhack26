@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 169168405,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 8075204,
+        "lat": "59.4369100",
+        "lon": "24.7453495",
+        "category": "highway",
+        "type": "pedestrian",
+        "place_rank": 26,
+        "importance": 0.32771111640952466,
+        "addresstype": "pedestrian",
+        "name": "Rathausgasse",
+        "display_name": "Rathausgasse, Unterstadt, Altstadt, City center, Tallinn, Stadtgemeinde Tallinn, Kreis Harju, 10146, Estland",
+        "address": {
+            "road": "Rathausgasse",
+            "neighbourhood": "Unterstadt",
+            "quarter": "Altstadt",
+            "suburb": "City center",
+            "city": "Tallinn",
+            "municipality": "Stadtgemeinde Tallinn",
+            "ISO3166-2-lvl7": "EE-784",
+            "county": "Kreis Harju",
+            "ISO3166-2-lvl6": "EE-37",
+            "postcode": "10146",
+            "country": "Estland",
+            "country_code": "ee"
+        },
+        "boundingbox": [
+            "59.4368480",
+            "59.4369862",
+            "24.7448966",
+            "24.7458001"
+        ]
+    }
+]

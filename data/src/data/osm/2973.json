@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92101486,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1108025816,
+        "lat": "46.9543012",
+        "lon": "7.4333818",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "49, Gesellschaftsstrasse, Länggasse, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "house_number": "49",
+            "road": "Gesellschaftsstrasse",
+            "quarter": "Länggasse",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9542512",
+            "46.9543512",
+            "7.4333318",
+            "7.4334318"
+        ]
+    }
+]

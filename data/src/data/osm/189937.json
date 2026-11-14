@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 89323113,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7217226844,
+        "lat": "45.2193949",
+        "lon": "5.8889771",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16006417105363543,
+        "addresstype": "peak",
+        "name": "La Poya",
+        "display_name": "La Poya, La Combe-de-Lancey, Grenoble, Isère, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 38190, Frankreich",
+        "address": {
+            "peak": "La Poya",
+            "village": "La Combe-de-Lancey",
+            "municipality": "Grenoble",
+            "county": "Isère",
+            "ISO3166-2-lvl6": "FR-38",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "38190",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.2193449",
+            "45.2194449",
+            "5.8889271",
+            "5.8890271"
+        ]
+    }
+]

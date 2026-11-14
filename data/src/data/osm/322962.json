@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 185555640,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2271277,
+        "lat": "48.2268987",
+        "lon": "16.3576927",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "building",
+        "name": "Zum Küss den Pfennig",
+        "display_name": "Zum Küss den Pfennig, 25, Marktgasse, Lichtental, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich",
+        "address": {
+            "building": "Zum Küss den Pfennig",
+            "house_number": "25",
+            "road": "Marktgasse",
+            "neighbourhood": "Lichtental",
+            "suburb": "Alsergrund",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1090",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2268310",
+            "48.2269781",
+            "16.3574713",
+            "16.3577778"
+        ]
+    }
+]

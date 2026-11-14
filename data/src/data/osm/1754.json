@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72295248,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 444184303,
+        "lat": "47.2927911",
+        "lon": "8.0891298",
+        "category": "historic",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.28187552194901133,
+        "addresstype": "historic",
+        "name": "Schloss Rued",
+        "display_name": "Schloss Rued, Schlossstrasse, Kirchrued, Schlossrued, Bezirk Kulm, Aargau, 5044, Schweiz",
+        "address": {
+            "historic": "Schloss Rued",
+            "road": "Schlossstrasse",
+            "hamlet": "Kirchrued",
+            "village": "Schlossrued",
+            "county": "Bezirk Kulm",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5044",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2926563",
+            "47.2928825",
+            "8.0889538",
+            "8.0893122"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91594612,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 642841915,
+        "lat": "46.4558576",
+        "lon": "7.6937386",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.23992860907835414,
+        "addresstype": "valley",
+        "name": "Gasterntal",
+        "display_name": "Gasterntal, Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3718, Schweiz",
+        "address": {
+            "valley": "Gasterntal",
+            "village": "Kandersteg",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3718",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4435336",
+            "46.4672744",
+            "7.6618227",
+            "7.7264318"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73271672,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12040711121,
+        "lat": "46.5239561",
+        "lon": "9.9098329",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.2763378134411431,
+        "addresstype": "peak",
+        "name": "Muottas Muragl",
+        "display_name": "Muottas Muragl, Samaden, Maloja, Graubünden, 7503, Schweiz",
+        "address": {
+            "peak": "Muottas Muragl",
+            "village": "Samaden",
+            "county": "Maloja",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7503",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5239061",
+            "46.5240061",
+            "9.9097829",
+            "9.9098829"
+        ]
+    }
+]

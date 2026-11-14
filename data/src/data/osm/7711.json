@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92457326,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682544,
+        "lat": "47.0093461",
+        "lon": "7.6886004",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4353606624145101,
+        "addresstype": "village",
+        "name": "Lützelflüh",
+        "display_name": "Lützelflüh, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Lützelflüh",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9600786",
+            "47.0462125",
+            "7.5831052",
+            "7.7642244"
+        ]
+    }
+]

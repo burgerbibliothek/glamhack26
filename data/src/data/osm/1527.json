@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92277818,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 286028987,
+        "lat": "46.9041402",
+        "lon": "7.3670961",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337991226062407,
+        "addresstype": "hamlet",
+        "name": "Liebewil",
+        "display_name": "Liebewil, Oberwangen, Köniz, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3173, Schweiz",
+        "address": {
+            "hamlet": "Liebewil",
+            "suburb": "Oberwangen",
+            "town": "Köniz",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3173",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8841402",
+            "46.9241402",
+            "7.3470961",
+            "7.3870961"
+        ]
+    }
+]

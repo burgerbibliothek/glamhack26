@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 421876747,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682410,
+        "lat": "46.8995207",
+        "lon": "7.0907730",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.43169223361915116,
+        "addresstype": "village",
+        "name": "Clavaleyres",
+        "display_name": "Clavaleyres, Murten, Seebezirk, Freiburg, 1595, Schweiz",
+        "address": {
+            "village": "Clavaleyres",
+            "town": "Murten",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1595",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8915203",
+            "46.9038200",
+            "7.0826443",
+            "7.1038228"
+        ]
+    }
+]

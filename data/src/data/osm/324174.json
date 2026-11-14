@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91567244,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 253624062,
+        "lat": "46.9486559",
+        "lon": "7.4439637",
+        "category": "man_made",
+        "type": "tower",
+        "place_rank": 30,
+        "importance": 0.13618373728802152,
+        "addresstype": "man_made",
+        "name": "Dutch tower",
+        "display_name": "Dutch tower, 15, Waisenhausplatz, Gelbes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "man_made": "Dutch tower",
+            "house_number": "15",
+            "road": "Waisenhausplatz",
+            "quarter": "Gelbes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9486279",
+            "46.9486931",
+            "7.4439195",
+            "7.4440098"
+        ]
+    }
+]

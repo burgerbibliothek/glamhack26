@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91624240,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682420,
+        "lat": "46.6496866",
+        "lon": "7.5665715",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39742443319360427,
+        "addresstype": "village",
+        "name": "Diemtigen",
+        "display_name": "Diemtigen, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3754, Schweiz",
+        "address": {
+            "village": "Diemtigen",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3754",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5146361",
+            "46.6684058",
+            "7.4330368",
+            "7.6272367"
+        ]
+    }
+]

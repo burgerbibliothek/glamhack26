@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 73758727,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683121,
+        "lat": "46.7068488",
+        "lon": "8.5995804",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41240105293225454,
+        "addresstype": "village",
+        "name": "Wassen",
+        "display_name": "Wassen, Uri, Schweiz",
+        "address": {
+            "village": "Wassen",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6761624",
+            "46.7805563",
+            "8.4390415",
+            "8.6380657"
+        ]
+    }
+]

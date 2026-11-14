@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91608305,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683378,
+        "lat": "46.7414540",
+        "lon": "7.2865098",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39542339164457335,
+        "addresstype": "village",
+        "name": "Plaffeien",
+        "display_name": "Plaffeien, Sensebezirk, Freiburg, 1716, Schweiz",
+        "address": {
+            "village": "Plaffeien",
+            "county": "Sensebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1716",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6356988",
+            "46.7655342",
+            "7.2511816",
+            "7.3802098"
+        ]
+    }
+]

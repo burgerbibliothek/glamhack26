@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92447652,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 37348098,
+        "lat": "47.2389464",
+        "lon": "7.0457319",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.24158668584662718,
+        "addresstype": "lake",
+        "name": "Étang de la Gruère",
+        "display_name": "Étang de la Gruère, La Petite Theurre, Saignelégier, Freiberge, Jura, Schweiz",
+        "address": {
+            "lake": "Étang de la Gruère",
+            "hamlet": "La Petite Theurre",
+            "village": "Saignelégier",
+            "county": "Freiberge",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2371934",
+            "47.2407089",
+            "7.0441204",
+            "7.0528914"
+        ]
+    }
+]

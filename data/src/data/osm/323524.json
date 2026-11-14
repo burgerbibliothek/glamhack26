@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92186460,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 48926083,
+        "lat": "47.0560886",
+        "lon": "7.6245480",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 5.681620508120878e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "2, Neuengasse, Oberstadt, Im Choser, Burgdorf, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3400, Schweiz",
+        "address": {
+            "house_number": "2",
+            "road": "Neuengasse",
+            "neighbourhood": "Oberstadt",
+            "suburb": "Im Choser",
+            "town": "Burgdorf",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3400",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0560508",
+            "47.0561214",
+            "7.6244819",
+            "7.6246123"
+        ]
+    }
+]

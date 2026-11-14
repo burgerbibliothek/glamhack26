@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 80933336,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 365331,
+        "lat": "42.6384261",
+        "lon": "12.6742970",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.9472892328660153,
+        "addresstype": "country",
+        "name": "Italien",
+        "display_name": "Italien",
+        "address": {
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "35.2889616",
+            "47.0921485",
+            "6.6272658",
+            "18.7844746"
+        ]
+    }
+]

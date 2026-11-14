@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73567179,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682470,
+        "lat": "46.7379056",
+        "lon": "8.2052569",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4548351038280619,
+        "addresstype": "municipality",
+        "name": "Hasliberg",
+        "display_name": "Hasliberg, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "municipality": "Hasliberg",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7139727",
+            "46.7703143",
+            "8.1429866",
+            "8.3250496"
+        ]
+    }
+]

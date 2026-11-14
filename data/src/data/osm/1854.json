@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 87862583,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 12404655,
+        "lat": "44.7420744",
+        "lon": "5.1096243",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 21,
+        "importance": 0.12006117112993052,
+        "addresstype": "stream",
+        "name": "La Romane",
+        "display_name": "La Romane, Suze, Die, Drôme, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 26400, Frankreich",
+        "address": {
+            "stream": "La Romane",
+            "village": "Suze",
+            "municipality": "Die",
+            "county": "Drôme",
+            "ISO3166-2-lvl6": "FR-26",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "26400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.7184074",
+            "44.7677260",
+            "5.0945932",
+            "5.1192521"
+        ]
+    }
+]

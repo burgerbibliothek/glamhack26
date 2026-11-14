@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 121407427,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1236253384,
+        "lat": "48.3985393",
+        "lon": "9.9903233",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 6.939726863503498e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "3, Münsterplatz, Innenstadt, Mitte, Ulm, Baden-Württemberg, 89073, Deutschland",
+        "address": {
+            "house_number": "3",
+            "road": "Münsterplatz",
+            "neighbourhood": "Innenstadt",
+            "suburb": "Mitte",
+            "city": "Ulm",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "89073",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.3983899",
+            "48.3986621",
+            "9.9901672",
+            "9.9904933"
+        ]
+    }
+]

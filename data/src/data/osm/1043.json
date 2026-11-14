@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 3184096,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 288247,
+        "lat": "-6.8699697",
+        "lon": "-75.0458515",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.8194562003951543,
+        "addresstype": "country",
+        "name": "Peru",
+        "display_name": "Peru",
+        "address": {
+            "country": "Peru",
+            "country_code": "pe"
+        },
+        "boundingbox": [
+            "-20.1984472",
+            "-0.0392818",
+            "-84.6356535",
+            "-68.6519906"
+        ]
+    }
+]

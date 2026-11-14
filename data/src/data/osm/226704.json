@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72775481,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 32515044,
+        "lat": "47.1977790",
+        "lon": "9.3089893",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.306026056337308,
+        "addresstype": "village",
+        "name": "Unterwasser",
+        "display_name": "Unterwasser, Wildhaus-Alt St. Johann, Wahlkreis Toggenburg, St. Gallen, 9657, Schweiz",
+        "address": {
+            "village": "Unterwasser",
+            "city": "Wildhaus-Alt St. Johann",
+            "county": "Wahlkreis Toggenburg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9657",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1777790",
+            "47.2177790",
+            "9.2889893",
+            "9.3289893"
+        ]
+    }
+]

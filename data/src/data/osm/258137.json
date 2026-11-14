@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73369897,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 401457558,
+        "lat": "46.6334938",
+        "lon": "8.1634878",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16004951781490806,
+        "addresstype": "peak",
+        "name": "Ränfenhorn",
+        "display_name": "Ränfenhorn, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3862, Schweiz",
+        "address": {
+            "peak": "Ränfenhorn",
+            "village": "Innertkirchen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3862",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6334438",
+            "46.6335438",
+            "8.1634378",
+            "8.1635378"
+        ]
+    }
+]

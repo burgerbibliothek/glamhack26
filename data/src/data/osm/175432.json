@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 101407724,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 47806,
+        "lat": "51.4162975",
+        "lon": "3.7028061",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.6166729946211053,
+        "addresstype": "state",
+        "name": "Seeland",
+        "display_name": "Seeland, Niederlande",
+        "address": {
+            "state": "Seeland",
+            "ISO3166-2-lvl4": "NL-ZE",
+            "country": "Niederlande",
+            "country_code": "nl"
+        },
+        "boundingbox": [
+            "51.2001624",
+            "51.7815205",
+            "3.3079354",
+            "4.2774232"
+        ]
+    }
+]

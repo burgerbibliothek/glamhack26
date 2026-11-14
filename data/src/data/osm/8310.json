@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 137958027,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 894990809,
+        "lat": "50.5886935",
+        "lon": "8.0092729",
+        "category": "leisure",
+        "type": "nature_reserve",
+        "place_rank": 24,
+        "importance": 0.22274623325780465,
+        "addresstype": "nature_reserve",
+        "name": "Seebachtal",
+        "display_name": "Seebachtal, Pottum, Westerburg, Westerwaldkreis, Rheinland-Pfalz, Deutschland",
+        "address": {
+            "nature_reserve": "Seebachtal",
+            "village": "Pottum",
+            "municipality": "Westerburg",
+            "county": "Westerwaldkreis",
+            "state": "Rheinland-Pfalz",
+            "ISO3166-2-lvl4": "DE-RP",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.5839444",
+            "50.5934546",
+            "7.9982228",
+            "8.0175696"
+        ]
+    }
+]

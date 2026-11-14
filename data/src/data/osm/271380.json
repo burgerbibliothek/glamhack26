@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 98810426,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 198270,
+        "lat": "49.6248464",
+        "lon": "2.9818110",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5876363669529038,
+        "addresstype": "village",
+        "name": "Bussy",
+        "display_name": "Bussy, Compiègne, Oise, Nordfrankreich, Metropolitanes Frankreich, 60400, Frankreich",
+        "address": {
+            "village": "Bussy",
+            "municipality": "Compiègne",
+            "county": "Oise",
+            "ISO3166-2-lvl6": "FR-60",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "60400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.6202763",
+            "49.6442374",
+            "2.9615346",
+            "2.9999499"
+        ]
+    }
+]

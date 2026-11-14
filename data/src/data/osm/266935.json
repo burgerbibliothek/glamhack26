@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 164512943,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1837722,
+        "lat": "56.9685757",
+        "lon": "21.9607780",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 14,
+        "importance": 0.5289759928204479,
+        "addresstype": "town",
+        "name": "Goldingen",
+        "display_name": "Goldingen, Kuldīgas novads, LV-3301, Lettland",
+        "address": {
+            "town": "Goldingen",
+            "municipality": "Kuldīgas novads",
+            "ISO3166-2-lvl5": "LV-050",
+            "postcode": "LV-3301",
+            "country": "Lettland",
+            "country_code": "lv"
+        },
+        "boundingbox": [
+            "56.9453373",
+            "56.9960577",
+            "21.9185837",
+            "22.0066472"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71637299,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13078248019,
+        "lat": "47.6783615",
+        "lon": "8.6148706",
+        "category": "waterway",
+        "type": "waterfall",
+        "place_rank": 20,
+        "importance": 0.4095665893217894,
+        "addresstype": "waterfall",
+        "name": "Rheinfall",
+        "display_name": "Rheinfall, Neuhausen am Rheinfall, Bezirk Schaffhausen, Schaffhausen, 8212, Schweiz",
+        "address": {
+            "waterfall": "Rheinfall",
+            "town": "Neuhausen am Rheinfall",
+            "county": "Bezirk Schaffhausen",
+            "state": "Schaffhausen",
+            "ISO3166-2-lvl4": "CH-SH",
+            "postcode": "8212",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.6783115",
+            "47.6784115",
+            "8.6148206",
+            "8.6149206"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 88589496,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 361367417,
+        "lat": "45.9149710",
+        "lon": "7.8619768",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.35782926338984733,
+        "addresstype": "peak",
+        "name": "Schwarzhorn",
+        "display_name": "Schwarzhorn, Kressenau-Oberteil, Aostatal, Italien",
+        "address": {
+            "peak": "Schwarzhorn",
+            "city": "Kressenau-Oberteil",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.9149210",
+            "45.9150210",
+            "7.8619268",
+            "7.8620268"
+        ]
+    }
+]

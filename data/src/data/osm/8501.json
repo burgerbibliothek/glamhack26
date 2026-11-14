@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 80206928,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 287875218,
+        "lat": "43.1598669",
+        "lon": "12.1879809",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.45940393879340735,
+        "addresstype": "hamlet",
+        "name": "Torricella",
+        "display_name": "Torricella, Magione, Perugia, Umbrien, 06063, Italien",
+        "address": {
+            "hamlet": "Torricella",
+            "town": "Magione",
+            "county": "Perugia",
+            "ISO3166-2-lvl6": "IT-PG",
+            "state": "Umbrien",
+            "ISO3166-2-lvl4": "IT-55",
+            "postcode": "06063",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "43.1398669",
+            "43.1798669",
+            "12.1679809",
+            "12.2079809"
+        ]
+    }
+]

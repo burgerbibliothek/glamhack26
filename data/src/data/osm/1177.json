@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145883133,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 138996583,
+        "lat": "52.8653748",
+        "lon": "13.8622277",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.13338343099107344,
+        "addresstype": "lake",
+        "name": "Bachsee",
+        "display_name": "Bachsee, Polenzwerder, Chorin, Britz-Chorin-Oderberg, Barnim, Brandenburg, Deutschland",
+        "address": {
+            "lake": "Bachsee",
+            "hamlet": "Polenzwerder",
+            "village": "Chorin",
+            "city": "Chorin",
+            "municipality": "Britz-Chorin-Oderberg",
+            "county": "Barnim",
+            "state": "Brandenburg",
+            "ISO3166-2-lvl4": "DE-BB",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.8643855",
+            "52.8663144",
+            "13.8603322",
+            "13.8637469"
+        ]
+    }
+]

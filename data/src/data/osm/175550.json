@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 94337253,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6985144036,
+        "lat": "47.3087033",
+        "lon": "4.0185923",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333942343785763,
+        "addresstype": "hamlet",
+        "name": "Les Croisettes",
+        "display_name": "Les Croisettes, Dun-les-Places, Château-Chinon (Ville), Nièvre, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 58230, Frankreich",
+        "address": {
+            "hamlet": "Les Croisettes",
+            "village": "Dun-les-Places",
+            "municipality": "Château-Chinon (Ville)",
+            "county": "Nièvre",
+            "ISO3166-2-lvl6": "FR-58",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "58230",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.2887033",
+            "47.3287033",
+            "3.9985923",
+            "4.0385923"
+        ]
+    }
+]

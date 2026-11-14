@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91847585,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683360,
+        "lat": "46.6991888",
+        "lon": "6.9753480",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3602803386784236,
+        "addresstype": "village",
+        "name": "Massonnens",
+        "display_name": "Massonnens, Glanebezirk, Freiburg, 1692, Schweiz",
+        "address": {
+            "village": "Massonnens",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1692",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6841511",
+            "46.7101854",
+            "6.9605338",
+            "6.9944296"
+        ]
+    }
+]

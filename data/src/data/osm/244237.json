@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73333179,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684104,
+        "lat": "46.3129380",
+        "lon": "9.1956341",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38382602028473783,
+        "addresstype": "village",
+        "name": "Lostallo",
+        "display_name": "Lostallo, Moesa, Graubünden, 6558, Schweiz",
+        "address": {
+            "village": "Lostallo",
+            "county": "Moesa",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "6558",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2659891",
+            "46.3407481",
+            "9.1591094",
+            "9.2850594"
+        ]
+    }
+]

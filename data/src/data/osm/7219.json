@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 152406995,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1817121,
+        "lat": "52.5167872",
+        "lon": "7.6749583",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.48621254983658774,
+        "addresstype": "town",
+        "name": "Fürstenau",
+        "display_name": "Fürstenau, Samtgemeinde Fürstenau, Landkreis Osnabrück, Niedersachsen, 49584, Deutschland",
+        "address": {
+            "town": "Fürstenau",
+            "municipality": "Samtgemeinde Fürstenau",
+            "county": "Landkreis Osnabrück",
+            "state": "Niedersachsen",
+            "ISO3166-2-lvl4": "DE-NI",
+            "postcode": "49584",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4566846",
+            "52.5471428",
+            "7.6044684",
+            "7.7971605"
+        ]
+    }
+]

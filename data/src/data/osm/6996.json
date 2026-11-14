@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92939588,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685589,
+        "lat": "47.3307745",
+        "lon": "7.2799348",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3479646975901272,
+        "addresstype": "city_district",
+        "name": "Courfaivre",
+        "display_name": "Courfaivre, Haute-Sorne, Bezirk Delsberg, Jura, 2853, Schweiz",
+        "address": {
+            "city_district": "Courfaivre",
+            "city": "Haute-Sorne",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2853",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3097451",
+            "47.3513876",
+            "7.2555317",
+            "7.3016050"
+        ]
+    }
+]

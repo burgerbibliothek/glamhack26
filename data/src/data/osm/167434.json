@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 119106958,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 16418421,
+        "lat": "49.6926363",
+        "lon": "6.0015455",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.26124069590558274,
+        "addresstype": "village",
+        "name": "Roodt-Eisch",
+        "display_name": "Roodt-Eisch, Habscht, Kanton Kapellen, 8398, Luxemburg",
+        "address": {
+            "village": "Roodt-Eisch",
+            "city": "Habscht",
+            "county": "Kanton Kapellen",
+            "ISO3166-2-lvl6": "LU-CA",
+            "postcode": "8398",
+            "country": "Luxemburg",
+            "country_code": "lu"
+        },
+        "boundingbox": [
+            "49.6857458",
+            "49.6982637",
+            "5.9856543",
+            "6.0228148"
+        ]
+    }
+]

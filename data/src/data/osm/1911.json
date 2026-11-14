@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73470550,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1442399,
+        "lat": "46.9854343",
+        "lon": "8.4988429",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.5112380552448913,
+        "addresstype": "lake",
+        "name": "Vierwaldstättersee",
+        "display_name": "Vierwaldstättersee, Gersau, Schwyz, Schweiz",
+        "address": {
+            "lake": "Vierwaldstättersee",
+            "county": "Gersau",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8886684",
+            "47.0821881",
+            "8.2787799",
+            "8.6250237"
+        ]
+    }
+]

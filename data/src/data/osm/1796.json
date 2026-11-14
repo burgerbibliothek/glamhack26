@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91516445,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 304323886,
+        "lat": "46.7306919",
+        "lon": "7.7704094",
+        "category": "tourism",
+        "type": "viewpoint",
+        "place_rank": 30,
+        "importance": 0.4438716956635516,
+        "addresstype": "tourism",
+        "name": "Sigriswiler Rothorn",
+        "display_name": "Sigriswiler Rothorn, Zettenalpstrasse, Sigriswil, Verwaltungskreis Thun, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "tourism": "Sigriswiler Rothorn",
+            "road": "Zettenalpstrasse",
+            "village": "Sigriswil",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7306419",
+            "46.7307419",
+            "7.7703594",
+            "7.7704594"
+        ]
+    }
+]

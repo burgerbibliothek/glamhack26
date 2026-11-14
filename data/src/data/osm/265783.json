@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73028542,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2430894111,
+        "lat": "47.2176189",
+        "lon": "8.0609979",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337379034103913,
+        "addresstype": "hamlet",
+        "name": "Dieboldswil",
+        "display_name": "Dieboldswil, Triengen, Luzern, 6236, Schweiz",
+        "address": {
+            "hamlet": "Dieboldswil",
+            "village": "Triengen",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6236",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1976189",
+            "47.2376189",
+            "8.0409979",
+            "8.0809979"
+        ]
+    }
+]

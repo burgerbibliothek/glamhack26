@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 80984835,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2391258451,
+        "lat": "41.0540622",
+        "lon": "14.7127725",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339266422522314,
+        "addresstype": "hamlet",
+        "name": "Zolli",
+        "display_name": "Zolli, Tufara Valle, Roccabascerana, Avellino, Kampanien, 83016, Italien",
+        "address": {
+            "hamlet": "Zolli",
+            "village": "Tufara Valle",
+            "county": "Avellino",
+            "ISO3166-2-lvl6": "IT-AV",
+            "state": "Kampanien",
+            "ISO3166-2-lvl4": "IT-72",
+            "postcode": "83016",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "41.0340622",
+            "41.0740622",
+            "14.6927725",
+            "14.7327725"
+        ]
+    }
+]

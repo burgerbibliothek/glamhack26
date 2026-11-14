@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 66553617,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10974293187,
+        "lat": "47.4943086",
+        "lon": "19.0562695",
+        "category": "office",
+        "type": "government",
+        "place_rank": 30,
+        "importance": 8.408560311279495e-05,
+        "addresstype": "office",
+        "name": "Pest Megyei Önkormányzati Hivatal",
+        "display_name": "Pest Megyei Önkormányzati Hivatal, 7, Rathausgasse, Pest, Innenstadt, V. Bezirk, Budapest, 1052, Ungarn",
+        "address": {
+            "office": "Pest Megyei Önkormányzati Hivatal",
+            "house_number": "7",
+            "road": "Rathausgasse",
+            "suburb": "Pest",
+            "borough": "V. Bezirk",
+            "city": "Budapest",
+            "ISO3166-2-lvl8": "HU-BU",
+            "region": "Budapest",
+            "ISO3166-2-lvl6": "HU-BU",
+            "postcode": "1052",
+            "country": "Ungarn",
+            "country_code": "hu"
+        },
+        "boundingbox": [
+            "47.4942586",
+            "47.4943586",
+            "19.0562195",
+            "19.0563195"
+        ]
+    }
+]

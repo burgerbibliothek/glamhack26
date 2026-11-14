@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73583705,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 14715785,
+        "lat": "46.7669635",
+        "lon": "8.8304752",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.10670985351338977,
+        "addresstype": "glacier",
+        "name": "Tschingelgletscher",
+        "display_name": "Tschingelgletscher, Silenen, Surselva, Uri, Schweiz",
+        "address": {
+            "glacier": "Tschingelgletscher",
+            "village": "Silenen",
+            "county": "Surselva",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7651120",
+            "46.7690533",
+            "8.8212756",
+            "8.8340850"
+        ]
+    }
+]

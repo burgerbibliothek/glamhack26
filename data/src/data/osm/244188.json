@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 93581008,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 65688,
+        "lat": "47.5065310",
+        "lon": "6.9998457",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4980812083544254,
+        "addresstype": "village",
+        "name": "Dettenried",
+        "display_name": "Dettenried, Belfort, Territoire-de-Belfort, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 90100, Frankreich",
+        "address": {
+            "village": "Dettenried",
+            "municipality": "Belfort",
+            "county": "Territoire-de-Belfort",
+            "ISO3166-2-lvl6": "FR-90",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "90100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.4933390",
+            "47.5246784",
+            "6.9641158",
+            "7.0282106"
+        ]
+    }
+]

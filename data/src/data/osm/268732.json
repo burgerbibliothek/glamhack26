@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91623193,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 419259238,
+        "lat": "46.2599735",
+        "lon": "7.8954813",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337083466849772,
+        "addresstype": "hamlet",
+        "name": "Niederhäusern",
+        "display_name": "Niederhäusern, Visperterminen, Visp, Oberwallis, Wallis, 3932, Schweiz",
+        "address": {
+            "hamlet": "Niederhäusern",
+            "village": "Visperterminen",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3932",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2399735",
+            "46.2799735",
+            "7.8754813",
+            "7.9154813"
+        ]
+    }
+]

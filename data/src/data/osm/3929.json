@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145936965,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10300700625,
+        "lat": "52.5237748",
+        "lon": "13.3944346",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "9, Monbijoustraße, Spandauer Vorstadt, Mitte, Berlin, 10117, Deutschland",
+        "address": {
+            "house_number": "9",
+            "road": "Monbijoustraße",
+            "quarter": "Spandauer Vorstadt",
+            "suburb": "Mitte",
+            "borough": "Mitte",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10117",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5237248",
+            "52.5238248",
+            "13.3943846",
+            "13.3944846"
+        ]
+    }
+]

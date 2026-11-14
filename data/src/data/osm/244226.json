@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 74035395,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 985109112,
+        "lat": "46.2168157",
+        "lon": "9.0419663",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.053383334859235486,
+        "addresstype": "residential",
+        "name": "Via Molinazzo",
+        "display_name": "Via Molinazzo, Arbedo, Arbedo-Castione, Kreis Arbedo-Castione, Bezirk Bellinzona, Tessin, 6517, Schweiz",
+        "address": {
+            "road": "Via Molinazzo",
+            "village": "Arbedo",
+            "city": "Arbedo-Castione",
+            "municipality": "Kreis Arbedo-Castione",
+            "county": "Bezirk Bellinzona",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6517",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2167101",
+            "46.2169368",
+            "9.0418593",
+            "9.0420516"
+        ]
+    }
+]

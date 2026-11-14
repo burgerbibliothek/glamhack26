@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91711439,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683425,
+        "lat": "46.6174394",
+        "lon": "7.0233135",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3908938462590478,
+        "addresstype": "village",
+        "name": "Vuadens",
+        "display_name": "Vuadens, Greyerzbezirk, Freiburg, 1628, Schweiz",
+        "address": {
+            "village": "Vuadens",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1628",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5738229",
+            "46.6295822",
+            "6.9791755",
+            "7.0375130"
+        ]
+    }
+]

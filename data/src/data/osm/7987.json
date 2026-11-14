@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91611720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682596,
+        "lat": "46.6572051",
+        "lon": "7.4358295",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39189118331215606,
+        "addresstype": "village",
+        "name": "Oberwil im Simmental",
+        "display_name": "Oberwil im Simmental, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3765, Schweiz",
+        "address": {
+            "village": "Oberwil im Simmental",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3765",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5979496",
+            "46.7029854",
+            "7.3692772",
+            "7.4775818"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91448234,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10056345479,
+        "lat": "46.9425578",
+        "lon": "7.4189074",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "23, Holligenstrasse, Holligen, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3008, Schweiz",
+        "address": {
+            "house_number": "23",
+            "road": "Holligenstrasse",
+            "quarter": "Holligen",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3008",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9425078",
+            "46.9426078",
+            "7.4188574",
+            "7.4189574"
+        ]
+    }
+]

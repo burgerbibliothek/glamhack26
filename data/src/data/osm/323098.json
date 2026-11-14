@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 146132943,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2958570357,
+        "lat": "52.5918750",
+        "lon": "13.3999684",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "5A, Mittelstraße, Nordend, Rosenthal, Pankow, Berlin, 13158, Deutschland",
+        "address": {
+            "house_number": "5A",
+            "road": "Mittelstraße",
+            "quarter": "Nordend",
+            "suburb": "Rosenthal",
+            "borough": "Pankow",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13158",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5918250",
+            "52.5919250",
+            "13.3999184",
+            "13.4000184"
+        ]
+    }
+]

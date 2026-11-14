@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72081863,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 497506419,
+        "lat": "47.2948826",
+        "lon": "8.8863578",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4493771408372394,
+        "addresstype": "peak",
+        "name": "Bachtel",
+        "display_name": "Bachtel, Hinwil, Bezirk Hinwil, Zürich, 8342, Schweiz",
+        "address": {
+            "peak": "Bachtel",
+            "village": "Hinwil",
+            "county": "Bezirk Hinwil",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8342",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2948326",
+            "47.2949326",
+            "8.8863078",
+            "8.8864078"
+        ]
+    }
+]

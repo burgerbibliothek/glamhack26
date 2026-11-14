@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91606312,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10022410003,
+        "lat": "46.7066924",
+        "lon": "7.9647315",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 4.710994125272019e-05,
+        "addresstype": "information",
+        "name": "Mülibachfall",
+        "display_name": "Mülibachfall, A8, Müligrund, Twerweg, Iseltwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3807, Schweiz",
+        "address": {
+            "information": "Mülibachfall",
+            "road": "A8",
+            "neighbourhood": "Müligrund",
+            "hamlet": "Twerweg",
+            "village": "Iseltwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3807",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7066424",
+            "46.7067424",
+            "7.9646815",
+            "7.9647815"
+        ]
+    }
+]

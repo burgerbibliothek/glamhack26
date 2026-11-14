@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93819002,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682394,
+        "lat": "47.1265535",
+        "lon": "7.2773110",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40880653590732546,
+        "addresstype": "village",
+        "name": "Brügg",
+        "display_name": "Brügg, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2555, Schweiz",
+        "address": {
+            "village": "Brügg",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2555",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1160970",
+            "47.1405569",
+            "7.2543896",
+            "7.3033836"
+        ]
+    }
+]

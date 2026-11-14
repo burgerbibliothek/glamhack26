@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91863422,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4670214993,
+        "lat": "46.5893609",
+        "lon": "7.3812189",
+        "category": "waterway",
+        "type": "waterfall",
+        "place_rank": 20,
+        "importance": 0.13337774700541694,
+        "addresstype": "waterfall",
+        "name": "Laubeggfall",
+        "display_name": "Laubeggfall, Weissenbach, Boltigen, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3766, Schweiz",
+        "address": {
+            "waterfall": "Laubeggfall",
+            "village": "Weissenbach",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3766",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5893109",
+            "46.5894109",
+            "7.3811689",
+            "7.3812689"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 112195772,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 107239969,
+        "lat": "51.1657764",
+        "lon": "6.8729135",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.726176852059232e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "19, Cäcilienstraße, Dorf, Paulsmühle, Benrath, Stadtbezirk 9, Düsseldorf, Nordrhein-Westfalen, 40597, Deutschland",
+        "address": {
+            "house_number": "19",
+            "road": "Cäcilienstraße",
+            "neighbourhood": "Dorf",
+            "quarter": "Paulsmühle",
+            "suburb": "Benrath",
+            "city_district": "Stadtbezirk 9",
+            "city": "Düsseldorf",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "40597",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.1656851",
+            "51.1658828",
+            "6.8728270",
+            "6.8729995"
+        ]
+    }
+]

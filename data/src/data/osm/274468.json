@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 137981233,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 533250,
+        "lat": "50.6407001",
+        "lon": "8.1058112",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5118220849569409,
+        "addresstype": "village",
+        "name": "Homberg",
+        "display_name": "Homberg, Rennerod, Westerwaldkreis, Rheinland-Pfalz, Deutschland",
+        "address": {
+            "village": "Homberg",
+            "municipality": "Rennerod",
+            "county": "Westerwaldkreis",
+            "state": "Rheinland-Pfalz",
+            "ISO3166-2-lvl4": "DE-RP",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.6280918",
+            "50.6522524",
+            "8.0914589",
+            "8.1209753"
+        ]
+    }
+]

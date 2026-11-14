@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71552737,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 29126417,
+        "lat": "47.5310946",
+        "lon": "9.1235528",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671416723887995,
+        "addresstype": "village",
+        "name": "Mettlen",
+        "display_name": "Mettlen, Bussnang, Bezirk Weinfelden, Thurgau, 9517, Schweiz",
+        "address": {
+            "village": "Mettlen",
+            "county": "Bezirk Weinfelden",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "9517",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5110946",
+            "47.5510946",
+            "9.1035528",
+            "9.1435528"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73441459,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 488483501,
+        "lat": "46.7878445",
+        "lon": "8.3683202",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44439175935963043,
+        "addresstype": "peak",
+        "name": "Graustock",
+        "display_name": "Graustock, Kerns, Obwalden, Schweiz",
+        "address": {
+            "peak": "Graustock",
+            "village": "Kerns",
+            "state": "Obwalden",
+            "ISO3166-2-lvl4": "CH-OW",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7877945",
+            "46.7878945",
+            "8.3682702",
+            "8.3683702"
+        ]
+    }
+]

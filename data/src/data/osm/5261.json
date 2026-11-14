@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 70738534,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 763488237,
+        "lat": "47.2699760",
+        "lon": "11.4065371",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.47196154726027e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "7, Zeughausgasse, Dreiheiligen, Innsbruck, Tirol, 6020, Österreich",
+        "address": {
+            "house_number": "7",
+            "road": "Zeughausgasse",
+            "suburb": "Dreiheiligen",
+            "city_district": "Innsbruck",
+            "city": "Innsbruck",
+            "state": "Tirol",
+            "ISO3166-2-lvl4": "AT-7",
+            "postcode": "6020",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.2699260",
+            "47.2700260",
+            "11.4064871",
+            "11.4065871"
+        ]
+    }
+]

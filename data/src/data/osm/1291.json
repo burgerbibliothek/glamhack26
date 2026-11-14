@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 74390236,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 47070,
+        "lat": "46.2499881",
+        "lon": "11.1693479",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5609658719066576,
+        "addresstype": "village",
+        "name": "Eichholz;Aichholz",
+        "display_name": "Eichholz;Aichholz, Comunità Rotaliana-Königsberg, Autonome Provinz Trient, Trentino-Südtirol, Italien",
+        "address": {
+            "village": "Eichholz;Aichholz",
+            "municipality": "Comunità Rotaliana-Königsberg",
+            "county": "Autonome Provinz Trient",
+            "ISO3166-2-lvl6": "IT-TN",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.2327483",
+            "46.2833158",
+            "11.1330727",
+            "11.2025100"
+        ]
+    }
+]

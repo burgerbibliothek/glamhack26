@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72493617,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 33786894,
+        "lat": "47.4700118",
+        "lon": "8.2995462",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 5.323491264205413e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "6a, Stadtbachstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz",
+        "address": {
+            "house_number": "6a",
+            "road": "Stadtbachstrasse",
+            "quarter": "Allmend",
+            "village": "Dättwil AG",
+            "town": "Baden",
+            "county": "Bezirk Baden",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5400",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4699384",
+            "47.4700959",
+            "8.2994300",
+            "8.2996525"
+        ]
+    }
+]

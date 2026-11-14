@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73706011,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1682930409,
+        "lat": "46.3355198",
+        "lon": "9.1208435",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.3466613603637845,
+        "addresstype": "hamlet",
+        "name": "Cauco",
+        "display_name": "Cauco, Calanca, Moesa, Graubünden, 6546, Schweiz",
+        "address": {
+            "hamlet": "Cauco",
+            "city": "Calanca",
+            "county": "Moesa",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "6546",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3155198",
+            "46.3555198",
+            "9.1008435",
+            "9.1408435"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93332041,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683629,
+        "lat": "47.5234501",
+        "lon": "7.5748727",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3933592766861344,
+        "addresstype": "village",
+        "name": "Bottmingen",
+        "display_name": "Bottmingen, Bezirk Arlesheim, Basel-Landschaft, 4103, Schweiz",
+        "address": {
+            "village": "Bottmingen",
+            "county": "Bezirk Arlesheim",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4103",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5108192",
+            "47.5313277",
+            "7.5585291",
+            "7.5900421"
+        ]
+    }
+]

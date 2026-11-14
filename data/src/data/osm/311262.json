@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72125942,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 61814680,
+        "lat": "47.4052570",
+        "lon": "8.5510641",
+        "category": "building",
+        "type": "semidetached_house",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "44, Viktoriastrasse, Oerlikon, Kreis 11, Zürich, Bezirk Zürich, Zürich, 8050, Schweiz",
+        "address": {
+            "house_number": "44",
+            "road": "Viktoriastrasse",
+            "suburb": "Oerlikon",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8050",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4052062",
+            "47.4053078",
+            "8.5509885",
+            "8.5511397"
+        ]
+    }
+]

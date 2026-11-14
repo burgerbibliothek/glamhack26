@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91404666,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 31664301,
+        "lat": "46.4247335",
+        "lon": "7.6935866",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4531737914413923,
+        "addresstype": "peak",
+        "name": "Balmhorn",
+        "display_name": "Balmhorn, Leukerbad, Leuk, Oberwallis, Wallis, 3954, Schweiz",
+        "address": {
+            "peak": "Balmhorn",
+            "village": "Leukerbad",
+            "county": "Leuk",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3954",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4246835",
+            "46.4247835",
+            "7.6935366",
+            "7.6936366"
+        ]
+    }
+]

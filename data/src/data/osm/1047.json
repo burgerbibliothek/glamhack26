@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 425580324,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 26707240,
+        "lat": "40.7509175",
+        "lon": "14.4884757",
+        "category": "historic",
+        "type": "archaeological_site",
+        "place_rank": 30,
+        "importance": 0.41694355024061613,
+        "addresstype": "historic",
+        "name": "Pompeji",
+        "display_name": "Pompeji, Percorso fuori le mura, Masseria Curato, Pompei, Metropolitanstadt Neapel, Kampanien, 80045, Italien",
+        "address": {
+            "historic": "Pompeji",
+            "road": "Percorso fuori le mura",
+            "hamlet": "Masseria Curato",
+            "town": "Pompei",
+            "county": "Metropolitanstadt Neapel",
+            "ISO3166-2-lvl6": "IT-NA",
+            "state": "Kampanien",
+            "ISO3166-2-lvl4": "IT-72",
+            "postcode": "80045",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "40.7469049",
+            "40.7549331",
+            "14.4767524",
+            "14.4970513"
+        ]
+    }
+]

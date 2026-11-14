@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91495265,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240064161,
+        "lat": "46.8365201",
+        "lon": "7.6426754",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3668857539234569,
+        "addresstype": "village",
+        "name": "Aeschlen bei Oberdiessbach",
+        "display_name": "Aeschlen bei Oberdiessbach, Oberdiessbach, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3672, Schweiz",
+        "address": {
+            "village": "Aeschlen bei Oberdiessbach",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3672",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8165201",
+            "46.8565201",
+            "7.6226754",
+            "7.6626754"
+        ]
+    }
+]

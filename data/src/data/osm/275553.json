@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73385610,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7810500157,
+        "lat": "46.9579424",
+        "lon": "9.0336101",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671448157473106,
+        "addresstype": "locality",
+        "name": "Fürigen",
+        "display_name": "Fürigen, Schlattberg, Hätzingen, Glarus Süd, Glarus, 8775, Schweiz",
+        "address": {
+            "locality": "Fürigen",
+            "hamlet": "Schlattberg",
+            "village": "Hätzingen",
+            "city": "Glarus Süd",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "postcode": "8775",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9479424",
+            "46.9679424",
+            "9.0236101",
+            "9.0436101"
+        ]
+    }
+]

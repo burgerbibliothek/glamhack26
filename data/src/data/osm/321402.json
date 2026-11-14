@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91863766,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 529345181,
+        "lat": "46.9359380",
+        "lon": "7.4656164",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "63, Brunnadernstrasse, Brunnadern, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "house_number": "63",
+            "road": "Brunnadernstrasse",
+            "quarter": "Brunnadern",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9358880",
+            "46.9359880",
+            "7.4655664",
+            "7.4656664"
+        ]
+    }
+]

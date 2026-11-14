@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92352271,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682481,
+        "lat": "47.0418711",
+        "lon": "7.5383058",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4272315799582546,
+        "addresstype": "village",
+        "name": "Hindelbank",
+        "display_name": "Hindelbank, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3324, Schweiz",
+        "address": {
+            "village": "Hindelbank",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3324",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0218581",
+            "47.0584562",
+            "7.5247711",
+            "7.5837679"
+        ]
+    }
+]

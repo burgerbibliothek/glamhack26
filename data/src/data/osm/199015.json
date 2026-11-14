@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73234773,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2198016,
+        "lat": "47.0632228",
+        "lon": "9.0601734",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.47320064110768484,
+        "addresstype": "river",
+        "name": "Linth",
+        "display_name": "Linth, March, Glarus, Schweiz",
+        "address": {
+            "river": "Linth",
+            "county": "March",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8658921",
+            "47.2181604",
+            "8.9414772",
+            "9.1217007"
+        ]
+    }
+]

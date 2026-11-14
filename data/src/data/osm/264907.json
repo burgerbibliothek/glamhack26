@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91510525,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685399,
+        "lat": "46.2589888",
+        "lon": "7.9030118",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39189118331215606,
+        "addresstype": "village",
+        "name": "Visperterminen",
+        "display_name": "Visperterminen, Visp, Oberwallis, Wallis, 3932, Schweiz",
+        "address": {
+            "village": "Visperterminen",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3932",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1855591",
+            "46.2874671",
+            "7.8767046",
+            "7.9952170"
+        ]
+    }
+]

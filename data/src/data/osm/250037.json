@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72207887,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1078298837,
+        "lat": "47.3130044",
+        "lon": "8.9132336",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.21584611680957558,
+        "addresstype": "village",
+        "name": "Gibswil",
+        "display_name": "Gibswil, Fischenthal, Bezirk Hinwil, Zürich, 8498, Schweiz",
+        "address": {
+            "village": "Gibswil",
+            "county": "Bezirk Hinwil",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8498",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2930044",
+            "47.3330044",
+            "8.8932336",
+            "8.9332336"
+        ]
+    }
+]

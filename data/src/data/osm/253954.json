@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73580959,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3163552690,
+        "lat": "46.9430327",
+        "lon": "8.8311956",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1467153406576638,
+        "addresstype": "village",
+        "name": "Bisisthal",
+        "display_name": "Bisisthal, Muotathal, Schwyz, 6436, Schweiz",
+        "address": {
+            "village": "Bisisthal",
+            "county": "Schwyz",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "6436",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9230327",
+            "46.9630327",
+            "8.8111956",
+            "8.8511956"
+        ]
+    }
+]

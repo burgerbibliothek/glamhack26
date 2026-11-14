@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93110500,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685632,
+        "lat": "47.3015483",
+        "lon": "7.2163023",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3489254561527194,
+        "addresstype": "city_district",
+        "name": "Undervelier",
+        "display_name": "Undervelier, Haute-Sorne, Bezirk Delsberg, Jura, 2863, Schweiz",
+        "address": {
+            "city_district": "Undervelier",
+            "city": "Haute-Sorne",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2863",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2851665",
+            "47.3177941",
+            "7.1745084",
+            "7.2685989"
+        ]
+    }
+]

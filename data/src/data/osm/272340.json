@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72676983,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1701580,
+        "lat": "47.4016598",
+        "lon": "8.4976694",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.3726646801410257,
+        "addresstype": "suburb",
+        "name": "Höngg",
+        "display_name": "Höngg, Kreis 10, Zürich, Bezirk Zürich, Zürich, Schweiz",
+        "address": {
+            "suburb": "Höngg",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3939582",
+            "47.4230013",
+            "8.4680179",
+            "8.5254716"
+        ]
+    }
+]

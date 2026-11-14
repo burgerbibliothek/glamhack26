@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93139901,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683482,
+        "lat": "47.1810605",
+        "lon": "7.5626086",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4110607347550433,
+        "addresstype": "village",
+        "name": "Biberist",
+        "display_name": "Biberist, Bezirk Wasseramt, Amtei Bucheggberg-Wasseramt, Solothurn, 4562, Schweiz",
+        "address": {
+            "village": "Biberist",
+            "municipality": "Bezirk Wasseramt",
+            "county": "Amtei Bucheggberg-Wasseramt",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4562",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1603674",
+            "47.2022682",
+            "7.5104415",
+            "7.5782790"
+        ]
+    }
+]

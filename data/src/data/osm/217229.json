@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91848296,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 33655246,
+        "lat": "46.5111319",
+        "lon": "7.7701800",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.20813244289121335,
+        "addresstype": "mountain_pass",
+        "name": "Hohtürli",
+        "display_name": "Hohtürli, Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3718, Schweiz",
+        "address": {
+            "mountain_pass": "Hohtürli",
+            "village": "Kandersteg",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3718",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5110819",
+            "46.5111819",
+            "7.7701300",
+            "7.7702300"
+        ]
+    }
+]

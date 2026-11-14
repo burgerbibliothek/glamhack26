@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72517523,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683911,
+        "lat": "47.2282045",
+        "lon": "9.2240492",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3775654447696771,
+        "addresstype": "city",
+        "name": "Nesslau",
+        "display_name": "Nesslau, Wahlkreis Toggenburg, St. Gallen, Schweiz",
+        "address": {
+            "city": "Nesslau",
+            "county": "Wahlkreis Toggenburg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1772732",
+            "47.2788871",
+            "9.1228329",
+            "9.3238030"
+        ]
+    }
+]

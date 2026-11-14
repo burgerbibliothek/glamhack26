@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92714288,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682713,
+        "lat": "47.2311037",
+        "lon": "7.6851028",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42326725132893583,
+        "addresstype": "village",
+        "name": "Walliswil bei Wangen",
+        "display_name": "Walliswil bei Wangen, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 3377, Schweiz",
+        "address": {
+            "village": "Walliswil bei Wangen",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3377",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2143611",
+            "47.2366732",
+            "7.6705177",
+            "7.7017435"
+        ]
+    }
+]

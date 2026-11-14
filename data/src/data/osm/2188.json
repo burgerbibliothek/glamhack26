@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 146585135,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2383621739,
+        "lat": "52.4592094",
+        "lon": "13.2914702",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "24, Archivstraße, Dahlem, Steglitz-Zehlendorf, Berlin, 14195, Deutschland",
+        "address": {
+            "house_number": "24",
+            "road": "Archivstraße",
+            "suburb": "Dahlem",
+            "borough": "Steglitz-Zehlendorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "14195",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4591594",
+            "52.4592594",
+            "13.2914202",
+            "13.2915202"
+        ]
+    }
+]

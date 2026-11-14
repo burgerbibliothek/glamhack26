@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72171295,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682248,
+        "lat": "47.3744489",
+        "lon": "8.5410422",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.7469731774636671,
+        "addresstype": "city",
+        "name": "Zürich",
+        "display_name": "Zürich, Bezirk Zürich, Zürich, Schweiz",
+        "address": {
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3202184",
+            "47.4346650",
+            "8.4480182",
+            "8.6254529"
+        ]
+    }
+]

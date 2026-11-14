@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 67468910,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 110614,
+        "lat": "47.6162058",
+        "lon": "16.1259492",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4229600238656843,
+        "addresstype": "village",
+        "name": "Grimmenstein",
+        "display_name": "Grimmenstein, Bezirk Neunkirchen, Niederösterreich, 2840, Österreich",
+        "address": {
+            "village": "Grimmenstein",
+            "county": "Bezirk Neunkirchen",
+            "state": "Niederösterreich",
+            "ISO3166-2-lvl4": "AT-3",
+            "postcode": "2840",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.5947166",
+            "47.6419980",
+            "16.0784116",
+            "16.1388282"
+        ]
+    }
+]

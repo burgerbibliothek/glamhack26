@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 89015210,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1438494348,
+        "lat": "45.8509504",
+        "lon": "6.8312381",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.3750543179568698,
+        "addresstype": "peak",
+        "name": "Aiguille du Goûter",
+        "display_name": "Aiguille du Goûter, Saint-Gervais-les-Bains, Bonneville, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74170, Frankreich",
+        "address": {
+            "peak": "Aiguille du Goûter",
+            "village": "Saint-Gervais-les-Bains",
+            "municipality": "Bonneville",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74170",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.8509004",
+            "45.8510004",
+            "6.8311881",
+            "6.8312881"
+        ]
+    }
+]

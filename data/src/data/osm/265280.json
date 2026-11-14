@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91694801,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 30286612,
+        "lat": "46.3639825",
+        "lon": "7.0050595",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.13338536736095213,
+        "addresstype": "lake",
+        "name": "Lac d'Aï",
+        "display_name": "Lac d'Aï, Leysin, Aigle District, Waadt, 1854, Schweiz",
+        "address": {
+            "lake": "Lac d'Aï",
+            "village": "Leysin",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1854",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3636286",
+            "46.3643649",
+            "7.0041200",
+            "7.0060024"
+        ]
+    }
+]

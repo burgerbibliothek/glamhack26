@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71540862,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2990144010,
+        "lat": "47.5521912",
+        "lon": "9.0161057",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2946949388609965,
+        "addresstype": "village",
+        "name": "Strohwilen",
+        "display_name": "Strohwilen, Amlikon-Bissegg, Bezirk Weinfelden, Thurgau, 8514, Schweiz",
+        "address": {
+            "village": "Strohwilen",
+            "city": "Amlikon-Bissegg",
+            "county": "Bezirk Weinfelden",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8514",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5321912",
+            "47.5721912",
+            "8.9961057",
+            "9.0361057"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72994251,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240062654,
+        "lat": "47.3500000",
+        "lon": "9.7500000",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14672567101548786,
+        "addresstype": "village",
+        "name": "Ebnit",
+        "display_name": "Ebnit, Dornbirn, Bezirk Dornbirn, Vorarlberg, 6850, Österreich",
+        "address": {
+            "village": "Ebnit",
+            "town": "Dornbirn",
+            "county": "Bezirk Dornbirn",
+            "state": "Vorarlberg",
+            "ISO3166-2-lvl4": "AT-8",
+            "postcode": "6850",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.3300000",
+            "47.3700000",
+            "9.7300000",
+            "9.7700000"
+        ]
+    }
+]

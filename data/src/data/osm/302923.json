@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 133892338,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3121883279,
+        "lat": "50.8193789",
+        "lon": "14.8243471",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005869153887234,
+        "addresstype": "peak",
+        "name": "Birne",
+        "display_name": "Birne, Grottau, Bezirk Reichenberg, Reichenberger Region, 463 55, Tschechien",
+        "address": {
+            "peak": "Birne",
+            "town": "Grottau",
+            "district": "Bezirk Reichenberg",
+            "ISO3166-2-lvl5": "CZ-513",
+            "state": "Reichenberger Region",
+            "ISO3166-2-lvl4": "CZ-51",
+            "postcode": "463 55",
+            "country": "Tschechien",
+            "country_code": "cz"
+        },
+        "boundingbox": [
+            "50.8193289",
+            "50.8194289",
+            "14.8242971",
+            "14.8243971"
+        ]
+    }
+]

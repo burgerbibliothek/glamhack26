@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 115374159,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11218566655,
+        "lat": "50.5001064",
+        "lon": "7.5224578",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.10671900282291903,
+        "addresstype": "valley",
+        "name": "Laufental",
+        "display_name": "Laufental, Neuwied, Landkreis Neuwied, Rheinland-Pfalz, 56567, Deutschland",
+        "address": {
+            "valley": "Laufental",
+            "town": "Neuwied",
+            "county": "Landkreis Neuwied",
+            "state": "Rheinland-Pfalz",
+            "ISO3166-2-lvl4": "DE-RP",
+            "postcode": "56567",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.5000564",
+            "50.5001564",
+            "7.5224078",
+            "7.5225078"
+        ]
+    }
+]

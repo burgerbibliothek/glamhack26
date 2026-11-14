@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 381524831,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 4688823,
+        "lat": "46.9492836",
+        "lon": "7.4570500",
+        "category": "highway",
+        "type": "living_street",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "living_street",
+        "name": "Nydeggstalden",
+        "display_name": "Nydeggstalden, Matte, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "road": "Nydeggstalden",
+            "quarter": "Matte",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9488301",
+            "46.9493715",
+            "7.4565724",
+            "7.4576998"
+        ]
+    }
+]

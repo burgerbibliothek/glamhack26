@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92640751,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683725,
+        "lat": "47.4305811",
+        "lon": "7.7063432",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3692588589939114,
+        "addresstype": "village",
+        "name": "Ziefen",
+        "display_name": "Ziefen, Bezirk Liestal, Basel-Landschaft, 4417, Schweiz",
+        "address": {
+            "village": "Ziefen",
+            "county": "Bezirk Liestal",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4417",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4125710",
+            "47.4473170",
+            "7.6738537",
+            "7.7237382"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72528801,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1262086033,
+        "lat": "47.3518692",
+        "lon": "8.4874187",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.4469318768565461,
+        "addresstype": "railway",
+        "name": "Uetliberg",
+        "display_name": "Uetliberg, Friesenberg, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8063, Schweiz",
+        "address": {
+            "railway": "Uetliberg",
+            "road": "Uetliberg",
+            "quarter": "Friesenberg",
+            "suburb": "Kreis 3",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8063",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3468692",
+            "47.3568692",
+            "8.4824187",
+            "8.4924187"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 73121866,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 105021121,
+        "lat": "47.3935448",
+        "lon": "9.7374798",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.9004348821195046e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "53, Badgasse, Mühlebach, Hatlerdorf, Dornbirn, Bezirk Dornbirn, Vorarlberg, 6850, Österreich",
+        "address": {
+            "house_number": "53",
+            "road": "Badgasse",
+            "neighbourhood": "Mühlebach",
+            "suburb": "Hatlerdorf",
+            "town": "Dornbirn",
+            "county": "Bezirk Dornbirn",
+            "state": "Vorarlberg",
+            "ISO3166-2-lvl4": "AT-8",
+            "postcode": "6850",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.3934691",
+            "47.3936349",
+            "9.7374010",
+            "9.7375562"
+        ]
+    }
+]

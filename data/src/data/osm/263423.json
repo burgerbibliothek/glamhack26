@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73462667,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1372233206,
+        "lat": "46.6807860",
+        "lon": "8.1861770",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16004951781490806,
+        "addresstype": "peak",
+        "name": "Hohjegiburg",
+        "display_name": "Hohjegiburg, Schattenhalb, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "peak": "Hohjegiburg",
+            "village": "Schattenhalb",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6807360",
+            "46.6808360",
+            "8.1861270",
+            "8.1862270"
+        ]
+    }
+]

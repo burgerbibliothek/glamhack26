@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73104905,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683953,
+        "lat": "47.2250882",
+        "lon": "8.9855600",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4218210293457707,
+        "addresstype": "village",
+        "name": "Uznach",
+        "display_name": "Uznach, Wahlkreis See-Gaster, St. Gallen, 8730, Schweiz",
+        "address": {
+            "village": "Uznach",
+            "county": "Wahlkreis See-Gaster",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "8730",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2089086",
+            "47.2411805",
+            "8.9548205",
+            "9.0070852"
+        ]
+    }
+]

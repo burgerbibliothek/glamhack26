@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 88718636,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 14779748,
+        "lat": "45.9666928",
+        "lon": "7.8563701",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.4236746587649978,
+        "addresstype": "glacier",
+        "name": "Gornergletscher",
+        "display_name": "Gornergletscher, Zermatt, Visp, Oberwallis, Wallis, 3920, Schweiz",
+        "address": {
+            "glacier": "Gornergletscher",
+            "town": "Zermatt",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3920",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9488254",
+            "45.9851956",
+            "7.7513442",
+            "7.8929711"
+        ]
+    }
+]

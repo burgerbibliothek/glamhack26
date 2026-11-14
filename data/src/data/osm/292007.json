@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 185455257,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 211741882,
+        "lat": "48.2176515",
+        "lon": "16.2469127",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "54, Mittelstraße, Knödelhütte, Katastralgemeinde Hadersdorf, Penzing, Wien, 1140, Österreich",
+        "address": {
+            "house_number": "54",
+            "road": "Mittelstraße",
+            "neighbourhood": "Knödelhütte",
+            "suburb": "Katastralgemeinde Hadersdorf",
+            "city_district": "Penzing",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1140",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2176178",
+            "48.2176851",
+            "16.2468331",
+            "16.2469929"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 71901623,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 285963235,
+        "lat": "47.6602176",
+        "lon": "8.7001791",
+        "category": "building",
+        "type": "detached",
+        "place_rank": 30,
+        "importance": 5.000152590214416e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "12, Mattenhofstrasse, Unterschlatt, Mettschlatt, Schlatt TG, Schlatt (TG), Bezirk Frauenfeld, Thurgau, 8252, Schweiz",
+        "address": {
+            "house_number": "12",
+            "road": "Mattenhofstrasse",
+            "neighbourhood": "Unterschlatt",
+            "hamlet": "Mettschlatt",
+            "village": "Schlatt TG",
+            "city": "Schlatt (TG)",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8252",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.6601460",
+            "47.6602891",
+            "8.7000745",
+            "8.7002836"
+        ]
+    }
+]

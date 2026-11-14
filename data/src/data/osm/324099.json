@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91693793,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 744160495,
+        "lat": "46.9346908",
+        "lon": "7.4829130",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "41, Thunstrasse, Multeguet, Muri, Muri bei Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3074, Schweiz",
+        "address": {
+            "house_number": "41",
+            "road": "Thunstrasse",
+            "quarter": "Multeguet",
+            "suburb": "Muri",
+            "town": "Muri bei Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3074",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9346367",
+            "46.9347579",
+            "7.4828276",
+            "7.4829482"
+        ]
+    }
+]

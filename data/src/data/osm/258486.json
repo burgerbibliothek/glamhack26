@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 134798096,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9135055975,
+        "lat": "51.9345306",
+        "lon": "12.4676092",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005333409628442,
+        "addresstype": "peak",
+        "name": "Kreuzberge",
+        "display_name": "Kreuzberge, Coswig (Anhalt), Wittenberg, Sachsen-Anhalt, 06869, Deutschland",
+        "address": {
+            "peak": "Kreuzberge",
+            "town": "Coswig (Anhalt)",
+            "county": "Wittenberg",
+            "state": "Sachsen-Anhalt",
+            "ISO3166-2-lvl4": "DE-ST",
+            "postcode": "06869",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.9344806",
+            "51.9345806",
+            "12.4675592",
+            "12.4676592"
+        ]
+    }
+]

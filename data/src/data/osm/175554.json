@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91648455,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 467366172,
+        "lat": "46.2702510",
+        "lon": "7.0176671",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 0.41118372170976975,
+        "addresstype": "highway",
+        "name": "Les Dévens",
+        "display_name": "Les Dévens, Route des Dévens, Les Dévens, Fenalet-sur-Bex, Bex, Aigle District, Waadt, 1880, Schweiz",
+        "address": {
+            "highway": "Les Dévens",
+            "road": "Route des Dévens",
+            "hamlet": "Les Dévens",
+            "village": "Fenalet-sur-Bex",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1880",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2702010",
+            "46.2703010",
+            "7.0176171",
+            "7.0177171"
+        ]
+    }
+]

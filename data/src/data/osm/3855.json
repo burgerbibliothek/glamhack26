@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 91652513,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5933656448,
+        "lat": "46.9424048",
+        "lon": "7.4325528",
+        "category": "office",
+        "type": "it",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "office",
+        "name": "Computerhilfe Bern",
+        "display_name": "Computerhilfe Bern, 5, Mattenhofstrasse, Villette, Monbijou, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3007, Schweiz",
+        "address": {
+            "office": "Computerhilfe Bern",
+            "house_number": "5",
+            "road": "Mattenhofstrasse",
+            "neighbourhood": "Villette",
+            "quarter": "Monbijou",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3007",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9423548",
+            "46.9424548",
+            "7.4325028",
+            "7.4326028"
+        ]
+    }
+]

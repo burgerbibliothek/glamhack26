@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91630696,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4548604811,
+        "lat": "46.9028255",
+        "lon": "7.5322707",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337495002670327,
+        "addresstype": "hamlet",
+        "name": "Kleinhöchstetten",
+        "display_name": "Kleinhöchstetten, Rubigen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3113, Schweiz",
+        "address": {
+            "hamlet": "Kleinhöchstetten",
+            "village": "Rubigen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3113",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8828255",
+            "46.9228255",
+            "7.5122707",
+            "7.5522707"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 146352069,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 12209326,
+        "lat": "52.7029566",
+        "lon": "13.8868731",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.16005009765774011,
+        "addresstype": "village",
+        "name": "Leuenberg",
+        "display_name": "Leuenberg, Höhenland, Falkenberg-Höhe, Märkisch-Oderland, Brandenburg, Deutschland",
+        "address": {
+            "village": "Leuenberg",
+            "municipality": "Höhenland",
+            "county": "Märkisch-Oderland",
+            "state": "Brandenburg",
+            "ISO3166-2-lvl4": "DE-BB",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.6657532",
+            "52.7270576",
+            "13.8483868",
+            "13.9131598"
+        ]
+    }
+]

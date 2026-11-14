@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93031194,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 283817294,
+        "lat": "47.0313246",
+        "lon": "7.5561015",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671596780346374,
+        "addresstype": "village",
+        "name": "Hettiswil",
+        "display_name": "Hettiswil, Krauchthal, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3325, Schweiz",
+        "address": {
+            "village": "Hettiswil",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3325",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0113246",
+            "47.0513246",
+            "7.5361015",
+            "7.5761015"
+        ]
+    }
+]

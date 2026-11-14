@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 66552361,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3307934233,
+        "lat": "47.5010593",
+        "lon": "19.0323149",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.408560311279495e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "32, Herrengasse, Burgviertel, I. Bezirk, Budapest, 1014, Ungarn",
+        "address": {
+            "house_number": "32",
+            "road": "Herrengasse",
+            "suburb": "Burgviertel",
+            "borough": "I. Bezirk",
+            "city": "Budapest",
+            "ISO3166-2-lvl8": "HU-BU",
+            "region": "Budapest",
+            "ISO3166-2-lvl6": "HU-BU",
+            "postcode": "1014",
+            "country": "Ungarn",
+            "country_code": "hu"
+        },
+        "boundingbox": [
+            "47.5010093",
+            "47.5011093",
+            "19.0322649",
+            "19.0323649"
+        ]
+    }
+]

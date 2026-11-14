@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72234542,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 9713058,
+        "lat": "47.4928553",
+        "lon": "8.7429826",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.2791651820367976,
+        "addresstype": "suburb",
+        "name": "Mattenbach",
+        "display_name": "Mattenbach, Winterthur, Bezirk Winterthur, Zürich, 8411, Schweiz",
+        "address": {
+            "suburb": "Mattenbach",
+            "city": "Winterthur",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8411",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4613015",
+            "47.4993714",
+            "8.7243883",
+            "8.7592512"
+        ]
+    }
+]

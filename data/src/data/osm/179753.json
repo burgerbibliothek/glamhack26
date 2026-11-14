@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91420663,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685270,
+        "lat": "46.3190343",
+        "lon": "7.4166000",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3697233328141787,
+        "addresstype": "city",
+        "name": "Ayent",
+        "display_name": "Ayent, Ering, Mittelwallis, Wallis, 1966, Schweiz",
+        "address": {
+            "city": "Ayent",
+            "county": "Ering",
+            "state_district": "Mittelwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1966",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2519145",
+            "46.3861488",
+            "7.3577288",
+            "7.4621362"
+        ]
+    }
+]

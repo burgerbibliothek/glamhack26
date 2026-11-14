@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91919991,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2468529775,
+        "lat": "47.0474986",
+        "lon": "7.1504118",
+        "category": "amenity",
+        "type": "fuel",
+        "place_rank": 30,
+        "importance": 4.5001144426596745e-05,
+        "addresstype": "amenity",
+        "name": "Seetankstelle Lüscherz",
+        "display_name": "Seetankstelle Lüscherz, Am See, Lüscherz, Seeland administrative district, Seeland administrative region, Bern, 2576, Schweiz",
+        "address": {
+            "amenity": "Seetankstelle Lüscherz",
+            "road": "Am See",
+            "village": "Lüscherz",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2576",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0474486",
+            "47.0475486",
+            "7.1503618",
+            "7.1504618"
+        ]
+    }
+]

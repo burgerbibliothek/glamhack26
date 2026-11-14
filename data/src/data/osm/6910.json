@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91822699,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684879,
+        "lat": "46.6044706",
+        "lon": "6.7755538",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.39106112740783944,
+        "addresstype": "village",
+        "name": "Carrouge",
+        "display_name": "Carrouge, Jorat-Mézières, District de Lavaux-Oron, Waadt, 1084, Schweiz",
+        "address": {
+            "village": "Carrouge",
+            "city": "Jorat-Mézières",
+            "county": "District de Lavaux-Oron",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1084",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5852783",
+            "46.6194737",
+            "6.7495981",
+            "6.7962270"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 182851683,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 440093,
+        "lat": "50.3383040",
+        "lon": "16.3154831",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 14,
+        "importance": 0.48134715482198115,
+        "addresstype": "municipality",
+        "name": "Sattel",
+        "display_name": "Sattel, Bezirk Reichenau an der Knieschna, Königgrätzer Region, 517 82, Tschechien",
+        "address": {
+            "municipality": "Sattel",
+            "county": "Bezirk Reichenau an der Knieschna",
+            "ISO3166-2-lvl5": "CZ-524",
+            "state": "Königgrätzer Region",
+            "ISO3166-2-lvl4": "CZ-52",
+            "postcode": "517 82",
+            "country": "Tschechien",
+            "country_code": "cz"
+        },
+        "boundingbox": [
+            "50.3164087",
+            "50.3656259",
+            "16.2843066",
+            "16.3859169"
+        ]
+    }
+]

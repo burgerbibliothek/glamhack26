@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 300091621,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2202162,
+        "lat": "46.6033540",
+        "lon": "1.8883335",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.9781609870055644,
+        "addresstype": "country",
+        "name": "Frankreich",
+        "display_name": "Frankreich",
+        "address": {
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "-50.2187169",
+            "51.3055721",
+            "-178.3873749",
+            "172.3057152"
+        ]
+    }
+]

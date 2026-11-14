@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91636717,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 441855025,
+        "lat": "46.8428138",
+        "lon": "7.5230258",
+        "category": "highway",
+        "type": "unclassified",
+        "place_rank": 26,
+        "importance": 0.05338530022125578,
+        "addresstype": "unclassified",
+        "name": "Kramburg",
+        "display_name": "Kramburg, Eggenhorn, Gelterfingen, Kirchdorf (BE), Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3126, Schweiz",
+        "address": {
+            "road": "Kramburg",
+            "hamlet": "Eggenhorn",
+            "village": "Gelterfingen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3126",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8419460",
+            "46.8435971",
+            "7.5215228",
+            "7.5244819"
+        ]
+    }
+]

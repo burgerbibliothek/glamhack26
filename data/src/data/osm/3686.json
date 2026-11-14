@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 184555325,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 153158225,
+        "lat": "50.0603229",
+        "lon": "19.9409889",
+        "category": "building",
+        "type": "retail",
+        "place_rank": 30,
+        "importance": 7.936751354233642e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "17, Marktgasse, Altstadt, Stare Miasto, Altstadt, Krakau, Woiwodschaft Kleinpolen, 30-960, Polen",
+        "address": {
+            "house_number": "17",
+            "road": "Marktgasse",
+            "quarter": "Altstadt",
+            "suburb": "Stare Miasto",
+            "city_district": "Altstadt",
+            "city": "Krakau",
+            "state": "Woiwodschaft Kleinpolen",
+            "ISO3166-2-lvl4": "PL-12",
+            "postcode": "30-960",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "50.0602513",
+            "50.0604204",
+            "19.9409048",
+            "19.9410917"
+        ]
+    }
+]

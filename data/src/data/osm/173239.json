@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92323010,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 111650,
+        "lat": "47.0357292",
+        "lon": "6.3265113",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5627629434984212,
+        "addresstype": "village",
+        "name": "Aubonne",
+        "display_name": "Aubonne, Pontarlier, Doubs, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 25520, Frankreich",
+        "address": {
+            "village": "Aubonne",
+            "municipality": "Pontarlier",
+            "county": "Doubs",
+            "ISO3166-2-lvl6": "FR-25",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "25520",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.0185482",
+            "47.0648642",
+            "6.2902849",
+            "6.3988802"
+        ]
+    }
+]

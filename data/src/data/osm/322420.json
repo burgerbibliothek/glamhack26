@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 187881658,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2082042000,
+        "lat": "48.2106483",
+        "lon": "16.3649449",
+        "category": "shop",
+        "type": "art",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "shop",
+        "name": "galerie artziwna gmbh",
+        "display_name": "galerie artziwna gmbh, 17, Herrengasse, Schottenviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich",
+        "address": {
+            "shop": "galerie artziwna gmbh",
+            "house_number": "17",
+            "road": "Herrengasse",
+            "neighbourhood": "Schottenviertel",
+            "suburb": "Innere Stadt",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1010",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2105983",
+            "48.2106983",
+            "16.3648949",
+            "16.3649949"
+        ]
+    }
+]

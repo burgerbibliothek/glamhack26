@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91423154,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 60320462,
+        "lat": "46.6399143",
+        "lon": "7.6928252",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2548773901198179,
+        "addresstype": "village",
+        "name": "Mülenen",
+        "display_name": "Mülenen, Aeschi bei Spiez, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3703, Schweiz",
+        "address": {
+            "village": "Mülenen",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3703",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6199143",
+            "46.6599143",
+            "7.6728252",
+            "7.7128252"
+        ]
+    }
+]

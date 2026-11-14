@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92747716,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9709944102,
+        "lat": "47.1083843",
+        "lon": "7.9013342",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337083466849772,
+        "addresstype": "hamlet",
+        "name": "Mühlematt",
+        "display_name": "Mühlematt, Ufhusen, Luzern, 6153, Schweiz",
+        "address": {
+            "hamlet": "Mühlematt",
+            "village": "Ufhusen",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6153",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0883843",
+            "47.1283843",
+            "7.8813342",
+            "7.9213342"
+        ]
+    }
+]

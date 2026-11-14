@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92165036,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 368819942,
+        "lat": "46.9737964",
+        "lon": "7.4281182",
+        "category": "man_made",
+        "type": "bridge",
+        "place_rank": 30,
+        "importance": 0.2562004762132184,
+        "addresstype": "man_made",
+        "name": "Neubrücke",
+        "display_name": "Neubrücke, Neubrückstrasse, Felsenau, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3037, Schweiz",
+        "address": {
+            "man_made": "Neubrücke",
+            "road": "Neubrückstrasse",
+            "quarter": "Felsenau",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3037",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9733592",
+            "46.9741763",
+            "7.4279027",
+            "7.4282947"
+        ]
+    }
+]

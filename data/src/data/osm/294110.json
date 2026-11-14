@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 111387474,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 260735171,
+        "lat": "51.0551140",
+        "lon": "6.1146577",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.25876906166717667,
+        "addresstype": "village",
+        "name": "Schafhausen",
+        "display_name": "Schafhausen, Heinsberg, Kreis Heinsberg, Nordrhein-Westfalen, 52525, Deutschland",
+        "address": {
+            "village": "Schafhausen",
+            "town": "Heinsberg",
+            "county": "Kreis Heinsberg",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "52525",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.0351140",
+            "51.0751140",
+            "6.0946577",
+            "6.1346577"
+        ]
+    }
+]

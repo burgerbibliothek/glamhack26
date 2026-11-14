@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 123800028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3287432290,
+        "lat": "48.6750207",
+        "lon": "8.3765831",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16004895628290225,
+        "addresstype": "peak",
+        "name": "Kipf",
+        "display_name": "Kipf, Forbach, Landkreis Rastatt, Baden-Württemberg, 76596, Deutschland",
+        "address": {
+            "peak": "Kipf",
+            "city": "Forbach",
+            "county": "Landkreis Rastatt",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "76596",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.6749707",
+            "48.6750707",
+            "8.3765331",
+            "8.3766331"
+        ]
+    }
+]

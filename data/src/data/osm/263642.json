@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92911484,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4638792184,
+        "lat": "47.0753750",
+        "lon": "7.6383219",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06672348287174791,
+        "addresstype": "locality",
+        "name": "Grafenscheuren",
+        "display_name": "Grafenscheuren, Grafeschüre, Burgdorf, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3401, Schweiz",
+        "address": {
+            "locality": "Grafenscheuren",
+            "farmyard": "Grafeschüre",
+            "town": "Burgdorf",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3401",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0653750",
+            "47.0853750",
+            "7.6283219",
+            "7.6483219"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72687653,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2894011356,
+        "lat": "46.8013896",
+        "lon": "9.8149673",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339185549706262,
+        "addresstype": "hamlet",
+        "name": "Schatzalp",
+        "display_name": "Schatzalp, Davos, Prättigau/Davos, Graubünden, 7270, Schweiz",
+        "address": {
+            "hamlet": "Schatzalp",
+            "town": "Davos",
+            "county": "Prättigau/Davos",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7270",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7813896",
+            "46.8213896",
+            "9.7949673",
+            "9.8349673"
+        ]
+    }
+]

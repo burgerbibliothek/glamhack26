@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 71364796,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2544785530,
+        "lat": "47.7182771",
+        "lon": "9.6199446",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339443732356754,
+        "addresstype": "hamlet",
+        "name": "Hohrain",
+        "display_name": "Hohrain, Eschach, Gornhofen, Ravensburg, GVV Mittleres Schussental, Landkreis Ravensburg, Baden-Württemberg, 88214, Deutschland",
+        "address": {
+            "hamlet": "Hohrain",
+            "suburb": "Eschach",
+            "village": "Gornhofen",
+            "town": "Ravensburg",
+            "municipality": "GVV Mittleres Schussental",
+            "county": "Landkreis Ravensburg",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "88214",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.6982771",
+            "47.7382771",
+            "9.5999446",
+            "9.6399446"
+        ]
+    }
+]

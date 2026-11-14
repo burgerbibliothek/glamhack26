@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92011037,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 286033780,
+        "lat": "46.8719071",
+        "lon": "7.3281719",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1467145746547646,
+        "addresstype": "village",
+        "name": "Niedermettlen",
+        "display_name": "Niedermettlen, Ueberstorf, Sensebezirk, Freiburg, 3182, Schweiz",
+        "address": {
+            "village": "Niedermettlen",
+            "county": "Sensebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "3182",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8519071",
+            "46.8919071",
+            "7.3081719",
+            "7.3481719"
+        ]
+    }
+]

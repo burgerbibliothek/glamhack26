@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72720389,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1676873,
+        "lat": "47.1200489",
+        "lon": "8.6212493",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.37653081765694324,
+        "addresstype": "lake",
+        "name": "Ägerisee",
+        "display_name": "Ägerisee, Alosen, Oberägeri, Zug, 6315, Schweiz",
+        "address": {
+            "lake": "Ägerisee",
+            "village": "Alosen",
+            "state": "Zug",
+            "ISO3166-2-lvl4": "CH-ZG",
+            "postcode": "6315",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1018864",
+            "47.1382163",
+            "8.5886401",
+            "8.6432133"
+        ]
+    }
+]

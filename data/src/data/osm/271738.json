@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 283299057,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 279443,
+        "lat": "49.3329383",
+        "lon": "-0.8198905",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.5779713812678826,
+        "addresstype": "village",
+        "name": "Russy",
+        "display_name": "Russy, Aure sur Mer, Bayeux, Calvados, Normandie, Metropolitanes Frankreich, 14710, Frankreich",
+        "address": {
+            "village": "Russy",
+            "city": "Aure sur Mer",
+            "municipality": "Bayeux",
+            "county": "Calvados",
+            "ISO3166-2-lvl6": "FR-14",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "14710",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.3133316",
+            "49.3402619",
+            "-0.8354044",
+            "-0.8006512"
+        ]
+    }
+]

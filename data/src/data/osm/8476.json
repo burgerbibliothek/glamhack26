@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92678810,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 540480652,
+        "lat": "47.0184039",
+        "lon": "7.0242356",
+        "category": "highway",
+        "type": "motorway_junction",
+        "place_rank": 30,
+        "importance": 4.5925841153536545e-05,
+        "addresstype": "highway",
+        "name": "Thielle",
+        "display_name": "Thielle, A5, Montmirail, Thielle, Laténa, Région Littoral, Neuenburg, 2075, Schweiz",
+        "address": {
+            "highway": "Thielle",
+            "road": "A5",
+            "hamlet": "Montmirail",
+            "village": "Thielle",
+            "city": "Laténa",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2075",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0183539",
+            "47.0184539",
+            "7.0241856",
+            "7.0242856"
+        ]
+    }
+]

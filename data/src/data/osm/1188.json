@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93585921,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683490,
+        "lat": "47.4899611",
+        "lon": "7.5093058",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.36212526445830706,
+        "addresstype": "village",
+        "name": "Bättwil",
+        "display_name": "Bättwil, Bezirk Dorneck, Amtei Dorneck-Thierstein, Solothurn, 4112, Schweiz",
+        "address": {
+            "village": "Bättwil",
+            "municipality": "Bezirk Dorneck",
+            "county": "Amtei Dorneck-Thierstein",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4112",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4833480",
+            "47.5027007",
+            "7.4980982",
+            "7.5190675"
+        ]
+    }
+]

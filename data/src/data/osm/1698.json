@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 93431237,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12118956393,
+        "lat": "47.8619741",
+        "lon": "7.1492309",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.0667284039063096,
+        "addresstype": "locality",
+        "name": "Roche Fendue",
+        "display_name": "Roche Fendue, Sulz/Oberelsass, Thann-Gebweiler, Oberelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 68360, Frankreich",
+        "address": {
+            "locality": "Roche Fendue",
+            "village": "Sulz/Oberelsass",
+            "municipality": "Thann-Gebweiler",
+            "county": "Oberelsass",
+            "ISO3166-2-lvl6": "FR-68",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "68360",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.8519741",
+            "47.8719741",
+            "7.1392309",
+            "7.1592309"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 127795486,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 764898078,
+        "lat": "48.1520846",
+        "lon": "11.4136057",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "27, Weißensteinstraße, Aubing-Ost, Neuaubing, Aubing, Aubing-Lochhausen-Langwied, München, Bayern, 81249, Deutschland",
+        "address": {
+            "house_number": "27",
+            "road": "Weißensteinstraße",
+            "neighbourhood": "Aubing-Ost",
+            "quarter": "Neuaubing",
+            "suburb": "Aubing",
+            "city_district": "Aubing-Lochhausen-Langwied",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "81249",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1520346",
+            "48.1521346",
+            "11.4135557",
+            "11.4136557"
+        ]
+    }
+]

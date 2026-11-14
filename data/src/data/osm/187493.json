@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 87203308,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 9316610,
+        "lat": "44.1490780",
+        "lon": "6.6715725",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 21,
+        "importance": 0.43249580853699826,
+        "addresstype": "stream",
+        "name": "La Lance",
+        "display_name": "La Lance, Colmars, Castellane, Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 04370, Frankreich",
+        "address": {
+            "stream": "La Lance",
+            "village": "Colmars",
+            "municipality": "Castellane",
+            "county": "Alpes-de-Haute-Provence",
+            "ISO3166-2-lvl6": "FR-04",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "04370",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.1041666",
+            "44.1790826",
+            "6.6232179",
+            "6.6968481"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 137926657,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11212084109,
+        "lat": "50.9230287",
+        "lon": "9.2877618",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10672010299839778,
+        "addresstype": "isolated_dwelling",
+        "name": "Ruchmühle",
+        "display_name": "Ruchmühle, Schönborn, Frielendorf, Schwalm-Eder-Kreis, Hessen, 34621, Deutschland",
+        "address": {
+            "isolated_dwelling": "Ruchmühle",
+            "village": "Schönborn",
+            "municipality": "Frielendorf",
+            "county": "Schwalm-Eder-Kreis",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "34621",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9229787",
+            "50.9230787",
+            "9.2877118",
+            "9.2878118"
+        ]
+    }
+]

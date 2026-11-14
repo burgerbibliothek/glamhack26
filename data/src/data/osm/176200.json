@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73705381,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2192945,
+        "lat": "46.6695806",
+        "lon": "8.0209533",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.21584611680957558,
+        "addresstype": "lake",
+        "name": "Bachalpsee",
+        "display_name": "Bachalpsee, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3818, Schweiz",
+        "address": {
+            "lake": "Bachalpsee",
+            "village": "Grindelwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3818",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6668713",
+            "46.6710570",
+            "8.0182760",
+            "8.0263510"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 146311345,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8413213040,
+        "lat": "52.4576731",
+        "lon": "13.5113925",
+        "category": "amenity",
+        "type": "bar",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "amenity",
+        "name": "Shisha Code Red",
+        "display_name": "Shisha Code Red, 7, Brückenstraße, Niederschöneweide, Treptow-Köpenick, Berlin, 12439, Deutschland",
+        "address": {
+            "amenity": "Shisha Code Red",
+            "house_number": "7",
+            "road": "Brückenstraße",
+            "suburb": "Niederschöneweide",
+            "borough": "Treptow-Köpenick",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12439",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4576231",
+            "52.4577231",
+            "13.5113425",
+            "13.5114425"
+        ]
+    }
+]

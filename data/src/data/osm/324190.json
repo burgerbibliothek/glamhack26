@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 122624796,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 323703572,
+        "lat": "48.8902863",
+        "lon": "8.7002536",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 6.460440985728264e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "18, Am Waisenhausplatz, Innenstadt, Pforzheim, Baden-Württemberg, 75172, Deutschland",
+        "address": {
+            "house_number": "18",
+            "road": "Am Waisenhausplatz",
+            "suburb": "Innenstadt",
+            "city": "Pforzheim",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "75172",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.8902372",
+            "48.8903572",
+            "8.7001500",
+            "8.7003595"
+        ]
+    }
+]

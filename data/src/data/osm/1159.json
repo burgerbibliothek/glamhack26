@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91673805,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 4817956,
+        "lat": "46.7247397",
+        "lon": "7.5769425",
+        "category": "natural",
+        "type": "water",
+        "place_rank": 22,
+        "importance": 0.2562004762132184,
+        "addresstype": "water",
+        "name": "Amsoldingersee",
+        "display_name": "Amsoldingersee, Bühl, Amsoldingen, Horrenbach-Buchen, Verwaltungskreis Thun, Oberland administrative region, Bern, 3633, Schweiz",
+        "address": {
+            "water": "Amsoldingersee",
+            "hamlet": "Bühl",
+            "village": "Amsoldingen",
+            "municipality": "Horrenbach-Buchen",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3633",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7206403",
+            "46.7288555",
+            "7.5713624",
+            "7.5821383"
+        ]
+    }
+]

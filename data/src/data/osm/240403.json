@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73259439,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1095469829,
+        "lat": "46.6814531",
+        "lon": "8.2981169",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.133381721980621,
+        "addresstype": "lake",
+        "name": "Wannisbordsee",
+        "display_name": "Wannisbordsee, Guttannen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3864, Schweiz",
+        "address": {
+            "lake": "Wannisbordsee",
+            "city": "Guttannen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3864",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6804171",
+            "46.6824843",
+            "8.2970581",
+            "8.2991229"
+        ]
+    }
+]

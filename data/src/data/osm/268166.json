@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73824392,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 957182171,
+        "lat": "46.1570635",
+        "lon": "8.0031044",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.46460522941004834,
+        "addresstype": "peak",
+        "name": "Lagginhorn",
+        "display_name": "Lagginhorn, Simplon, Brig, Oberwallis, Wallis, 3907, Schweiz",
+        "address": {
+            "peak": "Lagginhorn",
+            "village": "Simplon",
+            "county": "Brig",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3907",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1570135",
+            "46.1571135",
+            "8.0030544",
+            "8.0031544"
+        ]
+    }
+]

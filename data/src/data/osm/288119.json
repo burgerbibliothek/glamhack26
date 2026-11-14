@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 70893025,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 105891727,
+        "lat": "47.8879974",
+        "lon": "10.5140582",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.1206988631983174e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "36, Schwarzenburgstraße, Blöcktach, Friesenried, Eggenthal (VGem), Landkreis Ostallgäu, Bayern, 87654, Deutschland",
+        "address": {
+            "house_number": "36",
+            "road": "Schwarzenburgstraße",
+            "village": "Blöcktach",
+            "municipality": "Eggenthal (VGem)",
+            "county": "Landkreis Ostallgäu",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "87654",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.8879447",
+            "47.8880593",
+            "10.5139480",
+            "10.5141684"
+        ]
+    }
+]

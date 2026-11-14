@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 119022959,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8696239309,
+        "lat": "49.3621856",
+        "lon": "6.0487753",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06673148622873273,
+        "addresstype": "locality",
+        "name": "Unter dem Berg",
+        "display_name": "Unter dem Berg, Batzenthal, Algringen, Diedenhofen, Moselle, Groß-Osten, Metropolitanes Frankreich, 57440, Frankreich",
+        "address": {
+            "locality": "Unter dem Berg",
+            "village": "Batzenthal",
+            "municipality": "Diedenhofen",
+            "county": "Moselle",
+            "ISO3166-2-lvl6": "FR-57",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "57440",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.3521856",
+            "49.3721856",
+            "6.0387753",
+            "6.0587753"
+        ]
+    }
+]

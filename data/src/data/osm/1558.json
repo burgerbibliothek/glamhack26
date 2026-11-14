@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 88614992,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 241018688,
+        "lat": "45.9383601",
+        "lon": "7.7298888",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4610311165122064,
+        "addresstype": "peak",
+        "name": "Klein Matterhorn",
+        "display_name": "Klein Matterhorn, Zermatt, Visp, Oberwallis, Wallis, 3920, Schweiz",
+        "address": {
+            "peak": "Klein Matterhorn",
+            "town": "Zermatt",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3920",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9383101",
+            "45.9384101",
+            "7.7298388",
+            "7.7299388"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92774165,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685058,
+        "lat": "46.7330803",
+        "lon": "6.5102099",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4424389152612867,
+        "addresstype": "village",
+        "name": "Montcherand",
+        "display_name": "Montcherand, District du Jura-Nord vaudois, Waadt, 1354, Schweiz",
+        "address": {
+            "village": "Montcherand",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1354",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7259645",
+            "46.7432058",
+            "6.4941584",
+            "6.5274470"
+        ]
+    }
+]

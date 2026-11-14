@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93001993,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682551,
+        "lat": "47.1593731",
+        "lon": "7.3463905",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38475235162867644,
+        "addresstype": "village",
+        "name": "Meinisberg",
+        "display_name": "Meinisberg, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2554, Schweiz",
+        "address": {
+            "village": "Meinisberg",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2554",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1517788",
+            "47.1713435",
+            "7.3275679",
+            "7.3784970"
+        ]
+    }
+]

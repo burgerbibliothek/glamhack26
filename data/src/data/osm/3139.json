@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92664386,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3271092775,
+        "lat": "46.9410313",
+        "lon": "7.4172646",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Huayuan",
+        "display_name": "Huayuan, 70, Holligenstrasse, Holligen, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3008, Schweiz",
+        "address": {
+            "amenity": "Huayuan",
+            "house_number": "70",
+            "road": "Holligenstrasse",
+            "quarter": "Holligen",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3008",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9409813",
+            "46.9410813",
+            "7.4172146",
+            "7.4173146"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92490715,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682395,
+        "lat": "47.0229548",
+        "lon": "7.1483660",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42326725132893583,
+        "addresstype": "village",
+        "name": "Brüttelen",
+        "display_name": "Brüttelen, Seeland administrative district, Seeland administrative region, Bern, 3237, Schweiz",
+        "address": {
+            "village": "Brüttelen",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3237",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0057996",
+            "47.0422407",
+            "7.1234565",
+            "7.1749510"
+        ]
+    }
+]

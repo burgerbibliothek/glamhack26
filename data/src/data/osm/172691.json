@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92528672,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 9663748,
+        "lat": "46.9502110",
+        "lon": "7.4388229",
+        "category": "tourism",
+        "type": "artwork",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "tourism",
+        "name": "Haller-Denkmal",
+        "display_name": "Haller-Denkmal, Kleine Westtangente, Länggasse, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "tourism": "Haller-Denkmal",
+            "road": "Kleine Westtangente",
+            "quarter": "Länggasse",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9501907",
+            "46.9502314",
+            "7.4388109",
+            "7.4388706"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92039251,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6370481122,
+        "lat": "46.9494462",
+        "lon": "7.4892511",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "highway",
+        "name": "Dennigkofen",
+        "display_name": "Dennigkofen, Dennigkofenweg, Rüti, Ostermundigen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3072, Schweiz",
+        "address": {
+            "highway": "Dennigkofen",
+            "road": "Dennigkofenweg",
+            "suburb": "Rüti",
+            "town": "Ostermundigen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3072",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9493962",
+            "46.9494962",
+            "7.4892011",
+            "7.4893011"
+        ]
+    }
+]

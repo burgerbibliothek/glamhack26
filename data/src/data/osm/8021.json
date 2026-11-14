@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 74940686,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 57650021,
+        "lat": "47.6627939",
+        "lon": "8.4858732",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2753675655596695,
+        "addresstype": "village",
+        "name": "Osterfingen",
+        "display_name": "Osterfingen, Wilchingen, Bezirk Unterklettgau, Schaffhausen, 8218, Schweiz",
+        "address": {
+            "village": "Osterfingen",
+            "county": "Bezirk Unterklettgau",
+            "state": "Schaffhausen",
+            "ISO3166-2-lvl4": "CH-SH",
+            "postcode": "8218",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.6427939",
+            "47.6827939",
+            "8.4658732",
+            "8.5058732"
+        ]
+    }
+]

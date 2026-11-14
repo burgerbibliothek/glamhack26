@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91553349,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 31518828,
+        "lat": "46.9448449",
+        "lon": "7.2439516",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.26124069590558274,
+        "addresstype": "hamlet",
+        "name": "Gümmenen",
+        "display_name": "Gümmenen, Mühleberg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3205, Schweiz",
+        "address": {
+            "hamlet": "Gümmenen",
+            "village": "Mühleberg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3205",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9248449",
+            "46.9648449",
+            "7.2239516",
+            "7.2639516"
+        ]
+    }
+]

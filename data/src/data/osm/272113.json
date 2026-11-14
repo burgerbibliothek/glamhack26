@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72215095,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682206,
+        "lat": "47.4998561",
+        "lon": "8.4162027",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39951314662297394,
+        "addresstype": "village",
+        "name": "Schöfflisdorf",
+        "display_name": "Schöfflisdorf, Bezirk Dielsdorf, Zürich, 8165, Schweiz",
+        "address": {
+            "village": "Schöfflisdorf",
+            "county": "Bezirk Dielsdorf",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8165",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4857547",
+            "47.5240750",
+            "8.4079965",
+            "8.4332791"
+        ]
+    }
+]

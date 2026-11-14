@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73492531,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683059,
+        "lat": "46.8617183",
+        "lon": "8.6288119",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3990711390903937,
+        "addresstype": "village",
+        "name": "Attinghausen",
+        "display_name": "Attinghausen, Uri, 6468, Schweiz",
+        "address": {
+            "village": "Attinghausen",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6468",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7725265",
+            "46.8779876",
+            "8.4642723",
+            "8.6350231"
+        ]
+    }
+]

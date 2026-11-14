@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92527825,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1955180993,
+        "lat": "47.0151219",
+        "lon": "6.8531634",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.18929199030239088,
+        "addresstype": "railway",
+        "name": "Les Geneveys-sur-Coffrane",
+        "display_name": "Les Geneveys-sur-Coffrane, Rue de la Gare, Les Geneveys-sur-Coffrane, Val-de-Ruz, Val-de-Ruz Region, Neuenburg, 2206, Schweiz",
+        "address": {
+            "railway": "Les Geneveys-sur-Coffrane",
+            "road": "Rue de la Gare",
+            "village": "Les Geneveys-sur-Coffrane",
+            "city": "Val-de-Ruz",
+            "county": "Val-de-Ruz Region",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2206",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0101219",
+            "47.0201219",
+            "6.8481634",
+            "6.8581634"
+        ]
+    }
+]

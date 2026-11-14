@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 73964189,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 993307195,
+        "lat": "46.3398304",
+        "lon": "9.5614907",
+        "category": "historic",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.348606766793213,
+        "addresstype": "historic",
+        "name": "Fortezza Castelmur",
+        "display_name": "Fortezza Castelmur, Nossa Dona, La Porta, Bondo, Bergell, Maloja, Graubünden, 7606, Schweiz",
+        "address": {
+            "historic": "Fortezza Castelmur",
+            "road": "Nossa Dona",
+            "hamlet": "La Porta",
+            "village": "Bondo",
+            "municipality": "Bergell",
+            "county": "Maloja",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7606",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3396602",
+            "46.3399460",
+            "9.5609304",
+            "9.5620110"
+        ]
+    }
+]

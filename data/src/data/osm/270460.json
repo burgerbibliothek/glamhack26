@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92079007,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 6838602,
+        "lat": "46.8660381",
+        "lon": "7.1228659",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39038942373343144,
+        "addresstype": "village",
+        "name": "Courtepin",
+        "display_name": "Courtepin, Seebezirk, Freiburg, Schweiz",
+        "address": {
+            "village": "Courtepin",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8369493",
+            "46.8961662",
+            "7.0616731",
+            "7.1878293"
+        ]
+    }
+]

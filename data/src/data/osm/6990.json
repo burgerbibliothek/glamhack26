@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92970233,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685474,
+        "lat": "47.0383306",
+        "lon": "7.0188056",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39287355974416627,
+        "addresstype": "village",
+        "name": "Cornaux",
+        "display_name": "Cornaux, Région Littoral, Neuenburg, 2087, Schweiz",
+        "address": {
+            "village": "Cornaux",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2087",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0209700",
+            "47.0441732",
+            "6.9983206",
+            "7.0372713"
+        ]
+    }
+]

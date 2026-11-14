@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91901798,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4592733283,
+        "lat": "46.7040733",
+        "lon": "7.0016062",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2961343492019334,
+        "addresstype": "village",
+        "name": "Villargiroud",
+        "display_name": "Villargiroud, Villorsonnens, Glanebezirk, Freiburg, 1694, Schweiz",
+        "address": {
+            "village": "Villargiroud",
+            "city": "Villorsonnens",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1694",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6840733",
+            "46.7240733",
+            "6.9816062",
+            "7.0216062"
+        ]
+    }
+]

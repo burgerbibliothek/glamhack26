@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91081370,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240048626,
+        "lat": "46.7543307",
+        "lon": "7.2914152",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.30663527500158994,
+        "addresstype": "village",
+        "name": "Zumholz",
+        "display_name": "Zumholz, Plaffeien, Sensebezirk, Freiburg, 1719, Schweiz",
+        "address": {
+            "village": "Zumholz",
+            "county": "Sensebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1719",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7343307",
+            "46.7743307",
+            "7.2714152",
+            "7.3114152"
+        ]
+    }
+]

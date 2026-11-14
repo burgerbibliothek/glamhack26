@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72066015,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 21761857,
+        "lat": "47.3709230",
+        "lon": "8.9417356",
+        "category": "tourism",
+        "type": "viewpoint",
+        "place_rank": 30,
+        "importance": 0.44971912873784053,
+        "addresstype": "tourism",
+        "name": "Hörnli",
+        "display_name": "Hörnli, Hörnlistrasse, Tanzplatz, Steg im Tösstal, Fischenthal, Bezirk Hinwil, Zürich, 8496, Schweiz",
+        "address": {
+            "tourism": "Hörnli",
+            "road": "Hörnlistrasse",
+            "hamlet": "Tanzplatz",
+            "village": "Steg im Tösstal",
+            "county": "Bezirk Hinwil",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8496",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3708730",
+            "47.3709730",
+            "8.9416856",
+            "8.9417856"
+        ]
+    }
+]

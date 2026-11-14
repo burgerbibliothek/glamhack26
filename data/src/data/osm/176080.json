@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92511802,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684809,
+        "lat": "47.1703284",
+        "lon": "7.7770470",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.45731141145528403,
+        "addresstype": "county",
+        "name": "Verwaltungskreis Oberaargau",
+        "display_name": "Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0466481",
+            "47.2939942",
+            "7.5801112",
+            "7.8905856"
+        ]
+    }
+]

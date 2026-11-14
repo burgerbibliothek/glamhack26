@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145424119,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2879828890,
+        "lat": "52.5476258",
+        "lon": "13.2001763",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "8, Mittelstraße, Neustadt, Spandau, Berlin, 13585, Deutschland",
+        "address": {
+            "house_number": "8",
+            "road": "Mittelstraße",
+            "quarter": "Neustadt",
+            "suburb": "Spandau",
+            "city_district": "Spandau",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13585",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5475758",
+            "52.5476758",
+            "13.2001263",
+            "13.2002263"
+        ]
+    }
+]

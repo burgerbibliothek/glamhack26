@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71893746,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682158,
+        "lat": "47.2876627",
+        "lon": "8.5372813",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4095665893217894,
+        "addresstype": "village",
+        "name": "Langnau am Albis",
+        "display_name": "Langnau am Albis, Bezirk Horgen, Zürich, 8135, Schweiz",
+        "address": {
+            "village": "Langnau am Albis",
+            "county": "Bezirk Horgen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8135",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2603016",
+            "47.3005449",
+            "8.5038847",
+            "8.5522365"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 138547049,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 380105957,
+        "lat": "50.0876367",
+        "lon": "8.2202487",
+        "category": "shop",
+        "type": "supermarket",
+        "place_rank": 30,
+        "importance": 7.142519264510594e-05,
+        "addresstype": "shop",
+        "name": "Rewe",
+        "display_name": "Rewe, 32, Aarstraße, Nordost, Wiesbaden, Hessen, 65195, Deutschland",
+        "address": {
+            "shop": "Rewe",
+            "house_number": "32",
+            "road": "Aarstraße",
+            "suburb": "Nordost",
+            "city": "Wiesbaden",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "65195",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.0873900",
+            "50.0879046",
+            "8.2197460",
+            "8.2207263"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72455483,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682163,
+        "lat": "47.2349836",
+        "lon": "8.4266177",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39189118331215606,
+        "addresstype": "village",
+        "name": "Maschwanden",
+        "display_name": "Maschwanden, Bezirk Affoltern, Zürich, 8933, Schweiz",
+        "address": {
+            "village": "Maschwanden",
+            "county": "Bezirk Affoltern",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8933",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2226361",
+            "47.2475609",
+            "8.4140093",
+            "8.4476696"
+        ]
+    }
+]

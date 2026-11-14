@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73051742,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1720777156,
+        "lat": "47.1361374",
+        "lon": "9.0599519",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.35614271866453184,
+        "addresstype": "railway",
+        "name": "Ziegelbrücke",
+        "display_name": "Ziegelbrücke, 121, Ziegelbrückstrasse, Schänis, Wahlkreis See-Gaster, St. Gallen, 8866, Schweiz",
+        "address": {
+            "railway": "Ziegelbrücke",
+            "house_number": "121",
+            "road": "Ziegelbrückstrasse",
+            "village": "Schänis",
+            "county": "Wahlkreis See-Gaster",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "8866",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1311374",
+            "47.1411374",
+            "9.0549519",
+            "9.0649519"
+        ]
+    }
+]

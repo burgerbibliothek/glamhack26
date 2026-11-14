@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91721239,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1244933355,
+        "lat": "46.4455630",
+        "lon": "7.5929475",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.13618373728802152,
+        "addresstype": "peak",
+        "name": "Tschingellochtighorn",
+        "display_name": "Tschingellochtighorn, Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3718, Schweiz",
+        "address": {
+            "peak": "Tschingellochtighorn",
+            "village": "Kandersteg",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3718",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4455130",
+            "46.4456130",
+            "7.5928975",
+            "7.5929975"
+        ]
+    }
+]

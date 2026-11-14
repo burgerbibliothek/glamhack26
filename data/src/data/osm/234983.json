@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92376225,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2887795830,
+        "lat": "47.0162472",
+        "lon": "7.6554882",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.2507397701059262,
+        "addresstype": "railway",
+        "name": "Hasle-Rüegsau",
+        "display_name": "Hasle-Rüegsau, Kalchofenstrasse, Emmenau, Goldbach, Hasle bei Burgdorf, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3415, Schweiz",
+        "address": {
+            "railway": "Hasle-Rüegsau",
+            "road": "Kalchofenstrasse",
+            "neighbourhood": "Emmenau",
+            "village": "Goldbach",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3415",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0112472",
+            "47.0212472",
+            "7.6504882",
+            "7.6604882"
+        ]
+    }
+]

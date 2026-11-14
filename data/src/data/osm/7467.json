@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 99275109,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2952249,
+        "lat": "49.7201000",
+        "lon": "3.2309000",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5913178492406246,
+        "addresstype": "village",
+        "name": "Jussy",
+        "display_name": "Jussy, Saint-Quentin, Aisne, Nordfrankreich, Metropolitanes Frankreich, 02480, Frankreich",
+        "address": {
+            "village": "Jussy",
+            "municipality": "Saint-Quentin",
+            "county": "Aisne",
+            "ISO3166-2-lvl6": "FR-02",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "02480",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.6958252",
+            "49.7379885",
+            "3.2034023",
+            "3.2679043"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92849720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 383525726,
+        "lat": "47.2716272",
+        "lon": "7.6792400",
+        "category": "highway",
+        "type": "track",
+        "place_rank": 26,
+        "importance": 0.053373877317463916,
+        "addresstype": "track",
+        "name": "Oggenhäusernweg",
+        "display_name": "Oggenhäusernweg, Galgacker, Walden, Wolfisberg, Niederbipp, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4704, Schweiz",
+        "address": {
+            "road": "Oggenhäusernweg",
+            "neighbourhood": "Galgacker",
+            "hamlet": "Walden",
+            "village": "Wolfisberg",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4704",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2708794",
+            "47.2721013",
+            "7.6784731",
+            "7.6802584"
+        ]
+    }
+]

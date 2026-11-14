@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91126428,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 364956853,
+        "lat": "46.0648271",
+        "lon": "7.6901238",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.47881559724676087,
+        "addresstype": "peak",
+        "name": "Zinalrothorn",
+        "display_name": "Zinalrothorn, Randa, Visp, Oberwallis, Wallis, 3928, Schweiz",
+        "address": {
+            "peak": "Zinalrothorn",
+            "village": "Randa",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3928",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0647771",
+            "46.0648771",
+            "7.6900738",
+            "7.6901738"
+        ]
+    }
+]

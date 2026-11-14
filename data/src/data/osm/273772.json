@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72328281,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1321496221,
+        "lat": "47.4308526",
+        "lon": "8.5589291",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.21822785325192331,
+        "addresstype": "railway",
+        "name": "Glattbrugg",
+        "display_name": "Glattbrugg, Bahnhofplatz, Glattpark, Glattbrugg, Opfikon, Bezirk Bülach, Zürich, 8152, Schweiz",
+        "address": {
+            "railway": "Glattbrugg",
+            "road": "Bahnhofplatz",
+            "suburb": "Glattpark",
+            "town": "Glattbrugg",
+            "county": "Bezirk Bülach",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8152",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4258526",
+            "47.4358526",
+            "8.5539291",
+            "8.5639291"
+        ]
+    }
+]

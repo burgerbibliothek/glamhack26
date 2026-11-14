@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73355737,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 262875534,
+        "lat": "46.7429325",
+        "lon": "9.5970634",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.26124069590558274,
+        "addresstype": "peak",
+        "name": "Parpaner Rothorn",
+        "display_name": "Parpaner Rothorn, Arosa, Plessur, Graubünden, 7076, Schweiz",
+        "address": {
+            "peak": "Parpaner Rothorn",
+            "village": "Arosa",
+            "county": "Plessur",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7076",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7428825",
+            "46.7429825",
+            "9.5970134",
+            "9.5971134"
+        ]
+    }
+]

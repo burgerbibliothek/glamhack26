@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 59573319,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 8926171,
+        "lat": "41.1125268",
+        "lon": "29.0718072",
+        "category": "natural",
+        "type": "strait",
+        "place_rank": 22,
+        "importance": 0.6095985165727964,
+        "addresstype": "strait",
+        "name": "Bosporus",
+        "display_name": "Bosporus, İstanbul, Marmararegion, Türkei",
+        "address": {
+            "strait": "Bosporus",
+            "province": "İstanbul",
+            "ISO3166-2-lvl4": "TR-34",
+            "region": "Marmararegion",
+            "country": "Türkei",
+            "country_code": "tr"
+        },
+        "boundingbox": [
+            "40.9910594",
+            "41.2340730",
+            "28.9744713",
+            "29.1523360"
+        ]
+    }
+]

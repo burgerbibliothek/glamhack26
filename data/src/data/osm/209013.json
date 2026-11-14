@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 123477679,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5744412,
+        "lat": "48.6591769",
+        "lon": "8.0464364",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.22898814784265079,
+        "addresstype": "city_district",
+        "name": "Großweier",
+        "display_name": "Großweier, Achern, VVG der Stadt Achern, Ortenaukreis, Baden-Württemberg, Deutschland",
+        "address": {
+            "city_district": "Großweier",
+            "town": "Achern",
+            "municipality": "VVG der Stadt Achern",
+            "county": "Ortenaukreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.6419012",
+            "48.6762836",
+            "8.0301725",
+            "8.0629784"
+        ]
+    }
+]

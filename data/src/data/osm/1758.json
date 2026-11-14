@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72411751,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12824915009,
+        "lat": "47.8205247",
+        "lon": "9.0634417",
+        "category": "historic",
+        "type": "archaeological_site",
+        "place_rank": 30,
+        "importance": 0.306026056337308,
+        "addresstype": "historic",
+        "name": "Schnabelburg",
+        "display_name": "Schnabelburg, An der Schnabelburg, Ludwigshafen, Bodman-Ludwigshafen, VVG der Stadt Stockach, Landkreis Konstanz, Baden-Württemberg, 78351, Deutschland",
+        "address": {
+            "historic": "Schnabelburg",
+            "road": "An der Schnabelburg",
+            "village": "Ludwigshafen",
+            "municipality": "Bodman-Ludwigshafen",
+            "county": "Landkreis Konstanz",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "78351",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.8204747",
+            "47.8205747",
+            "9.0633917",
+            "9.0634917"
+        ]
+    }
+]

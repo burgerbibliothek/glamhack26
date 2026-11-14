@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 128446114,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3050337670,
+        "lat": "48.1085447",
+        "lon": "11.6218550",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "26, Zieglerstraße, Ramersdorf, Ramersdorf-Perlach, München, Bayern, 81735, Deutschland",
+        "address": {
+            "house_number": "26",
+            "road": "Zieglerstraße",
+            "suburb": "Ramersdorf",
+            "city_district": "Ramersdorf-Perlach",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "81735",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1084947",
+            "48.1085947",
+            "11.6218050",
+            "11.6219050"
+        ]
+    }
+]

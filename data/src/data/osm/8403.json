@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 98982251,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2953115,
+        "lat": "49.4809517",
+        "lon": "3.7781066",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5949891799811835,
+        "addresstype": "village",
+        "name": "Sainte-Croix",
+        "display_name": "Sainte-Croix, Laon, Aisne, Nordfrankreich, Metropolitanes Frankreich, 02820, Frankreich",
+        "address": {
+            "village": "Sainte-Croix",
+            "municipality": "Laon",
+            "county": "Aisne",
+            "ISO3166-2-lvl6": "FR-02",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "02820",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.4693534",
+            "49.4900472",
+            "3.7646956",
+            "3.7981681"
+        ]
+    }
+]

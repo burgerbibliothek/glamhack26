@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 146107116,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 218199376,
+        "lat": "52.4275273",
+        "lon": "13.3326129",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "10, Luisenstraße, Lichterfelde Ost, Lichterfelde, Steglitz-Zehlendorf, Berlin, 12209, Deutschland",
+        "address": {
+            "house_number": "10",
+            "road": "Luisenstraße",
+            "quarter": "Lichterfelde Ost",
+            "suburb": "Lichterfelde",
+            "borough": "Steglitz-Zehlendorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12209",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4274523",
+            "52.4276455",
+            "13.3324288",
+            "13.3327206"
+        ]
+    }
+]

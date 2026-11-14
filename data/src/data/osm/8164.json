@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 89205788,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 78825,
+        "lat": "45.5867000",
+        "lon": "5.1628600",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5716186820954935,
+        "addresstype": "village",
+        "name": "Roche",
+        "display_name": "Roche, La Tour-du-Pin, Isère, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 38090, Frankreich",
+        "address": {
+            "village": "Roche",
+            "municipality": "La Tour-du-Pin",
+            "county": "Isère",
+            "ISO3166-2-lvl6": "FR-38",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "38090",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.5500110",
+            "45.6060936",
+            "5.1242826",
+            "5.1871310"
+        ]
+    }
+]

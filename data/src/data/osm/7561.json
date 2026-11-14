@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 88562859,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 88862,
+        "lat": "45.2808450",
+        "lon": "6.0858021",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.5601749289753758,
+        "addresstype": "city_district",
+        "name": "La Ferrière",
+        "display_name": "La Ferrière, Le Haut-Bréda, Grenoble, Isère, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 38580, Frankreich",
+        "address": {
+            "city_district": "La Ferrière",
+            "village": "Le Haut-Bréda",
+            "municipality": "Grenoble",
+            "county": "Isère",
+            "ISO3166-2-lvl6": "FR-38",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "38580",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.2204657",
+            "45.3419576",
+            "6.0307990",
+            "6.1432554"
+        ]
+    }
+]

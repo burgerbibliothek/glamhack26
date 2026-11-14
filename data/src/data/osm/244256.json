@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 120929535,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1086170301,
+        "lat": "48.3101631",
+        "lon": "7.8986858",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339109559777215,
+        "addresstype": "hamlet",
+        "name": "Langenhard",
+        "display_name": "Langenhard, Sulz, Lahr/Schwarzwald, VVG der Stadt Lahr/Schwarzwald, Ortenaukreis, Baden-Württemberg, 77933, Deutschland",
+        "address": {
+            "hamlet": "Langenhard",
+            "village": "Sulz",
+            "town": "Lahr/Schwarzwald",
+            "municipality": "VVG der Stadt Lahr/Schwarzwald",
+            "county": "Ortenaukreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "77933",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.2901631",
+            "48.3301631",
+            "7.8786858",
+            "7.9186858"
+        ]
+    }
+]

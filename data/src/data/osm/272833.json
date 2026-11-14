@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73844026,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3816971171,
+        "lat": "46.6000697",
+        "lon": "8.0019524",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.2328416436185146,
+        "addresstype": "railway",
+        "name": "Alpiglen",
+        "display_name": "Alpiglen, Eigertrail, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3818, Schweiz",
+        "address": {
+            "railway": "Alpiglen",
+            "road": "Eigertrail",
+            "village": "Grindelwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3818",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5950697",
+            "46.6050697",
+            "7.9969524",
+            "8.0069524"
+        ]
+    }
+]

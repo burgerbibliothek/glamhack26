@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 210339148,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 184843,
+        "lat": "33.8750629",
+        "lon": "35.8434090",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.7843528838289888,
+        "addresstype": "country",
+        "name": "Libanon",
+        "display_name": "Libanon",
+        "address": {
+            "country": "Libanon",
+            "country_code": "lb"
+        },
+        "boundingbox": [
+            "33.0550325",
+            "34.6921448",
+            "34.8825667",
+            "36.6250000"
+        ]
+    }
+]

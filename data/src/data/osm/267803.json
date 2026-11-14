@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72990888,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684728,
+        "lat": "46.0195496",
+        "lon": "8.8449841",
+        "category": "boundary",
+        "type": "historic",
+        "place_rank": 25,
+        "importance": 0.4013947720587043,
+        "addresstype": "historic",
+        "name": "Novaggio",
+        "display_name": "Novaggio, Lema, Kreis Breno, Bezirk Lugano, Tessin, 6986, Schweiz",
+        "address": {
+            "historic": "Novaggio",
+            "village": "Novaggio",
+            "city": "Lema",
+            "municipality": "Kreis Breno",
+            "county": "Bezirk Lugano",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6986",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0051991",
+            "46.0342182",
+            "8.8196771",
+            "8.8673136"
+        ]
+    }
+]

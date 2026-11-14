@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92701308,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685630,
+        "lat": "47.2993252",
+        "lon": "7.2905227",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.33861775862348764,
+        "addresstype": "city_district",
+        "name": "Soulce",
+        "display_name": "Soulce, Haute-Sorne, Bezirk Delsberg, Jura, 2864, Schweiz",
+        "address": {
+            "city_district": "Soulce",
+            "city": "Haute-Sorne",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2864",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2841691",
+            "47.3145061",
+            "7.2415932",
+            "7.3375122"
+        ]
+    }
+]

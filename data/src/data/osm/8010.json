@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91915510,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240049969,
+        "lat": "46.5709236",
+        "lon": "6.8274668",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3726646801410257,
+        "addresstype": "village",
+        "name": "Oron-la-Ville",
+        "display_name": "Oron-la-Ville, Oron, District de Lavaux-Oron, Waadt, 1610, Schweiz",
+        "address": {
+            "village": "Oron-la-Ville",
+            "city": "Oron",
+            "county": "District de Lavaux-Oron",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1610",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5509236",
+            "46.5909236",
+            "6.8074668",
+            "6.8474668"
+        ]
+    }
+]

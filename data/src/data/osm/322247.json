@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 93170550,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9380038808,
+        "lat": "47.2062786",
+        "lon": "7.5358799",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 6.317006179899318e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "6, Gerberngasse, Werkhof, Solothurn, Bezirk Solothurn, Amtei Solothurn-Lebern, Solothurn, 4509, Schweiz",
+        "address": {
+            "house_number": "6",
+            "road": "Gerberngasse",
+            "quarter": "Werkhof",
+            "town": "Solothurn",
+            "municipality": "Bezirk Solothurn",
+            "county": "Amtei Solothurn-Lebern",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4509",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2062286",
+            "47.2063286",
+            "7.5358299",
+            "7.5359299"
+        ]
+    }
+]

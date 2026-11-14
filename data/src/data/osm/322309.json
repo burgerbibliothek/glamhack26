@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 116251857,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 163744308,
+        "lat": "50.7610397",
+        "lon": "7.1636877",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 5.558632791633505e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "20, Gießereiweg, Niederberg, Hangelar, Sankt Augustin, Rhein-Sieg-Kreis, Nordrhein-Westfalen, 53757, Deutschland",
+        "address": {
+            "house_number": "20",
+            "road": "Gießereiweg",
+            "suburb": "Niederberg",
+            "town": "Sankt Augustin",
+            "county": "Rhein-Sieg-Kreis",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "53757",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.7609841",
+            "50.7610952",
+            "7.1636040",
+            "7.1637714"
+        ]
+    }
+]

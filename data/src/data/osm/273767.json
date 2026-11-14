@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72280692,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682192,
+        "lat": "47.4317645",
+        "lon": "8.4680435",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4512696718632003,
+        "addresstype": "town",
+        "name": "Regensdorf",
+        "display_name": "Regensdorf, Bezirk Dielsdorf, Zürich, Schweiz",
+        "address": {
+            "town": "Regensdorf",
+            "county": "Bezirk Dielsdorf",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4181843",
+            "47.4614018",
+            "8.4407813",
+            "8.5030506"
+        ]
+    }
+]

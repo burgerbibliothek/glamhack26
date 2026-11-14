@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91730176,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 208186386,
+        "lat": "46.6692693",
+        "lon": "7.3802131",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 4.494468604557896e-05,
+        "addresstype": "building",
+        "name": "Hinter Richisalp",
+        "display_name": "Hinter Richisalp, 57a, Rychisalp, Oberwil im Simmental, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3765, Schweiz",
+        "address": {
+            "building": "Hinter Richisalp",
+            "house_number": "57a",
+            "locality": "Rychisalp",
+            "village": "Oberwil im Simmental",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3765",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6691397",
+            "46.6694024",
+            "7.3800367",
+            "7.3803921"
+        ]
+    }
+]

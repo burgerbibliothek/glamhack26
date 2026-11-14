@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92217355,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6038120913,
+        "lat": "47.0384785",
+        "lon": "6.7022824",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333894659342336,
+        "addresstype": "hamlet",
+        "name": "Le Prévoux",
+        "display_name": "Le Prévoux, Le Locle, Région Montagnes, Neuenburg, 2400, Schweiz",
+        "address": {
+            "hamlet": "Le Prévoux",
+            "town": "Le Locle",
+            "region": "Région Montagnes",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2400",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0184785",
+            "47.0584785",
+            "6.6822824",
+            "6.7222824"
+        ]
+    }
+]

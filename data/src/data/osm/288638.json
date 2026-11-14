@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71579931,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240025322,
+        "lat": "47.4483485",
+        "lon": "8.9239155",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.29396319343666205,
+        "addresstype": "village",
+        "name": "Bichelsee",
+        "display_name": "Bichelsee, Bichelsee-Balterswil, Bezirk Münchwilen, Thurgau, 8363, Schweiz",
+        "address": {
+            "village": "Bichelsee",
+            "city": "Bichelsee-Balterswil",
+            "county": "Bezirk Münchwilen",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8363",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4283485",
+            "47.4683485",
+            "8.9039155",
+            "8.9439155"
+        ]
+    }
+]

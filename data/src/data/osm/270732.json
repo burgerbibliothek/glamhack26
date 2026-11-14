@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 90974439,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1198345,
+        "lat": "46.7441785",
+        "lon": "4.7306716",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.569319775258923,
+        "addresstype": "village",
+        "name": "Granges",
+        "display_name": "Granges, Chalon-sur-Saône, Saône-et-Loire, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 71390, Frankreich",
+        "address": {
+            "village": "Granges",
+            "municipality": "Chalon-sur-Saône",
+            "county": "Saône-et-Loire",
+            "ISO3166-2-lvl6": "FR-71",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "71390",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.7137894",
+            "46.7601360",
+            "4.7202263",
+            "4.7840560"
+        ]
+    }
+]

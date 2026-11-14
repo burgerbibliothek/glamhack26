@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 91835370,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10196957216,
+        "lat": "46.9474997",
+        "lon": "7.4365483",
+        "category": "amenity",
+        "type": "doctors",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "MEDIC OPTI-LINE",
+        "display_name": "MEDIC OPTI-LINE, 6, Laupenstrasse, Villette, Monbijou, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3001, Schweiz",
+        "address": {
+            "amenity": "MEDIC OPTI-LINE",
+            "house_number": "6",
+            "road": "Laupenstrasse",
+            "neighbourhood": "Villette",
+            "quarter": "Monbijou",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9474497",
+            "46.9475497",
+            "7.4364983",
+            "7.4365983"
+        ]
+    }
+]

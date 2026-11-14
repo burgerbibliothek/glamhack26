@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73817512,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1372222163,
+        "lat": "46.5898929",
+        "lon": "8.1181420",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.47526498357954355,
+        "addresstype": "peak",
+        "name": "Schreckhorn",
+        "display_name": "Schreckhorn, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3818, Schweiz",
+        "address": {
+            "peak": "Schreckhorn",
+            "village": "Grindelwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3818",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5898429",
+            "46.5899429",
+            "8.1180920",
+            "8.1181920"
+        ]
+    }
+]

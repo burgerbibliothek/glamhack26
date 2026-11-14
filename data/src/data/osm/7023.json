@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 74351429,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684068,
+        "lat": "46.7961980",
+        "lon": "9.8236892",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6233515208237266,
+        "addresstype": "town",
+        "name": "Davos",
+        "display_name": "Davos, Prättigau/Davos, Graubünden, Schweiz",
+        "address": {
+            "town": "Davos",
+            "county": "Prättigau/Davos",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6702589",
+            "46.8596587",
+            "9.6691261",
+            "9.9670732"
+        ]
+    }
+]

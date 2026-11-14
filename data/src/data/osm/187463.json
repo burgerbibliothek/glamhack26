@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92435059,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685051,
+        "lat": "46.5772320",
+        "lon": "6.3634849",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44985542542417367,
+        "addresstype": "village",
+        "name": "Mollens (VD)",
+        "display_name": "Mollens (VD), District de Morges, Waadt, 5431, Schweiz",
+        "address": {
+            "village": "Mollens (VD)",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "5431",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5609317",
+            "46.5909013",
+            "6.3061032",
+            "6.3892967"
+        ]
+    }
+]

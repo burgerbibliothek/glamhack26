@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92429367,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 453561840,
+        "lat": "46.9484747",
+        "lon": "7.4647630",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "53, Laubeggstrasse, Campagne Schönberg, Schosshalde, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "house_number": "53",
+            "road": "Laubeggstrasse",
+            "neighbourhood": "Campagne Schönberg",
+            "quarter": "Schosshalde",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9484247",
+            "46.9485247",
+            "7.4647130",
+            "7.4648130"
+        ]
+    }
+]

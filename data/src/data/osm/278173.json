@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 66416198,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 452378566,
+        "lat": "46.9228936",
+        "lon": "16.1583449",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 4.7257953765118145e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "3, Münzgraben, Katastralgemeinde Neumarkt an der Raab, Sankt Martin an der Raab, Bezirk Jennersdorf, Burgenland, 8380, Österreich",
+        "address": {
+            "house_number": "3",
+            "road": "Münzgraben",
+            "suburb": "Katastralgemeinde Neumarkt an der Raab",
+            "village": "Sankt Martin an der Raab",
+            "city": "Sankt Martin an der Raab",
+            "county": "Bezirk Jennersdorf",
+            "state": "Burgenland",
+            "ISO3166-2-lvl4": "AT-1",
+            "postcode": "8380",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "46.9227223",
+            "46.9229736",
+            "16.1581897",
+            "16.1584345"
+        ]
+    }
+]

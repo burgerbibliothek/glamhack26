@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92741727,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682687,
+        "lat": "47.0167827",
+        "lon": "7.7386149",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42336934103650703,
+        "addresstype": "village",
+        "name": "Trachselwald",
+        "display_name": "Trachselwald, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Trachselwald",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9911644",
+            "47.0282685",
+            "7.7350729",
+            "7.8194009"
+        ]
+    }
+]

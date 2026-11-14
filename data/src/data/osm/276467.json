@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73342553,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 26862947,
+        "lat": "46.9992364",
+        "lon": "8.9986183",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.4521300955016488,
+        "addresstype": "locality",
+        "name": "Glärnisch",
+        "display_name": "Glärnisch, Glarus Süd, Glarus, Schweiz",
+        "address": {
+            "locality": "Glärnisch",
+            "city": "Glarus Süd",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9892364",
+            "47.0092364",
+            "8.9886183",
+            "9.0086183"
+        ]
+    }
+]

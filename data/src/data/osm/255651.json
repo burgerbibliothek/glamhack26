@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 92098241,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 37769288,
+        "lat": "46.9434371",
+        "lon": "7.4382640",
+        "category": "office",
+        "type": "diplomatic",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "office",
+        "name": "Botschaft der Vereinigten Staaten von Amerika",
+        "display_name": "Botschaft der Vereinigten Staaten von Amerika, 19, Sulgeneckstrasse, Marzili, Sandrain, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3007, Schweiz",
+        "address": {
+            "office": "Botschaft der Vereinigten Staaten von Amerika",
+            "house_number": "19",
+            "road": "Sulgeneckstrasse",
+            "quarter": "Marzili",
+            "suburb": "Sandrain",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3007",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9432288",
+            "46.9436557",
+            "7.4379366",
+            "7.4386107"
+        ]
+    }
+]

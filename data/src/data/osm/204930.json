@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91627928,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685405,
+        "lat": "46.2731779",
+        "lon": "7.8656201",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37419541339491136,
+        "addresstype": "village",
+        "name": "Zeneggen",
+        "display_name": "Zeneggen, Visp, Oberwallis, Wallis, 3934, Schweiz",
+        "address": {
+            "village": "Zeneggen",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3934",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2567870",
+            "46.2869583",
+            "7.8328581",
+            "7.8810940"
+        ]
+    }
+]

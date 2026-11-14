@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 113460897,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5008877188,
+        "lat": "51.4817985",
+        "lon": "7.6210667",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 4.970702677953792e-05,
+        "addresstype": "highway",
+        "name": "Weststraße 2",
+        "display_name": "Weststraße 2, Weststraße, Hengserheide, Hengsen, Holzwickede, Kreis Unna, Nordrhein-Westfalen, 59439, Deutschland",
+        "address": {
+            "highway": "Weststraße 2",
+            "road": "Weststraße",
+            "hamlet": "Hengserheide",
+            "village": "Hengsen",
+            "town": "Holzwickede",
+            "county": "Kreis Unna",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "59439",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.4817485",
+            "51.4818485",
+            "7.6210167",
+            "7.6211167"
+        ]
+    }
+]

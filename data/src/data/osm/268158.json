@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 141079298,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1062245165,
+        "lat": "52.3689083",
+        "lon": "9.7462240",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.639047837029095e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "16, Marienstraße, Südstadt, Südstadt-Bult, Hannover, Region Hannover, Niedersachsen, 30171, Deutschland",
+        "address": {
+            "house_number": "16",
+            "road": "Marienstraße",
+            "suburb": "Südstadt",
+            "city_district": "Südstadt-Bult",
+            "city": "Hannover",
+            "county": "Region Hannover",
+            "state": "Niedersachsen",
+            "ISO3166-2-lvl4": "DE-NI",
+            "postcode": "30171",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.3687631",
+            "52.3689791",
+            "9.7461492",
+            "9.7462988"
+        ]
+    }
+]

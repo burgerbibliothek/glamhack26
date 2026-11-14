@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91836200,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 186993590,
+        "lat": "46.8679045",
+        "lon": "7.2108428",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337703440909435,
+        "addresstype": "hamlet",
+        "name": "Bundtels",
+        "display_name": "Bundtels, Düdingen, Sensebezirk, Freiburg, 3186, Schweiz",
+        "address": {
+            "hamlet": "Bundtels",
+            "village": "Düdingen",
+            "county": "Sensebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "3186",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8479045",
+            "46.8879045",
+            "7.1908428",
+            "7.2308428"
+        ]
+    }
+]

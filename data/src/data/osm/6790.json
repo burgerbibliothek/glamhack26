@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 136373140,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1352949,
+        "lat": "51.7902676",
+        "lon": "10.9551991",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4980812083544254,
+        "addresstype": "town",
+        "name": "Blankenburg",
+        "display_name": "Blankenburg, Landkreis Harz, Sachsen-Anhalt, Deutschland",
+        "address": {
+            "town": "Blankenburg",
+            "county": "Landkreis Harz",
+            "state": "Sachsen-Anhalt",
+            "ISO3166-2-lvl4": "DE-ST",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.7368951",
+            "51.9044135",
+            "10.8299484",
+            "11.0564752"
+        ]
+    }
+]

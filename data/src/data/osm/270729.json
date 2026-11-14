@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 422943800,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 21104076,
+        "lat": "46.5508239",
+        "lon": "6.6569786",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.4387538557821415,
+        "addresstype": "river",
+        "name": "Le Flon",
+        "display_name": "Le Flon, Grand-Mont, Le Mont-sur-Lausanne, District de Lausanne, Waadt, 1052, Schweiz",
+        "address": {
+            "river": "Le Flon",
+            "village": "Grand-Mont",
+            "county": "District de Lausanne",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1052",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5295915",
+            "46.5667940",
+            "6.6416752",
+            "6.6730154"
+        ]
+    }
+]

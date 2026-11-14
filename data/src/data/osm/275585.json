@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 68376164,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9891606233,
+        "lat": "47.0450939",
+        "lon": "15.8347536",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1600500137331197,
+        "addresstype": "peak",
+        "name": "Großegg",
+        "display_name": "Großegg, Markt Hartmannsdorf, Bezirk Weiz, Steiermark, 8311, Österreich",
+        "address": {
+            "peak": "Großegg",
+            "village": "Markt Hartmannsdorf",
+            "county": "Bezirk Weiz",
+            "state": "Steiermark",
+            "ISO3166-2-lvl4": "AT-6",
+            "postcode": "8311",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.0450439",
+            "47.0451439",
+            "15.8347036",
+            "15.8348036"
+        ]
+    }
+]

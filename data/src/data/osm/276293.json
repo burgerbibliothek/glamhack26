@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93094018,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683630,
+        "lat": "47.3970067",
+        "lon": "7.6508005",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.36640063663752165,
+        "addresstype": "village",
+        "name": "Bretzwil",
+        "display_name": "Bretzwil, Bezirk Waldenburg, Basel-Landschaft, 4207, Schweiz",
+        "address": {
+            "village": "Bretzwil",
+            "county": "Bezirk Waldenburg",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4207",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3801578",
+            "47.4100345",
+            "7.6327290",
+            "7.6708060"
+        ]
+    }
+]

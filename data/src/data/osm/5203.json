@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 125065462,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 95141831,
+        "lat": "49.9313987",
+        "lon": "8.5970391",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.148928053707205e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "3, Weihergasse, Gräfenhausen, Weiterstadt, Landkreis Darmstadt-Dieburg, Hessen, 64331, Deutschland",
+        "address": {
+            "house_number": "3",
+            "road": "Weihergasse",
+            "village": "Gräfenhausen",
+            "municipality": "Weiterstadt",
+            "county": "Landkreis Darmstadt-Dieburg",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "64331",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.9313496",
+            "49.9314477",
+            "8.5969475",
+            "8.5971307"
+        ]
+    }
+]

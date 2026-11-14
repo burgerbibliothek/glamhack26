@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 120392013,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 153845,
+        "lat": "48.3575152",
+        "lon": "6.5866064",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5699538064137293,
+        "addresstype": "village",
+        "name": "Romont",
+        "display_name": "Romont, Épinal, Vosges, Groß-Osten, Metropolitanes Frankreich, 88700, Frankreich",
+        "address": {
+            "village": "Romont",
+            "municipality": "Épinal",
+            "county": "Vosges",
+            "ISO3166-2-lvl6": "FR-88",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "88700",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.3131633",
+            "48.3808555",
+            "6.5484534",
+            "6.6121756"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92683764,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682469,
+        "lat": "47.0173068",
+        "lon": "7.6493340",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42742363444822296,
+        "addresstype": "village",
+        "name": "Hasle bei Burgdorf",
+        "display_name": "Hasle bei Burgdorf, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Hasle bei Burgdorf",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9769543",
+            "47.0296846",
+            "7.5908687",
+            "7.6893221"
+        ]
+    }
+]

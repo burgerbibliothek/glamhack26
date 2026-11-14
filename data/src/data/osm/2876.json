@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92124205,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 286879779,
+        "lat": "46.9485384",
+        "lon": "7.4556746",
+        "category": "tourism",
+        "type": "hotel",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "tourism",
+        "name": "Nydeck",
+        "display_name": "Nydeck, 1, Gerechtigkeitsgasse, Weisses Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "tourism": "Nydeck",
+            "house_number": "1",
+            "road": "Gerechtigkeitsgasse",
+            "quarter": "Weisses Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9484884",
+            "46.9485884",
+            "7.4556246",
+            "7.4557246"
+        ]
+    }
+]

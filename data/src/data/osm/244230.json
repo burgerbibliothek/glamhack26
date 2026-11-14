@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73496077,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684700,
+        "lat": "46.4210787",
+        "lon": "8.9513692",
+        "category": "boundary",
+        "type": "old_administrative",
+        "place_rank": 25,
+        "importance": 0.3035308770567123,
+        "addresstype": "old_administrative",
+        "name": "Ludiano",
+        "display_name": "Ludiano, Serravalle, Kreis Malvaglia, Bezirk Blenio, Tessin, 6721, Schweiz",
+        "address": {
+            "old_administrative": "Ludiano",
+            "village": "Ludiano",
+            "city": "Serravalle",
+            "municipality": "Kreis Malvaglia",
+            "county": "Bezirk Blenio",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6721",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4102893",
+            "46.4315500",
+            "8.9171750",
+            "8.9777813"
+        ]
+    }
+]

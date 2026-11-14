@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 124918603,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 284607253,
+        "lat": "49.9589696",
+        "lon": "8.3160765",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.383611810478397e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "19, Riedweg, Laubenheim, Mainz, Rheinland-Pfalz, 55130, Deutschland",
+        "address": {
+            "house_number": "19",
+            "road": "Riedweg",
+            "village": "Laubenheim",
+            "city": "Mainz",
+            "state": "Rheinland-Pfalz",
+            "ISO3166-2-lvl4": "DE-RP",
+            "postcode": "55130",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.9589111",
+            "49.9590281",
+            "8.3159875",
+            "8.3161655"
+        ]
+    }
+]

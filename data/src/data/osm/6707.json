@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93040965,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682371,
+        "lat": "47.0383598",
+        "lon": "7.2630166",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4209800478487352,
+        "addresstype": "village",
+        "name": "Bargen (BE)",
+        "display_name": "Bargen (BE), Seeland administrative district, Seeland administrative region, Bern, 3282, Schweiz",
+        "address": {
+            "village": "Bargen (BE)",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3282",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0192046",
+            "47.0512726",
+            "7.2084470",
+            "7.2689208"
+        ]
+    }
+]

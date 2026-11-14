@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 137020073,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4611791781,
+        "lat": "50.9747828",
+        "lon": "11.3138275",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.124055848015591e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "37, Gutenbergstraße, Ehringsdorf, Niedergrunstedt, Weimar, Thüringen, 99423, Deutschland",
+        "address": {
+            "house_number": "37",
+            "road": "Gutenbergstraße",
+            "suburb": "Ehringsdorf",
+            "village": "Niedergrunstedt",
+            "town": "Weimar",
+            "state": "Thüringen",
+            "ISO3166-2-lvl4": "DE-TH",
+            "postcode": "99423",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9747328",
+            "50.9748328",
+            "11.3137775",
+            "11.3138775"
+        ]
+    }
+]

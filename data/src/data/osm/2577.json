@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92362205,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2879236,
+        "lat": "46.9454510",
+        "lon": "7.4496793",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Terrasse Schwellenmätteli",
+        "display_name": "Terrasse Schwellenmätteli, 11, Dalmaziquai, Dalmazi, Kirchenfeld, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3005, Schweiz",
+        "address": {
+            "amenity": "Terrasse Schwellenmätteli",
+            "house_number": "11",
+            "road": "Dalmaziquai",
+            "quarter": "Dalmazi",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3005",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9453493",
+            "46.9455450",
+            "7.4492672",
+            "7.4501138"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72131099,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 301514908,
+        "lat": "47.4450685",
+        "lon": "8.7018296",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1467167277027542,
+        "addresstype": "village",
+        "name": "Grafstal",
+        "display_name": "Grafstal, Lindau, Bezirk Pfäffikon, Zürich, 8310, Schweiz",
+        "address": {
+            "village": "Grafstal",
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8310",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4250685",
+            "47.4650685",
+            "8.6818296",
+            "8.7218296"
+        ]
+    }
+]

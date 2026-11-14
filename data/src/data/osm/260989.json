@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 87723701,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5469794544,
+        "lat": "44.0763058",
+        "lon": "7.4383530",
+        "category": "historic",
+        "type": "archaeological_site",
+        "place_rank": 30,
+        "importance": 5.862745098034665e-05,
+        "addresstype": "historic",
+        "name": "Gravures rupestres de la vallée des Merveilles et de la région du Mont Bégo",
+        "display_name": "Gravures rupestres de la vallée des Merveilles et de la région du Mont Bégo, Chemin de l'Arpette, Tende, Nizza, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 06430, Frankreich",
+        "address": {
+            "historic": "Gravures rupestres de la vallée des Merveilles et de la région du Mont Bégo",
+            "road": "Chemin de l'Arpette",
+            "village": "Tende",
+            "municipality": "Nizza",
+            "county": "Maritime Alps",
+            "ISO3166-2-lvl6": "FR-06",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "06430",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.0762558",
+            "44.0763558",
+            "7.4383030",
+            "7.4384030"
+        ]
+    }
+]

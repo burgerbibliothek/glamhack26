@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92150457,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1690169640,
+        "lat": "46.9104987",
+        "lon": "7.8784150",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.10540294855860563,
+        "addresstype": "hamlet",
+        "name": "Kröschenbrunnen",
+        "display_name": "Kröschenbrunnen, Trub, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3556, Schweiz",
+        "address": {
+            "hamlet": "Kröschenbrunnen",
+            "village": "Trub",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3556",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8904987",
+            "46.9304987",
+            "7.8584150",
+            "7.8984150"
+        ]
+    }
+]

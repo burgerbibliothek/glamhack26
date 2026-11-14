@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92032942,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2868293505,
+        "lat": "46.9435943",
+        "lon": "7.4431084",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "22c, Marzilistrasse, Marzili, Sandrain, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3005, Schweiz",
+        "address": {
+            "house_number": "22c",
+            "road": "Marzilistrasse",
+            "quarter": "Marzili",
+            "suburb": "Sandrain",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3005",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9435443",
+            "46.9436443",
+            "7.4430584",
+            "7.4431584"
+        ]
+    }
+]

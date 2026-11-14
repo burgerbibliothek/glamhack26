@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93079995,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240026941,
+        "lat": "47.0874834",
+        "lon": "7.4243087",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.36640063663752165,
+        "addresstype": "village",
+        "name": "Ruppoldsried",
+        "display_name": "Ruppoldsried, Rapperswil (BE), Seeland administrative district, Seeland administrative region, Bern, 3251, Schweiz",
+        "address": {
+            "village": "Ruppoldsried",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3251",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0674834",
+            "47.1074834",
+            "7.4043087",
+            "7.4443087"
+        ]
+    }
+]

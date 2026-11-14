@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 47768766,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 544329301,
+        "lat": "24.9802780",
+        "lon": "32.8747219",
+        "category": "place",
+        "type": "town",
+        "place_rank": 18,
+        "importance": 0.516856431322173,
+        "addresstype": "town",
+        "name": "Idfu",
+        "display_name": "Idfu, Assuan, 81644, Ägypten",
+        "address": {
+            "town": "Idfu",
+            "state": "Assuan",
+            "ISO3166-2-lvl4": "EG-ASN",
+            "postcode": "81644",
+            "country": "Ägypten",
+            "country_code": "eg"
+        },
+        "boundingbox": [
+            "24.9556506",
+            "25.0271082",
+            "32.8587486",
+            "32.8947637"
+        ]
+    }
+]

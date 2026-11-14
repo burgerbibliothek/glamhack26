@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91687787,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 402795584,
+        "lat": "46.9930471",
+        "lon": "7.4413340",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338516899366748,
+        "addresstype": "hamlet",
+        "name": "Bühlikofen",
+        "display_name": "Bühlikofen, Zollikofen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3052, Schweiz",
+        "address": {
+            "hamlet": "Bühlikofen",
+            "town": "Zollikofen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3052",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9730471",
+            "47.0130471",
+            "7.4213340",
+            "7.4613340"
+        ]
+    }
+]

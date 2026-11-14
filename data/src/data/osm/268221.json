@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92394280,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10289567911,
+        "lat": "46.5067781",
+        "lon": "6.3654984",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671868085755703,
+        "addresstype": "locality",
+        "name": "Les Voëttes",
+        "display_name": "Les Voëttes, Montherod, Aubonne, District de Morges, Waadt, 1170, Schweiz",
+        "address": {
+            "locality": "Les Voëttes",
+            "village": "Montherod",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1170",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4967781",
+            "46.5167781",
+            "6.3554984",
+            "6.3754984"
+        ]
+    }
+]

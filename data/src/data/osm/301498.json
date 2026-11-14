@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 69500798,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2755982964,
+        "lat": "46.6938826",
+        "lon": "12.3564913",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 6.023727779044812e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "11, Waldheimweg, Waldheim, Sexten, Pustertal, Bozen, Trentino-Südtirol, 39030, Italien",
+        "address": {
+            "house_number": "11",
+            "road": "Waldheimweg",
+            "hamlet": "Waldheim",
+            "village": "Sexten",
+            "city": "Sexten",
+            "municipality": "Pustertal",
+            "county": "Bozen",
+            "ISO3166-2-lvl6": "IT-BZ",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "postcode": "39030",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.6938326",
+            "46.6939326",
+            "12.3564413",
+            "12.3565413"
+        ]
+    }
+]

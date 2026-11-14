@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91988025,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 272877,
+        "lat": "46.5317358",
+        "lon": "7.9897398",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.106711504539559,
+        "addresstype": "glacier",
+        "name": "Jungfraufirn",
+        "display_name": "Jungfraufirn, Fieschertal, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "glacier": "Jungfraufirn",
+            "village": "Fieschertal",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5048021",
+            "46.5586698",
+            "7.9625602",
+            "8.0339340"
+        ]
+    }
+]

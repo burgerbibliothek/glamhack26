@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 185910072,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 114396,
+        "lat": "48.6553651",
+        "lon": "16.4139290",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41215939017041997,
+        "addresstype": "village",
+        "name": "Fallbach",
+        "display_name": "Fallbach, Bezirk Mistelbach, Niederösterreich, 2133, Österreich",
+        "address": {
+            "village": "Fallbach",
+            "county": "Bezirk Mistelbach",
+            "state": "Niederösterreich",
+            "ISO3166-2-lvl4": "AT-3",
+            "postcode": "2133",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.6174500",
+            "48.6983760",
+            "16.3962334",
+            "16.5015556"
+        ]
+    }
+]

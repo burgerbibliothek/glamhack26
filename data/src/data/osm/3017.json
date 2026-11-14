@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145211154,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5875573318,
+        "lat": "52.5160707",
+        "lon": "13.3309110",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "5, Gutenbergstraße, Spreestadt Charlottenburg, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10587, Deutschland",
+        "address": {
+            "house_number": "5",
+            "road": "Gutenbergstraße",
+            "quarter": "Spreestadt Charlottenburg",
+            "suburb": "Charlottenburg",
+            "borough": "Charlottenburg-Wilmersdorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10587",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5160207",
+            "52.5161207",
+            "13.3308610",
+            "13.3309610"
+        ]
+    }
+]

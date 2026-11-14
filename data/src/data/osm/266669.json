@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92613875,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3107002469,
+        "lat": "47.1682719",
+        "lon": "7.2556047",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.2659205816262254,
+        "addresstype": "hamlet",
+        "name": "Frinvillier",
+        "display_name": "Frinvillier, Vauffelin, Sauge, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2535, Schweiz",
+        "address": {
+            "hamlet": "Frinvillier",
+            "village": "Vauffelin",
+            "city": "Sauge",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2535",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1482719",
+            "47.1882719",
+            "7.2356047",
+            "7.2756047"
+        ]
+    }
+]

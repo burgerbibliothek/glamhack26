@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 124822546,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 23658405,
+        "lat": "49.9956553",
+        "lon": "8.2687821",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.3728855590490345,
+        "addresstype": "amenity",
+        "name": "Sankt Stephan",
+        "display_name": "Sankt Stephan, Stefansplatz, Nördliche Altstadt, Altstadt, Mainz, Rheinland-Pfalz, 55116, Deutschland",
+        "address": {
+            "amenity": "Sankt Stephan",
+            "road": "Stefansplatz",
+            "quarter": "Nördliche Altstadt",
+            "suburb": "Altstadt",
+            "city": "Mainz",
+            "state": "Rheinland-Pfalz",
+            "ISO3166-2-lvl4": "DE-RP",
+            "postcode": "55116",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.9953796",
+            "49.9959263",
+            "8.2683950",
+            "8.2694543"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92724608,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682399,
+        "lat": "47.1861468",
+        "lon": "7.8307883",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4217164953504801,
+        "addresstype": "village",
+        "name": "Busswil bei Melchnau",
+        "display_name": "Busswil bei Melchnau, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4917, Schweiz",
+        "address": {
+            "village": "Busswil bei Melchnau",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4917",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1784775",
+            "47.1967615",
+            "7.8113183",
+            "7.8478324"
+        ]
+    }
+]

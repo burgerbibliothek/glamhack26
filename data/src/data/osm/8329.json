@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91936691,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685160,
+        "lat": "46.5758446",
+        "lon": "6.4388219",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.38548409705301084,
+        "addresstype": "village",
+        "name": "Sévery",
+        "display_name": "Sévery, Hautemorges, District de Morges, Waadt, 1141, Schweiz",
+        "address": {
+            "village": "Sévery",
+            "city": "Hautemorges",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1141",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5590441",
+            "46.5855668",
+            "6.4333974",
+            "6.4513243"
+        ]
+    }
+]

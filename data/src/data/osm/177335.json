@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91555935,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685321,
+        "lat": "46.3991936",
+        "lon": "7.7717164",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3511138876399894,
+        "addresstype": "village",
+        "name": "Kippel",
+        "display_name": "Kippel, Westlich Raron, Oberwallis, Wallis, 3917, Schweiz",
+        "address": {
+            "village": "Kippel",
+            "county": "Westlich Raron",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3917",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3708914",
+            "46.4284177",
+            "7.7360540",
+            "7.8025980"
+        ]
+    }
+]

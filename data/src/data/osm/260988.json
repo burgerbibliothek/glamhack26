@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 89013493,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1502101377,
+        "lat": "45.7686480",
+        "lon": "6.9818982",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.4132399184526773,
+        "addresstype": "hamlet",
+        "name": "Champex",
+        "display_name": "Champex, Palleusieux, Pré-Saint-Didier, Aostatal, 11013, Italien",
+        "address": {
+            "hamlet": "Champex",
+            "village": "Palleusieux",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "postcode": "11013",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.7486480",
+            "45.7886480",
+            "6.9618982",
+            "7.0018982"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91962641,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1684322884,
+        "lat": "46.9490494",
+        "lon": "7.4457924",
+        "category": "shop",
+        "type": "hairdresser",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "shop",
+        "name": "Kopfstand",
+        "display_name": "Kopfstand, 12, Zeughausgasse, Gelbes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "shop": "Kopfstand",
+            "house_number": "12",
+            "road": "Zeughausgasse",
+            "quarter": "Gelbes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9489994",
+            "46.9490994",
+            "7.4457424",
+            "7.4458424"
+        ]
+    }
+]

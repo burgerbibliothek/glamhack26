@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92705732,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3081154400,
+        "lat": "47.0671017",
+        "lon": "6.7072991",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.13618373728802152,
+        "addresstype": "railway",
+        "name": "Les Brenets",
+        "display_name": "Les Brenets, 5, Rue de la Gare, La Caroline, Les Brenets, Le Locle, Région Montagnes, Neuenburg, 2416, Schweiz",
+        "address": {
+            "railway": "Les Brenets",
+            "house_number": "5",
+            "road": "Rue de la Gare",
+            "hamlet": "La Caroline",
+            "village": "Les Brenets",
+            "town": "Le Locle",
+            "region": "Région Montagnes",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2416",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0621017",
+            "47.0721017",
+            "6.7022991",
+            "6.7122991"
+        ]
+    }
+]

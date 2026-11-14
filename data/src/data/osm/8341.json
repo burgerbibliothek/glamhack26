@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73322643,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684168,
+        "lat": "46.7001997",
+        "lon": "9.4538996",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40893382561531794,
+        "addresstype": "village",
+        "name": "Sils im Domleschg",
+        "display_name": "Sils im Domleschg, Region Viamala, Graubünden, 7411, Schweiz",
+        "address": {
+            "village": "Sils im Domleschg",
+            "county": "Region Viamala",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7411",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6695097",
+            "46.7117940",
+            "9.4421123",
+            "9.5019364"
+        ]
+    }
+]

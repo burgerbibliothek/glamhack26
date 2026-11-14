@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91253031,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682663,
+        "lat": "46.7887815",
+        "lon": "7.5396362",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4086789983126955,
+        "addresstype": "village",
+        "name": "Seftigen",
+        "display_name": "Seftigen, Verwaltungskreis Thun, Oberland administrative region, Bern, 3662, Schweiz",
+        "address": {
+            "village": "Seftigen",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3662",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7815977",
+            "46.8002005",
+            "7.5213127",
+            "7.5573249"
+        ]
+    }
+]

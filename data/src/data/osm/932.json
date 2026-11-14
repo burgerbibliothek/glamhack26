@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 81832244,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 82629602,
+        "lat": "43.9315141",
+        "lon": "4.8069004",
+        "category": "highway",
+        "type": "living_street",
+        "place_rank": 26,
+        "importance": 0.05340554436560613,
+        "addresstype": "living_street",
+        "name": "Rue Xavier de Fourvières",
+        "display_name": "Rue Xavier de Fourvières, Sacré-Coeur, Quartier Nord Rocade, Avignon, Vaucluse, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 84000, Frankreich",
+        "address": {
+            "road": "Rue Xavier de Fourvières",
+            "quarter": "Sacré-Coeur",
+            "suburb": "Quartier Nord Rocade",
+            "city": "Avignon",
+            "municipality": "Avignon",
+            "county": "Vaucluse",
+            "ISO3166-2-lvl6": "FR-84",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "84000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.9315015",
+            "43.9317531",
+            "4.8060379",
+            "4.8077918"
+        ]
+    }
+]

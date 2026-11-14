@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 135107746,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 422924,
+        "lat": "51.3263637",
+        "lon": "12.6053575",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.45688476151542146,
+        "addresstype": "city",
+        "name": "Brandis",
+        "display_name": "Brandis, Landkreis Leipzig, Sachsen, Deutschland",
+        "address": {
+            "city": "Brandis",
+            "county": "Landkreis Leipzig",
+            "state": "Sachsen",
+            "ISO3166-2-lvl4": "DE-SN",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.3006424",
+            "51.3520730",
+            "12.5308454",
+            "12.6934921"
+        ]
+    }
+]

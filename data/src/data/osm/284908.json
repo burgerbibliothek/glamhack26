@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71834001,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 30238885,
+        "lat": "47.5505230",
+        "lon": "8.9876566",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.3095991533582804,
+        "addresstype": "hamlet",
+        "name": "Lustdorf",
+        "display_name": "Lustdorf, Thundorf, Bezirk Frauenfeld, Thurgau, 8512, Schweiz",
+        "address": {
+            "hamlet": "Lustdorf",
+            "village": "Thundorf",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8512",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5305230",
+            "47.5705230",
+            "8.9676566",
+            "9.0076566"
+        ]
+    }
+]

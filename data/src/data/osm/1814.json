@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91934868,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 663870029,
+        "lat": "46.6930663",
+        "lon": "7.6808907",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005312352178225,
+        "addresstype": "peak",
+        "name": "Spiezberg",
+        "display_name": "Spiezberg, Spiez, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3700, Schweiz",
+        "address": {
+            "peak": "Spiezberg",
+            "town": "Spiez",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3700",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6930163",
+            "46.6931163",
+            "7.6808407",
+            "7.6809407"
+        ]
+    }
+]

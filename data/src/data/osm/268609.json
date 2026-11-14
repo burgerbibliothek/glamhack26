@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92478586,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 958659,
+        "lat": "47.2657909",
+        "lon": "6.9386722",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5626414171429982,
+        "addresstype": "city",
+        "name": "Goumois",
+        "display_name": "Goumois, Montbéliard, Doubs, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 25470, Frankreich",
+        "address": {
+            "city": "Goumois",
+            "municipality": "Montbéliard",
+            "county": "Doubs",
+            "ISO3166-2-lvl6": "FR-25",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "25470",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.2426108",
+            "47.2892117",
+            "6.9241571",
+            "6.9558352"
+        ]
+    }
+]

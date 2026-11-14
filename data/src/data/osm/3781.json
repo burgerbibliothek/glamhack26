@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 93012130,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 37812770,
+        "lat": "46.9407447",
+        "lon": "7.4442054",
+        "category": "amenity",
+        "type": "arts_centre",
+        "place_rank": 30,
+        "importance": 0.2733828520337679,
+        "addresstype": "amenity",
+        "name": "Dampfzentrale",
+        "display_name": "Dampfzentrale, 47, Marzilistrasse, Marzili, Sandrain, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3007, Schweiz",
+        "address": {
+            "amenity": "Dampfzentrale",
+            "house_number": "47",
+            "road": "Marzilistrasse",
+            "quarter": "Marzili",
+            "suburb": "Sandrain",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3007",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9404951",
+            "46.9409551",
+            "7.4438939",
+            "7.4444965"
+        ]
+    }
+]

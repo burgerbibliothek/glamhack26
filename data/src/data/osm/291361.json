@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145478913,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 259225283,
+        "lat": "52.5665436",
+        "lon": "13.4440347",
+        "category": "building",
+        "type": "terrace",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "50, Eigerstraße, Alt-Heinersdorf, Heinersdorf, Pankow, Berlin, 13089, Deutschland",
+        "address": {
+            "house_number": "50",
+            "road": "Eigerstraße",
+            "neighbourhood": "Alt-Heinersdorf",
+            "suburb": "Heinersdorf",
+            "borough": "Pankow",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13089",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5664916",
+            "52.5665901",
+            "13.4439650",
+            "13.4441043"
+        ]
+    }
+]

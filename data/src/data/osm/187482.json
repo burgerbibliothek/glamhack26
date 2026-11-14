@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92047803,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685159,
+        "lat": "46.6456578",
+        "lon": "6.7782652",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4000978874196021,
+        "addresstype": "village",
+        "name": "Syens",
+        "display_name": "Syens, District de la Broye-Vully, Waadt, 1510, Schweiz",
+        "address": {
+            "village": "Syens",
+            "county": "District de la Broye-Vully",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1510",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6313842",
+            "46.6577636",
+            "6.7650625",
+            "6.7899409"
+        ]
+    }
+]

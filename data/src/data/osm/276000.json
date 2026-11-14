@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91951594,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 307822604,
+        "lat": "46.8212795",
+        "lon": "7.3763923",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333845784695201,
+        "addresstype": "hamlet",
+        "name": "Elisried",
+        "display_name": "Elisried, Wahlern, Schwarzenburg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3152, Schweiz",
+        "address": {
+            "hamlet": "Elisried",
+            "village": "Wahlern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3152",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8012795",
+            "46.8412795",
+            "7.3563923",
+            "7.3963923"
+        ]
+    }
+]

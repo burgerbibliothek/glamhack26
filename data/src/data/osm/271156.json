@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91801116,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1420162288,
+        "lat": "46.8538829",
+        "lon": "6.8858302",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3090170114439377,
+        "addresstype": "village",
+        "name": "Montbrelloz",
+        "display_name": "Montbrelloz, Estavayer, Broyebezirk, Freiburg, 1475, Schweiz",
+        "address": {
+            "village": "Montbrelloz",
+            "city": "Estavayer",
+            "county": "Broyebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1475",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8338829",
+            "46.8738829",
+            "6.8658302",
+            "6.9058302"
+        ]
+    }
+]

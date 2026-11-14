@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91896050,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1672073887,
+        "lat": "46.6074257",
+        "lon": "7.6614949",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337099794003202,
+        "addresstype": "hamlet",
+        "name": "Wengi bei Frutigen",
+        "display_name": "Wengi bei Frutigen, Reichenbach im Kandertal, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3713, Schweiz",
+        "address": {
+            "hamlet": "Wengi bei Frutigen",
+            "village": "Reichenbach im Kandertal",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3713",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5874257",
+            "46.6274257",
+            "7.6414949",
+            "7.6814949"
+        ]
+    }
+]

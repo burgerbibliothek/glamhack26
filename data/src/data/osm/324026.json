@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 187392561,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1611649455,
+        "lat": "48.2170709",
+        "lon": "16.3511086",
+        "category": "amenity",
+        "type": "cafe",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "amenity",
+        "name": "Coffee Pirates 2",
+        "display_name": "Coffee Pirates 2, 15, Spitalgasse, Alservorstadt, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich",
+        "address": {
+            "amenity": "Coffee Pirates 2",
+            "house_number": "15",
+            "road": "Spitalgasse",
+            "quarter": "Alservorstadt",
+            "neighbourhood": "Katastralgemeinde Alsergrund",
+            "suburb": "Alsergrund",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1090",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2170209",
+            "48.2171209",
+            "16.3510586",
+            "16.3511586"
+        ]
+    }
+]

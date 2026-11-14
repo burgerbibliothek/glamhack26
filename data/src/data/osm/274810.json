@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 74497385,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682830,
+        "lat": "46.9922358",
+        "lon": "8.0645622",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4059416820298136,
+        "addresstype": "village",
+        "name": "Entlebuch",
+        "display_name": "Entlebuch, Luzern, Schweiz",
+        "address": {
+            "village": "Entlebuch",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8927323",
+            "47.0351780",
+            "8.0097305",
+            "8.1648494"
+        ]
+    }
+]

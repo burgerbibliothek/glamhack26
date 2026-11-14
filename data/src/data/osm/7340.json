@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72864767,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 865090357,
+        "lat": "47.3248240",
+        "lon": "8.2009699",
+        "category": "tourism",
+        "type": "hotel",
+        "place_rank": 30,
+        "importance": 4.6595712214801516e-05,
+        "addresstype": "tourism",
+        "name": "Hallwyl",
+        "display_name": "Hallwyl, 17, Boniswilerstrasse, Seengen, Bezirk Lenzburg, Aargau, 5707, Schweiz",
+        "address": {
+            "tourism": "Hallwyl",
+            "house_number": "17",
+            "road": "Boniswilerstrasse",
+            "village": "Seengen",
+            "county": "Bezirk Lenzburg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5707",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3247740",
+            "47.3248740",
+            "8.2009199",
+            "8.2010199"
+        ]
+    }
+]

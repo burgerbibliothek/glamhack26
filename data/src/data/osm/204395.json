@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92844534,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 472554597,
+        "lat": "47.2598107",
+        "lon": "7.6588038",
+        "category": "building",
+        "type": "shed",
+        "place_rank": 30,
+        "importance": 4.792172121762444e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "19b, Weihergasse, Oberbipp, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4538, Schweiz",
+        "address": {
+            "house_number": "19b",
+            "road": "Weihergasse",
+            "village": "Oberbipp",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4538",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2597848",
+            "47.2598366",
+            "7.6587648",
+            "7.6588429"
+        ]
+    }
+]

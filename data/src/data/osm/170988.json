@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 160797023,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5784957139,
+        "lat": "61.9283298",
+        "lon": "15.6134391",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06672489585717555,
+        "addresstype": "locality",
+        "name": "Kasteln",
+        "display_name": "Kasteln, Ljusdals kommun, Provinz Gävleborg, Schweden",
+        "address": {
+            "locality": "Kasteln",
+            "municipality": "Ljusdals kommun",
+            "county": "Provinz Gävleborg",
+            "ISO3166-2-lvl4": "SE-X",
+            "country": "Schweden",
+            "country_code": "se"
+        },
+        "boundingbox": [
+            "61.9183298",
+            "61.9383298",
+            "15.6034391",
+            "15.6234391"
+        ]
+    }
+]

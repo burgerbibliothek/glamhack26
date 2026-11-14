@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92003456,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684835,
+        "lat": "46.6941594",
+        "lon": "6.5187517",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4524580407745302,
+        "addresstype": "village",
+        "name": "Arnex-sur-Orbe",
+        "display_name": "Arnex-sur-Orbe, District du Jura-Nord vaudois, Waadt, 1321, Schweiz",
+        "address": {
+            "village": "Arnex-sur-Orbe",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1321",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6694346",
+            "46.7069748",
+            "6.4881022",
+            "6.5490742"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92051338,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 461145185,
+        "lat": "46.5931026",
+        "lon": "6.8286195",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671270084687568,
+        "addresstype": "village",
+        "name": "Gillarens",
+        "display_name": "Gillarens, Rue, Glanebezirk, Freiburg, 1673, Schweiz",
+        "address": {
+            "village": "Gillarens",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1673",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5731026",
+            "46.6131026",
+            "6.8086195",
+            "6.8486195"
+        ]
+    }
+]

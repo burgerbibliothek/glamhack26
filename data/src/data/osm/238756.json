@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93652781,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682643,
+        "lat": "47.2436103",
+        "lon": "7.2072535",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4744750917192849,
+        "addresstype": "village",
+        "name": "Saicourt",
+        "display_name": "Saicourt, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, Schweiz",
+        "address": {
+            "village": "Saicourt",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2344303",
+            "47.2747275",
+            "7.1427692",
+            "7.2148079"
+        ]
+    }
+]

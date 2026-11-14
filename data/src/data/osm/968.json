@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 119868274,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8661157312,
+        "lat": "49.4774710",
+        "lon": "5.7839423",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06673065003433279,
+        "addresstype": "locality",
+        "name": "Au Sunion et Cuniet",
+        "display_name": "Au Sunion et Cuniet, Chenières, Val-de-Briey, Meurthe-et-Moselle, Groß-Osten, Metropolitanes Frankreich, 54720, Frankreich",
+        "address": {
+            "locality": "Au Sunion et Cuniet",
+            "village": "Chenières",
+            "municipality": "Val-de-Briey",
+            "county": "Meurthe-et-Moselle",
+            "ISO3166-2-lvl6": "FR-54",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "54720",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.4674710",
+            "49.4874710",
+            "5.7739423",
+            "5.7939423"
+        ]
+    }
+]

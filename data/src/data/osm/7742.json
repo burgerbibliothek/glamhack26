@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71294429,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684358,
+        "lat": "47.5468415",
+        "lon": "8.1858890",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38798267658459484,
+        "addresstype": "village",
+        "name": "Mandach",
+        "display_name": "Mandach, Bezirk Brugg, Aargau, 5318, Schweiz",
+        "address": {
+            "village": "Mandach",
+            "county": "Bezirk Brugg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5318",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5383945",
+            "47.5652566",
+            "8.1697423",
+            "8.2079650"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91914000,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13336211023,
+        "lat": "46.9475332",
+        "lon": "7.4506254",
+        "category": "shop",
+        "type": "art",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "shop",
+        "name": "Plakatkeller",
+        "display_name": "Plakatkeller, 32, Münstergasse, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "shop": "Plakatkeller",
+            "house_number": "32",
+            "road": "Münstergasse",
+            "quarter": "Altstadt",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9474832",
+            "46.9475832",
+            "7.4505754",
+            "7.4506754"
+        ]
+    }
+]

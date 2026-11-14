@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92190283,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2691318257,
+        "lat": "46.6442122",
+        "lon": "6.7129130",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1334076317998016,
+        "addresstype": "hamlet",
+        "name": "Chardonney",
+        "display_name": "Chardonney, Montaubion-Chardonney, Jorat-Menthue, District du Gros-de-Vaud, Waadt, 1061, Schweiz",
+        "address": {
+            "hamlet": "Chardonney",
+            "city_district": "Montaubion-Chardonney",
+            "city": "Jorat-Menthue",
+            "county": "District du Gros-de-Vaud",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1061",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6242122",
+            "46.6642122",
+            "6.6929130",
+            "6.7329130"
+        ]
+    }
+]

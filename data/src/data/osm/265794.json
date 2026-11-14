@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92458890,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1611590341,
+        "lat": "46.8858952",
+        "lon": "7.7192829",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333833348592355,
+        "addresstype": "hamlet",
+        "name": "Ryffersegg",
+        "display_name": "Ryffersegg, Bowil, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3533, Schweiz",
+        "address": {
+            "hamlet": "Ryffersegg",
+            "village": "Bowil",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3533",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8658952",
+            "46.9058952",
+            "7.6992829",
+            "7.7392829"
+        ]
+    }
+]

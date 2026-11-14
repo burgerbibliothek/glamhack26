@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 122002331,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 663674254,
+        "lat": "48.1065625",
+        "lon": "9.7781978",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.977645532916789e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "12, Tunnelweg, Hochvogelstraße, Biberach an der Riß, VVG der Stadt Biberach an der Riß, Landkreis Biberach, Baden-Württemberg, 88400, Deutschland",
+        "address": {
+            "house_number": "12",
+            "road": "Tunnelweg",
+            "residential": "Hochvogelstraße",
+            "town": "Biberach an der Riß",
+            "municipality": "VVG der Stadt Biberach an der Riß",
+            "county": "Landkreis Biberach",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "88400",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1065030",
+            "48.1066220",
+            "9.7781518",
+            "9.7782439"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91533547,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685387,
+        "lat": "46.2385196",
+        "lon": "7.8515080",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3971205322578132,
+        "addresstype": "village",
+        "name": "Törbel",
+        "display_name": "Törbel, Visp, Oberwallis, Wallis, 3923, Schweiz",
+        "address": {
+            "village": "Törbel",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3923",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2175851",
+            "46.2712091",
+            "7.7918047",
+            "7.8680474"
+        ]
+    }
+]

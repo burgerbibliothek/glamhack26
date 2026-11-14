@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 96186287,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1770518,
+        "lat": "48.7378389",
+        "lon": "3.8121217",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5785081919303469,
+        "addresstype": "village",
+        "name": "Saint-Loup",
+        "display_name": "Saint-Loup, Épernay, Marne, Groß-Osten, Metropolitanes Frankreich, 51120, Frankreich",
+        "address": {
+            "village": "Saint-Loup",
+            "municipality": "Épernay",
+            "county": "Marne",
+            "ISO3166-2-lvl6": "FR-51",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "51120",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.7188981",
+            "48.7494147",
+            "3.7921472",
+            "3.8443940"
+        ]
+    }
+]

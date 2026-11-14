@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93003283,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 305765001,
+        "lat": "47.0530000",
+        "lon": "7.3434149",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14670676050965129,
+        "addresstype": "village",
+        "name": "Kosthofen",
+        "display_name": "Kosthofen, Grossaffoltern, Seeland administrative district, Seeland administrative region, Bern, 3262, Schweiz",
+        "address": {
+            "village": "Kosthofen",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3262",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0330000",
+            "47.0730000",
+            "7.3234149",
+            "7.3634149"
+        ]
+    }
+]

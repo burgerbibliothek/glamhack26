@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91654565,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 40422384,
+        "lat": "46.9442723",
+        "lon": "7.4494006",
+        "category": "tourism",
+        "type": "museum",
+        "place_rank": 30,
+        "importance": 0.41683092676635153,
+        "addresstype": "tourism",
+        "name": "Kunsthalle Bern",
+        "display_name": "Kunsthalle Bern, 1, Helvetiaplatz, Dalmazi, Kirchenfeld, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3005, Schweiz",
+        "address": {
+            "tourism": "Kunsthalle Bern",
+            "house_number": "1",
+            "road": "Helvetiaplatz",
+            "quarter": "Dalmazi",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3005",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9441439",
+            "46.9444017",
+            "7.4492401",
+            "7.4495763"
+        ]
+    }
+]

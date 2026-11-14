@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92373925,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 258833251,
+        "lat": "46.7833788",
+        "lon": "7.6317296",
+        "category": "leisure",
+        "type": "sports_hall",
+        "place_rank": 30,
+        "importance": 5.000152590214416e-05,
+        "addresstype": "leisure",
+        "name": "",
+        "display_name": "8, Kirchbühlweg, Steffisburg, Verwaltungskreis Thun, Oberland administrative region, Bern, 3612, Schweiz",
+        "address": {
+            "house_number": "8",
+            "road": "Kirchbühlweg",
+            "town": "Steffisburg",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3612",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7832771",
+            "46.7834804",
+            "7.6315034",
+            "7.6319558"
+        ]
+    }
+]

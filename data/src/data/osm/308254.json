@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91861965,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2904391624,
+        "lat": "46.6025654",
+        "lon": "7.8442503",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.14389741120638372,
+        "addresstype": "peak",
+        "name": "Lobhörner",
+        "display_name": "Lobhörner, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "peak": "Lobhörner",
+            "village": "Lauterbrunnen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6025154",
+            "46.6026154",
+            "7.8442003",
+            "7.8443003"
+        ]
+    }
+]

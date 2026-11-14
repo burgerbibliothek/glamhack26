@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 88802664,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 434306780,
+        "lat": "45.9833098",
+        "lon": "7.7846300",
+        "category": "tourism",
+        "type": "viewpoint",
+        "place_rank": 30,
+        "importance": 0.46411425267709566,
+        "addresstype": "tourism",
+        "name": "Gornergrat",
+        "display_name": "Gornergrat, Gornergrat - Hohtälli, Zermatt, Visp, Oberwallis, Wallis, 3920, Schweiz",
+        "address": {
+            "tourism": "Gornergrat",
+            "road": "Gornergrat - Hohtälli",
+            "town": "Zermatt",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3920",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9832598",
+            "45.9833598",
+            "7.7845800",
+            "7.7846800"
+        ]
+    }
+]

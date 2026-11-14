@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91733603,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 145235717,
+        "lat": "46.8721262",
+        "lon": "7.6474755",
+        "category": "landuse",
+        "type": "forest",
+        "place_rank": 24,
+        "importance": 0.08005186312657356,
+        "addresstype": "forest",
+        "name": "Cholere",
+        "display_name": "Cholere, Holz, Niederhünigen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3504, Schweiz",
+        "address": {
+            "forest": "Cholere",
+            "hamlet": "Holz",
+            "village": "Niederhünigen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3504",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8696148",
+            "46.8747914",
+            "7.6414973",
+            "7.6541994"
+        ]
+    }
+]

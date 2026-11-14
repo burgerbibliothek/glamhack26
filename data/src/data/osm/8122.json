@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72257136,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682191,
+        "lat": "47.4827643",
+        "lon": "8.4374038",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4122803330194641,
+        "addresstype": "village",
+        "name": "Regensberg",
+        "display_name": "Regensberg, Bezirk Dielsdorf, Zürich, 8158, Schweiz",
+        "address": {
+            "village": "Regensberg",
+            "county": "Bezirk Dielsdorf",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8158",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4685650",
+            "47.4854381",
+            "8.4042814",
+            "8.4469169"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 95284558,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 134903413,
+        "lat": "46.0960650",
+        "lon": "3.1885638",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05339532387273972,
+        "addresstype": "residential",
+        "name": "Chemin de la Recolaine",
+        "display_name": "Chemin de la Recolaine, Gannat, Vichy, Allier, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 03800, Frankreich",
+        "address": {
+            "road": "Chemin de la Recolaine",
+            "village": "Gannat",
+            "municipality": "Vichy",
+            "county": "Allier",
+            "ISO3166-2-lvl6": "FR-03",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "03800",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.0949626",
+            "46.0968518",
+            "3.1859361",
+            "3.1912640"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73474950,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684658,
+        "lat": "46.3169604",
+        "lon": "8.6018223",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4105664642266795,
+        "addresstype": "village",
+        "name": "Cevio",
+        "display_name": "Cevio, Kreis Rovana, Bezirk Vallemaggia, Tessin, Schweiz",
+        "address": {
+            "village": "Cevio",
+            "municipality": "Kreis Rovana",
+            "county": "Bezirk Vallemaggia",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2761696",
+            "46.4744560",
+            "8.4568698",
+            "8.6814912"
+        ]
+    }
+]

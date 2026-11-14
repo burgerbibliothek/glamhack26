@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91635628,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 600048453,
+        "lat": "46.0259750",
+        "lon": "7.4810866",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.35557074529832616,
+        "addresstype": "village",
+        "name": "Arolla",
+        "display_name": "Arolla, Evolène, Ering, Mittelwallis, Wallis, 1983, Schweiz",
+        "address": {
+            "village": "Arolla",
+            "county": "Ering",
+            "state_district": "Mittelwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1983",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0059750",
+            "46.0459750",
+            "7.4610866",
+            "7.5010866"
+        ]
+    }
+]

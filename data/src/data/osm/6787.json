@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93215943,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683626,
+        "lat": "47.5542152",
+        "lon": "7.6304739",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4436475407357258,
+        "addresstype": "town",
+        "name": "Birsfelden",
+        "display_name": "Birsfelden, Bezirk Arlesheim, Basel-Landschaft, 4127, Schweiz",
+        "address": {
+            "town": "Birsfelden",
+            "county": "Bezirk Arlesheim",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4127",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5407156",
+            "47.5617117",
+            "7.6175887",
+            "7.6459204"
+        ]
+    }
+]

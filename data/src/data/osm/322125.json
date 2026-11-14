@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 73228610,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1218098590,
+        "lat": "46.8597534",
+        "lon": "9.5099434",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 6.421072709234787e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "47, Felsenaustrasse, Sardona, Rheinquartier, Masans, Haldenstein, Chur, Plessur, Graubünden, 7000, Schweiz",
+        "address": {
+            "house_number": "47",
+            "road": "Felsenaustrasse",
+            "neighbourhood": "Sardona",
+            "quarter": "Rheinquartier",
+            "suburb": "Masans",
+            "village": "Haldenstein",
+            "town": "Chur",
+            "county": "Plessur",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8595234",
+            "46.8599345",
+            "9.5097023",
+            "9.5102303"
+        ]
+    }
+]

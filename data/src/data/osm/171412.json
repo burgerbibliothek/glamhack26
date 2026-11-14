@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91945969,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685536,
+        "lat": "46.9179627",
+        "lon": "6.5817362",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42884636673873666,
+        "addresstype": "city",
+        "name": "Val-de-Travers",
+        "display_name": "Val-de-Travers, Région Val-de-Travers, Neuenburg, Schweiz",
+        "address": {
+            "city": "Val-de-Travers",
+            "county": "Région Val-de-Travers",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8587012",
+            "46.9773341",
+            "6.4694596",
+            "6.7509009"
+        ]
+    }
+]

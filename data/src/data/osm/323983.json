@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145635150,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 23853342,
+        "lat": "52.5173645",
+        "lon": "13.4197282",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "30, Schillingstraße, Stralauer Vorstadt, Mitte, Berlin, 10179, Deutschland",
+        "address": {
+            "house_number": "30",
+            "road": "Schillingstraße",
+            "neighbourhood": "Stralauer Vorstadt",
+            "suburb": "Mitte",
+            "borough": "Mitte",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10179",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5172113",
+            "52.5176009",
+            "13.4195094",
+            "13.4199513"
+        ]
+    }
+]

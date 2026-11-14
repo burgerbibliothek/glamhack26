@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92196599,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10908628969,
+        "lat": "47.3727543",
+        "lon": "7.2358326",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1570394422394589,
+        "addresstype": "hamlet",
+        "name": "Montavon",
+        "display_name": "Montavon, Boécourt, Bezirk Delsberg, Jura, 2857, Schweiz",
+        "address": {
+            "hamlet": "Montavon",
+            "village": "Boécourt",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2857",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3527543",
+            "47.3927543",
+            "7.2158326",
+            "7.2558326"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 146164684,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11300921351,
+        "lat": "52.4672371",
+        "lon": "13.3304427",
+        "category": "amenity",
+        "type": "cafe",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "amenity",
+        "name": "Rheinstein",
+        "display_name": "Rheinstein, 28, Rheinstraße, Friedenau, Tempelhof-Schöneberg, Berlin, 12161, Deutschland",
+        "address": {
+            "amenity": "Rheinstein",
+            "house_number": "28",
+            "road": "Rheinstraße",
+            "suburb": "Friedenau",
+            "borough": "Tempelhof-Schöneberg",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12161",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4671871",
+            "52.4672871",
+            "13.3303927",
+            "13.3304927"
+        ]
+    }
+]

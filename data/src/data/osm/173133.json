@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 239249731,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4691700546,
+        "lat": "17.5931430",
+        "lon": "101.1823023",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671666819256882,
+        "addresstype": "village",
+        "name": "Bor Tene",
+        "display_name": "Bor Tene, Botene District, Provinz Sainyabuli, Laos",
+        "address": {
+            "village": "Bor Tene",
+            "county": "Botene District",
+            "state": "Provinz Sainyabuli",
+            "ISO3166-2-lvl4": "LA-XA",
+            "country": "Laos",
+            "country_code": "la"
+        },
+        "boundingbox": [
+            "17.5731430",
+            "17.6131430",
+            "101.1623023",
+            "101.2023023"
+        ]
+    }
+]

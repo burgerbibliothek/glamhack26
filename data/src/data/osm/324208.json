@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92146427,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 291721068,
+        "lat": "46.9462475",
+        "lon": "7.4553811",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "residential",
+        "name": "Wasserwerkgasse",
+        "display_name": "Wasserwerkgasse, Matte, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "road": "Wasserwerkgasse",
+            "quarter": "Matte",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9460808",
+            "46.9464671",
+            "7.4547303",
+            "7.4560082"
+        ]
+    }
+]

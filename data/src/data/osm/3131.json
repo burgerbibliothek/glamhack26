@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 139307408,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 145621924,
+        "lat": "51.3330991",
+        "lon": "9.5316583",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.236820019832177e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "18, Höheweg, Bossental, Wolfsanger-Hasenhecke, Kassel, Hessen, 34125, Deutschland",
+        "address": {
+            "house_number": "18",
+            "road": "Höheweg",
+            "neighbourhood": "Bossental",
+            "suburb": "Wolfsanger-Hasenhecke",
+            "city": "Kassel",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "34125",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.3330379",
+            "51.3331602",
+            "9.5315517",
+            "9.5317648"
+        ]
+    }
+]

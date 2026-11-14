@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92502782,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2742593,
+        "lat": "47.1878008",
+        "lon": "7.4943678",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.34045234732906265,
+        "addresstype": "city",
+        "name": "Lüsslingen-Nennigkofen",
+        "display_name": "Lüsslingen-Nennigkofen, Bezirk Bucheggberg, Amtei Bucheggberg-Wasseramt, Solothurn, 4574, Schweiz",
+        "address": {
+            "city": "Lüsslingen-Nennigkofen",
+            "municipality": "Bezirk Bucheggberg",
+            "county": "Amtei Bucheggberg-Wasseramt",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4574",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1711335",
+            "47.2045687",
+            "7.4708585",
+            "7.5147632"
+        ]
+    }
+]

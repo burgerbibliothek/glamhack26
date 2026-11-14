@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92523318,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 385677201,
+        "lat": "46.8590112",
+        "lon": "7.3640506",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671324559395738,
+        "addresstype": "village",
+        "name": "Aekenmatt",
+        "display_name": "Aekenmatt, Schwarzenburg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3148, Schweiz",
+        "address": {
+            "village": "Aekenmatt",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3148",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8390112",
+            "46.8790112",
+            "7.3440506",
+            "7.3840506"
+        ]
+    }
+]

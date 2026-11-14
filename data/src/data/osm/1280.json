@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92929233,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 18318726,
+        "lat": "46.8317790",
+        "lon": "7.6407545",
+        "category": "landuse",
+        "type": "forest",
+        "place_rank": 24,
+        "importance": 0.08005267795834284,
+        "addresstype": "forest",
+        "name": "Diessenberg",
+        "display_name": "Diessenberg, Schwändeli, Aeschlen bei Oberdiessbach, Oberdiessbach, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3672, Schweiz",
+        "address": {
+            "forest": "Diessenberg",
+            "hamlet": "Schwändeli",
+            "village": "Aeschlen bei Oberdiessbach",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3672",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8271189",
+            "46.8363851",
+            "7.6336518",
+            "7.6579419"
+        ]
+    }
+]

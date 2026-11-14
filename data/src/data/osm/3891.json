@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 144703107,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 313468147,
+        "lat": "52.5355936",
+        "lon": "13.4804319",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "15a, Mittelstraße, Wilhelmsberg, Märkisches Viertel, Alt-Hohenschönhausen, Lichtenberg, Berlin, 13055, Deutschland",
+        "address": {
+            "house_number": "15a",
+            "road": "Mittelstraße",
+            "neighbourhood": "Wilhelmsberg",
+            "quarter": "Märkisches Viertel",
+            "suburb": "Alt-Hohenschönhausen",
+            "borough": "Lichtenberg",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13055",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5355436",
+            "52.5356436",
+            "13.4803819",
+            "13.4804819"
+        ]
+    }
+]

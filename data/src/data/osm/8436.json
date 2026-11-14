@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 72240076,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 169934551,
+        "lat": "47.3737488",
+        "lon": "8.0497981",
+        "category": "highway",
+        "type": "primary",
+        "place_rank": 26,
+        "importance": 0.05339555123216598,
+        "addresstype": "primary",
+        "name": "Suhrentalstrasse",
+        "display_name": "Suhrentalstrasse, Waldchanzle, Aarau, Bezirk Aarau, Aargau, 5000, Schweiz",
+        "address": {
+            "road": "Suhrentalstrasse",
+            "neighbourhood": "Waldchanzle",
+            "town": "Aarau",
+            "county": "Bezirk Aarau",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3733816",
+            "47.3741138",
+            "8.0497329",
+            "8.0498495"
+        ]
+    }
+]

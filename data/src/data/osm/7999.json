@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93286915,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684395,
+        "lat": "47.3126595",
+        "lon": "7.9209900",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4332019127802897,
+        "addresstype": "town",
+        "name": "Oftringen",
+        "display_name": "Oftringen, Bezirk Zofingen, Aargau, 4665, Schweiz",
+        "address": {
+            "town": "Oftringen",
+            "county": "Bezirk Zofingen",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "4665",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2926886",
+            "47.3353172",
+            "7.9083401",
+            "7.9764659"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 121206787,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2801320,
+        "lat": "48.0257292",
+        "lon": "9.7879058",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4495825478037806,
+        "addresstype": "village",
+        "name": "Hochdorf",
+        "display_name": "Hochdorf, VVG der Stadt Biberach an der Riß, Landkreis Biberach, Baden-Württemberg, 88454, Deutschland",
+        "address": {
+            "village": "Hochdorf",
+            "municipality": "VVG der Stadt Biberach an der Riß",
+            "county": "Landkreis Biberach",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "88454",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.9906526",
+            "48.0589567",
+            "9.7497928",
+            "9.8350734"
+        ]
+    }
+]

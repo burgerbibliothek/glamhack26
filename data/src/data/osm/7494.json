@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 72576152,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1350936248,
+        "lat": "47.4303881",
+        "lon": "8.7059796",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333833943694209,
+        "addresstype": "hamlet",
+        "name": "Oberkempttal",
+        "display_name": "Oberkempttal, Ottikon, Illnau-Effretikon, Bezirk Pfäffikon, Zürich, 8307, Schweiz",
+        "address": {
+            "hamlet": "Oberkempttal",
+            "village": "Ottikon",
+            "city": "Illnau-Effretikon",
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8307",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4103881",
+            "47.4503881",
+            "8.6859796",
+            "8.7259796"
+        ]
+    }
+]

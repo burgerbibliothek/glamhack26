@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72457353,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 227679921,
+        "lat": "47.2763408",
+        "lon": "8.0681551",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.3002719692158251,
+        "addresstype": "amenity",
+        "name": "Kirche Leerau",
+        "display_name": "Kirche Leerau, 314.1, Dorfstrasse, Kirchleerau, Bezirk Zofingen, Aargau, 5054, Schweiz",
+        "address": {
+            "amenity": "Kirche Leerau",
+            "house_number": "314.1",
+            "road": "Dorfstrasse",
+            "village": "Kirchleerau",
+            "county": "Bezirk Zofingen",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5054",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2762831",
+            "47.2764205",
+            "8.0679985",
+            "8.0683135"
+        ]
+    }
+]

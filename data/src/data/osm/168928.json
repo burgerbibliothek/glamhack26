@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92945938,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 130286973,
+        "lat": "47.1402500",
+        "lon": "7.2158830",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.395266902838586,
+        "addresstype": "village",
+        "name": "Magglingen",
+        "display_name": "Magglingen, Leubringen, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2532, Schweiz",
+        "address": {
+            "village": "Magglingen",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2532",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1202500",
+            "47.1602500",
+            "7.1958830",
+            "7.2358830"
+        ]
+    }
+]

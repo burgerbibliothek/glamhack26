@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71201224,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 713419408,
+        "lat": "47.5609953",
+        "lon": "9.6563673",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.30289193994832775,
+        "addresstype": "hamlet",
+        "name": "Schwand",
+        "display_name": "Schwand, Wasserburg (Bodensee), Landkreis Lindau, Bayern, 88142, Deutschland",
+        "address": {
+            "hamlet": "Schwand",
+            "village": "Wasserburg (Bodensee)",
+            "county": "Landkreis Lindau",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "88142",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.5409953",
+            "47.5809953",
+            "9.6363673",
+            "9.6763673"
+        ]
+    }
+]

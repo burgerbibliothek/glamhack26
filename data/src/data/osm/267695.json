@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73593497,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 409552870,
+        "lat": "46.0704612",
+        "lon": "8.9581761",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338380636301211,
+        "addresstype": "hamlet",
+        "name": "Bigorio",
+        "display_name": "Bigorio, Sala Capriasca, Capriasca, Kreis Capriasca, Bezirk Lugano, Tessin, 6954, Schweiz",
+        "address": {
+            "hamlet": "Bigorio",
+            "village": "Sala Capriasca",
+            "municipality": "Kreis Capriasca",
+            "county": "Bezirk Lugano",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6954",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0504612",
+            "46.0904612",
+            "8.9381761",
+            "8.9781761"
+        ]
+    }
+]

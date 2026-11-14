@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91557670,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1068416013,
+        "lat": "46.9369945",
+        "lon": "7.4246135",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "residential",
+        "name": "Monreposweg",
+        "display_name": "Monreposweg, Weissenstein, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3008, Schweiz",
+        "address": {
+            "road": "Monreposweg",
+            "quarter": "Weissenstein",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3008",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9366448",
+            "46.9373903",
+            "7.4241664",
+            "7.4250949"
+        ]
+    }
+]

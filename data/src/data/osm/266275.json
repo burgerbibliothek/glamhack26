@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92729401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5052020609,
+        "lat": "47.0619770",
+        "lon": "7.7483412",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333819600213626,
+        "addresstype": "hamlet",
+        "name": "Weier im Emmental",
+        "display_name": "Weier im Emmental, Affoltern im Emmental, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3462, Schweiz",
+        "address": {
+            "hamlet": "Weier im Emmental",
+            "village": "Affoltern im Emmental",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3462",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0419770",
+            "47.0819770",
+            "7.7283412",
+            "7.7683412"
+        ]
+    }
+]

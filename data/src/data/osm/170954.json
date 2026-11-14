@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 72787691,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683140,
+        "lat": "47.1064925",
+        "lon": "9.0797716",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.415002101916886,
+        "addresstype": "city",
+        "name": "Glarus Nord",
+        "display_name": "Glarus Nord, Glarus, Schweiz",
+        "address": {
+            "city": "Glarus Nord",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0391320",
+            "47.1739873",
+            "8.9480725",
+            "9.1920324"
+        ]
+    }
+]

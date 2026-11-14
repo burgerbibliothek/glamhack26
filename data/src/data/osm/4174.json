@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92249883,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2583594620,
+        "lat": "46.9491447",
+        "lon": "7.4420768",
+        "category": "tourism",
+        "type": "hotel",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "tourism",
+        "name": "Savoy",
+        "display_name": "Savoy, 26, Neuengasse, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "tourism": "Savoy",
+            "house_number": "26",
+            "road": "Neuengasse",
+            "quarter": "Rotes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9490947",
+            "46.9491947",
+            "7.4420268",
+            "7.4421268"
+        ]
+    }
+]

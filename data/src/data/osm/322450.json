@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 67637074,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2080488699,
+        "lat": "47.0691478",
+        "lon": "15.4407268",
+        "category": "shop",
+        "type": "confectionery",
+        "place_rank": 30,
+        "importance": 7.381322957193893e-05,
+        "addresstype": "shop",
+        "name": "Heindl",
+        "display_name": "Heindl, 26, Herrengasse, Katastralgemeinde Innere Stadt, Innere Stadt, Graz, Steiermark, 8010, Österreich",
+        "address": {
+            "shop": "Heindl",
+            "house_number": "26",
+            "road": "Herrengasse",
+            "neighbourhood": "Katastralgemeinde Innere Stadt",
+            "suburb": "Innere Stadt",
+            "city": "Graz",
+            "state": "Steiermark",
+            "ISO3166-2-lvl4": "AT-6",
+            "postcode": "8010",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.0690978",
+            "47.0691978",
+            "15.4406768",
+            "15.4407768"
+        ]
+    }
+]

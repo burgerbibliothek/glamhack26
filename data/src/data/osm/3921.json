@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 144596040,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 52086755,
+        "lat": "52.5226993",
+        "lon": "13.3935007",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "Simon Palais",
+        "display_name": "Simon Palais, 1, Monbijoustraße, Spandauer Vorstadt, Mitte, Berlin, 10117, Deutschland",
+        "address": {
+            "building": "Simon Palais",
+            "house_number": "1",
+            "road": "Monbijoustraße",
+            "quarter": "Spandauer Vorstadt",
+            "suburb": "Mitte",
+            "borough": "Mitte",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10117",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5225984",
+            "52.5228066",
+            "13.3932244",
+            "13.3937799"
+        ]
+    }
+]

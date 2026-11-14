@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 426667209,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 14124531965,
+        "lat": "46.8247684",
+        "lon": "7.6589757",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 5.267795834282471e-05,
+        "addresstype": "information",
+        "name": "Äschlenalp",
+        "display_name": "Äschlenalp, 1250, Winkel, Ibach, Buchholterberg, Verwaltungskreis Thun, Oberland administrative region, Bern, 3615, Schweiz",
+        "address": {
+            "information": "Äschlenalp",
+            "road": "1250",
+            "farmyard": "Winkel",
+            "hamlet": "Ibach",
+            "city": "Buchholterberg",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3615",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8247184",
+            "46.8248184",
+            "7.6589257",
+            "7.6590257"
+        ]
+    }
+]

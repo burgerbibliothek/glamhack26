@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 186947926,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 280535728,
+        "lat": "48.2221958",
+        "lon": "16.3427862",
+        "category": "amenity",
+        "type": "pharmacy",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "amenity",
+        "name": "Theresien Apotheke",
+        "display_name": "Theresien Apotheke, 6, Kreuzgasse, Katastralgemeinde Währing, Währing, Wien, 1180, Österreich",
+        "address": {
+            "amenity": "Theresien Apotheke",
+            "house_number": "6",
+            "road": "Kreuzgasse",
+            "suburb": "Katastralgemeinde Währing",
+            "city_district": "Währing",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1180",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2221458",
+            "48.2222458",
+            "16.3427362",
+            "16.3428362"
+        ]
+    }
+]

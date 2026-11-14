@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72321649,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 619043419,
+        "lat": "47.4809309",
+        "lon": "8.2159993",
+        "category": "leisure",
+        "type": "park",
+        "place_rank": 24,
+        "importance": 0.3863874290870923,
+        "addresstype": "park",
+        "name": "Königsfelden",
+        "display_name": "Königsfelden, Windisch, Bezirk Brugg, Aargau, Schweiz",
+        "address": {
+            "park": "Königsfelden",
+            "village": "Windisch",
+            "county": "Bezirk Brugg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4790322",
+            "47.4828739",
+            "8.2127919",
+            "8.2195282"
+        ]
+    }
+]

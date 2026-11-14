@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 86375898,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 124621,
+        "lat": "44.7480871",
+        "lon": "1.8463514",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.540882422393292,
+        "addresstype": "village",
+        "name": "Rueyres",
+        "display_name": "Rueyres, Figeac, Lot, Okzitanien, Metropolitanes Frankreich, 46120, Frankreich",
+        "address": {
+            "village": "Rueyres",
+            "municipality": "Figeac",
+            "county": "Lot",
+            "ISO3166-2-lvl6": "FR-46",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "46120",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.7310245",
+            "44.7770376",
+            "1.8339234",
+            "1.8750224"
+        ]
+    }
+]

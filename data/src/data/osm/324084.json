@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 156551285,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 219411701,
+        "lat": "52.1139570",
+        "lon": "4.2808022",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 7.773327229720023e-05,
+        "addresstype": "amenity",
+        "name": "De Golfslag",
+        "display_name": "De Golfslag, 35A, Strandweg, Scheveningen, Den Haag, Südholland, Niederlande, 2586 ZZ, Niederlande",
+        "address": {
+            "amenity": "De Golfslag",
+            "house_number": "35A",
+            "road": "Strandweg",
+            "suburb": "Scheveningen",
+            "city": "Den Haag",
+            "municipality": "Den Haag",
+            "state": "Südholland",
+            "ISO3166-2-lvl4": "NL-ZH",
+            "country": "Niederlande",
+            "postcode": "2586 ZZ",
+            "country_code": "nl"
+        },
+        "boundingbox": [
+            "52.1138274",
+            "52.1140579",
+            "4.2806359",
+            "4.2809645"
+        ]
+    }
+]

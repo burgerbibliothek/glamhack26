@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 144115520,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 827647021,
+        "lat": "53.6885338",
+        "lon": "10.7486735",
+        "category": "shop",
+        "type": "garden_centre",
+        "place_rank": 30,
+        "importance": 6.044174868386385e-05,
+        "addresstype": "shop",
+        "name": "Gartenfachmarkt Johannsen",
+        "display_name": "Gartenfachmarkt Johannsen, Barkenkamp, Sankt Georgsberg, Ratzeburg, Kreis Herzogtum Lauenburg, Schleswig-Holstein, 23909, Deutschland",
+        "address": {
+            "shop": "Gartenfachmarkt Johannsen",
+            "road": "Barkenkamp",
+            "suburb": "Sankt Georgsberg",
+            "town": "Ratzeburg",
+            "county": "Kreis Herzogtum Lauenburg",
+            "state": "Schleswig-Holstein",
+            "ISO3166-2-lvl4": "DE-SH",
+            "postcode": "23909",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "53.6884838",
+            "53.6885838",
+            "10.7486235",
+            "10.7487235"
+        ]
+    }
+]

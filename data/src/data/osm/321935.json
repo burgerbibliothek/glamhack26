@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 146779792,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 222178906,
+        "lat": "52.4453849",
+        "lon": "13.3696152",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "1, Blumenweg, Wohnpark Mariendorf, Mariendorf, Tempelhof-Schöneberg, Berlin, 12105, Deutschland",
+        "address": {
+            "house_number": "1",
+            "road": "Blumenweg",
+            "neighbourhood": "Wohnpark Mariendorf",
+            "suburb": "Mariendorf",
+            "borough": "Tempelhof-Schöneberg",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12105",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4453375",
+            "52.4454622",
+            "13.3694401",
+            "13.3697754"
+        ]
+    }
+]

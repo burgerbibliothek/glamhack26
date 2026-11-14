@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73437479,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 429533773,
+        "lat": "46.1154488",
+        "lon": "8.9692607",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.31776205367205024,
+        "addresstype": "hamlet",
+        "name": "Medeglia",
+        "display_name": "Medeglia, Monteceneri, Kreis Taverne, Bezirk Lugano, Tessin, 6809, Schweiz",
+        "address": {
+            "hamlet": "Medeglia",
+            "city": "Monteceneri",
+            "municipality": "Kreis Taverne",
+            "county": "Bezirk Lugano",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6809",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0954488",
+            "46.1354488",
+            "8.9492607",
+            "8.9892607"
+        ]
+    }
+]

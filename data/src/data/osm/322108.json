@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145570580,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 217348184,
+        "lat": "52.6280479",
+        "lon": "13.3097631",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "9, Falkenweg, Entenschnabel, Glienicke/Nordbahn, Oberhavel, Brandenburg, 16548, Deutschland",
+        "address": {
+            "house_number": "9",
+            "road": "Falkenweg",
+            "neighbourhood": "Entenschnabel",
+            "suburb": "Glienicke/Nordbahn",
+            "county": "Oberhavel",
+            "state": "Brandenburg",
+            "ISO3166-2-lvl4": "DE-BB",
+            "postcode": "16548",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.6280280",
+            "52.6280749",
+            "13.3097238",
+            "13.3098026"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73797216,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240130322,
+        "lat": "46.8345033",
+        "lon": "10.3823311",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.37154897114460894,
+        "addresstype": "village",
+        "name": "Ramosch",
+        "display_name": "Ramosch, Valsot, Region Engiadina Bassa/Val Müstair, Graubünden, 7556, Schweiz",
+        "address": {
+            "village": "Ramosch",
+            "city": "Valsot",
+            "county": "Region Engiadina Bassa/Val Müstair",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7556",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8145033",
+            "46.8545033",
+            "10.3623311",
+            "10.4023311"
+        ]
+    }
+]

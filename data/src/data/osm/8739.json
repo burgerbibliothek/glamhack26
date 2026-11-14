@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92805040,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682734,
+        "lat": "47.0833722",
+        "lon": "7.8241528",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42397855970078896,
+        "addresstype": "village",
+        "name": "Wyssachen",
+        "display_name": "Wyssachen, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4954, Schweiz",
+        "address": {
+            "village": "Wyssachen",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4954",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0530294",
+            "47.0949455",
+            "7.7968402",
+            "7.8447151"
+        ]
+    }
+]

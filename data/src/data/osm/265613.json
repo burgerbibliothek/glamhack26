@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92800849,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682362,
+        "lat": "47.1242996",
+        "lon": "7.6388514",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41705598036976543,
+        "addresstype": "village",
+        "name": "Alchenstorf",
+        "display_name": "Alchenstorf, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3473, Schweiz",
+        "address": {
+            "village": "Alchenstorf",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3473",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1087172",
+            "47.1370075",
+            "7.6189802",
+            "7.6707529"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91640586,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 260400038,
+        "lat": "46.3331037",
+        "lon": "7.0857508",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.18554865524912875,
+        "addresstype": "lake",
+        "name": "Lac des Chavonnes",
+        "display_name": "Lac des Chavonnes, La Forclaz VD, Ormont-Dessous, Aigle District, Waadt, Schweiz",
+        "address": {
+            "lake": "Lac des Chavonnes",
+            "village": "La Forclaz VD",
+            "city": "Ormont-Dessous",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3321235",
+            "46.3340838",
+            "7.0838229",
+            "7.0879791"
+        ]
+    }
+]

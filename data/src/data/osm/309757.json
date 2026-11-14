@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73564778,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 26863705,
+        "lat": "46.6350360",
+        "lon": "8.1247380",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44599986666192903,
+        "addresstype": "peak",
+        "name": "Mittelhorn",
+        "display_name": "Mittelhorn, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3818, Schweiz",
+        "address": {
+            "peak": "Mittelhorn",
+            "village": "Grindelwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3818",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6349860",
+            "46.6350860",
+            "8.1246880",
+            "8.1247880"
+        ]
+    }
+]

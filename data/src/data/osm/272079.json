@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91334135,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1402121679,
+        "lat": "46.6390863",
+        "lon": "7.2757595",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.160048077363241,
+        "addresstype": "peak",
+        "name": "Spitzflue",
+        "display_name": "Spitzflue, Val-de-Charmey, Greyerzbezirk, Freiburg, 1716, Schweiz",
+        "address": {
+            "peak": "Spitzflue",
+            "city": "Val-de-Charmey",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1716",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6390363",
+            "46.6391363",
+            "7.2757095",
+            "7.2758095"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 187703878,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 56341160,
+        "lat": "48.1409082",
+        "lon": "17.1068194",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.727397573810967e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "191/9, Hviezdoslav-Platz, Príboj, Historischer Kern, Bratislava, Okres Bratislava I, Bratislava, Bratislavský kraj, 811 02, Slowakei",
+        "address": {
+            "house_number": "191/9",
+            "road": "Hviezdoslav-Platz",
+            "neighbourhood": "Príboj",
+            "suburb": "Bratislava",
+            "city_district": "Okres Bratislava I",
+            "city": "Bratislava",
+            "region": "Bratislavský kraj",
+            "ISO3166-2-lvl4": "SK-BL",
+            "postcode": "811 02",
+            "country": "Slowakei",
+            "country_code": "sk"
+        },
+        "boundingbox": [
+            "48.1408038",
+            "48.1409779",
+            "17.1067258",
+            "17.1069376"
+        ]
+    }
+]

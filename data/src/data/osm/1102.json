@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 130071232,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 51684,
+        "lat": "49.7439047",
+        "lon": "15.3381061",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.8762322323266029,
+        "addresstype": "country",
+        "name": "Tschechien",
+        "display_name": "Tschechien",
+        "address": {
+            "country": "Tschechien",
+            "country_code": "cz"
+        },
+        "boundingbox": [
+            "48.5518081",
+            "51.0557008",
+            "12.0905752",
+            "18.8592531"
+        ]
+    }
+]

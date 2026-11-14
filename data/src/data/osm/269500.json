@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92696289,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685040,
+        "lat": "46.5500232",
+        "lon": "6.8727444",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3834517876427295,
+        "addresstype": "village",
+        "name": "Maracon",
+        "display_name": "Maracon, District de Lavaux-Oron, Waadt, 1613, Schweiz",
+        "address": {
+            "village": "Maracon",
+            "county": "District de Lavaux-Oron",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1613",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5415826",
+            "46.5705944",
+            "6.8623947",
+            "6.9022738"
+        ]
+    }
+]

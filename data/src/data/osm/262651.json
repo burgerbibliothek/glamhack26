@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93405870,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 18902997,
+        "lat": "47.4083049",
+        "lon": "7.0504492",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.19283288150311992,
+        "addresstype": "river",
+        "name": "Le Creugenat",
+        "display_name": "Le Creugenat, Courtedoux, Bezirk Porrentruy, Jura, Schweiz",
+        "address": {
+            "river": "Le Creugenat",
+            "village": "Courtedoux",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3962703",
+            "47.4188511",
+            "7.0272154",
+            "7.0739372"
+        ]
+    }
+]

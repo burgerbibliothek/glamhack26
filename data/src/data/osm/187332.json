@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91186867,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3974742240,
+        "lat": "46.4735690",
+        "lon": "6.3570697",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671914778362706,
+        "addresstype": "locality",
+        "name": "Malessert",
+        "display_name": "Malessert, Perroy, District de Nyon, Waadt, 1166, Schweiz",
+        "address": {
+            "locality": "Malessert",
+            "village": "Perroy",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1166",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4635690",
+            "46.4835690",
+            "6.3470697",
+            "6.3670697"
+        ]
+    }
+]

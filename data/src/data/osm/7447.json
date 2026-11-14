@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72148899,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 22979106,
+        "lat": "47.5833769",
+        "lon": "8.8664669",
+        "category": "historic",
+        "type": "monastery",
+        "place_rank": 30,
+        "importance": 0.3331894015087746,
+        "addresstype": "historic",
+        "name": "Kartause Ittingen",
+        "display_name": "Kartause Ittingen, Uesslingerstrasse, Kartause Ittingen, Warth, Warth-Weiningen, Bezirk Frauenfeld, Thurgau, 8532, Schweiz",
+        "address": {
+            "historic": "Kartause Ittingen",
+            "road": "Uesslingerstrasse",
+            "hamlet": "Kartause Ittingen",
+            "village": "Warth",
+            "city": "Warth-Weiningen",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8532",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5826154",
+            "47.5841993",
+            "8.8650854",
+            "8.8680372"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 69810141,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3920286842,
+        "lat": "47.4494000",
+        "lon": "13.3303000",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16002470054169526,
+        "addresstype": "peak",
+        "name": "Schwarzenegg",
+        "display_name": "Schwarzenegg, Salzburg, 5511, Österreich",
+        "address": {
+            "peak": "Schwarzenegg",
+            "state": "Salzburg",
+            "ISO3166-2-lvl4": "AT-5",
+            "postcode": "5511",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.4493500",
+            "47.4494500",
+            "13.3302500",
+            "13.3303500"
+        ]
+    }
+]

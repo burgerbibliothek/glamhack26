@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92405674,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682640,
+        "lat": "47.1732212",
+        "lon": "7.7738699",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42234121106503436,
+        "addresstype": "village",
+        "name": "Rütschelen",
+        "display_name": "Rütschelen, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4933, Schweiz",
+        "address": {
+            "village": "Rütschelen",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4933",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1565421",
+            "47.1855974",
+            "7.7552972",
+            "7.7873416"
+        ]
+    }
+]

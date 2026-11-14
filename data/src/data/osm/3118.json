@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 134249158,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2249904067,
+        "lat": "51.0349612",
+        "lon": "13.7335975",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.848859388108671e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "17, Hochschulstraße, Südvorstadt-Ost, Südvorstadt, Plauen, Dresden, Sachsen, 01069, Deutschland",
+        "address": {
+            "house_number": "17",
+            "road": "Hochschulstraße",
+            "neighbourhood": "Südvorstadt-Ost",
+            "suburb": "Südvorstadt",
+            "city_district": "Plauen",
+            "city": "Dresden",
+            "state": "Sachsen",
+            "ISO3166-2-lvl4": "DE-SN",
+            "postcode": "01069",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.0349112",
+            "51.0350112",
+            "13.7335475",
+            "13.7336475"
+        ]
+    }
+]

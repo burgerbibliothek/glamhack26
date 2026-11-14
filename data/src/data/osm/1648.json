@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73430978,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 165573661,
+        "lat": "46.8689203",
+        "lon": "8.9818756",
+        "category": "highway",
+        "type": "track",
+        "place_rank": 26,
+        "importance": 0.12743869505990896,
+        "addresstype": "track",
+        "name": "Pantenbrücke",
+        "display_name": "Pantenbrücke, Glarus Süd, Glarus, Schweiz",
+        "address": {
+            "road": "Pantenbrücke",
+            "city": "Glarus Süd",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8687620",
+            "46.8690785",
+            "8.9817141",
+            "8.9820370"
+        ]
+    }
+]

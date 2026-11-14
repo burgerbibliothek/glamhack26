@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91427316,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685283,
+        "lat": "46.2888361",
+        "lon": "7.9751936",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.473628219563255,
+        "addresstype": "city",
+        "name": "Brig-Glis",
+        "display_name": "Brig-Glis, Brig, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "city": "Brig-Glis",
+            "county": "Brig",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2546658",
+            "46.3229485",
+            "7.9101801",
+            "8.0311687"
+        ]
+    }
+]

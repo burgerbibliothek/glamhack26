@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73931826,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684170,
+        "lat": "46.4599334",
+        "lon": "9.7959165",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44985542542417367,
+        "addresstype": "village",
+        "name": "Silvaplana",
+        "display_name": "Silvaplana, Maloja, Graubünden, 7513, Schweiz",
+        "address": {
+            "village": "Silvaplana",
+            "county": "Maloja",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7513",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4126292",
+            "46.5079906",
+            "9.7231455",
+            "9.8482012"
+        ]
+    }
+]

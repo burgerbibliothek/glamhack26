@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92269497,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682442,
+        "lat": "46.7613825",
+        "lon": "7.5422067",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41118372170976975,
+        "addresstype": "city",
+        "name": "Forst-Längenbühl",
+        "display_name": "Forst-Längenbühl, Verwaltungskreis Thun, Oberland administrative region, Bern, 3636, Schweiz",
+        "address": {
+            "city": "Forst-Längenbühl",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3636",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7477144",
+            "46.7749477",
+            "7.5166983",
+            "7.5524720"
+        ]
+    }
+]

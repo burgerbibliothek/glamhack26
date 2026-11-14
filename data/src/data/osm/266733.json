@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91842649,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 152934,
+        "lat": "46.4767217",
+        "lon": "7.7327537",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.10671091554131377,
+        "addresstype": "glacier",
+        "name": "Doldenhorn Glacier",
+        "display_name": "Doldenhorn Glacier, Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3718, Schweiz",
+        "address": {
+            "glacier": "Doldenhorn Glacier",
+            "village": "Kandersteg",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3718",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4685566",
+            "46.4807753",
+            "7.7203679",
+            "7.7418316"
+        ]
+    }
+]

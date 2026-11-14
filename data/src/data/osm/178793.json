@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92957481,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1251261778,
+        "lat": "47.2771096",
+        "lon": "7.3605072",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.0533877935454337,
+        "addresstype": "residential",
+        "name": "Rue du Petit-Val",
+        "display_name": "Rue du Petit-Val, Münster, Bezirk Moutier, Jura, 2740, Schweiz",
+        "address": {
+            "road": "Rue du Petit-Val",
+            "town": "Münster",
+            "county": "Bezirk Moutier",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2740",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2766466",
+            "47.2775770",
+            "7.3589676",
+            "7.3620481"
+        ]
+    }
+]

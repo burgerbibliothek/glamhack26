@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 69709943,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2289056489,
+        "lat": "47.0973461",
+        "lon": "13.6370402",
+        "category": "shop",
+        "type": "supermarket",
+        "place_rank": 30,
+        "importance": 4.7300679026428894e-05,
+        "addresstype": "shop",
+        "name": "Spar",
+        "display_name": "Spar, 6, Waaghausgasse, Stranach, Sankt Martin, Sankt Michael im Lungau, Bezirk Tamsweg, Salzburg, 5582, Österreich",
+        "address": {
+            "shop": "Spar",
+            "house_number": "6",
+            "road": "Waaghausgasse",
+            "hamlet": "Stranach",
+            "village": "Sankt Martin",
+            "county": "Bezirk Tamsweg",
+            "state": "Salzburg",
+            "ISO3166-2-lvl4": "AT-5",
+            "postcode": "5582",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.0972961",
+            "47.0973961",
+            "13.6369902",
+            "13.6370902"
+        ]
+    }
+]

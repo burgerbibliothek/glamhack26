@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92135851,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 796373048,
+        "lat": "46.6776805",
+        "lon": "7.8647770",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.053383334859235486,
+        "addresstype": "secondary",
+        "name": "Gsteigstrasse",
+        "display_name": "Gsteigstrasse, Matten bei Interlaken, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3800, Schweiz",
+        "address": {
+            "road": "Gsteigstrasse",
+            "village": "Matten bei Interlaken",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3800",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6775687",
+            "46.6778006",
+            "7.8647168",
+            "7.8648523"
+        ]
+    }
+]

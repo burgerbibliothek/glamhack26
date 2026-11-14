@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93351925,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682702,
+        "lat": "47.0271385",
+        "lon": "7.5015562",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4703760762252035,
+        "addresstype": "village",
+        "name": "Urtenen-Schönbühl",
+        "display_name": "Urtenen-Schönbühl, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3322, Schweiz",
+        "address": {
+            "village": "Urtenen-Schönbühl",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3322",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9995908",
+            "47.0394045",
+            "7.4696930",
+            "7.5256824"
+        ]
+    }
+]

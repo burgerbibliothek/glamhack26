@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92060448,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684936,
+        "lat": "46.9560359",
+        "lon": "7.0183078",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42066187458738946,
+        "addresstype": "village",
+        "name": "Cudrefin",
+        "display_name": "Cudrefin, District de la Broye-Vully, Waadt, 1588, Schweiz",
+        "address": {
+            "village": "Cudrefin",
+            "county": "District de la Broye-Vully",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1588",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9288725",
+            "46.9869091",
+            "6.9588020",
+            "7.0630444"
+        ]
+    }
+]

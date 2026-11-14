@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72220011,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684437,
+        "lat": "47.3300709",
+        "lon": "8.1152406",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3759021037005979,
+        "addresstype": "village",
+        "name": "Teufenthal",
+        "display_name": "Teufenthal, Bezirk Kulm, Aargau, 5723, Schweiz",
+        "address": {
+            "village": "Teufenthal",
+            "county": "Bezirk Kulm",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5723",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3187009",
+            "47.3353502",
+            "8.1099230",
+            "8.1480434"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91027759,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685349,
+        "lat": "46.2816939",
+        "lon": "7.6957835",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3629003094109262,
+        "addresstype": "village",
+        "name": "Oberems",
+        "display_name": "Oberems, Leuk, Oberwallis, Wallis, 3948, Schweiz",
+        "address": {
+            "village": "Oberems",
+            "county": "Leuk",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3948",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1107496",
+            "46.2877887",
+            "7.6537050",
+            "7.7137314"
+        ]
+    }
+]

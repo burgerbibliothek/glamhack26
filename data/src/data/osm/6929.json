@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91189998,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684888,
+        "lat": "46.4770903",
+        "lon": "6.8271259",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4077792123453851,
+        "addresstype": "village",
+        "name": "Chardonne",
+        "display_name": "Chardonne, Bezirk Riviera-Pays-d'Enhaut, Waadt, Schweiz",
+        "address": {
+            "village": "Chardonne",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4316676",
+            "46.5124657",
+            "6.7834119",
+            "6.8425402"
+        ]
+    }
+]

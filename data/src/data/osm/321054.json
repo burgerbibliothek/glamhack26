@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73708675,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 427175640,
+        "lat": "46.7290907",
+        "lon": "8.1857971",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 5.512245365067548e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "9, Amthausgasse, Hüsen, Meiringen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3860, Schweiz",
+        "address": {
+            "house_number": "9",
+            "road": "Amthausgasse",
+            "village": "Hüsen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3860",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7290281",
+            "46.7291535",
+            "8.1857157",
+            "8.1858691"
+        ]
+    }
+]

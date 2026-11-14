@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72960306,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 357363032,
+        "lat": "47.2970696",
+        "lon": "9.4561264",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.21337448257116948,
+        "addresstype": "village",
+        "name": "Brülisau",
+        "display_name": "Brülisau, Schwende-Rüte, Appenzell Innerrhoden, 9058, Schweiz",
+        "address": {
+            "village": "Brülisau",
+            "city": "Schwende-Rüte",
+            "state": "Appenzell Innerrhoden",
+            "ISO3166-2-lvl4": "CH-AI",
+            "postcode": "9058",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2770696",
+            "47.3170696",
+            "9.4361264",
+            "9.4761264"
+        ]
+    }
+]

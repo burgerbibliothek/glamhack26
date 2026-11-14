@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91845740,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682600,
+        "lat": "46.8199569",
+        "lon": "7.5955418",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4594627538257798,
+        "addresstype": "village",
+        "name": "Oppligen",
+        "display_name": "Oppligen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3629, Schweiz",
+        "address": {
+            "village": "Oppligen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3629",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8008265",
+            "46.8317776",
+            "7.5837055",
+            "7.6071157"
+        ]
+    }
+]

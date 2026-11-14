@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91729728,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682364,
+        "lat": "46.7280729",
+        "lon": "7.5814651",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4140681747297726,
+        "addresstype": "village",
+        "name": "Amsoldingen",
+        "display_name": "Amsoldingen, Verwaltungskreis Thun, Oberland administrative region, Bern, 3633, Schweiz",
+        "address": {
+            "village": "Amsoldingen",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3633",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7136717",
+            "46.7442149",
+            "7.5659302",
+            "7.6086099"
+        ]
+    }
+]

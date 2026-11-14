@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 142996816,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 129452871,
+        "lat": "53.4626459",
+        "lon": "9.9709468",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.255359731436664e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "11, Kasernenstraße, Harburg, Hamburg, 21073, Deutschland",
+        "address": {
+            "house_number": "11",
+            "road": "Kasernenstraße",
+            "suburb": "Harburg",
+            "city_district": "Harburg",
+            "city": "Hamburg",
+            "ISO3166-2-lvl4": "DE-HH",
+            "postcode": "21073",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "53.4625800",
+            "53.4627778",
+            "9.9708461",
+            "9.9711171"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 136514515,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 927936182,
+        "lat": "51.9902890",
+        "lon": "10.7190657",
+        "category": "leisure",
+        "type": "nature_reserve",
+        "place_rank": 24,
+        "importance": 0.244781979759108,
+        "addresstype": "nature_reserve",
+        "name": "Waldhaus",
+        "display_name": "Waldhaus, Osterwieck, Landkreis Harz, Sachsen-Anhalt, Deutschland",
+        "address": {
+            "nature_reserve": "Waldhaus",
+            "city_district": "Osterwieck",
+            "town": "Osterwieck",
+            "county": "Landkreis Harz",
+            "state": "Sachsen-Anhalt",
+            "ISO3166-2-lvl4": "DE-ST",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.9863848",
+            "51.9941324",
+            "10.7121695",
+            "10.7257832"
+        ]
+    }
+]

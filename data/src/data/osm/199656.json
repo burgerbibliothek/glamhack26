@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91865184,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683411,
+        "lat": "46.7708350",
+        "lon": "6.9653043",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37441119788714866,
+        "addresstype": "village",
+        "name": "Torny",
+        "display_name": "Torny, Glanebezirk, Freiburg, Schweiz",
+        "address": {
+            "village": "Torny",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7514093",
+            "46.7904055",
+            "6.9288019",
+            "6.9803591"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91990559,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 390323,
+        "lat": "46.8978306",
+        "lon": "6.8409840",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.5068547681245278,
+        "addresstype": "lake",
+        "name": "Neuenburgersee",
+        "display_name": "Neuenburgersee, Région Littoral, Seeland administrative region, Neuenburg, Schweiz",
+        "address": {
+            "lake": "Neuenburgersee",
+            "region": "Région Littoral",
+            "state_district": "Seeland administrative region",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7846211",
+            "47.0110667",
+            "6.6345629",
+            "7.0501006"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93068428,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240095594,
+        "lat": "47.1500504",
+        "lon": "7.7638263",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.35411856752696674,
+        "addresstype": "village",
+        "name": "Leimiswil",
+        "display_name": "Leimiswil, Madiswil, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4934, Schweiz",
+        "address": {
+            "village": "Leimiswil",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4934",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1300504",
+            "47.1700504",
+            "7.7438263",
+            "7.7838263"
+        ]
+    }
+]

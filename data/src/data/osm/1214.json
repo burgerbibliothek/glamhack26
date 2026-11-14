@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 71071870,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 27533189,
+        "lat": "47.6563055",
+        "lon": "9.7626094",
+        "category": "natural",
+        "type": "water",
+        "place_rank": 22,
+        "importance": 0.2681408123538118,
+        "addresstype": "water",
+        "name": "Blausee",
+        "display_name": "Blausee, Maierhalden, Neuravensburg, Wangen im Allgäu, VVG der Stadt Wangen im Allgäu, Landkreis Ravensburg, Baden-Württemberg, Deutschland",
+        "address": {
+            "water": "Blausee",
+            "hamlet": "Maierhalden",
+            "village": "Neuravensburg",
+            "town": "Wangen im Allgäu",
+            "municipality": "VVG der Stadt Wangen im Allgäu",
+            "county": "Landkreis Ravensburg",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.6551222",
+            "47.6575856",
+            "9.7618736",
+            "9.7638487"
+        ]
+    }
+]

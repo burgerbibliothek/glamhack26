@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71849564,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682131,
+        "lat": "47.2819396",
+        "lon": "8.7613283",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4075198435543142,
+        "addresstype": "village",
+        "name": "Grüningen",
+        "display_name": "Grüningen, Bezirk Hinwil, Zürich, 8627, Schweiz",
+        "address": {
+            "village": "Grüningen",
+            "county": "Bezirk Hinwil",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8627",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2654445",
+            "47.2930563",
+            "8.7320645",
+            "8.7942254"
+        ]
+    }
+]

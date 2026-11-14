@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72705715,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6581711310,
+        "lat": "47.0655534",
+        "lon": "8.4071994",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.21822785325192331,
+        "addresstype": "village",
+        "name": "Merlischachen",
+        "display_name": "Merlischachen, Küssnacht (SZ), Küssnacht, Schwyz, 6402, Schweiz",
+        "address": {
+            "village": "Merlischachen",
+            "town": "Küssnacht (SZ)",
+            "county": "Küssnacht",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "6402",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0455534",
+            "47.0855534",
+            "8.3871994",
+            "8.4271994"
+        ]
+    }
+]

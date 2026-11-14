@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 93121874,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11368464208,
+        "lat": "47.1421612",
+        "lon": "7.6971442",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338186541542685,
+        "addresstype": "hamlet",
+        "name": "Riedtwil",
+        "display_name": "Riedtwil, Hermiswil, Seeberg, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 3475, Schweiz",
+        "address": {
+            "hamlet": "Riedtwil",
+            "village": "Hermiswil",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3475",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1221612",
+            "47.1621612",
+            "7.6771442",
+            "7.7171442"
+        ]
+    }
+]

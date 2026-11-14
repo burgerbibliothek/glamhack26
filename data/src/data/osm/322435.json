@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 186400985,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5176063122,
+        "lat": "48.2087969",
+        "lon": "16.3664209",
+        "category": "shop",
+        "type": "confectionery",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "shop",
+        "name": "Die Zuckerlwerkstatt",
+        "display_name": "Die Zuckerlwerkstatt, 6, Herrengasse, Widmerviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich",
+        "address": {
+            "shop": "Die Zuckerlwerkstatt",
+            "house_number": "6",
+            "road": "Herrengasse",
+            "neighbourhood": "Widmerviertel",
+            "suburb": "Innere Stadt",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1010",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2087469",
+            "48.2088469",
+            "16.3663709",
+            "16.3664709"
+        ]
+    }
+]

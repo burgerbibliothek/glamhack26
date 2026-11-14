@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 105322383,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3476949,
+        "lat": "50.8038472",
+        "lon": "5.9153226",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 21,
+        "importance": 0.44664651460050014,
+        "addresstype": "stream",
+        "name": "Göhl",
+        "display_name": "Göhl, Limburg, Niederlande",
+        "address": {
+            "stream": "Göhl",
+            "state": "Limburg",
+            "ISO3166-2-lvl4": "NL-LI",
+            "country": "Niederlande",
+            "country_code": "nl"
+        },
+        "boundingbox": [
+            "50.7006153",
+            "50.9080499",
+            "5.7078389",
+            "6.1145057"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92046530,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5857257021,
+        "lat": "46.9537020",
+        "lon": "7.4388094",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "17, Neubrückstrasse, Länggasse, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "house_number": "17",
+            "road": "Neubrückstrasse",
+            "quarter": "Länggasse",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9536520",
+            "46.9537520",
+            "7.4387594",
+            "7.4388594"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91259369,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682424,
+        "lat": "46.6606497",
+        "lon": "7.8094165",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41395049179757576,
+        "addresstype": "village",
+        "name": "Därligen",
+        "display_name": "Därligen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3707, Schweiz",
+        "address": {
+            "village": "Därligen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3707",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6357683",
+            "46.6677837",
+            "7.7915221",
+            "7.8442066"
+        ]
+    }
+]

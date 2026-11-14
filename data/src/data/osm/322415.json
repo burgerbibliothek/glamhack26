@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 186921506,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2471423,
+        "lat": "48.2085563",
+        "lon": "16.3661517",
+        "category": "historic",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.1570394422394589,
+        "addresstype": "historic",
+        "name": "Palais Wilczek",
+        "display_name": "Palais Wilczek, 5, Herrengasse, Widmerviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich",
+        "address": {
+            "historic": "Palais Wilczek",
+            "house_number": "5",
+            "road": "Herrengasse",
+            "neighbourhood": "Widmerviertel",
+            "suburb": "Innere Stadt",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1010",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2083556",
+            "48.2087671",
+            "16.3654605",
+            "16.3662982"
+        ]
+    }
+]

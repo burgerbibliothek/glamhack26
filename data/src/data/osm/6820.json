@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92019974,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 311413464,
+        "lat": "46.8546579",
+        "lon": "6.6125592",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05338310902571142,
+        "addresstype": "residential",
+        "name": "Chemin de la Bourdonette",
+        "display_name": "Chemin de la Bourdonette, Mauborget, District du Jura-Nord vaudois, Waadt, 1453, Schweiz",
+        "address": {
+            "road": "Chemin de la Bourdonette",
+            "village": "Mauborget",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1453",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8541381",
+            "46.8554315",
+            "6.6109368",
+            "6.6140231"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 273542882,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 449678706,
+        "lat": "52.9670222",
+        "lon": "-3.1335602",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 6.197070267791282e-05,
+        "addresstype": "amenity",
+        "name": "Vale of Llangollen Golf Club",
+        "display_name": "Vale of Llangollen Golf Club, A5, Plas-yn-pentre, Llangollen, Denbighshire, Wales, LL20 7PT, Vereinigtes Königreich",
+        "address": {
+            "amenity": "Vale of Llangollen Golf Club",
+            "road": "A5",
+            "hamlet": "Plas-yn-pentre",
+            "suburb": "Llangollen",
+            "town": "Llangollen",
+            "county": "Denbighshire",
+            "ISO3166-2-lvl6": "GB-DEN",
+            "state": "Wales",
+            "ISO3166-2-lvl4": "GB-WLS",
+            "postcode": "LL20 7PT",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "52.9668165",
+            "52.9672557",
+            "-3.1337986",
+            "-3.1333459"
+        ]
+    }
+]

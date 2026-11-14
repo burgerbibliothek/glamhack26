@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 122845124,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 197501991,
+        "lat": "48.7738109",
+        "lon": "9.1571488",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.8644235904433e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "17, Elisabethenstraße, Rotebühl, Stuttgart-West, Stuttgart, Baden-Württemberg, 70176, Deutschland",
+        "address": {
+            "house_number": "17",
+            "road": "Elisabethenstraße",
+            "neighbourhood": "Rotebühl",
+            "suburb": "Stuttgart-West",
+            "city": "Stuttgart",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "70176",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.7737226",
+            "48.7738677",
+            "9.1570569",
+            "9.1572394"
+        ]
+    }
+]

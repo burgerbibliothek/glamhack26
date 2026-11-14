@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91770226,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8474758506,
+        "lat": "46.7024665",
+        "lon": "7.5442830",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 4.5001144426596745e-05,
+        "addresstype": "information",
+        "name": "Vorderälpital",
+        "display_name": "Vorderälpital, Stockhorn, Oberstocken, Stocken-Höfen, Verwaltungskreis Thun, Oberland administrative region, Bern, 3762, Schweiz",
+        "address": {
+            "information": "Vorderälpital",
+            "road": "Stockhorn",
+            "village": "Oberstocken",
+            "city": "Stocken-Höfen",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3762",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7024165",
+            "46.7025165",
+            "7.5442330",
+            "7.5443330"
+        ]
+    }
+]

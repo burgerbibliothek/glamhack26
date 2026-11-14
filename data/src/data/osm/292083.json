@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91697495,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 805903587,
+        "lat": "46.9552749",
+        "lon": "7.4263252",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "17, Blumensteinstrasse, Muesmatt, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "house_number": "17",
+            "road": "Blumensteinstrasse",
+            "quarter": "Muesmatt",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9552249",
+            "46.9553249",
+            "7.4262752",
+            "7.4263752"
+        ]
+    }
+]

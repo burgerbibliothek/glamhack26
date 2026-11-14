@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 119881252,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10926932037,
+        "lat": "48.3469295",
+        "lon": "4.5374563",
+        "category": "place",
+        "type": "borough",
+        "place_rank": 18,
+        "importance": 0.16006251392385748,
+        "addresstype": "borough",
+        "name": "Les Croisettes",
+        "display_name": "Les Croisettes, Dienville, Bar-sur-Aube, Aube, Groß-Osten, Metropolitanes Frankreich, 10500, Frankreich",
+        "address": {
+            "borough": "Les Croisettes",
+            "village": "Dienville",
+            "municipality": "Bar-sur-Aube",
+            "county": "Aube",
+            "ISO3166-2-lvl6": "FR-10",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "10500",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.3269295",
+            "48.3669295",
+            "4.5174563",
+            "4.5574563"
+        ]
+    }
+]

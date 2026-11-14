@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92021040,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685032,
+        "lat": "46.4943826",
+        "lon": "6.2581282",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4391558861063203,
+        "addresstype": "village",
+        "name": "Longirod",
+        "display_name": "Longirod, District de Nyon, Waadt, 1261, Schweiz",
+        "address": {
+            "village": "Longirod",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1261",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4804676",
+            "46.5302292",
+            "6.2195715",
+            "6.2886000"
+        ]
+    }
+]

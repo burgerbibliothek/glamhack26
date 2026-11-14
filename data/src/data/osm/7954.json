@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91412890,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682584,
+        "lat": "46.8730782",
+        "lon": "7.4026366",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.45981453909855047,
+        "addresstype": "village",
+        "name": "Oberbalm",
+        "display_name": "Oberbalm, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3096, Schweiz",
+        "address": {
+            "village": "Oberbalm",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3096",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8462749",
+            "46.8835720",
+            "7.3813657",
+            "7.4426077"
+        ]
+    }
+]

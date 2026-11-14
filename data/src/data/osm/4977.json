@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 138195742,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10095373203,
+        "lat": "50.1088497",
+        "lon": "8.6740753",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.941481651021618e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "1, Willy-Brandt-Platz, Innenstadt, Innenstadt 1, Frankfurt am Main, Hessen, 60311, Deutschland",
+        "address": {
+            "house_number": "1",
+            "road": "Willy-Brandt-Platz",
+            "suburb": "Innenstadt",
+            "city_district": "Innenstadt 1",
+            "city": "Frankfurt am Main",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "60311",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.1087997",
+            "50.1088997",
+            "8.6740253",
+            "8.6741253"
+        ]
+    }
+]

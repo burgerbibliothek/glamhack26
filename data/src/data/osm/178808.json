@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73352562,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4936977615,
+        "lat": "46.5593092",
+        "lon": "8.5611537",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.5202658076147915,
+        "addresstype": "mountain_pass",
+        "name": "Gotthardpass",
+        "display_name": "Gotthardpass, Airolo, Kreis Airolo, Bezirk Leventina, Tessin, 6780, Schweiz",
+        "address": {
+            "mountain_pass": "Gotthardpass",
+            "village": "Airolo",
+            "municipality": "Kreis Airolo",
+            "county": "Bezirk Leventina",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6780",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5592592",
+            "46.5593592",
+            "8.5611037",
+            "8.5612037"
+        ]
+    }
+]

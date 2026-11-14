@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 422259107,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 14014661351,
+        "lat": "48.2089476",
+        "lon": "16.3656927",
+        "category": "office",
+        "type": "government",
+        "place_rank": 30,
+        "importance": 0.4573721351816049,
+        "addresstype": "office",
+        "name": "Bundesministerium für Inneres",
+        "display_name": "Bundesministerium für Inneres, 7, Herrengasse, Widmerviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich",
+        "address": {
+            "office": "Bundesministerium für Inneres",
+            "house_number": "7",
+            "road": "Herrengasse",
+            "neighbourhood": "Widmerviertel",
+            "suburb": "Innere Stadt",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1010",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2088976",
+            "48.2089976",
+            "16.3656427",
+            "16.3657427"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 186989943,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2458836,
+        "lat": "48.2113005",
+        "lon": "16.3636852",
+        "category": "historic",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.21080589711721126,
+        "addresstype": "historic",
+        "name": "Palais Porcia",
+        "display_name": "Palais Porcia, 23, Herrengasse, Schottenviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich",
+        "address": {
+            "historic": "Palais Porcia",
+            "house_number": "23",
+            "road": "Herrengasse",
+            "neighbourhood": "Schottenviertel",
+            "suburb": "Innere Stadt",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1010",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2110276",
+            "48.2115736",
+            "16.3633949",
+            "16.3645331"
+        ]
+    }
+]

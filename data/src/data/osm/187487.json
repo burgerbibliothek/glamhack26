@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92390618,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685044,
+        "lat": "46.7667908",
+        "lon": "6.5647296",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.45019493128634464,
+        "addresstype": "village",
+        "name": "Mathod",
+        "display_name": "Mathod, District du Jura-Nord vaudois, Waadt, 1438, Schweiz",
+        "address": {
+            "village": "Mathod",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1438",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7440159",
+            "46.7763897",
+            "6.5436992",
+            "6.5919660"
+        ]
+    }
+]

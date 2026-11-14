@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91582505,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 25333161,
+        "lat": "46.9494964",
+        "lon": "7.4432091",
+        "category": "highway",
+        "type": "pedestrian",
+        "place_rank": 26,
+        "importance": 0.31461790426364866,
+        "addresstype": "pedestrian",
+        "name": "Aarbergergasse",
+        "display_name": "Aarbergergasse, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3000, Schweiz",
+        "address": {
+            "road": "Aarbergergasse",
+            "quarter": "Rotes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9493007",
+            "46.9496428",
+            "7.4424090",
+            "7.4439993"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 133040708,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4229830989,
+        "lat": "50.1018093",
+        "lon": "14.4114011",
+        "category": "office",
+        "type": "diplomatic",
+        "place_rank": 30,
+        "importance": 8.434958419160781e-05,
+        "addresstype": "office",
+        "name": "Thailändische Botschaft",
+        "display_name": "Thailändische Botschaft, 3/481, Romain-Rolland-Straße, Starý Bubeneč, Prag 6, Stadtbezirk Prag 6, Prag, 160 23, Tschechien",
+        "address": {
+            "office": "Thailändische Botschaft",
+            "house_number": "3/481",
+            "road": "Romain-Rolland-Straße",
+            "neighbourhood": "Starý Bubeneč",
+            "suburb": "Prag 6",
+            "district": "Stadtbezirk Prag 6",
+            "city": "Prag",
+            "ISO3166-2-lvl4": "CZ-10",
+            "postcode": "160 23",
+            "country": "Tschechien",
+            "country_code": "cz"
+        },
+        "boundingbox": [
+            "50.1017593",
+            "50.1018593",
+            "14.4113511",
+            "14.4114511"
+        ]
+    }
+]

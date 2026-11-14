@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91442761,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 37807836,
+        "lat": "46.7303243",
+        "lon": "7.4386737",
+        "category": "highway",
+        "type": "track",
+        "place_rank": 26,
+        "importance": 0.05337502327000836,
+        "addresstype": "track",
+        "name": "Selibühl",
+        "display_name": "Selibühl, Rüschegg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, Schweiz",
+        "address": {
+            "road": "Selibühl",
+            "village": "Rüschegg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7295110",
+            "46.7309340",
+            "7.4378256",
+            "7.4399337"
+        ]
+    }
+]

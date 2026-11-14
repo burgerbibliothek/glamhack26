@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72788273,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684090,
+        "lat": "46.9458165",
+        "lon": "9.5735636",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3767390548248983,
+        "addresstype": "village",
+        "name": "Igis",
+        "display_name": "Igis, Landquart, Graubünden, Schweiz",
+        "address": {
+            "village": "Igis",
+            "county": "Landquart",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9362441",
+            "46.9743957",
+            "9.5499049",
+            "9.6116347"
+        ]
+    }
+]

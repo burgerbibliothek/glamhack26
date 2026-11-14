@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92075190,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682459,
+        "lat": "46.9074667",
+        "lon": "7.6380928",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.46562980374353397,
+        "addresstype": "village",
+        "name": "Grosshöchstetten",
+        "display_name": "Grosshöchstetten, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3506, Schweiz",
+        "address": {
+            "village": "Grosshöchstetten",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3506",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8939016",
+            "46.9199404",
+            "7.5948517",
+            "7.6498157"
+        ]
+    }
+]

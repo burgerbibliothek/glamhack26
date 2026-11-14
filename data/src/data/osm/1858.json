@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 431740656,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 153349153,
+        "lat": "46.5759385",
+        "lon": "7.6520721",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.3331894015087746,
+        "addresstype": "building",
+        "name": "Tellenburg",
+        "display_name": "Tellenburg, 10a, Hubelhausweg, Frutigen, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3714, Schweiz",
+        "address": {
+            "building": "Tellenburg",
+            "house_number": "10a",
+            "road": "Hubelhausweg",
+            "village": "Frutigen",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3714",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5758706",
+            "46.5760042",
+            "7.6519769",
+            "7.6521698"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 75840188,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 46088,
+        "lat": "45.7880136",
+        "lon": "8.3468543",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5049160951815795,
+        "addresstype": "city",
+        "name": "Madonna del Sasso",
+        "display_name": "Madonna del Sasso, Verbano-Cusio-Ossola, Piemont, 28894, Italien",
+        "address": {
+            "city": "Madonna del Sasso",
+            "county": "Verbano-Cusio-Ossola",
+            "ISO3166-2-lvl6": "IT-VB",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "postcode": "28894",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.7669327",
+            "45.8091284",
+            "8.3151098",
+            "8.3772072"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72302729,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682116,
+        "lat": "47.5633514",
+        "lon": "8.8242689",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3955795074137208,
+        "addresstype": "village",
+        "name": "Ellikon an der Thur",
+        "display_name": "Ellikon an der Thur, Bezirk Winterthur, Zürich, 8548, Schweiz",
+        "address": {
+            "village": "Ellikon an der Thur",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8548",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5516157",
+            "47.5733954",
+            "8.8017240",
+            "8.8511239"
+        ]
+    }
+]

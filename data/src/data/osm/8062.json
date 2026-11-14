@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92524371,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682605,
+        "lat": "47.1750219",
+        "lon": "7.3361682",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3975758564613986,
+        "addresstype": "village",
+        "name": "Pieterlen",
+        "display_name": "Pieterlen, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2542, Schweiz",
+        "address": {
+            "village": "Pieterlen",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2542",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1630657",
+            "47.1883819",
+            "7.2932815",
+            "7.3604049"
+        ]
+    }
+]

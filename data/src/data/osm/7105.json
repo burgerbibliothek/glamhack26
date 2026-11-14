@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 73264981,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1371159723,
+        "lat": "47.0706062",
+        "lon": "8.2824568",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.28779482241276744,
+        "addresstype": "railway",
+        "name": "Emmenbrücke",
+        "display_name": "Emmenbrücke, Bahnhofstrasse, Meierhöfli, Emmenbrücke, Emmen-Dorf, Emmen, Luzern, 6021, Schweiz",
+        "address": {
+            "railway": "Emmenbrücke",
+            "road": "Bahnhofstrasse",
+            "neighbourhood": "Meierhöfli",
+            "suburb": "Emmenbrücke",
+            "village": "Emmen-Dorf",
+            "town": "Emmen",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6021",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0656062",
+            "47.0756062",
+            "8.2774568",
+            "8.2874568"
+        ]
+    }
+]

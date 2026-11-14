@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91594070,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11417054366,
+        "lat": "46.9589795",
+        "lon": "7.4554698",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "OLYMPIA",
+        "display_name": "OLYMPIA, 64, Militärstrasse, Spitalacker, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3014, Schweiz",
+        "address": {
+            "amenity": "OLYMPIA",
+            "house_number": "64",
+            "road": "Militärstrasse",
+            "quarter": "Spitalacker",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3014",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9589295",
+            "46.9590295",
+            "7.4554198",
+            "7.4555198"
+        ]
+    }
+]

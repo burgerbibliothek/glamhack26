@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 127073307,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4031277713,
+        "lat": "49.4335242",
+        "lon": "11.0889930",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.61417563133748e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "43, Normannenstraße, Hummelstein, Weiterer Innenstadtgürtel Süd, Nürnberg, Bayern, 90461, Deutschland",
+        "address": {
+            "house_number": "43",
+            "road": "Normannenstraße",
+            "neighbourhood": "Hummelstein",
+            "suburb": "Weiterer Innenstadtgürtel Süd",
+            "city": "Nürnberg",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "90461",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.4334742",
+            "49.4335742",
+            "11.0889430",
+            "11.0890430"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92840012,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4618549288,
+        "lat": "47.0461440",
+        "lon": "7.8113950",
+        "category": "place",
+        "type": "farm",
+        "place_rank": 22,
+        "importance": 0.10671691844052794,
+        "addresstype": "farm",
+        "name": "Lugenbach",
+        "display_name": "Lugenbach, Ober Aebnit, Wasen, Sumiswald, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3457, Schweiz",
+        "address": {
+            "farm": "Lugenbach",
+            "hamlet": "Ober Aebnit",
+            "village": "Wasen",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3457",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0361440",
+            "47.0561440",
+            "7.8013950",
+            "7.8213950"
+        ]
+    }
+]

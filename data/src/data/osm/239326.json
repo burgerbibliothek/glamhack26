@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92315227,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684977,
+        "lat": "46.5419511",
+        "lon": "6.7703700",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37797476194049984,
+        "addresstype": "village",
+        "name": "Forel (Lavaux)",
+        "display_name": "Forel (Lavaux), District de Lavaux-Oron, Waadt, 1072, Schweiz",
+        "address": {
+            "village": "Forel (Lavaux)",
+            "county": "District de Lavaux-Oron",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1072",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5056784",
+            "46.5682155",
+            "6.7237459",
+            "6.8032405"
+        ]
+    }
+]

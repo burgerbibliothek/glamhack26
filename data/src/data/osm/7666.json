@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 86389780,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 68332,
+        "lat": "45.1535408",
+        "lon": "0.5330697",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.4844301150291414,
+        "addresstype": "river",
+        "name": "L'Isle",
+        "display_name": "L'Isle, Neu-Aquitanien, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "river": "L'Isle",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.9153889",
+            "45.6482516",
+            "-0.2697072",
+            "1.2209624"
+        ]
+    }
+]

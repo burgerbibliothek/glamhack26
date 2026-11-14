@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 71028946,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684499,
+        "lat": "47.5500227",
+        "lon": "9.2981219",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44097408650972797,
+        "addresstype": "town",
+        "name": "Amriswil",
+        "display_name": "Amriswil, Bezirk Arbon, Thurgau, Schweiz",
+        "address": {
+            "town": "Amriswil",
+            "county": "Bezirk Arbon",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5221229",
+            "47.5681518",
+            "9.2474105",
+            "9.3395809"
+        ]
+    }
+]

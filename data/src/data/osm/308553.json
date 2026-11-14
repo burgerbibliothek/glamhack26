@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73995090,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 653902617,
+        "lat": "46.5323743",
+        "lon": "8.1476834",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.18157831638402872,
+        "addresstype": "peak",
+        "name": "Studerhorn",
+        "display_name": "Studerhorn, Fieschertal, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "peak": "Studerhorn",
+            "village": "Fieschertal",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5323243",
+            "46.5324243",
+            "8.1476334",
+            "8.1477334"
+        ]
+    }
+]

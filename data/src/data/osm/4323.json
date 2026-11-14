@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91334338,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 600907162,
+        "lat": "46.9570582",
+        "lon": "7.4613814",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "17b, Papiermühlestrasse, Spitalacker, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3014, Schweiz",
+        "address": {
+            "house_number": "17b",
+            "road": "Papiermühlestrasse",
+            "quarter": "Spitalacker",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3014",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9570082",
+            "46.9571082",
+            "7.4613314",
+            "7.4614314"
+        ]
+    }
+]

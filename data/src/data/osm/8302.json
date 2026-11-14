@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72507834,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683934,
+        "lat": "47.3511420",
+        "lon": "9.2340829",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39287355974416627,
+        "addresstype": "city",
+        "name": "Schwellbrunn",
+        "display_name": "Schwellbrunn, Hinterland, Appenzell Ausserrhoden, 9103, Schweiz",
+        "address": {
+            "city": "Schwellbrunn",
+            "county": "Hinterland",
+            "state": "Appenzell Ausserrhoden",
+            "ISO3166-2-lvl4": "CH-AR",
+            "postcode": "9103",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3282294",
+            "47.3738284",
+            "9.1910984",
+            "9.2695370"
+        ]
+    }
+]

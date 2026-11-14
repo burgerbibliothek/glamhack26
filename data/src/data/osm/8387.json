@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91567185,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685378,
+        "lat": "46.1770020",
+        "lon": "7.8025160",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4154641181832737,
+        "addresstype": "village",
+        "name": "St. Niklaus",
+        "display_name": "St. Niklaus, Visp, Oberwallis, Wallis, 3924, Schweiz",
+        "address": {
+            "village": "St. Niklaus",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3924",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1090244",
+            "46.2134642",
+            "7.7322205",
+            "7.8810479"
+        ]
+    }
+]

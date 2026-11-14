@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 97190152,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4265127453,
+        "lat": "48.8201655",
+        "lon": "2.1087663",
+        "category": "tourism",
+        "type": "attraction",
+        "place_rank": 30,
+        "importance": 0.4782885076076401,
+        "addresstype": "tourism",
+        "name": "Solitude",
+        "display_name": "Solitude, Allée du Rendez-Vous, Notre-Dame, Versailles, Yvelines, Île-de-France, Metropolitanes Frankreich, 78000, Frankreich",
+        "address": {
+            "tourism": "Solitude",
+            "road": "Allée du Rendez-Vous",
+            "suburb": "Notre-Dame",
+            "town": "Versailles",
+            "municipality": "Versailles",
+            "county": "Yvelines",
+            "ISO3166-2-lvl6": "FR-78",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "78000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8201155",
+            "48.8202155",
+            "2.1087163",
+            "2.1088163"
+        ]
+    }
+]

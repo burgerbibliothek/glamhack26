@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92219251,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682440,
+        "lat": "46.9488327",
+        "lon": "7.2109008",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4628425518622396,
+        "addresstype": "village",
+        "name": "Ferenbalm",
+        "display_name": "Ferenbalm, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Ferenbalm",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9141051",
+            "46.9637845",
+            "7.2019598",
+            "7.2465112"
+        ]
+    }
+]

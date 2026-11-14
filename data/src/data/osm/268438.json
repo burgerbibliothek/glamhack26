@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92053843,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683300,
+        "lat": "46.7521088",
+        "lon": "7.0326696",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3949527989551982,
+        "addresstype": "village",
+        "name": "Cottens (FR)",
+        "display_name": "Cottens (FR), Saanebezirk, Freiburg, 1741, Schweiz",
+        "address": {
+            "village": "Cottens (FR)",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1741",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7429916",
+            "46.7670387",
+            "7.0154977",
+            "7.0605533"
+        ]
+    }
+]

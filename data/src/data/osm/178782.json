@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 417719302,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1512501358,
+        "lat": "46.2229410",
+        "lon": "6.1276284",
+        "category": "place",
+        "type": "square",
+        "place_rank": 25,
+        "importance": 0.06674568322270542,
+        "addresstype": "square",
+        "name": "Place du Petit-Saconnex",
+        "display_name": "Place du Petit-Saconnex, Moillebeau, Le Petit-Saconnex, Petit-Saconnex et Servette, Genf, Schweiz",
+        "address": {
+            "square": "Place du Petit-Saconnex",
+            "neighbourhood": "Moillebeau",
+            "suburb": "Le Petit-Saconnex",
+            "city": "Genf",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2226384",
+            "46.2232323",
+            "6.1270602",
+            "6.1281938"
+        ]
+    }
+]

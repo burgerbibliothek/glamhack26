@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91616913,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682425,
+        "lat": "46.6599170",
+        "lon": "7.4922180",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39022041580958405,
+        "addresstype": "village",
+        "name": "Därstetten",
+        "display_name": "Därstetten, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3763, Schweiz",
+        "address": {
+            "village": "Därstetten",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3763",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6141889",
+            "46.7072396",
+            "7.4465767",
+            "7.5372854"
+        ]
+    }
+]

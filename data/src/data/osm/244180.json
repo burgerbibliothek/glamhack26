@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72893008,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6171425424,
+        "lat": "46.8728119",
+        "lon": "9.7119021",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4431969160164717,
+        "addresstype": "peak",
+        "name": "Hinteregg",
+        "display_name": "Hinteregg, Fideris, Prättigau/Davos, Graubünden, Schweiz",
+        "address": {
+            "peak": "Hinteregg",
+            "village": "Fideris",
+            "county": "Prättigau/Davos",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8727619",
+            "46.8728619",
+            "9.7118521",
+            "9.7119521"
+        ]
+    }
+]

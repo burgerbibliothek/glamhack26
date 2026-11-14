@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92006324,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1729296419,
+        "lat": "46.7864276",
+        "lon": "7.8932934",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44721600109457404,
+        "addresstype": "peak",
+        "name": "Hohgant",
+        "display_name": "Hohgant, Schangnau, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 6197, Schweiz",
+        "address": {
+            "peak": "Hohgant",
+            "village": "Schangnau",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "6197",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7863776",
+            "46.7864776",
+            "7.8932434",
+            "7.8933434"
+        ]
+    }
+]

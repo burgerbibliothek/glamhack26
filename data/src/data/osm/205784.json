@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 70364787,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 182164443,
+        "lat": "47.8672645",
+        "lon": "12.3958797",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.3508056963223209,
+        "addresstype": "building",
+        "name": "Altes Schloss",
+        "display_name": "Altes Schloss, 3, Herrenchiemsee, Chiemsee, Breitbrunn am Chiemsee (VGem), Landkreis Rosenheim, Bayern, 83209, Deutschland",
+        "address": {
+            "building": "Altes Schloss",
+            "house_number": "3",
+            "locality": "Herrenchiemsee",
+            "village": "Chiemsee",
+            "municipality": "Breitbrunn am Chiemsee (VGem)",
+            "county": "Landkreis Rosenheim",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "83209",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.8669011",
+            "47.8676497",
+            "12.3957552",
+            "12.3970629"
+        ]
+    }
+]

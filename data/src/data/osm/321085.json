@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 187427886,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 132904696,
+        "lat": "48.2094517",
+        "lon": "16.2245874",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "3, Badgasse, Mariabrunn, Katastralgemeinde Hadersdorf, Penzing, Wien, 1140, Österreich",
+        "address": {
+            "house_number": "3",
+            "road": "Badgasse",
+            "quarter": "Mariabrunn",
+            "suburb": "Katastralgemeinde Hadersdorf",
+            "city_district": "Penzing",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1140",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2092776",
+            "48.2095761",
+            "16.2244465",
+            "16.2247377"
+        ]
+    }
+]

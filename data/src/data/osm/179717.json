@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92260894,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2205226,
+        "lat": "46.9200437",
+        "lon": "6.8878755",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.3095991533582804,
+        "addresstype": "river",
+        "name": "Zihl",
+        "display_name": "Zihl, District de la Broye-Vully, Seeland administrative region, Waadt, Schweiz",
+        "address": {
+            "river": "Zihl",
+            "county": "District de la Broye-Vully",
+            "state_district": "Seeland administrative region",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7376108",
+            "47.1302014",
+            "6.5633566",
+            "7.2547842"
+        ]
+    }
+]

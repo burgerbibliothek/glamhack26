@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72995111,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 519826360,
+        "lat": "46.6531899",
+        "lon": "9.7849484",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16004079880979627,
+        "addresstype": "peak",
+        "name": "Piz Prosonch",
+        "display_name": "Piz Prosonch, Bergün Filisur, Albula, Graubünden, 7482, Schweiz",
+        "address": {
+            "peak": "Piz Prosonch",
+            "city": "Bergün Filisur",
+            "county": "Albula",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7482",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6531399",
+            "46.6532399",
+            "9.7848984",
+            "9.7849984"
+        ]
+    }
+]

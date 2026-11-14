@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 60076229,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 12914685,
+        "lat": "40.7172304",
+        "lon": "30.2420272",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.38135438604633176,
+        "addresstype": "lake",
+        "name": "Lake Sapanca",
+        "display_name": "Lake Sapanca, Sapanca, Sakarya, Marmararegion, Türkei",
+        "address": {
+            "lake": "Lake Sapanca",
+            "town": "Sapanca",
+            "province": "Sakarya",
+            "ISO3166-2-lvl4": "TR-54",
+            "region": "Marmararegion",
+            "country": "Türkei",
+            "country_code": "tr"
+        },
+        "boundingbox": [
+            "40.6930564",
+            "40.7413963",
+            "30.1486757",
+            "30.3315349"
+        ]
+    }
+]

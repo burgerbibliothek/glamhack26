@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 137991701,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 269604793,
+        "lat": "50.1166318",
+        "lon": "8.6465304",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.941481651021618e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "121, Schloßstraße, Bockenheim, Innenstadt 2, Frankfurt am Main, Hessen, 60486, Deutschland",
+        "address": {
+            "house_number": "121",
+            "road": "Schloßstraße",
+            "quarter": "Bockenheim",
+            "suburb": "Bockenheim",
+            "city_district": "Innenstadt 2",
+            "city": "Frankfurt am Main",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "60486",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.1165624",
+            "50.1167138",
+            "8.6463836",
+            "8.6466610"
+        ]
+    }
+]

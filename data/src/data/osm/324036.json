@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 188063240,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1382920551,
+        "lat": "48.2206639",
+        "lon": "16.3523681",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "25, Spitalgasse, Michelbeuern, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich",
+        "address": {
+            "house_number": "25",
+            "road": "Spitalgasse",
+            "quarter": "Michelbeuern",
+            "neighbourhood": "Katastralgemeinde Alsergrund",
+            "suburb": "Alsergrund",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1090",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2206139",
+            "48.2207139",
+            "16.3523181",
+            "16.3524181"
+        ]
+    }
+]

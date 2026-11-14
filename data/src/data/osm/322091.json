@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 142469579,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 287276697,
+        "lat": "53.0652330",
+        "lon": "8.8603343",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.550545510028256e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "40, Fährstraße, Hastedt, Hemelingen, Bremen-Ost, Bremen, 28207, Deutschland",
+        "address": {
+            "house_number": "40",
+            "road": "Fährstraße",
+            "quarter": "Hastedt",
+            "suburb": "Hemelingen",
+            "city_district": "Bremen-Ost",
+            "city": "Bremen",
+            "state": "Bremen",
+            "ISO3166-2-lvl4": "DE-HB",
+            "postcode": "28207",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "53.0651607",
+            "53.0652782",
+            "8.8602405",
+            "8.8604901"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 116778507,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 210544296,
+        "lat": "50.9035971",
+        "lon": "7.0549364",
+        "category": "building",
+        "type": "terrace",
+        "place_rank": 30,
+        "importance": 8.006485084301545e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "11, Talweg, Eisenbahnsiedlung Gremberghoven, Gremberghoven, Porz, Köln, Nordrhein-Westfalen, 51149, Deutschland",
+        "address": {
+            "house_number": "11",
+            "road": "Talweg",
+            "neighbourhood": "Eisenbahnsiedlung Gremberghoven",
+            "suburb": "Gremberghoven",
+            "city_district": "Porz",
+            "city": "Köln",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "51149",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9035449",
+            "50.9036493",
+            "7.0548510",
+            "7.0550217"
+        ]
+    }
+]

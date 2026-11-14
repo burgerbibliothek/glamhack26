@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 123089355,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 8434335,
+        "lat": "48.8934829",
+        "lon": "8.9726203",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.26244239079806453,
+        "addresstype": "village",
+        "name": "Riet",
+        "display_name": "Riet, Vaihingen an der Enz, VVG der Stadt Vaihingen an der Enz, Landkreis Ludwigsburg, Baden-Württemberg, Deutschland",
+        "address": {
+            "village": "Riet",
+            "town": "Vaihingen an der Enz",
+            "municipality": "VVG der Stadt Vaihingen an der Enz",
+            "county": "Landkreis Ludwigsburg",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.8827026",
+            "48.9010890",
+            "8.9584688",
+            "8.9887154"
+        ]
+    }
+]

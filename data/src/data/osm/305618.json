@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92072140,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1244934416,
+        "lat": "46.5157169",
+        "lon": "7.7624946",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44650336583499306,
+        "addresstype": "peak",
+        "name": "Schwarzhorn",
+        "display_name": "Schwarzhorn, Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3718, Schweiz",
+        "address": {
+            "peak": "Schwarzhorn",
+            "village": "Kandersteg",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3718",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5156669",
+            "46.5157669",
+            "7.7624446",
+            "7.7625446"
+        ]
+    }
+]

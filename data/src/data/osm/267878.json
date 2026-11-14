@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92969175,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682670,
+        "lat": "47.2387030",
+        "lon": "7.3048075",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42626276740710034,
+        "addresstype": "village",
+        "name": "Sorvilier",
+        "display_name": "Sorvilier, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2736, Schweiz",
+        "address": {
+            "village": "Sorvilier",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2736",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2153028",
+            "47.2516531",
+            "7.2906909",
+            "7.3274559"
+        ]
+    }
+]

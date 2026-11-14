@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 188334635,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3116440454,
+        "lat": "48.1477503",
+        "lon": "17.1157495",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.727397573810967e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "2198/39, Spitalgasse, Dunajská štvrť, Oblasť Dunajská, Bratislava, Okres Bratislava I, Bratislava, Bratislavský kraj, 811 08, Slowakei",
+        "address": {
+            "house_number": "2198/39",
+            "road": "Spitalgasse",
+            "neighbourhood": "Dunajská štvrť",
+            "suburb": "Bratislava",
+            "city_district": "Okres Bratislava I",
+            "city": "Bratislava",
+            "region": "Bratislavský kraj",
+            "ISO3166-2-lvl4": "SK-BL",
+            "postcode": "811 08",
+            "country": "Slowakei",
+            "country_code": "sk"
+        },
+        "boundingbox": [
+            "48.1477003",
+            "48.1478003",
+            "17.1156995",
+            "17.1157995"
+        ]
+    }
+]

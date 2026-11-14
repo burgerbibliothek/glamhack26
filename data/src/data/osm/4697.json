@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 120918410,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 171241040,
+        "lat": "48.2747327",
+        "lon": "8.8506140",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.653086137174056e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "7, Schwarzenburgstraße, Balingen, VVG der Stadt Balingen, Zollernalbkreis, Baden-Württemberg, 72336, Deutschland",
+        "address": {
+            "house_number": "7",
+            "road": "Schwarzenburgstraße",
+            "suburb": "Balingen",
+            "town": "Balingen",
+            "municipality": "VVG der Stadt Balingen",
+            "county": "Zollernalbkreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "72336",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.2746812",
+            "48.2747851",
+            "8.8504844",
+            "8.8507437"
+        ]
+    }
+]

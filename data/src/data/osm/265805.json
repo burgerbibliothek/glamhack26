@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91762751,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12598231417,
+        "lat": "46.8626539",
+        "lon": "7.7353896",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671666819256886,
+        "addresstype": "locality",
+        "name": "Würzbrunnen",
+        "display_name": "Würzbrunnen, Vorderi Schindellegi, Röthenbach im Emmental, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3538, Schweiz",
+        "address": {
+            "locality": "Würzbrunnen",
+            "hamlet": "Vorderi Schindellegi",
+            "village": "Röthenbach im Emmental",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3538",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8526539",
+            "46.8726539",
+            "7.7253896",
+            "7.7453896"
+        ]
+    }
+]

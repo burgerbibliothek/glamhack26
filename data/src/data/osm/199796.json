@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 420147053,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 6204950,
+        "lat": "46.4648191",
+        "lon": "7.1287469",
+        "category": "place",
+        "type": "region",
+        "place_rank": 18,
+        "importance": 0.21337448257116948,
+        "addresstype": "region",
+        "name": "Pays-d'Enhaut",
+        "display_name": "Pays-d'Enhaut, Bezirk Riviera-Pays-d'Enhaut, Waadt, Schweiz",
+        "address": {
+            "region": "Pays-d'Enhaut",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3753764",
+            "46.5540805",
+            "7.0150268",
+            "7.2491849"
+        ]
+    }
+]

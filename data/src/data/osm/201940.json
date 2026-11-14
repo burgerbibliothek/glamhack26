@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71610202,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 48925398,
+        "lat": "47.6724085",
+        "lon": "9.0601312",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.40540706245566294,
+        "addresstype": "hamlet",
+        "name": "Arenenberg",
+        "display_name": "Arenenberg, Mannenbach-Salenstein, Salenstein, Bezirk Kreuzlingen, Thurgau, 8268, Schweiz",
+        "address": {
+            "hamlet": "Arenenberg",
+            "village": "Mannenbach-Salenstein",
+            "county": "Bezirk Kreuzlingen",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8268",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.6524085",
+            "47.6924085",
+            "9.0401312",
+            "9.0801312"
+        ]
+    }
+]

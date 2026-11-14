@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 91919955,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 299986,
+        "lat": "46.9485050",
+        "lon": "7.4803804",
+        "category": "amenity",
+        "type": "school",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Rudolf Steiner Schule Bern",
+        "display_name": "Rudolf Steiner Schule Bern, 14, Melchenbühlweg, Schosshalde, Schloss Wittigkofen, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "amenity": "Rudolf Steiner Schule Bern",
+            "house_number": "14",
+            "road": "Melchenbühlweg",
+            "quarter": "Schosshalde",
+            "hamlet": "Schloss Wittigkofen",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9479376",
+            "46.9490999",
+            "7.4794500",
+            "7.4813399"
+        ]
+    }
+]

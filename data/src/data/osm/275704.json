@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91647501,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685393,
+        "lat": "46.1365416",
+        "lon": "7.0393423",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37154897114460894,
+        "addresstype": "village",
+        "name": "Vernayaz",
+        "display_name": "Vernayaz, St-Maurice, Unterwallis, Wallis, 1904, Schweiz",
+        "address": {
+            "village": "Vernayaz",
+            "county": "St-Maurice",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1904",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1090298",
+            "46.1554978",
+            "7.0080073",
+            "7.0514271"
+        ]
+    }
+]

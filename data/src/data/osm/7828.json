@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 75370552,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 279808322,
+        "lat": "45.9829744",
+        "lon": "8.9184373",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.36541948668891217,
+        "addresstype": "village",
+        "name": "Montagnola",
+        "display_name": "Montagnola, Collina d'Oro, Kreis Carona, Bezirk Lugano, Tessin, 6926, Schweiz",
+        "address": {
+            "village": "Montagnola",
+            "municipality": "Kreis Carona",
+            "county": "Bezirk Lugano",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6926",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9629744",
+            "46.0029744",
+            "8.8984373",
+            "8.9384373"
+        ]
+    }
+]

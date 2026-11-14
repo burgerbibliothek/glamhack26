@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91381501,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2377674259,
+        "lat": "46.7124489",
+        "lon": "7.4565735",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10671903486686501,
+        "addresstype": "isolated_dwelling",
+        "name": "Ober Nünenen",
+        "display_name": "Ober Nünenen, Rüeggisberg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, Schweiz",
+        "address": {
+            "isolated_dwelling": "Ober Nünenen",
+            "village": "Rüeggisberg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7123989",
+            "46.7124989",
+            "7.4565235",
+            "7.4566235"
+        ]
+    }
+]

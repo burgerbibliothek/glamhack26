@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72485615,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1701581,
+        "lat": "47.3934951",
+        "lon": "8.5286022",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.35810617938020467,
+        "addresstype": "suburb",
+        "name": "Wipkingen",
+        "display_name": "Wipkingen, Kreis 10, Zürich, Bezirk Zürich, Zürich, Schweiz",
+        "address": {
+            "suburb": "Wipkingen",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3863945",
+            "47.4070874",
+            "8.5140155",
+            "8.5362420"
+        ]
+    }
+]

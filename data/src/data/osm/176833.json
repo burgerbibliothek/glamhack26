@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73471692,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3959620904,
+        "lat": "46.6888748",
+        "lon": "8.1605699",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10670416800183105,
+        "addresstype": "isolated_dwelling",
+        "name": "Gschwantenmad",
+        "display_name": "Gschwantenmad, Schattenhalb, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "isolated_dwelling": "Gschwantenmad",
+            "village": "Schattenhalb",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6888248",
+            "46.6889248",
+            "8.1605199",
+            "8.1606199"
+        ]
+    }
+]

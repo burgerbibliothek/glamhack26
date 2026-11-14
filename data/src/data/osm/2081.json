@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 128192105,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3417063645,
+        "lat": "48.1167172",
+        "lon": "11.5834651",
+        "category": "amenity",
+        "type": "bar",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "amenity",
+        "name": "Cafe Bar Metaxa",
+        "display_name": "Cafe Bar Metaxa, 19, Alpenstraße, Feldmüllersiedlung, Obergiesing, Obergiesing-Fasangarten, München, Bayern, 81541, Deutschland",
+        "address": {
+            "amenity": "Cafe Bar Metaxa",
+            "house_number": "19",
+            "road": "Alpenstraße",
+            "neighbourhood": "Feldmüllersiedlung",
+            "quarter": "Obergiesing",
+            "city_district": "Obergiesing-Fasangarten",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "81541",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1166672",
+            "48.1167672",
+            "11.5834151",
+            "11.5835151"
+        ]
+    }
+]

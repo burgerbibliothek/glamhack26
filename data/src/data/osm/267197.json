@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92716311,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685041,
+        "lat": "46.4880255",
+        "lon": "6.2469182",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4369550014316256,
+        "addresstype": "village",
+        "name": "Marchissy",
+        "display_name": "Marchissy, District de Nyon, Waadt, Schweiz",
+        "address": {
+            "village": "Marchissy",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4772607",
+            "46.5259461",
+            "6.1968387",
+            "6.2673976"
+        ]
+    }
+]

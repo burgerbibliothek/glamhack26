@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 93838338,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 150125,
+        "lat": "47.4475250",
+        "lon": "5.0601263",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5956097379088718,
+        "addresstype": "village",
+        "name": "Épagny",
+        "display_name": "Épagny, Dijon, Côte-d'Or, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 21380, Frankreich",
+        "address": {
+            "village": "Épagny",
+            "municipality": "Dijon",
+            "county": "Côte-d'Or",
+            "ISO3166-2-lvl6": "FR-21",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "21380",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.4349593",
+            "47.4669294",
+            "5.0033024",
+            "5.0872967"
+        ]
+    }
+]

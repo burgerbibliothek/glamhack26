@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91735769,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 6547581,
+        "lat": "46.8850228",
+        "lon": "7.3893334",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.32221217881594816,
+        "addresstype": "suburb",
+        "name": "Niederscherli",
+        "display_name": "Niederscherli, Köniz, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3145, Schweiz",
+        "address": {
+            "suburb": "Niederscherli",
+            "town": "Köniz",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3145",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8727917",
+            "46.8976904",
+            "7.3585678",
+            "7.4380991"
+        ]
+    }
+]

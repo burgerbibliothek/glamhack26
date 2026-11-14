@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91731853,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 455441503,
+        "lat": "46.9478478",
+        "lon": "7.4627914",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "31, Bantigerstrasse, Campagne Schönberg, Schosshalde, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "house_number": "31",
+            "road": "Bantigerstrasse",
+            "neighbourhood": "Campagne Schönberg",
+            "quarter": "Schosshalde",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9477978",
+            "46.9478978",
+            "7.4627414",
+            "7.4628414"
+        ]
+    }
+]

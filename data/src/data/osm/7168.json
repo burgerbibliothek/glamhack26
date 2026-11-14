@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 129612971,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8622197211,
+        "lat": "48.5854155",
+        "lon": "14.9721373",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.160049259937438,
+        "addresstype": "peak",
+        "name": "Ferrenberg",
+        "display_name": "Ferrenberg, Groß Gerungs, Bezirk Zwettl, Niederösterreich, 3920, Österreich",
+        "address": {
+            "peak": "Ferrenberg",
+            "town": "Groß Gerungs",
+            "county": "Bezirk Zwettl",
+            "state": "Niederösterreich",
+            "ISO3166-2-lvl4": "AT-3",
+            "postcode": "3920",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.5853655",
+            "48.5854655",
+            "14.9720873",
+            "14.9721873"
+        ]
+    }
+]

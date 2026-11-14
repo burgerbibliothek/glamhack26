@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 71976526,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 490421237,
+        "lat": "47.3956878",
+        "lon": "8.8543043",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.3298727163953751,
+        "addresstype": "valley",
+        "name": "Tösstal",
+        "display_name": "Tösstal, Bezirk Pfäffikon, Zürich, Schweiz",
+        "address": {
+            "valley": "Tösstal",
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3123205",
+            "47.4678227",
+            "8.7578624",
+            "8.9604489"
+        ]
+    }
+]

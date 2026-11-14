@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 104180540,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 906453,
+        "lat": "50.2728740",
+        "lon": "1.6673051",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5938133220046513,
+        "addresstype": "village",
+        "name": "Rue",
+        "display_name": "Rue, Abbeville, Somme, Nordfrankreich, Metropolitanes Frankreich, 80120, Frankreich",
+        "address": {
+            "village": "Rue",
+            "municipality": "Abbeville",
+            "county": "Somme",
+            "ISO3166-2-lvl6": "FR-80",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "80120",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.2475916",
+            "50.3115753",
+            "1.6172701",
+            "1.7223834"
+        ]
+    }
+]

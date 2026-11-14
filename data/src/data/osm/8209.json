@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92843120,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682639,
+        "lat": "47.0555395",
+        "lon": "7.5779172",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41761525391502413,
+        "addresstype": "village",
+        "name": "Rüti bei Lyssach",
+        "display_name": "Rüti bei Lyssach, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3421, Schweiz",
+        "address": {
+            "village": "Rüti bei Lyssach",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3421",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0474720",
+            "47.0611786",
+            "7.5695114",
+            "7.5989104"
+        ]
+    }
+]

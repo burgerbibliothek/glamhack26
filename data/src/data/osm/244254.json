@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72443590,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 313388269,
+        "lat": "47.4578738",
+        "lon": "8.7759968",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2562004762132184,
+        "addresstype": "village",
+        "name": "Kollbrunn",
+        "display_name": "Kollbrunn, Zell, Bezirk Winterthur, Zürich, 8483, Schweiz",
+        "address": {
+            "village": "Kollbrunn",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8483",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4378738",
+            "47.4778738",
+            "8.7559968",
+            "8.7959968"
+        ]
+    }
+]

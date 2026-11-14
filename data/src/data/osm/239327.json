@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92432709,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2207447,
+        "lat": "46.7311728",
+        "lon": "7.0003030",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.4245821633666411,
+        "addresstype": "river",
+        "name": "Glâne",
+        "display_name": "Glâne, Glanebezirk, Freiburg, Schweiz",
+        "address": {
+            "river": "Glâne",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6358323",
+            "46.7874834",
+            "6.8699932",
+            "7.1297786"
+        ]
+    }
+]

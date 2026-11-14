@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 81210344,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1849830,
+        "lat": "41.8946867",
+        "lon": "12.4830664",
+        "category": "tourism",
+        "type": "attraction",
+        "place_rank": 30,
+        "importance": 0.4959609451885724,
+        "addresstype": "tourism",
+        "name": "Nationaldenkmal für Viktor Emanuel II.",
+        "display_name": "Nationaldenkmal für Viktor Emanuel II., La terrazza delle città redente, Campitelli, Municipio Roma I, Rom, Roma Capitale, Latium, 00187, Italien",
+        "address": {
+            "tourism": "Nationaldenkmal für Viktor Emanuel II.",
+            "road": "La terrazza delle città redente",
+            "quarter": "Campitelli",
+            "suburb": "Municipio Roma I",
+            "city": "Rom",
+            "county": "Roma Capitale",
+            "ISO3166-2-lvl6": "IT-RM",
+            "state": "Latium",
+            "ISO3166-2-lvl4": "IT-62",
+            "postcode": "00187",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "41.8939602",
+            "41.8954488",
+            "12.4822234",
+            "12.4841435"
+        ]
+    }
+]

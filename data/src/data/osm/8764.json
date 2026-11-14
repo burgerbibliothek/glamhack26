@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 72611423,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1141334267,
+        "lat": "47.1437602",
+        "lon": "8.5337843",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06672761806668193,
+        "addresstype": "locality",
+        "name": "Zugerberg",
+        "display_name": "Zugerberg, Schönfels, Oberwil, Zug, 6317, Schweiz",
+        "address": {
+            "locality": "Zugerberg",
+            "hamlet": "Schönfels",
+            "village": "Oberwil",
+            "town": "Zug",
+            "state": "Zug",
+            "ISO3166-2-lvl4": "CH-ZG",
+            "postcode": "6317",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1337602",
+            "47.1537602",
+            "8.5237843",
+            "8.5437843"
+        ]
+    }
+]

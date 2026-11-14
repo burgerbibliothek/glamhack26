@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91651875,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685354,
+        "lat": "46.3116020",
+        "lon": "7.5016541",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3382445921771202,
+        "addresstype": "village",
+        "name": "Randogne",
+        "display_name": "Randogne, Crans-Montana, Siders, Mittelwallis, Wallis, 3975, Schweiz",
+        "address": {
+            "village": "Randogne",
+            "county": "Siders",
+            "state_district": "Mittelwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3975",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2838754",
+            "46.3719850",
+            "7.4779497",
+            "7.5199285"
+        ]
+    }
+]

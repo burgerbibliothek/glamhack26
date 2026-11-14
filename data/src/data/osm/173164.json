@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 40104187,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1827771053,
+        "lat": "0.4105973",
+        "lon": "9.4328279",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.1467339383535515,
+        "addresstype": "suburb",
+        "name": "Louis",
+        "display_name": "Louis, 1er Arrondissement de Libreville, 3ème Arrondissement, Libreville, Estuaire, Gabun",
+        "address": {
+            "suburb": "Louis",
+            "borough": "3ème Arrondissement",
+            "city": "Libreville",
+            "county": "Libreville",
+            "state": "Estuaire",
+            "ISO3166-2-lvl4": "GA-1",
+            "country": "Gabun",
+            "country_code": "ga"
+        },
+        "boundingbox": [
+            "0.3905973",
+            "0.4305973",
+            "9.4128279",
+            "9.4528279"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91983046,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684952,
+        "lat": "46.6381163",
+        "lon": "6.6346951",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4482706218576648,
+        "addresstype": "village",
+        "name": "Echallens",
+        "display_name": "Echallens, District du Gros-de-Vaud, Waadt, 1040, Schweiz",
+        "address": {
+            "village": "Echallens",
+            "county": "District du Gros-de-Vaud",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1040",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6251518",
+            "46.6507040",
+            "6.6130155",
+            "6.6605570"
+        ]
+    }
+]

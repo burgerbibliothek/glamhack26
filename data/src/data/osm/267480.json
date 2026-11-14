@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92526328,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3664792747,
+        "lat": "46.8416761",
+        "lon": "7.1353102",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.1570394422394589,
+        "addresstype": "railway",
+        "name": "Pensier",
+        "display_name": "Pensier, Chemin de la Poste, Le Hobel, Bärfischen, Courtepin, Seebezirk, Freiburg, 1783, Schweiz",
+        "address": {
+            "railway": "Pensier",
+            "road": "Chemin de la Poste",
+            "hamlet": "Le Hobel",
+            "village": "Bärfischen",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1783",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8366761",
+            "46.8466761",
+            "7.1303102",
+            "7.1403102"
+        ]
+    }
+]

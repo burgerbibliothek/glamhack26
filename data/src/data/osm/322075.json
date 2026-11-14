@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 125870853,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 48802746,
+        "lat": "49.7211277",
+        "lon": "11.1157057",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.729533836876505e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "7, Erlachstraße, Reuth, Forchheim, Landkreis Forchheim, Bayern, 91301, Deutschland",
+        "address": {
+            "house_number": "7",
+            "road": "Erlachstraße",
+            "village": "Reuth",
+            "city": "Forchheim",
+            "county": "Landkreis Forchheim",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "91301",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.7210562",
+            "49.7211993",
+            "11.1155939",
+            "11.1158176"
+        ]
+    }
+]

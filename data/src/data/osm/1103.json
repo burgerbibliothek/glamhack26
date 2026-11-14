@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 207751672,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 174737,
+        "lat": "39.2940760",
+        "lon": "35.2316631",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.8788776015992956,
+        "addresstype": "country",
+        "name": "Türkei",
+        "display_name": "Türkei",
+        "address": {
+            "country": "Türkei",
+            "country_code": "tr"
+        },
+        "boundingbox": [
+            "35.8058974",
+            "42.2970000",
+            "25.5656305",
+            "44.8176638"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72071517,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 307441068,
+        "lat": "47.4182785",
+        "lon": "8.8091597",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1507975276546128,
+        "addresstype": "village",
+        "name": "Ehrikon",
+        "display_name": "Ehrikon, Wildberg, Bezirk Pfäffikon, Zürich, 8489, Schweiz",
+        "address": {
+            "village": "Ehrikon",
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8489",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3982785",
+            "47.4382785",
+            "8.7891597",
+            "8.8291597"
+        ]
+    }
+]

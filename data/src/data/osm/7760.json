@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71845239,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684543,
+        "lat": "47.5926085",
+        "lon": "9.0677996",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4003883115502947,
+        "addresstype": "village",
+        "name": "Märstetten",
+        "display_name": "Märstetten, Bezirk Weinfelden, Thurgau, 8560, Schweiz",
+        "address": {
+            "village": "Märstetten",
+            "county": "Bezirk Weinfelden",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8560",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5721769",
+            "47.6046825",
+            "9.0484520",
+            "9.1107083"
+        ]
+    }
+]

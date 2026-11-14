@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71417631,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10716417145,
+        "lat": "47.5014530",
+        "lon": "9.0150460",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671077058060577,
+        "addresstype": "locality",
+        "name": "Vögelisegg",
+        "display_name": "Vögelisegg, Bettwiesen, Bezirk Münchwilen, Thurgau, 9553, Schweiz",
+        "address": {
+            "locality": "Vögelisegg",
+            "village": "Bettwiesen",
+            "county": "Bezirk Münchwilen",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "9553",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4914530",
+            "47.5114530",
+            "9.0050460",
+            "9.0250460"
+        ]
+    }
+]

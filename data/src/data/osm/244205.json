@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71959038,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 300987913,
+        "lat": "47.4087415",
+        "lon": "8.7605267",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333833943694209,
+        "addresstype": "hamlet",
+        "name": "Rumlikon",
+        "display_name": "Rumlikon, Russikon, Bezirk Pfäffikon, Zürich, 8332, Schweiz",
+        "address": {
+            "hamlet": "Rumlikon",
+            "village": "Russikon",
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8332",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3887415",
+            "47.4287415",
+            "8.7405267",
+            "8.7805267"
+        ]
+    }
+]

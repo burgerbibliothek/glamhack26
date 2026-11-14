@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145566691,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1284358075,
+        "lat": "52.5160757",
+        "lon": "13.4840502",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "35, Normannenstraße, Bornitz-Viertel, Lichtenberg, Berlin, 10367, Deutschland",
+        "address": {
+            "house_number": "35",
+            "road": "Normannenstraße",
+            "neighbourhood": "Bornitz-Viertel",
+            "suburb": "Lichtenberg",
+            "borough": "Lichtenberg",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10367",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5160257",
+            "52.5161257",
+            "13.4840002",
+            "13.4841002"
+        ]
+    }
+]

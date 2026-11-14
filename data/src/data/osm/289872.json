@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72246672,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2392273691,
+        "lat": "47.3772384",
+        "lon": "8.8522578",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337836346990156,
+        "addresstype": "hamlet",
+        "name": "Bächi",
+        "display_name": "Bächi, Saland, Bauma, Bezirk Pfäffikon, Zürich, 8493, Schweiz",
+        "address": {
+            "hamlet": "Bächi",
+            "village": "Saland",
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8493",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3572384",
+            "47.3972384",
+            "8.8322578",
+            "8.8722578"
+        ]
+    }
+]

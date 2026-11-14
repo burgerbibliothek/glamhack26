@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91810563,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684859,
+        "lat": "46.8375743",
+        "lon": "6.6706023",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.45133626112582076,
+        "addresstype": "village",
+        "name": "Bonvillars",
+        "display_name": "Bonvillars, District du Jura-Nord vaudois, Waadt, 1427, Schweiz",
+        "address": {
+            "village": "Bonvillars",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1427",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8138226",
+            "46.8771347",
+            "6.6475265",
+            "6.6995588"
+        ]
+    }
+]

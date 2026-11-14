@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92393298,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1466771371,
+        "lat": "46.9151543",
+        "lon": "7.6644717",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338520408941784,
+        "addresstype": "hamlet",
+        "name": "Alterswil",
+        "display_name": "Alterswil, Oberthal, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3531, Schweiz",
+        "address": {
+            "hamlet": "Alterswil",
+            "village": "Oberthal",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3531",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8951543",
+            "46.9351543",
+            "7.6444717",
+            "7.6844717"
+        ]
+    }
+]

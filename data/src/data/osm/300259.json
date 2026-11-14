@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92173803,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685163,
+        "lat": "46.7034256",
+        "lon": "6.7550299",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.37838153675224867,
+        "addresstype": "village",
+        "name": "Thierrens",
+        "display_name": "Thierrens, Montanaire, District du Gros-de-Vaud, Waadt, 1410, Schweiz",
+        "address": {
+            "village": "Thierrens",
+            "city": "Montanaire",
+            "county": "District du Gros-de-Vaud",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1410",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6851091",
+            "46.7219769",
+            "6.7362048",
+            "6.7792220"
+        ]
+    }
+]

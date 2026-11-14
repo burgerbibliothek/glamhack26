@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 147881159,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13444993560,
+        "lat": "53.9727356",
+        "lon": "14.1361535",
+        "category": "amenity",
+        "type": "vending_machine",
+        "place_rank": 30,
+        "importance": 5.759136339356096e-05,
+        "addresstype": "amenity",
+        "name": "Fischerweg 3",
+        "display_name": "Fischerweg 3, Fischerweg, Kaiserbäder, Bansin, Heringsdorf, Vorpommern-Greifswald, Mecklenburg-Vorpommern, 17429, Deutschland",
+        "address": {
+            "amenity": "Fischerweg 3",
+            "road": "Fischerweg",
+            "neighbourhood": "Kaiserbäder",
+            "village": "Bansin",
+            "county": "Vorpommern-Greifswald",
+            "state": "Mecklenburg-Vorpommern",
+            "ISO3166-2-lvl4": "DE-MV",
+            "postcode": "17429",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "53.9726856",
+            "53.9727856",
+            "14.1361035",
+            "14.1362035"
+        ]
+    }
+]

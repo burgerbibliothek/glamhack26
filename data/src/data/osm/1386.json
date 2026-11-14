@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 93061798,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7880449541,
+        "lat": "47.0729099",
+        "lon": "7.8663258",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337927748531317,
+        "addresstype": "hamlet",
+        "name": "Grünenboden",
+        "display_name": "Grünenboden, Eriswil, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4952, Schweiz",
+        "address": {
+            "hamlet": "Grünenboden",
+            "village": "Eriswil",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4952",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0529099",
+            "47.0929099",
+            "7.8463258",
+            "7.8863258"
+        ]
+    }
+]

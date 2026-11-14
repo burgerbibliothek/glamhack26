@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91350855,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682387,
+        "lat": "46.6295428",
+        "lon": "7.3908364",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3883319602613017,
+        "addresstype": "village",
+        "name": "Boltigen",
+        "display_name": "Boltigen, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3766, Schweiz",
+        "address": {
+            "village": "Boltigen",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3766",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5391742",
+            "46.6558395",
+            "7.2797029",
+            "7.4350227"
+        ]
+    }
+]

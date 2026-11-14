@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 126006325,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 255583262,
+        "lat": "48.3283071",
+        "lon": "10.8391090",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.340428778510746e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "17, Riedweg, Neubergheim, Bergheim, Augsburg, Bayern, 86199, Deutschland",
+        "address": {
+            "house_number": "17",
+            "road": "Riedweg",
+            "suburb": "Neubergheim",
+            "city": "Augsburg",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "86199",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.3282404",
+            "48.3283582",
+            "10.8390549",
+            "10.8391630"
+        ]
+    }
+]

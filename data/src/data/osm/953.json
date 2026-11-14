@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 132736414,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 24569983,
+        "lat": "50.0631724",
+        "lon": "14.4305202",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.38382602028473783,
+        "addresstype": "railway",
+        "name": "Hochburg",
+        "display_name": "Hochburg, Nuselský most, Prag 4, Stadtbezirk Prag 4, Prag, 140 16, Tschechien",
+        "address": {
+            "railway": "Hochburg",
+            "road": "Nuselský most",
+            "suburb": "Prag 4",
+            "city_district": "Stadtbezirk Prag 4",
+            "city": "Prag",
+            "ISO3166-2-lvl4": "CZ-10",
+            "postcode": "140 16",
+            "country": "Tschechien",
+            "country_code": "cz"
+        },
+        "boundingbox": [
+            "50.0581724",
+            "50.0681724",
+            "14.4255202",
+            "14.4355202"
+        ]
+    }
+]

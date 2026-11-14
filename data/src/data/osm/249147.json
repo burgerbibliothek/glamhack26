@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73073233,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7233144829,
+        "lat": "47.0575991",
+        "lon": "8.1162679",
+        "category": "place",
+        "type": "farm",
+        "place_rank": 22,
+        "importance": 0.10671287632562751,
+        "addresstype": "farm",
+        "name": "Farnere",
+        "display_name": "Farnere, Werthenstein, Ruswil, Luzern, 6106, Schweiz",
+        "address": {
+            "farm": "Farnere",
+            "village": "Werthenstein",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6106",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0475991",
+            "47.0675991",
+            "8.1062679",
+            "8.1262679"
+        ]
+    }
+]

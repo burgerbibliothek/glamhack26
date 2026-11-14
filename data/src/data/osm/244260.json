@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 72348801,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10736629490,
+        "lat": "47.3749025",
+        "lon": "8.5368377",
+        "category": "shop",
+        "type": "watches",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "shop",
+        "name": "Stahel",
+        "display_name": "Stahel, 5, Gerbergasse, City, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz",
+        "address": {
+            "shop": "Stahel",
+            "house_number": "5",
+            "road": "Gerbergasse",
+            "quarter": "City",
+            "suburb": "Altstadt",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3748525",
+            "47.3749525",
+            "8.5367877",
+            "8.5368877"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92079504,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12441446915,
+        "lat": "46.9438243",
+        "lon": "7.5999052",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333770862897688,
+        "addresstype": "hamlet",
+        "name": "Wikartswil",
+        "display_name": "Wikartswil, Walkringen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3077, Schweiz",
+        "address": {
+            "hamlet": "Wikartswil",
+            "village": "Walkringen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3077",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9238243",
+            "46.9638243",
+            "7.5799052",
+            "7.6199052"
+        ]
+    }
+]

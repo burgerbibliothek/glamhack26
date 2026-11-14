@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 419929132,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 20980554,
+        "lat": "47.4866056",
+        "lon": "7.6114499",
+        "category": "place",
+        "type": "region",
+        "place_rank": 18,
+        "importance": 0.16004826504921033,
+        "addresstype": "region",
+        "name": "Birseck",
+        "display_name": "Birseck, Dornach, Bezirk Dorneck, Amtei Dorneck-Thierstein, Solothurn, 4143, Schweiz",
+        "address": {
+            "region": "Birseck",
+            "village": "Dornach",
+            "municipality": "Bezirk Dorneck",
+            "county": "Amtei Dorneck-Thierstein",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4143",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4327068",
+            "47.5408057",
+            "7.5546657",
+            "7.6559327"
+        ]
+    }
+]

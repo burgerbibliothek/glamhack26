@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 88533689,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 290497880,
+        "lat": "45.9827198",
+        "lon": "7.0341700",
+        "category": "natural",
+        "type": "mountain_range",
+        "place_rank": 18,
+        "importance": 0.45439195690859274,
+        "addresstype": "mountain_range",
+        "name": "Aiguilles Dorées",
+        "display_name": "Aiguilles Dorées, Orsières, Entremont, Unterwallis, Wallis, Schweiz",
+        "address": {
+            "mountain_range": "Aiguilles Dorées",
+            "village": "Orsières",
+            "county": "Entremont",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9826698",
+            "45.9827698",
+            "7.0341200",
+            "7.0342200"
+        ]
+    }
+]

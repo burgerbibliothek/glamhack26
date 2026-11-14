@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91450264,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 686450633,
+        "lat": "46.6278312",
+        "lon": "7.3941034",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.3819330985084628,
+        "addresstype": "valley",
+        "name": "Simmental",
+        "display_name": "Simmental, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "valley": "Simmental",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4269918",
+            "46.6910666",
+            "7.3744108",
+            "7.6336838"
+        ]
+    }
+]

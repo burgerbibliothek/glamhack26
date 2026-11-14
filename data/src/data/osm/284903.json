@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71264892,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684541,
+        "lat": "47.6461848",
+        "lon": "8.9157018",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42987040448353636,
+        "addresstype": "village",
+        "name": "Mammern",
+        "display_name": "Mammern, Neunforn, Bezirk Frauenfeld, Thurgau, 8265, Schweiz",
+        "address": {
+            "village": "Mammern",
+            "municipality": "Neunforn",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8265",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.6278963",
+            "47.6550365",
+            "8.8946744",
+            "8.9497728"
+        ]
+    }
+]

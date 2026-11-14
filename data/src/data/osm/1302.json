@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 54289204,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1441912930,
+        "lat": "35.9570603",
+        "lon": "14.3567979",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 5.522774090176268e-05,
+        "addresstype": "building",
+        "name": "Engadin",
+        "display_name": "Engadin, 76-77, Great Siege Road 1565, Qasam Barrani, Manikata, Mellieħa, Northern Region, MLH 1903, Malta",
+        "address": {
+            "building": "Engadin",
+            "house_number": "76-77",
+            "road": "Great Siege Road 1565",
+            "residential": "Qasam Barrani",
+            "village": "Manikata",
+            "ISO3166-2-lvl8": "MT-30",
+            "municipality": "Northern Region",
+            "postcode": "MLH 1903",
+            "country": "Malta",
+            "country_code": "mt"
+        },
+        "boundingbox": [
+            "35.9569937",
+            "35.9571291",
+            "14.3567113",
+            "14.3568855"
+        ]
+    }
+]

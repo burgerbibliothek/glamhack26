@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92908297,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683588,
+        "lat": "47.3657368",
+        "lon": "7.9306091",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3501849283177136,
+        "addresstype": "village",
+        "name": "Winznau",
+        "display_name": "Winznau, Bezirk Gösgen, Amtei Olten-Gösgen, Solothurn, 4652, Schweiz",
+        "address": {
+            "village": "Winznau",
+            "municipality": "Bezirk Gösgen",
+            "county": "Amtei Olten-Gösgen",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4652",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3571429",
+            "47.3822844",
+            "7.8961104",
+            "7.9424756"
+        ]
+    }
+]

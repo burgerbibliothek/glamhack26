@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72909436,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 978476230,
+        "lat": "47.0069202",
+        "lon": "8.6450017",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.8168154421256086e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "9, Sodweg, Ibach, Schwyz, 6438, Schweiz",
+        "address": {
+            "house_number": "9",
+            "road": "Sodweg",
+            "village": "Ibach",
+            "town": "Schwyz",
+            "county": "Schwyz",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "6438",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0068436",
+            "47.0070634",
+            "8.6448811",
+            "8.6451429"
+        ]
+    }
+]

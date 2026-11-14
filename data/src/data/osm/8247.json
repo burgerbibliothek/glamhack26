@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72460417,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684413,
+        "lat": "47.3099209",
+        "lon": "8.2485603",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4000978874196021,
+        "addresstype": "village",
+        "name": "Sarmenstorf",
+        "display_name": "Sarmenstorf, Bezirk Bremgarten, Aargau, 5614, Schweiz",
+        "address": {
+            "village": "Sarmenstorf",
+            "county": "Bezirk Bremgarten",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5614",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2951304",
+            "47.3271439",
+            "8.2266543",
+            "8.2811067"
+        ]
+    }
+]

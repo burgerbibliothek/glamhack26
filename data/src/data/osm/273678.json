@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 71779156,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682162,
+        "lat": "47.6257747",
+        "lon": "8.6501583",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4075198435543142,
+        "addresstype": "village",
+        "name": "Marthalen",
+        "display_name": "Marthalen, Bezirk Andelfingen, Zürich, Schweiz",
+        "address": {
+            "village": "Marthalen",
+            "county": "Bezirk Andelfingen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5946977",
+            "47.6444649",
+            "8.5929396",
+            "8.6682430"
+        ]
+    }
+]

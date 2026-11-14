@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 73324088,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1688773,
+        "lat": "46.3452060",
+        "lon": "8.5792146",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.4255759689944641,
+        "addresstype": "county",
+        "name": "Bezirk Vallemaggia",
+        "display_name": "Bezirk Vallemaggia, Tessin, Schweiz",
+        "address": {
+            "county": "Bezirk Vallemaggia",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1896939",
+            "46.5005529",
+            "8.4277394",
+            "8.8002503"
+        ]
+    }
+]

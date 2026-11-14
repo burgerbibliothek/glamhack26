@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91931483,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 390321,
+        "lat": "46.6396063",
+        "lon": "6.2883570",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.39542339164457335,
+        "addresstype": "lake",
+        "name": "Lac de Joux",
+        "display_name": "Lac de Joux, Le Lieu, District du Jura-Nord vaudois, Waadt, 1342, Schweiz",
+        "address": {
+            "lake": "Lac de Joux",
+            "village": "Le Lieu",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1342",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6112796",
+            "46.6679301",
+            "6.2410479",
+            "6.3308070"
+        ]
+    }
+]

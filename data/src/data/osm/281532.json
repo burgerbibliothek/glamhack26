@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 139233348,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 7429201,
+        "lat": "50.0386521",
+        "lon": "9.2307183",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.2659205816262254,
+        "addresstype": "village",
+        "name": "Rottenberg",
+        "display_name": "Rottenberg, Feldkahl, Hösbach, Landkreis Aschaffenburg, Bayern, Deutschland",
+        "address": {
+            "village": "Rottenberg",
+            "city": "Hösbach",
+            "county": "Landkreis Aschaffenburg",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.0199869",
+            "50.0495333",
+            "9.2071518",
+            "9.2526476"
+        ]
+    }
+]

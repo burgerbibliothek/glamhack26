@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92172334,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 227626725,
+        "lat": "47.0881082",
+        "lon": "6.8048110",
+        "category": "highway",
+        "type": "primary",
+        "place_rank": 26,
+        "importance": 0.05339569314106962,
+        "addresstype": "primary",
+        "name": "Boulevard des Eplatures",
+        "display_name": "Boulevard des Eplatures, Les Éplatures, La Chaux-de-Fonds, Région Montagnes, Neuenburg, 2301, Schweiz",
+        "address": {
+            "road": "Boulevard des Eplatures",
+            "neighbourhood": "Les Éplatures",
+            "town": "La Chaux-de-Fonds",
+            "region": "Région Montagnes",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2301",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0869179",
+            "47.0894079",
+            "6.8024211",
+            "6.8071431"
+        ]
+    }
+]

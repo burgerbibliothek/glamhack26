@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73477381,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 263462601,
+        "lat": "46.9576781",
+        "lon": "8.3644374",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.53070878156255e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "6, Nägeligasse, Stans, Nidwalden, 6370, Schweiz",
+        "address": {
+            "house_number": "6",
+            "road": "Nägeligasse",
+            "town": "Stans",
+            "state": "Nidwalden",
+            "ISO3166-2-lvl4": "CH-NW",
+            "postcode": "6370",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9575589",
+            "46.9577754",
+            "8.3642277",
+            "8.3646148"
+        ]
+    }
+]

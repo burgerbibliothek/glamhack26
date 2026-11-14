@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 67772517,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 620493190,
+        "lat": "47.9601222",
+        "lon": "16.1982304",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.2406347753063514e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "39, Brunngasse, Katastralgemeinde Gainfarn, Bad Vöslau, Bezirk Baden, Niederösterreich, 2540, Österreich",
+        "address": {
+            "house_number": "39",
+            "road": "Brunngasse",
+            "suburb": "Katastralgemeinde Gainfarn",
+            "town": "Bad Vöslau",
+            "county": "Bezirk Baden",
+            "state": "Niederösterreich",
+            "ISO3166-2-lvl4": "AT-3",
+            "postcode": "2540",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.9600619",
+            "47.9602119",
+            "16.1981317",
+            "16.1983450"
+        ]
+    }
+]

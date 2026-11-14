@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 73610772,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 132417988,
+        "lat": "47.0380668",
+        "lon": "9.5277667",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.19619210675062,
+        "addresstype": "building",
+        "name": "Festung Luziensteig",
+        "display_name": "Festung Luziensteig, 88, Steigstrasse, Kaserne Sankt Luzisteig, Maienfeld, Landquart, Graubünden, 7304, Schweiz",
+        "address": {
+            "building": "Festung Luziensteig",
+            "house_number": "88",
+            "road": "Steigstrasse",
+            "hamlet": "Kaserne Sankt Luzisteig",
+            "village": "Maienfeld",
+            "county": "Landquart",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7304",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0379600",
+            "47.0381638",
+            "9.5275578",
+            "9.5279361"
+        ]
+    }
+]

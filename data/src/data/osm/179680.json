@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91452386,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1975494665,
+        "lat": "46.0178231",
+        "lon": "7.8408456",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005112153810938,
+        "addresstype": "peak",
+        "name": "Spitzi Flue",
+        "display_name": "Spitzi Flue, Zermatt, Visp, Oberwallis, Wallis, 3920, Schweiz",
+        "address": {
+            "peak": "Spitzi Flue",
+            "town": "Zermatt",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3920",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0177731",
+            "46.0178731",
+            "7.8407956",
+            "7.8408956"
+        ]
+    }
+]

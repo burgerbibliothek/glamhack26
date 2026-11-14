@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72136102,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 90373006,
+        "lat": "47.3923879",
+        "lon": "8.5359590",
+        "category": "amenity",
+        "type": "college",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "amenity",
+        "name": "Gymnasium Unterstrass",
+        "display_name": "Gymnasium Unterstrass, 29, Seminarstrasse, Unterstrass, Kreis 6, Zürich, Bezirk Zürich, Zürich, 8042, Schweiz",
+        "address": {
+            "amenity": "Gymnasium Unterstrass",
+            "house_number": "29",
+            "road": "Seminarstrasse",
+            "suburb": "Unterstrass",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8042",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3917332",
+            "47.3930455",
+            "8.5350150",
+            "8.5370284"
+        ]
+    }
+]

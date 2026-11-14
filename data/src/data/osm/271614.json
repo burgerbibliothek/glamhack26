@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 90775047,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 147946,
+        "lat": "46.7285000",
+        "lon": "5.7469100",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5642395591987145,
+        "addresstype": "village",
+        "name": "Bonnefontaine",
+        "display_name": "Bonnefontaine, Lons-le-Saunier, Jura, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 39800, Frankreich",
+        "address": {
+            "village": "Bonnefontaine",
+            "municipality": "Lons-le-Saunier",
+            "county": "Jura",
+            "ISO3166-2-lvl6": "FR-39",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "39800",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.7126751",
+            "46.7556605",
+            "5.7197794",
+            "5.7869926"
+        ]
+    }
+]

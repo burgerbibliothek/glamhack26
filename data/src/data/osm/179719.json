@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73545611,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2192948,
+        "lat": "46.5606305",
+        "lon": "8.3398291",
+        "category": "natural",
+        "type": "water",
+        "place_rank": 22,
+        "importance": 0.23822746059912708,
+        "addresstype": "water",
+        "name": "Totesee",
+        "display_name": "Totesee, Obergoms, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "water": "Totesee",
+            "city": "Obergoms",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5585403",
+            "46.5627315",
+            "8.3353245",
+            "8.3443780"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91721457,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 23455684,
+        "lat": "46.9522598",
+        "lon": "7.4459693",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "residential",
+        "name": "Altenbergrain",
+        "display_name": "Altenbergrain, Altenberg, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3013, Schweiz",
+        "address": {
+            "road": "Altenbergrain",
+            "quarter": "Altenberg",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3013",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9511548",
+            "46.9540004",
+            "7.4455896",
+            "7.4472554"
+        ]
+    }
+]

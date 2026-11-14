@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91570020,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 171725210,
+        "lat": "46.6974311",
+        "lon": "7.8858437",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.17283327415591612,
+        "addresstype": "lake",
+        "name": "Burgseewli",
+        "display_name": "Burgseewli, Goldswil, Ringgenberg (BE), Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "lake": "Burgseewli",
+            "village": "Goldswil",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6962550",
+            "46.6985986",
+            "7.8835662",
+            "7.8880594"
+        ]
+    }
+]

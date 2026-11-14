@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91515930,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685304,
+        "lat": "46.3942848",
+        "lon": "7.7591799",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.36902538090653614,
+        "addresstype": "village",
+        "name": "Ferden",
+        "display_name": "Ferden, Westlich Raron, Oberwallis, Wallis, 3916, Schweiz",
+        "address": {
+            "village": "Ferden",
+            "county": "Westlich Raron",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3916",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3603260",
+            "46.4248971",
+            "7.6888425",
+            "7.7934378"
+        ]
+    }
+]

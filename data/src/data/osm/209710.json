@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 24557226,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4931758359,
+        "lat": "-43.5717186",
+        "lon": "170.1576624",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.36107739355702545,
+        "addresstype": "peak",
+        "name": "Silberhorn",
+        "display_name": "Silberhorn, Westland District, West Coast, Neuseeland",
+        "address": {
+            "peak": "Silberhorn",
+            "county": "Westland District",
+            "state": "West Coast",
+            "ISO3166-2-lvl4": "NZ-WTC",
+            "country": "Neuseeland",
+            "country_code": "nz"
+        },
+        "boundingbox": [
+            "-43.5717686",
+            "-43.5716686",
+            "170.1576124",
+            "170.1577124"
+        ]
+    }
+]

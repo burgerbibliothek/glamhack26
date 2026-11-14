@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 429080979,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 111547682,
+        "lat": "46.2304378",
+        "lon": "6.1117032",
+        "category": "landuse",
+        "type": "commercial",
+        "place_rank": 24,
+        "importance": 0.08007901655603873,
+        "addresstype": "commercial",
+        "name": "Le Lumion",
+        "display_name": "Le Lumion, Le Grand-Saconnex, Genf, Schweiz",
+        "address": {
+            "commercial": "Le Lumion",
+            "town": "Le Grand-Saconnex",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2295843",
+            "46.2312896",
+            "6.1102409",
+            "6.1124040"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73907602,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1354032777,
+        "lat": "46.9004606",
+        "lon": "8.1035120",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10672124437323566,
+        "addresstype": "isolated_dwelling",
+        "name": "Rossalp",
+        "display_name": "Rossalp, Sarnen, Obwalden, Schweiz",
+        "address": {
+            "isolated_dwelling": "Rossalp",
+            "town": "Sarnen",
+            "state": "Obwalden",
+            "ISO3166-2-lvl4": "CH-OW",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9004106",
+            "46.9005106",
+            "8.1034620",
+            "8.1035620"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73608940,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12009993802,
+        "lat": "46.5750914",
+        "lon": "8.3559804",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671074616617075,
+        "addresstype": "locality",
+        "name": "Nägelisgrätli",
+        "display_name": "Nägelisgrätli, Guttannen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3864, Schweiz",
+        "address": {
+            "locality": "Nägelisgrätli",
+            "city": "Guttannen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3864",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5650914",
+            "46.5850914",
+            "8.3459804",
+            "8.3659804"
+        ]
+    }
+]

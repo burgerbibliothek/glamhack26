@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71523623,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2786292,
+        "lat": "47.5671976",
+        "lon": "8.0599414",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4610311165122064,
+        "addresstype": "town",
+        "name": "Laufenburg (Baden)",
+        "display_name": "Laufenburg (Baden), Landkreis Waldshut, Baden-Württemberg, 79725, Deutschland",
+        "address": {
+            "town": "Laufenburg (Baden)",
+            "county": "Landkreis Waldshut",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "79725",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.5530018",
+            "47.6226846",
+            "8.0194661",
+            "8.1101671"
+        ]
+    }
+]

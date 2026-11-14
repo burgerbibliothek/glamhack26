@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92606769,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682533,
+        "lat": "47.1746607",
+        "lon": "7.4585386",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42357304426184234,
+        "addresstype": "village",
+        "name": "Leuzigen",
+        "display_name": "Leuzigen, Seeland administrative district, Seeland administrative region, Bern, 3297, Schweiz",
+        "address": {
+            "village": "Leuzigen",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3297",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1512845",
+            "47.1906520",
+            "7.4411742",
+            "7.4970425"
+        ]
+    }
+]

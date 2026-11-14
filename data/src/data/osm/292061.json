@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92539034,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 443047780,
+        "lat": "46.9434111",
+        "lon": "7.4360940",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "35, Monbijoustrasse, Villette, Monbijou, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "house_number": "35",
+            "road": "Monbijoustrasse",
+            "neighbourhood": "Villette",
+            "quarter": "Monbijou",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9433611",
+            "46.9434611",
+            "7.4360440",
+            "7.4361440"
+        ]
+    }
+]

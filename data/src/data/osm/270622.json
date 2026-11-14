@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91787025,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2599886,
+        "lat": "46.6491991",
+        "lon": "7.1890136",
+        "category": "amenity",
+        "type": "monastery",
+        "place_rank": 30,
+        "importance": 0.34397419227863374,
+        "addresstype": "amenity",
+        "name": "Kartause La Valsainte",
+        "display_name": "Kartause La Valsainte, 122, Route de la Valsainte, La Valsainte, Cerniat (FR), Val-de-Charmey, Greyerzbezirk, Freiburg, 1654, Schweiz",
+        "address": {
+            "amenity": "Kartause La Valsainte",
+            "house_number": "122",
+            "road": "Route de la Valsainte",
+            "hamlet": "La Valsainte",
+            "village": "Cerniat (FR)",
+            "city": "Val-de-Charmey",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1654",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6486577",
+            "46.6497399",
+            "7.1884055",
+            "7.1906987"
+        ]
+    }
+]

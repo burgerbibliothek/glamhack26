@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 93256789,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12124725370,
+        "lat": "47.3497672",
+        "lon": "7.9032757",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 5.849774929422473e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "43, Marktgasse, Olten, Bezirk Olten, Amtei Olten-Gösgen, Solothurn, 4600, Schweiz",
+        "address": {
+            "house_number": "43",
+            "road": "Marktgasse",
+            "town": "Olten",
+            "municipality": "Bezirk Olten",
+            "county": "Amtei Olten-Gösgen",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4600",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3497172",
+            "47.3498172",
+            "7.9032257",
+            "7.9033257"
+        ]
+    }
+]

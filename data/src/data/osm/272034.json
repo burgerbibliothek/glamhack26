@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91990435,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 283212769,
+        "lat": "46.8962491",
+        "lon": "7.4400637",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337991226062407,
+        "addresstype": "hamlet",
+        "name": "Oberulmiz",
+        "display_name": "Oberulmiz, Gasel, Köniz, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3086, Schweiz",
+        "address": {
+            "hamlet": "Oberulmiz",
+            "suburb": "Gasel",
+            "town": "Köniz",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3086",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8762491",
+            "46.9162491",
+            "7.4200637",
+            "7.4600637"
+        ]
+    }
+]

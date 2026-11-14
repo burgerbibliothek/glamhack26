@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72061265,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1465164106,
+        "lat": "47.5330969",
+        "lon": "8.3026217",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.29396319343666205,
+        "addresstype": "valley",
+        "name": "Surbtal",
+        "display_name": "Surbtal, Endingen, Bezirk Zurzach, Aargau, 5304, Schweiz",
+        "address": {
+            "valley": "Surbtal",
+            "village": "Endingen",
+            "county": "Bezirk Zurzach",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5304",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5059474",
+            "47.5675932",
+            "8.2571085",
+            "8.3611214"
+        ]
+    }
+]

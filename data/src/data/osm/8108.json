@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91852382,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682612,
+        "lat": "47.0219382",
+        "lon": "7.2730856",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42234121106503436,
+        "addresstype": "village",
+        "name": "Radelfingen",
+        "display_name": "Radelfingen, Seeland administrative district, Seeland administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Radelfingen",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9700564",
+            "47.0294934",
+            "7.2393097",
+            "7.2973511"
+        ]
+    }
+]

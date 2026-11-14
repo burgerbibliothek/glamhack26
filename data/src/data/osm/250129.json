@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92064983,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 17315517,
+        "lat": "46.9378834",
+        "lon": "7.1987262",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.21584611680957558,
+        "addresstype": "river",
+        "name": "Biberen",
+        "display_name": "Biberen, Gurmels, Seebezirk, Bernese Mittelland administrative region, Freiburg, Schweiz",
+        "address": {
+            "river": "Biberen",
+            "village": "Gurmels",
+            "county": "Seebezirk",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8756284",
+            "46.9745158",
+            "7.1072631",
+            "7.2110784"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 285394224,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 154724582,
+        "lat": "47.5618781",
+        "lon": "-52.7090042",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05339769512474247,
+        "addresstype": "residential",
+        "name": "Beck's Cove",
+        "display_name": "Beck's Cove, Downtown, St. John's, Neufundland, Neufundland und Labrador, A1C 1B7, Kanada",
+        "address": {
+            "road": "Beck's Cove",
+            "quarter": "Downtown",
+            "city": "St. John's",
+            "state_district": "Neufundland",
+            "state": "Neufundland und Labrador",
+            "ISO3166-2-lvl4": "CA-NL",
+            "postcode": "A1C 1B7",
+            "country": "Kanada",
+            "country_code": "ca"
+        },
+        "boundingbox": [
+            "47.5615362",
+            "47.5621548",
+            "-52.7094819",
+            "-52.7085708"
+        ]
+    }
+]

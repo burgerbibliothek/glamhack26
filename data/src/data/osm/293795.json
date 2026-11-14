@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 150478332,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5428982668,
+        "lat": "54.7265727",
+        "lon": "8.9809116",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14672366292820627,
+        "addresstype": "village",
+        "name": "Enge",
+        "display_name": "Enge, Enge-Sande, Südtondern, Kreis Nordfriesland, Schleswig-Holstein, 25920, Deutschland",
+        "address": {
+            "village": "Enge",
+            "municipality": "Südtondern",
+            "county": "Kreis Nordfriesland",
+            "state": "Schleswig-Holstein",
+            "ISO3166-2-lvl4": "DE-SH",
+            "postcode": "25920",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "54.7065727",
+            "54.7465727",
+            "8.9609116",
+            "9.0009116"
+        ]
+    }
+]

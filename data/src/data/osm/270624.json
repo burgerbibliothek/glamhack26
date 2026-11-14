@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 103264570,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2692151,
+        "lat": "50.2736375",
+        "lon": "2.5730240",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6178458015201538,
+        "addresstype": "village",
+        "name": "Hauteville",
+        "display_name": "Hauteville, Arras, Pas-de-Calais, Nordfrankreich, Metropolitanes Frankreich, 62810, Frankreich",
+        "address": {
+            "village": "Hauteville",
+            "municipality": "Arras",
+            "county": "Pas-de-Calais",
+            "ISO3166-2-lvl6": "FR-62",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "62810",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.2630772",
+            "50.2812970",
+            "2.5404747",
+            "2.5920451"
+        ]
+    }
+]

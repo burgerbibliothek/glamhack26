@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91848443,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685018,
+        "lat": "46.5218269",
+        "lon": "6.6327025",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.7044362162942157,
+        "addresstype": "city",
+        "name": "Lausanne",
+        "display_name": "Lausanne, District de Lausanne, Waadt, Schweiz",
+        "address": {
+            "city": "Lausanne",
+            "county": "District de Lausanne",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4548727",
+            "46.6025814",
+            "6.5838630",
+            "6.7208093"
+        ]
+    }
+]

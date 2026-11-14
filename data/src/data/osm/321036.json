@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 123448860,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 307224449,
+        "lat": "48.7599701",
+        "lon": "9.1804713",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.8644235904433e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "65, Altenbergstraße, Weinsteige, Stuttgart-Süd, Stuttgart, Baden-Württemberg, 70180, Deutschland",
+        "address": {
+            "house_number": "65",
+            "road": "Altenbergstraße",
+            "neighbourhood": "Weinsteige",
+            "suburb": "Stuttgart-Süd",
+            "city": "Stuttgart",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "70180",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.7598498",
+            "48.7600452",
+            "9.1803574",
+            "9.1806255"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91190344,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11537895174,
+        "lat": "46.4051204",
+        "lon": "7.8601481",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16003513160906385,
+        "addresstype": "peak",
+        "name": "Älwe Rigg",
+        "display_name": "Älwe Rigg, Baltschieder, Visp, Oberwallis, Wallis, 3937, Schweiz",
+        "address": {
+            "peak": "Älwe Rigg",
+            "village": "Baltschieder",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3937",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4050704",
+            "46.4051704",
+            "7.8600981",
+            "7.8601981"
+        ]
+    }
+]

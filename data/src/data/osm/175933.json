@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93018016,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682397,
+        "lat": "47.0571316",
+        "lon": "7.6237466",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5110243828395411,
+        "addresstype": "town",
+        "name": "Burgdorf",
+        "display_name": "Burgdorf, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "town": "Burgdorf",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0273205",
+            "47.0856848",
+            "7.5769567",
+            "7.6547451"
+        ]
+    }
+]

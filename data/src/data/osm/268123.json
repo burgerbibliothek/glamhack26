@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92901229,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685621,
+        "lat": "47.4074958",
+        "lon": "7.2924240",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38867939096549164,
+        "addresstype": "village",
+        "name": "Pleigne",
+        "display_name": "Pleigne, Bezirk Delsberg, Jura, 2807, Schweiz",
+        "address": {
+            "village": "Pleigne",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2807",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3923447",
+            "47.4400493",
+            "7.2341938",
+            "7.3281634"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71404801,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682173,
+        "lat": "47.5076024",
+        "lon": "8.3800010",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4145368030917795,
+        "addresstype": "village",
+        "name": "Niederweningen",
+        "display_name": "Niederweningen, Bezirk Dielsdorf, Zürich, 8166, Schweiz",
+        "address": {
+            "village": "Niederweningen",
+            "county": "Bezirk Dielsdorf",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8166",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4808560",
+            "47.5288719",
+            "8.3576934",
+            "8.3921081"
+        ]
+    }
+]

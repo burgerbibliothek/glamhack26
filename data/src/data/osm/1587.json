@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 70951398,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1342675535,
+        "lat": "47.7506228",
+        "lon": "10.0821814",
+        "category": "natural",
+        "type": "gorge",
+        "place_rank": 22,
+        "importance": 0.10672318074311433,
+        "addresstype": "gorge",
+        "name": "Mühletal",
+        "display_name": "Mühletal, Ellmeney-Friesenhofen, Friesenhofen, Leutkirch im Allgäu, VVG der Stadt Leutkirch im Allgäu, Landkreis Ravensburg, Baden-Württemberg, 88299, Deutschland",
+        "address": {
+            "gorge": "Mühletal",
+            "hamlet": "Ellmeney-Friesenhofen",
+            "village": "Friesenhofen",
+            "city": "Leutkirch im Allgäu",
+            "municipality": "VVG der Stadt Leutkirch im Allgäu",
+            "county": "Landkreis Ravensburg",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "88299",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.7480826",
+            "47.7527170",
+            "10.0740315",
+            "10.0904670"
+        ]
+    }
+]

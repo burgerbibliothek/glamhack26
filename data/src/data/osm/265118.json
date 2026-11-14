@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91306886,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 14779881,
+        "lat": "46.0718065",
+        "lon": "7.8978266",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.402945750627893,
+        "addresstype": "glacier",
+        "name": "Feegletscher",
+        "display_name": "Feegletscher, Saas-Fee, Visp, Oberwallis, Wallis, 3906, Schweiz",
+        "address": {
+            "glacier": "Feegletscher",
+            "village": "Saas-Fee",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3906",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0444465",
+            "46.0991467",
+            "7.8612692",
+            "7.9175992"
+        ]
+    }
+]

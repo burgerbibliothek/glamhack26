@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91614713,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684981,
+        "lat": "46.4786555",
+        "lon": "6.3747532",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4491022588632987,
+        "addresstype": "village",
+        "name": "Féchy",
+        "display_name": "Féchy, District de Morges, Waadt, 1173, Schweiz",
+        "address": {
+            "village": "Féchy",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1173",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4665349",
+            "46.4919400",
+            "6.3605463",
+            "6.3872826"
+        ]
+    }
+]

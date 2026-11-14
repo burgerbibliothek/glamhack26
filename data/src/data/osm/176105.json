@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91611419,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 13623865,
+        "lat": "46.4835731",
+        "lon": "6.9141039",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3966620202275504,
+        "addresstype": "city",
+        "name": "Blonay - Saint-Légier",
+        "display_name": "Blonay - Saint-Légier, Bezirk Riviera-Pays-d'Enhaut, Waadt, Schweiz",
+        "address": {
+            "city": "Blonay - Saint-Légier",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4537812",
+            "46.5133023",
+            "6.8530526",
+            "6.9813191"
+        ]
+    }
+]

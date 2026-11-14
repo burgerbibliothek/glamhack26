@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73380224,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 285070,
+        "lat": "46.5099266",
+        "lon": "8.1277674",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.42316500223065584,
+        "addresstype": "glacier",
+        "name": "Fieschergletscher",
+        "display_name": "Fieschergletscher, Fieschertal, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "glacier": "Fieschergletscher",
+            "village": "Fieschertal",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4647328",
+            "46.5550893",
+            "8.0610316",
+            "8.1526057"
+        ]
+    }
+]

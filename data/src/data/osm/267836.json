@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73673135,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684756,
+        "lat": "45.9998346",
+        "lon": "8.8189400",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.38656660986684044,
+        "addresstype": "village",
+        "name": "Sessa",
+        "display_name": "Sessa, Tresa, Kreis Sessa, Bezirk Lugano, Tessin, 6997, Schweiz",
+        "address": {
+            "village": "Sessa",
+            "city": "Tresa",
+            "municipality": "Kreis Sessa",
+            "county": "Bezirk Lugano",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6997",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9942680",
+            "46.0122251",
+            "8.7930889",
+            "8.8325391"
+        ]
+    }
+]

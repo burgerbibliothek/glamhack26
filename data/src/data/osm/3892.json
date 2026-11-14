@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 136575349,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 232771988,
+        "lat": "50.9661156",
+        "lon": "11.3432485",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.124055848015591e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "16, Mittelstraße, Oberweimar, Weimar, Thüringen, 99425, Deutschland",
+        "address": {
+            "house_number": "16",
+            "road": "Mittelstraße",
+            "suburb": "Oberweimar",
+            "town": "Weimar",
+            "state": "Thüringen",
+            "ISO3166-2-lvl4": "DE-TH",
+            "postcode": "99425",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9660276",
+            "50.9661999",
+            "11.3430873",
+            "11.3434093"
+        ]
+    }
+]

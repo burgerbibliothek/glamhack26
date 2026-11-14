@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92234206,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 646466161,
+        "lat": "46.9463464",
+        "lon": "7.4498418",
+        "category": "highway",
+        "type": "footway",
+        "place_rank": 27,
+        "importance": 0.04007734264133668,
+        "addresstype": "road",
+        "name": "Fricktreppe",
+        "display_name": "Fricktreppe, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3000, Schweiz",
+        "address": {
+            "road": "Fricktreppe",
+            "quarter": "Altstadt",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9463284",
+            "46.9463643",
+            "7.4498238",
+            "7.4498598"
+        ]
+    }
+]

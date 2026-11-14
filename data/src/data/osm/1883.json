@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91683018,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1372212711,
+        "lat": "46.4788062",
+        "lon": "7.8482120",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44847952326013507,
+        "addresstype": "peak",
+        "name": "Tschingelhorn",
+        "display_name": "Tschingelhorn, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "peak": "Tschingelhorn",
+            "village": "Lauterbrunnen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4787562",
+            "46.4788562",
+            "7.8481620",
+            "7.8482620"
+        ]
+    }
+]

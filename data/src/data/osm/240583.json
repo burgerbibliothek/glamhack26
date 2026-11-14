@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 117119511,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3926712573,
+        "lat": "50.6501457",
+        "lon": "6.3249263",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16004931181811244,
+        "addresstype": "peak",
+        "name": "Menzberg",
+        "display_name": "Menzberg, Simmerath, Städteregion Aachen, Nordrhein-Westfalen, 52152, Deutschland",
+        "address": {
+            "peak": "Menzberg",
+            "town": "Simmerath",
+            "county": "Städteregion Aachen",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "52152",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.6500957",
+            "50.6501957",
+            "6.3248763",
+            "6.3249763"
+        ]
+    }
+]

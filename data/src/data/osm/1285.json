@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 235989544,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 448933579,
+        "lat": "16.5247526",
+        "lon": "111.7679471",
+        "category": "natural",
+        "type": "water",
+        "place_rank": 22,
+        "importance": 0.44167203841737057,
+        "addresstype": "water",
+        "name": "Drachenloch",
+        "display_name": "Drachenloch, 晋卿社区, 永乐群岛管理委员会, Xisha District, Sansha, Hainan, China",
+        "address": {
+            "water": "Drachenloch",
+            "neighbourhood": "晋卿社区",
+            "suburb": "永乐群岛管理委员会",
+            "county": "Xisha District",
+            "city": "Sansha",
+            "state": "Hainan",
+            "ISO3166-2-lvl4": "CN-HI",
+            "country": "China",
+            "country_code": "cn"
+        },
+        "boundingbox": [
+            "16.5240871",
+            "16.5254508",
+            "111.7674157",
+            "111.7685332"
+        ]
+    }
+]

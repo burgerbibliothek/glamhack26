@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92730749,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240114144,
+        "lat": "47.4122188",
+        "lon": "7.2119036",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.311877314681546,
+        "addresstype": "village",
+        "name": "Pleujouse",
+        "display_name": "Pleujouse, La Baroche, Bezirk Porrentruy, Jura, 2953, Schweiz",
+        "address": {
+            "village": "Pleujouse",
+            "city": "La Baroche",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2953",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3922188",
+            "47.4322188",
+            "7.1919036",
+            "7.2319036"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 277187944,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 297233,
+        "lat": "53.0942370",
+        "lon": "-3.8251255",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.41215939017041997,
+        "addresstype": "suburb",
+        "name": "Betws-y-coed",
+        "display_name": "Betws-y-coed, Conwy County Borough, Wales, Vereinigtes Königreich",
+        "address": {
+            "suburb": "Betws-y-coed",
+            "village": "Betws-y-coed",
+            "county": "Conwy County Borough",
+            "ISO3166-2-lvl6": "GB-CWY",
+            "state": "Wales",
+            "ISO3166-2-lvl4": "GB-WLS",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "53.0652761",
+            "53.1231914",
+            "-3.8545692",
+            "-3.7868792"
+        ]
+    }
+]

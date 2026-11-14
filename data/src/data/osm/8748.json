@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 423436367,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683724,
+        "lat": "47.4171143",
+        "lon": "7.9063676",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3980280368594564,
+        "addresstype": "village",
+        "name": "Zeglingen",
+        "display_name": "Zeglingen, Bezirk Sissach, Basel-Landschaft, 4495, Schweiz",
+        "address": {
+            "village": "Zeglingen",
+            "county": "Bezirk Sissach",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4495",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3985227",
+            "47.4248202",
+            "7.8821178",
+            "7.9420747"
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 89187982,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 190311961,
+        "lat": "45.5493580",
+        "lon": "6.5025432",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 5.9181353475196726e-05,
+        "addresstype": "amenity",
+        "name": "Église Saint-Pierre",
+        "display_name": "Église Saint-Pierre, Route sous Villaz, Fontaines, Nâves, La Léchère, Albertville, Savoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 73260, Frankreich",
+        "address": {
+            "amenity": "Église Saint-Pierre",
+            "road": "Route sous Villaz",
+            "hamlet": "Fontaines",
+            "city_district": "Nâves",
+            "city": "La Léchère",
+            "municipality": "Albertville",
+            "county": "Savoyen",
+            "ISO3166-2-lvl6": "FR-73",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "73260",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.5492470",
+            "45.5494840",
+            "6.5023800",
+            "6.5028300"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92289578,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6037884622,
+        "lat": "46.6522608",
+        "lon": "7.9111731",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.32592895108882386,
+        "addresstype": "railway",
+        "name": "Schynige Platte",
+        "display_name": "Schynige Platte, Faulhornweg, Gündlischwand, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3815, Schweiz",
+        "address": {
+            "railway": "Schynige Platte",
+            "road": "Faulhornweg",
+            "village": "Gündlischwand",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3815",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6472608",
+            "46.6572608",
+            "7.9061731",
+            "7.9161731"
+        ]
+    }
+]

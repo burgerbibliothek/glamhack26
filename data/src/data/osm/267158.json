@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92595800,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685030,
+        "lat": "46.7407875",
+        "lon": "6.4559997",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4504652744324435,
+        "addresstype": "village",
+        "name": "Lignerolle",
+        "display_name": "Lignerolle, District du Jura-Nord vaudois, Waadt, 1357, Schweiz",
+        "address": {
+            "village": "Lignerolle",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1357",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7288635",
+            "46.7670984",
+            "6.4171132",
+            "6.4774254"
+        ]
+    }
+]

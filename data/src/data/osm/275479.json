@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72607204,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2273393817,
+        "lat": "47.1951141",
+        "lon": "8.2940812",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.18157831638402872,
+        "addresstype": "village",
+        "name": "Kleinwangen",
+        "display_name": "Kleinwangen, Hohenrain, Luzern, 6277, Schweiz",
+        "address": {
+            "village": "Kleinwangen",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6277",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1751141",
+            "47.2151141",
+            "8.2740812",
+            "8.3140812"
+        ]
+    }
+]

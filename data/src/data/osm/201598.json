@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92139202,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2205221,
+        "lat": "46.7714712",
+        "lon": "6.9045048",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.4585153154700323,
+        "addresstype": "river",
+        "name": "La Broye",
+        "display_name": "La Broye, District de la Broye-Vully, Waadt, Schweiz",
+        "address": {
+            "river": "La Broye",
+            "county": "District de la Broye-Vully",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5298006",
+            "46.9969180",
+            "6.7878346",
+            "7.1188414"
+        ]
+    }
+]

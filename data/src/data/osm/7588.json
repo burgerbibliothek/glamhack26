@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 130840561,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1599462420,
+        "lat": "49.5416477",
+        "lon": "13.2814485",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.16273786379520622,
+        "addresstype": "village",
+        "name": "Langwiesen",
+        "display_name": "Langwiesen, Luschan, Bezirk Pilsen-Süd, Pilsner Region, 334 53, Tschechien",
+        "address": {
+            "village": "Langwiesen",
+            "district": "Bezirk Pilsen-Süd",
+            "ISO3166-2-lvl5": "CZ-324",
+            "state": "Pilsner Region",
+            "ISO3166-2-lvl4": "CZ-32",
+            "postcode": "334 53",
+            "country": "Tschechien",
+            "country_code": "cz"
+        },
+        "boundingbox": [
+            "49.5216477",
+            "49.5616477",
+            "13.2614485",
+            "13.3014485"
+        ]
+    }
+]

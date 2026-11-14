@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 93806685,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682520,
+        "lat": "47.1906648",
+        "lon": "7.2255703",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.37397891556421264,
+        "addresstype": "village",
+        "name": "La Heutte",
+        "display_name": "La Heutte, Péry-La Heutte, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2604, Schweiz",
+        "address": {
+            "village": "La Heutte",
+            "city": "Péry-La Heutte",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2604",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1734444",
+            "47.2078966",
+            "7.1984962",
+            "7.2376862"
+        ]
+    }
+]

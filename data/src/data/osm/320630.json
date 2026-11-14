@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 74028521,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9493950546,
+        "lat": "46.7188006",
+        "lon": "8.1678163",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337083466849772,
+        "addresstype": "hamlet",
+        "name": "Falcheren",
+        "display_name": "Falcheren, Schattenhalb, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3860, Schweiz",
+        "address": {
+            "hamlet": "Falcheren",
+            "village": "Schattenhalb",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3860",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6988006",
+            "46.7388006",
+            "8.1478163",
+            "8.1878163"
+        ]
+    }
+]

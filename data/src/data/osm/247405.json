@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92234758,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 95740810,
+        "lat": "46.9460450",
+        "lon": "7.4409936",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Kleine Schanze",
+        "display_name": "Kleine Schanze, 7, Bundesgasse, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "amenity": "Kleine Schanze",
+            "house_number": "7",
+            "road": "Bundesgasse",
+            "quarter": "Rotes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9458890",
+            "46.9461057",
+            "7.4409370",
+            "7.4410609"
+        ]
+    }
+]

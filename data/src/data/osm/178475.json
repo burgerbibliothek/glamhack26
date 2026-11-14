@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73426410,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11241839536,
+        "lat": "46.6932854",
+        "lon": "8.1787021",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 3.750133516437045e-05,
+        "addresstype": "information",
+        "name": "Gross Rychenbach",
+        "display_name": "Gross Rychenbach, Scheideggstrasse, Schattenhalb, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3860, Schweiz",
+        "address": {
+            "information": "Gross Rychenbach",
+            "road": "Scheideggstrasse",
+            "village": "Schattenhalb",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3860",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6932354",
+            "46.6933354",
+            "8.1786521",
+            "8.1787521"
+        ]
+    }
+]

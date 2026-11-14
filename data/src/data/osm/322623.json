@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92339222,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 703577603,
+        "lat": "46.9411865",
+        "lon": "7.4190704",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "67, Könizstrasse, Mattenhof, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3008, Schweiz",
+        "address": {
+            "house_number": "67",
+            "road": "Könizstrasse",
+            "quarter": "Mattenhof",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3008",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9411365",
+            "46.9412365",
+            "7.4190204",
+            "7.4191204"
+        ]
+    }
+]

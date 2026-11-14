@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 6618900,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 265623932,
+        "lat": "-24.2504350",
+        "lon": "-55.8274688",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671166781109327,
+        "addresstype": "village",
+        "name": "Blumenhof",
+        "display_name": "Blumenhof, Nueva Durango, Curuguaty, Canindeyú, Región Oriental, Paraguay",
+        "address": {
+            "village": "Blumenhof",
+            "town": "Curuguaty",
+            "state": "Canindeyú",
+            "ISO3166-2-lvl4": "PY-14",
+            "region": "Región Oriental",
+            "country": "Paraguay",
+            "country_code": "py"
+        },
+        "boundingbox": [
+            "-24.2591429",
+            "-24.2452305",
+            "-55.8294004",
+            "-55.8243766"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 79974970,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684648,
+        "lat": "46.0673692",
+        "lon": "8.9714894",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44476072109127485,
+        "addresstype": "village",
+        "name": "Capriasca",
+        "display_name": "Capriasca, Kreis Capriasca, Bezirk Lugano, Tessin, Schweiz",
+        "address": {
+            "village": "Capriasca",
+            "municipality": "Kreis Capriasca",
+            "county": "Bezirk Lugano",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0457522",
+            "46.1310324",
+            "8.9329687",
+            "9.0523547"
+        ]
+    }
+]

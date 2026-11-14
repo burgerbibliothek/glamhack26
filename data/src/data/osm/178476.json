@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 138314087,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 470572582,
+        "lat": "50.2024765",
+        "lon": "8.4662980",
+        "category": "leisure",
+        "type": "nature_reserve",
+        "place_rank": 24,
+        "importance": 0.08005662088960094,
+        "addresstype": "nature_reserve",
+        "name": "Reichenbachtal",
+        "display_name": "Reichenbachtal, Falkenstein, Königstein, Königstein im Taunus, Hochtaunuskreis, Hessen, Deutschland",
+        "address": {
+            "nature_reserve": "Reichenbachtal",
+            "suburb": "Falkenstein",
+            "town": "Königstein",
+            "municipality": "Königstein im Taunus",
+            "county": "Hochtaunuskreis",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.1969542",
+            "50.2079883",
+            "8.4586009",
+            "8.4705159"
+        ]
+    }
+]

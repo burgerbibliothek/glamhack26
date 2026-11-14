@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91175266,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684910,
+        "lat": "46.4245995",
+        "lon": "6.2359205",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4360366997377273,
+        "addresstype": "village",
+        "name": "Coinsins",
+        "display_name": "Coinsins, District de Nyon, Waadt, 1267, Schweiz",
+        "address": {
+            "village": "Coinsins",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1267",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4152952",
+            "46.4340818",
+            "6.2234695",
+            "6.2514931"
+        ]
+    }
+]

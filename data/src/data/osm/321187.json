@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 121399611,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 97237998,
+        "lat": "48.1267711",
+        "lon": "8.3327396",
+        "category": "shop",
+        "type": "mobile_phone",
+        "place_rank": 30,
+        "importance": 5.254367895013378e-05,
+        "addresstype": "shop",
+        "name": "N&N Connect",
+        "display_name": "N&N Connect, 13, Bärenplatz, Winterberg, St. Georgen-Stadt, St. Georgen im Schwarzwald, Schwarzwald-Baar-Kreis, Baden-Württemberg, 78112, Deutschland",
+        "address": {
+            "shop": "N&N Connect",
+            "house_number": "13",
+            "road": "Bärenplatz",
+            "quarter": "Winterberg",
+            "suburb": "St. Georgen-Stadt",
+            "town": "St. Georgen im Schwarzwald",
+            "county": "Schwarzwald-Baar-Kreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "78112",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1266671",
+            "48.1268301",
+            "8.3326591",
+            "8.3328171"
+        ]
+    }
+]

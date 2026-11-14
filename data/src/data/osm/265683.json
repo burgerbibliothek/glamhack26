@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92130218,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12612863499,
+        "lat": "47.0268003",
+        "lon": "7.7102593",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671478217746242,
+        "addresstype": "locality",
+        "name": "Schreibershub",
+        "display_name": "Schreibershub, Schaufelbühl, Lützelflüh, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3452, Schweiz",
+        "address": {
+            "locality": "Schreibershub",
+            "hamlet": "Schaufelbühl",
+            "village": "Lützelflüh",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3452",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0168003",
+            "47.0368003",
+            "7.7002593",
+            "7.7202593"
+        ]
+    }
+]

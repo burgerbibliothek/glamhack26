@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 146179821,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3056520862,
+        "lat": "52.4960147",
+        "lon": "13.3128672",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "11, Zähringerstraße, Fasanenkiez, Wilmersdorf, Charlottenburg-Wilmersdorf, Berlin, 10707, Deutschland",
+        "address": {
+            "house_number": "11",
+            "road": "Zähringerstraße",
+            "quarter": "Fasanenkiez",
+            "suburb": "Wilmersdorf",
+            "borough": "Charlottenburg-Wilmersdorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10707",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4959647",
+            "52.4960647",
+            "13.3128172",
+            "13.3129172"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 119475009,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 799394495,
+        "lat": "50.3385513",
+        "lon": "6.9535630",
+        "category": "highway",
+        "type": "raceway",
+        "place_rank": 30,
+        "importance": 0.6469198956238403,
+        "addresstype": "highway",
+        "name": "Hohenrain",
+        "display_name": "Hohenrain, Neuhausstraße, Nürburg, Adenau, Landkreis Ahrweiler, Rheinland-Pfalz, 53520, Deutschland",
+        "address": {
+            "highway": "Hohenrain",
+            "road": "Neuhausstraße",
+            "village": "Nürburg",
+            "municipality": "Adenau",
+            "county": "Landkreis Ahrweiler",
+            "state": "Rheinland-Pfalz",
+            "ISO3166-2-lvl4": "DE-RP",
+            "postcode": "53520",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.3378554",
+            "50.3399202",
+            "6.9515089",
+            "6.9554198"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71431673,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684544,
+        "lat": "47.6019587",
+        "lon": "9.0020119",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4000978874196021,
+        "addresstype": "village",
+        "name": "Müllheim",
+        "display_name": "Müllheim, Bezirk Frauenfeld, Thurgau, 8555, Schweiz",
+        "address": {
+            "village": "Müllheim",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8555",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5813900",
+            "47.6204561",
+            "8.9820390",
+            "9.0291768"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 70651943,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1580312091,
+        "lat": "47.3238310",
+        "lon": "10.0793490",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.2024340213354661,
+        "addresstype": "peak",
+        "name": "Grünhorn",
+        "display_name": "Grünhorn, Mittelberg, Bezirk Bregenz, Vorarlberg, 6993, Österreich",
+        "address": {
+            "peak": "Grünhorn",
+            "city": "Mittelberg",
+            "county": "Bezirk Bregenz",
+            "state": "Vorarlberg",
+            "ISO3166-2-lvl4": "AT-8",
+            "postcode": "6993",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.3237810",
+            "47.3238810",
+            "10.0792990",
+            "10.0793990"
+        ]
+    }
+]

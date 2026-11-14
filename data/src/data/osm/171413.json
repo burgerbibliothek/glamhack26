@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92507533,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5137617912,
+        "lat": "47.0566109",
+        "lon": "7.0663071",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.2791651820367976,
+        "addresstype": "railway",
+        "name": "Landern",
+        "display_name": "Landern, Rue du Centre, Nugerol, Le Landeron, Région Littoral, Neuenburg, 2525, Schweiz",
+        "address": {
+            "railway": "Landern",
+            "road": "Rue du Centre",
+            "hamlet": "Nugerol",
+            "village": "Le Landeron",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2525",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0516109",
+            "47.0616109",
+            "7.0613071",
+            "7.0713071"
+        ]
+    }
+]

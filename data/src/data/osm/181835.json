@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92118876,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1721581640,
+        "lat": "47.3721858",
+        "lon": "6.8971653",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3090170114439377,
+        "addresstype": "village",
+        "name": "Damvant",
+        "display_name": "Damvant, Haute-Ajoie, Bezirk Porrentruy, Jura, 2914, Schweiz",
+        "address": {
+            "village": "Damvant",
+            "city": "Haute-Ajoie",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2914",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3521858",
+            "47.3921858",
+            "6.8771653",
+            "6.9171653"
+        ]
+    }
+]

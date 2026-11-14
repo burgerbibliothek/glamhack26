@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92439624,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684921,
+        "lat": "46.8331849",
+        "lon": "6.9614432",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41203822356019554,
+        "addresstype": "village",
+        "name": "Corcelles-près-Payerne",
+        "display_name": "Corcelles-près-Payerne, District de la Broye-Vully, Waadt, 1562, Schweiz",
+        "address": {
+            "village": "Corcelles-près-Payerne",
+            "county": "District de la Broye-Vully",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1562",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8192961",
+            "46.8687923",
+            "6.9433957",
+            "6.9928340"
+        ]
+    }
+]

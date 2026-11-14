@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73764093,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684616,
+        "lat": "46.2092397",
+        "lon": "9.0687580",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3668857539234569,
+        "addresstype": "city",
+        "name": "Arbedo-Castione",
+        "display_name": "Arbedo-Castione, Kreis Arbedo-Castione, Bezirk Bellinzona, Tessin, 6517, Schweiz",
+        "address": {
+            "city": "Arbedo-Castione",
+            "municipality": "Kreis Arbedo-Castione",
+            "county": "Bezirk Bellinzona",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6517",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1769435",
+            "46.2416123",
+            "9.0294394",
+            "9.1393522"
+        ]
+    }
+]

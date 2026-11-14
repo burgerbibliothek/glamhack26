@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72039024,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 259444455,
+        "lat": "47.2501171",
+        "lon": "8.7581010",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 5.476997024486179e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "24, Blumenbergstrasse, Blumenberg, Wigarten, Hombrechtikon, Bezirk Meilen, Zürich, 8634, Schweiz",
+        "address": {
+            "house_number": "24",
+            "road": "Blumenbergstrasse",
+            "residential": "Blumenberg",
+            "hamlet": "Wigarten",
+            "village": "Hombrechtikon",
+            "county": "Bezirk Meilen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8634",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2500575",
+            "47.2501882",
+            "8.7579937",
+            "8.7582341"
+        ]
+    }
+]

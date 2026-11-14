@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91304192,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 142617061,
+        "lat": "46.2434402",
+        "lon": "6.1465109",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.4599313821877867,
+        "addresstype": "village",
+        "name": "Chambésy",
+        "display_name": "Chambésy, Pregny-Chambésy, Genf, 1292, Schweiz",
+        "address": {
+            "village": "Chambésy",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "postcode": "1292",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2234402",
+            "46.2634402",
+            "6.1265109",
+            "6.1665109"
+        ]
+    }
+]

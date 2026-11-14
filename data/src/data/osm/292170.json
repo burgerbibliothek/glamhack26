@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71696816,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 132328272,
+        "lat": "47.5305542",
+        "lon": "8.5553301",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338719386587317,
+        "addresstype": "hamlet",
+        "name": "Nussbaumen",
+        "display_name": "Nussbaumen, Bülach, Bezirk Bülach, Zürich, 8180, Schweiz",
+        "address": {
+            "hamlet": "Nussbaumen",
+            "town": "Bülach",
+            "county": "Bezirk Bülach",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8180",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5105542",
+            "47.5505542",
+            "8.5353301",
+            "8.5753301"
+        ]
+    }
+]

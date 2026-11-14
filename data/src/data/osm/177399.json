@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91904851,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 17935302,
+        "lat": "46.6321282",
+        "lon": "7.9988370",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.16004934386205844,
+        "addresstype": "river",
+        "name": "Schwarze Lütschine",
+        "display_name": "Schwarze Lütschine, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3818, Schweiz",
+        "address": {
+            "river": "Schwarze Lütschine",
+            "village": "Grindelwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3818",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6188384",
+            "46.6377997",
+            "7.8981845",
+            "8.0908460"
+        ]
+    }
+]

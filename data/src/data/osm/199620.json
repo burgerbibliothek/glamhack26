@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 159306827,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4480764893,
+        "lat": "58.4715250",
+        "lon": "7.7894644",
+        "category": "place",
+        "type": "farm",
+        "place_rank": 22,
+        "importance": 0.10671673685816736,
+        "addresstype": "farm",
+        "name": "Reiet",
+        "display_name": "Reiet, Vestre Hodne, Evje og Hornnes, Agder, Norwegen",
+        "address": {
+            "farm": "Reiet",
+            "hamlet": "Vestre Hodne",
+            "municipality": "Evje og Hornnes",
+            "county": "Agder",
+            "ISO3166-2-lvl4": "NO-42",
+            "country": "Norwegen",
+            "country_code": "no"
+        },
+        "boundingbox": [
+            "58.4615250",
+            "58.4815250",
+            "7.7794644",
+            "7.7994644"
+        ]
+    }
+]

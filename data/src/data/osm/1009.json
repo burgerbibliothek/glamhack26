@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 51577534,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3726175,
+        "lat": "28.2125404",
+        "lon": "30.9123741",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.5214628559760609,
+        "addresstype": "state",
+        "name": "Al Minya",
+        "display_name": "Al Minya, Ägypten",
+        "address": {
+            "state": "Al Minya",
+            "ISO3166-2-lvl4": "EG-MN",
+            "country": "Ägypten",
+            "country_code": "eg"
+        },
+        "boundingbox": [
+            "27.6182248",
+            "28.8026312",
+            "28.6250620",
+            "32.6539287"
+        ]
+    }
+]

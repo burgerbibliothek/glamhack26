@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72994288,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683089,
+        "lat": "47.0323208",
+        "lon": "8.5848711",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3763219162544729,
+        "addresstype": "village",
+        "name": "Lauerz",
+        "display_name": "Lauerz, Schwyz, 6424, Schweiz",
+        "address": {
+            "village": "Lauerz",
+            "county": "Schwyz",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "6424",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0099757",
+            "47.0460536",
+            "8.5495795",
+            "8.6080884"
+        ]
+    }
+]

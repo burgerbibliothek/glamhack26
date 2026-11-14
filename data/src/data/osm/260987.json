@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 88621612,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685351,
+        "lat": "46.0300676",
+        "lon": "7.1453627",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4299627096914104,
+        "addresstype": "village",
+        "name": "Orsières",
+        "display_name": "Orsières, Entremont, Unterwallis, Wallis, Schweiz",
+        "address": {
+            "village": "Orsières",
+            "county": "Entremont",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.8581851",
+            "46.0603877",
+            "7.0084897",
+            "7.2013601"
+        ]
+    }
+]

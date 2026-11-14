@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 135428177,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 436229584,
+        "lat": "51.3790835",
+        "lon": "12.4496784",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.936293583576742e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "46, Balderstraße, Erla-Siedlung, Portitzmühle, Nordost, Leipzig, Sachsen, 04349, Deutschland",
+        "address": {
+            "house_number": "46",
+            "road": "Balderstraße",
+            "neighbourhood": "Erla-Siedlung",
+            "hamlet": "Portitzmühle",
+            "city_district": "Nordost",
+            "city": "Leipzig",
+            "state": "Sachsen",
+            "ISO3166-2-lvl4": "DE-SN",
+            "postcode": "04349",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.3790388",
+            "51.3791282",
+            "12.4496127",
+            "12.4497442"
+        ]
+    }
+]

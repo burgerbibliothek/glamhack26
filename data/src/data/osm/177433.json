@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 88467276,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 519981791,
+        "lat": "45.9549882",
+        "lon": "7.7252808",
+        "category": "aerialway",
+        "type": "gondola",
+        "place_rank": 30,
+        "importance": 5.1121538109361676e-05,
+        "addresstype": "aerialway",
+        "name": "Trockener Steg - Klein Matterhorn Glacier Ride",
+        "display_name": "Trockener Steg - Klein Matterhorn Glacier Ride, Matterhorn Glacier Paradise, Zermatt, Visp, Oberwallis, Wallis, 3920, Schweiz",
+        "address": {
+            "aerialway": "Trockener Steg - Klein Matterhorn Glacier Ride",
+            "road": "Matterhorn Glacier Paradise",
+            "town": "Zermatt",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3920",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9384214",
+            "45.9715549",
+            "7.7213653",
+            "7.7291957"
+        ]
+    }
+]

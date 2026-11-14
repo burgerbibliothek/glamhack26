@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 73428053,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2013131,
+        "lat": "46.5877411",
+        "lon": "9.6611683",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.4279964416054688,
+        "addresstype": "county",
+        "name": "Albula",
+        "display_name": "Albula, Graubünden, Schweiz",
+        "address": {
+            "county": "Albula",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4045447",
+            "46.7709567",
+            "9.4886606",
+            "9.8879336"
+        ]
+    }
+]

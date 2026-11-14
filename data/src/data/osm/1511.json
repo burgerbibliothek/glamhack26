@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72740375,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 20055,
+        "lat": "47.0367874",
+        "lon": "8.5953843",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.3626429788867404,
+        "addresstype": "lake",
+        "name": "Lauerzersee",
+        "display_name": "Lauerzersee, Steinen, Schwyz, 6422, Schweiz",
+        "address": {
+            "lake": "Lauerzersee",
+            "village": "Steinen",
+            "county": "Schwyz",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "6422",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0261753",
+            "47.0474619",
+            "8.5837150",
+            "8.6257053"
+        ]
+    }
+]

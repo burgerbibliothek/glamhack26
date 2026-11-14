@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73630983,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683110,
+        "lat": "46.9493360",
+        "lon": "8.6211018",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3992188066482103,
+        "addresstype": "village",
+        "name": "Sisikon",
+        "display_name": "Sisikon, Uri, 6452, Schweiz",
+        "address": {
+            "village": "Sisikon",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6452",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9145803",
+            "46.9527300",
+            "8.5953705",
+            "8.7077728"
+        ]
+    }
+]

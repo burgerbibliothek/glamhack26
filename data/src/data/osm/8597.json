@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 91335946,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685542,
+        "lat": "46.1668163",
+        "lon": "6.1856810",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.46323221194845293,
+        "addresstype": "village",
+        "name": "Veyrier",
+        "display_name": "Veyrier, Genf, Schweiz",
+        "address": {
+            "village": "Veyrier",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1583835",
+            "46.1881794",
+            "6.1389331",
+            "6.1887762"
+        ]
+    }
+]

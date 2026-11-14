@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 98650789,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683305,
+        "lat": "46.6199886",
+        "lon": "7.1408240",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38231608517972687,
+        "addresstype": "village",
+        "name": "Crésuz",
+        "display_name": "Crésuz, Greyerzbezirk, Freiburg, 1653, Schweiz",
+        "address": {
+            "village": "Crésuz",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1653",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6117041",
+            "46.6302476",
+            "7.1310357",
+            "7.1530319"
+        ]
+    }
+]

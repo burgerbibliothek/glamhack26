@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72968964,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 28829836,
+        "lat": "47.2682729",
+        "lon": "9.4007692",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.2885983973306146,
+        "addresstype": "lake",
+        "name": "Seealpsee",
+        "display_name": "Seealpsee, Spitzigstein, Schwende-Rüte, Appenzell Innerrhoden, Schweiz",
+        "address": {
+            "lake": "Seealpsee",
+            "hamlet": "Spitzigstein",
+            "city": "Schwende-Rüte",
+            "state": "Appenzell Innerrhoden",
+            "ISO3166-2-lvl4": "CH-AI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2664122",
+            "47.2700934",
+            "9.3961478",
+            "9.4062138"
+        ]
+    }
+]

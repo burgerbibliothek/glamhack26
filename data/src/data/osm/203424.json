@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72650669,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12365098858,
+        "lat": "47.3290452",
+        "lon": "8.2761861",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671346990157931,
+        "addresstype": "locality",
+        "name": "Welschland",
+        "display_name": "Welschland, Büttikon, Bezirk Bremgarten, Aargau, 5619, Schweiz",
+        "address": {
+            "locality": "Welschland",
+            "village": "Büttikon",
+            "county": "Bezirk Bremgarten",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5619",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3190452",
+            "47.3390452",
+            "8.2661861",
+            "8.2861861"
+        ]
+    }
+]

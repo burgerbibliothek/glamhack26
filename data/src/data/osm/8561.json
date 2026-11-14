@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91784211,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 190666335,
+        "lat": "46.9603957",
+        "lon": "7.5657955",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337758220798046,
+        "addresstype": "hamlet",
+        "name": "Utzigen",
+        "display_name": "Utzigen, Vechigen Dorf, Vechigen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3068, Schweiz",
+        "address": {
+            "hamlet": "Utzigen",
+            "village": "Vechigen Dorf",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3068",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9403957",
+            "46.9803957",
+            "7.5457955",
+            "7.5857955"
+        ]
+    }
+]

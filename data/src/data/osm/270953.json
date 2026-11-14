@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92150911,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683347,
+        "lat": "46.5894327",
+        "lon": "6.9213069",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3466613603637845,
+        "addresstype": "village",
+        "name": "La Verrerie",
+        "display_name": "La Verrerie, Vivisbachbezirk, Freiburg, Schweiz",
+        "address": {
+            "village": "La Verrerie",
+            "county": "Vivisbachbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5727024",
+            "46.6189564",
+            "6.8891488",
+            "6.9520769"
+        ]
+    }
+]

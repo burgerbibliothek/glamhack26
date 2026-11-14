@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 70483244,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 442148679,
+        "lat": "47.5938461",
+        "lon": "11.6763883",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005105134660866,
+        "addresstype": "peak",
+        "name": "Stacheleck",
+        "display_name": "Stacheleck, Kreuth, Landkreis Miesbach, Bayern, 83708, Deutschland",
+        "address": {
+            "peak": "Stacheleck",
+            "village": "Kreuth",
+            "county": "Landkreis Miesbach",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "83708",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.5937961",
+            "47.5938961",
+            "11.6763383",
+            "11.6764383"
+        ]
+    }
+]

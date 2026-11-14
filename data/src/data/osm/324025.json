@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 190144657,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2154866620,
+        "lat": "48.2167642",
+        "lon": "16.3510650",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "11, Spitalgasse, Alservorstadt, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich",
+        "address": {
+            "house_number": "11",
+            "road": "Spitalgasse",
+            "quarter": "Alservorstadt",
+            "neighbourhood": "Katastralgemeinde Alsergrund",
+            "suburb": "Alsergrund",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1090",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2167142",
+            "48.2168142",
+            "16.3510150",
+            "16.3511150"
+        ]
+    }
+]

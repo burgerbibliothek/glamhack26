@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 131332466,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 421941598,
+        "lat": "49.6035616",
+        "lon": "12.2864055",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.18157831638402872,
+        "addresstype": "village",
+        "name": "Lerau",
+        "display_name": "Lerau, Leuchtenberg, Tännesberg (VGem), Landkreis Neustadt an der Waldnaab, Bayern, 92705, Deutschland",
+        "address": {
+            "village": "Lerau",
+            "city": "Leuchtenberg",
+            "municipality": "Tännesberg (VGem)",
+            "county": "Landkreis Neustadt an der Waldnaab",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "92705",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.5835616",
+            "49.6235616",
+            "12.2664055",
+            "12.3064055"
+        ]
+    }
+]

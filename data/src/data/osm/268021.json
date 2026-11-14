@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91605998,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2680884141,
+        "lat": "46.2816022",
+        "lon": "7.8833800",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333776050965133,
+        "addresstype": "hamlet",
+        "name": "Wildi",
+        "display_name": "Wildi, Visperterminen, Visp, Oberwallis, Wallis, 3932, Schweiz",
+        "address": {
+            "hamlet": "Wildi",
+            "village": "Visperterminen",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3932",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2616022",
+            "46.3016022",
+            "7.8633800",
+            "7.9033800"
+        ]
+    }
+]

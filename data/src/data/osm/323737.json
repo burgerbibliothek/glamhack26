@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 131911597,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 129744410,
+        "lat": "49.0183085",
+        "lon": "12.0904716",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.224002441438952e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "2, Predigergasse, Altstadt, Regensburg, Bayern, 93047, Deutschland",
+        "address": {
+            "house_number": "2",
+            "road": "Predigergasse",
+            "suburb": "Altstadt",
+            "city": "Regensburg",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "93047",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.0182476",
+            "49.0183531",
+            "12.0903621",
+            "12.0905818"
+        ]
+    }
+]

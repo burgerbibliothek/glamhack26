@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 112373744,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1137587519,
+        "lat": "51.3184450",
+        "lon": "6.5371636",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.14673377965972376,
+        "addresstype": "suburb",
+        "name": "Lindental",
+        "display_name": "Lindental, Benrad, Krefeld-West, Krefeld, Nordrhein-Westfalen, 47804, Deutschland",
+        "address": {
+            "suburb": "Lindental",
+            "city_district": "Krefeld-West",
+            "city": "Krefeld",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "47804",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.2984450",
+            "51.3384450",
+            "6.5171636",
+            "6.5571636"
+        ]
+    }
+]

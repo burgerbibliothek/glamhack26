@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92500037,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682666,
+        "lat": "47.0325112",
+        "lon": "7.1882602",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4162648857824267,
+        "addresstype": "village",
+        "name": "Siselen",
+        "display_name": "Siselen, Seeland administrative district, Seeland administrative region, Bern, 2577, Schweiz",
+        "address": {
+            "village": "Siselen",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2577",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0155444",
+            "47.0462326",
+            "7.1796157",
+            "7.2151060"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92483642,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 364806819,
+        "lat": "47.0281732",
+        "lon": "7.3184664",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333726840619516,
+        "addresstype": "hamlet",
+        "name": "Baggwil",
+        "display_name": "Baggwil, Seedorf (BE), Seeland administrative district, Seeland administrative region, Bern, 3267, Schweiz",
+        "address": {
+            "hamlet": "Baggwil",
+            "village": "Seedorf (BE)",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3267",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0081732",
+            "47.0481732",
+            "7.2984664",
+            "7.3384664"
+        ]
+    }
+]

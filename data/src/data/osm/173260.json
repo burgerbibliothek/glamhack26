@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 289595569,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6117808996,
+        "lat": "46.5319525",
+        "lon": "-1.1728442",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339297398336764,
+        "addresstype": "hamlet",
+        "name": "Châtelard",
+        "display_name": "Châtelard, Bessay, Fontenay-le-Comte, Vendée, Pays de la Loire, Metropolitanes Frankreich, 85320, Frankreich",
+        "address": {
+            "hamlet": "Châtelard",
+            "village": "Bessay",
+            "municipality": "Fontenay-le-Comte",
+            "county": "Vendée",
+            "ISO3166-2-lvl6": "FR-85",
+            "state": "Pays de la Loire",
+            "ISO3166-2-lvl4": "FR-PDL",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "85320",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.5119525",
+            "46.5519525",
+            "-1.1928442",
+            "-1.1528442"
+        ]
+    }
+]

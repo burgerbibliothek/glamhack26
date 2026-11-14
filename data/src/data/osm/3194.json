@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92190659,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 485569962,
+        "lat": "46.9439659",
+        "lon": "7.4547631",
+        "category": "office",
+        "type": "diplomatic",
+        "place_rank": 30,
+        "importance": 0.13618373728802152,
+        "addresstype": "office",
+        "name": "Botschaft Malaysia",
+        "display_name": "Botschaft Malaysia, 1, Jungfraustrasse, Dalmazi, Gryphenhübeli, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3005, Schweiz",
+        "address": {
+            "office": "Botschaft Malaysia",
+            "house_number": "1",
+            "road": "Jungfraustrasse",
+            "quarter": "Dalmazi",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3005",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9439159",
+            "46.9440159",
+            "7.4547131",
+            "7.4548131"
+        ]
+    }
+]

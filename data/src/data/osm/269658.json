@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 94607430,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1170579,
+        "lat": "47.3943421",
+        "lon": "3.8956545",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.4265549189732791,
+        "addresstype": "river",
+        "name": "La Cure",
+        "display_name": "La Cure, Bourgogne-Franche-Comté, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "river": "La Cure",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.1069833",
+            "47.6759464",
+            "3.6883244",
+            "4.0941399"
+        ]
+    }
+]

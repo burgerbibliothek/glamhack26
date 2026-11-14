@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92045058,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685204,
+        "lat": "46.5730401",
+        "lon": "6.4816261",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44402070718209324,
+        "addresstype": "village",
+        "name": "Vullierens",
+        "display_name": "Vullierens, District de Morges, Waadt, 1115, Schweiz",
+        "address": {
+            "village": "Vullierens",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1115",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5540131",
+            "46.5895693",
+            "6.4600545",
+            "6.4974160"
+        ]
+    }
+]

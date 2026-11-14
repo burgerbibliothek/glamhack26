@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91987026,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685189,
+        "lat": "46.6569364",
+        "lon": "6.6387429",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4076496563503252,
+        "addresstype": "village",
+        "name": "Villars-le-Terroir",
+        "display_name": "Villars-le-Terroir, District du Gros-de-Vaud, Waadt, 1040, Schweiz",
+        "address": {
+            "village": "Villars-le-Terroir",
+            "county": "District du Gros-de-Vaud",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1040",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6463323",
+            "46.6831825",
+            "6.6185993",
+            "6.6686948"
+        ]
+    }
+]

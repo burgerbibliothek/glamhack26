@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73839656,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1244929527,
+        "lat": "46.6556659",
+        "lon": "8.1420130",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.22489365626900393,
+        "addresstype": "peak",
+        "name": "Wellhorn",
+        "display_name": "Wellhorn, Meiringen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "peak": "Wellhorn",
+            "village": "Meiringen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6556159",
+            "46.6557159",
+            "8.1419630",
+            "8.1420630"
+        ]
+    }
+]

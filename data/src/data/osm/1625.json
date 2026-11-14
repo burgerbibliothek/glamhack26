@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91655093,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1131666652,
+        "lat": "46.9725998",
+        "lon": "7.3924743",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337589608606087,
+        "addresstype": "hamlet",
+        "name": "Oberdettigen",
+        "display_name": "Oberdettigen, Hinterkappelen, Wohlen bei Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3032, Schweiz",
+        "address": {
+            "hamlet": "Oberdettigen",
+            "village": "Hinterkappelen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3032",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9525998",
+            "46.9925998",
+            "7.3724743",
+            "7.4124743"
+        ]
+    }
+]

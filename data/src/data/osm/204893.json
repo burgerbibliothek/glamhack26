@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73464591,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 252620155,
+        "lat": "46.7280297",
+        "lon": "9.5584408",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.5305832031518763,
+        "addresstype": "village",
+        "name": "Lenzerheide",
+        "display_name": "Lenzerheide, Vaz/Obervaz, Albula, Graubünden, 7078, Schweiz",
+        "address": {
+            "village": "Lenzerheide",
+            "city": "Vaz/Obervaz",
+            "county": "Albula",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7078",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7080297",
+            "46.7480297",
+            "9.5384408",
+            "9.5784408"
+        ]
+    }
+]

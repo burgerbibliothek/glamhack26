@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92061522,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9084199052,
+        "lat": "46.9484900",
+        "lon": "7.4553496",
+        "category": "information",
+        "type": "board",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "information",
+        "name": "Gerechtigkeitsgasse 7",
+        "display_name": "Gerechtigkeitsgasse 7, Gerechtigkeitsgasse, Weisses Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3000, Schweiz",
+        "address": {
+            "information": "Gerechtigkeitsgasse 7",
+            "road": "Gerechtigkeitsgasse",
+            "quarter": "Weisses Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9484400",
+            "46.9485400",
+            "7.4552996",
+            "7.4553996"
+        ]
+    }
+]

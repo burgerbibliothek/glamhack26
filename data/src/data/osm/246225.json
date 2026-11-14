@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 73456862,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683086,
+        "lat": "46.9008111",
+        "lon": "8.2753475",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3960456341796639,
+        "addresstype": "village",
+        "name": "Kerns",
+        "display_name": "Kerns, Obwalden, Schweiz",
+        "address": {
+            "village": "Kerns",
+            "state": "Obwalden",
+            "ISO3166-2-lvl4": "CH-OW",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7531690",
+            "46.9338862",
+            "8.2323304",
+            "8.3692437"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 55834822,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 161650096,
+        "lat": "37.9385413",
+        "lon": "22.9273768",
+        "category": "place",
+        "type": "city",
+        "place_rank": 16,
+        "importance": 0.6170556704752524,
+        "addresstype": "city",
+        "name": "Korinth",
+        "display_name": "Korinth, Municipal Unit of Corinth, Municipality of Corinth, Regionalbezirk Korinthia, Region Peloponnes, Peloponnes, Westgriechenland und Ionische Inseln, 201 00, Griechenland",
+        "address": {
+            "city": "Korinth",
+            "municipality": "Municipality of Corinth",
+            "county": "Regionalbezirk Korinthia",
+            "state": "Region Peloponnes",
+            "ISO3166-2-lvl5": "GR-J",
+            "postcode": "201 00",
+            "country": "Griechenland",
+            "country_code": "gr"
+        },
+        "boundingbox": [
+            "37.7785413",
+            "38.0985413",
+            "22.7673768",
+            "23.0873768"
+        ]
+    }
+]

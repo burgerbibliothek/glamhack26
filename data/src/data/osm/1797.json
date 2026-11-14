@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91891254,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 379668822,
+        "lat": "46.7395879",
+        "lon": "7.7794110",
+        "category": "natural",
+        "type": "cliff",
+        "place_rank": 22,
+        "importance": 0.10671666819256884,
+        "addresstype": "cliff",
+        "name": "Sigriswilgrat",
+        "display_name": "Sigriswilgrat, Sigriswil, Verwaltungskreis Thun, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "cliff": "Sigriswilgrat",
+            "village": "Sigriswil",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7351246",
+            "46.7438058",
+            "7.7716668",
+            "7.7868903"
+        ]
+    }
+]

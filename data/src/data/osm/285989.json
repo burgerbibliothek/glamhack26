@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91953159,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12551251838,
+        "lat": "46.8381322",
+        "lon": "7.7003769",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671666819256886,
+        "addresstype": "locality",
+        "name": "Schlegwegbad",
+        "display_name": "Schlegwegbad, Lugischlatt, Jassbach, Linden, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3673, Schweiz",
+        "address": {
+            "locality": "Schlegwegbad",
+            "hamlet": "Lugischlatt",
+            "village": "Jassbach",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3673",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8281322",
+            "46.8481322",
+            "7.6903769",
+            "7.7103769"
+        ]
+    }
+]

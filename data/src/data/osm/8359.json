@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73726258,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684760,
+        "lat": "45.9982288",
+        "lon": "8.9369772",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.45066730194734383,
+        "addresstype": "village",
+        "name": "Sorengo",
+        "display_name": "Sorengo, Kreis Vezia, Bezirk Lugano, Tessin, 6924, Schweiz",
+        "address": {
+            "village": "Sorengo",
+            "municipality": "Kreis Vezia",
+            "county": "Bezirk Lugano",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6924",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9943028",
+            "46.0072882",
+            "8.9266922",
+            "8.9430229"
+        ]
+    }
+]

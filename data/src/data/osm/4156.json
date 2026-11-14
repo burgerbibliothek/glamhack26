@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92095203,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7530283948,
+        "lat": "46.9571951",
+        "lon": "7.4368268",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "71, Neubrückstrasse, Neufeld, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "house_number": "71",
+            "road": "Neubrückstrasse",
+            "quarter": "Neufeld",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9571451",
+            "46.9572451",
+            "7.4367768",
+            "7.4368768"
+        ]
+    }
+]

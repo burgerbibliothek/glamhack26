@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 74002102,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2450920276,
+        "lat": "46.0010686",
+        "lon": "8.8343800",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338429770351717,
+        "addresstype": "hamlet",
+        "name": "Beride",
+        "display_name": "Beride, Croglio, Tresa, Kreis Sessa, Bezirk Lugano, Tessin, 6980, Schweiz",
+        "address": {
+            "hamlet": "Beride",
+            "village": "Croglio",
+            "city": "Tresa",
+            "municipality": "Kreis Sessa",
+            "county": "Bezirk Lugano",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6980",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9810686",
+            "46.0210686",
+            "8.8143800",
+            "8.8543800"
+        ]
+    }
+]

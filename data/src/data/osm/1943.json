@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92582108,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8773786780,
+        "lat": "47.2064890",
+        "lon": "7.2259549",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 4.5194934004684786e-05,
+        "addresstype": "information",
+        "name": "Métairie de Werdt",
+        "display_name": "Métairie de Werdt, sentier des lynx, Reconvilier, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2732, Schweiz",
+        "address": {
+            "information": "Métairie de Werdt",
+            "road": "sentier des lynx",
+            "village": "Reconvilier",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2732",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2064390",
+            "47.2065390",
+            "7.2259049",
+            "7.2260049"
+        ]
+    }
+]

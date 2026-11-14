@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73420639,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240029621,
+        "lat": "46.8221657",
+        "lon": "8.0349311",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2853231881743613,
+        "addresstype": "village",
+        "name": "Sörenberg",
+        "display_name": "Sörenberg, Flühli, Luzern, 6174, Schweiz",
+        "address": {
+            "village": "Sörenberg",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6174",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8021657",
+            "46.8421657",
+            "8.0149311",
+            "8.0549311"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91404768,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1686704,
+        "lat": "46.1880175",
+        "lon": "7.2903344",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.4408960751435709,
+        "addresstype": "county",
+        "name": "Conthey",
+        "display_name": "Conthey, Mittelwallis, Wallis, 1964, Schweiz",
+        "address": {
+            "county": "Conthey",
+            "state_district": "Mittelwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1964",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0604984",
+            "46.3164023",
+            "7.1303697",
+            "7.3685400"
+        ]
+    }
+]

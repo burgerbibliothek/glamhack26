@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92049628,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683329,
+        "lat": "46.6783349",
+        "lon": "6.9620824",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.36160342477182406,
+        "addresstype": "village",
+        "name": "Grangettes",
+        "display_name": "Grangettes, Glanebezirk, Freiburg, 1686, Schweiz",
+        "address": {
+            "village": "Grangettes",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1686",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6556611",
+            "46.6886765",
+            "6.9537949",
+            "7.0016055"
+        ]
+    }
+]

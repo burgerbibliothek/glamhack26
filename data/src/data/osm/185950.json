@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72998549,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 396666853,
+        "lat": "47.4243090",
+        "lon": "9.3766413",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 6.722743572132474e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "26, Marktgasse, St. Jakob, Sankt Gallen, Wahlkreis St. Gallen, St. Gallen, 9000, Schweiz",
+        "address": {
+            "house_number": "26",
+            "road": "Marktgasse",
+            "suburb": "St. Jakob",
+            "city": "Sankt Gallen",
+            "county": "Wahlkreis St. Gallen",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4242345",
+            "47.4243365",
+            "9.3765145",
+            "9.3767098"
+        ]
+    }
+]

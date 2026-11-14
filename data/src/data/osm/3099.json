@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91707603,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6425484034,
+        "lat": "46.9463694",
+        "lon": "7.4373504",
+        "category": "amenity",
+        "type": "bar",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Migu’s",
+        "display_name": "Migu’s, 10, Hirschengraben, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3001, Schweiz",
+        "address": {
+            "amenity": "Migu’s",
+            "house_number": "10",
+            "square": "Hirschengraben",
+            "quarter": "Rotes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9463194",
+            "46.9464194",
+            "7.4373004",
+            "7.4374004"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71750885,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682232,
+        "lat": "47.5900580",
+        "lon": "8.4707137",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40196302320864,
+        "addresstype": "village",
+        "name": "Wasterkingen",
+        "display_name": "Wasterkingen, Bezirk Bülach, Zürich, 8195, Schweiz",
+        "address": {
+            "village": "Wasterkingen",
+            "county": "Bezirk Bülach",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8195",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5839130",
+            "47.6106647",
+            "8.4565486",
+            "8.4872751"
+        ]
+    }
+]

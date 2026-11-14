@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92430252,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1096155019,
+        "lat": "47.0731622",
+        "lon": "7.6816849",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337201724269473,
+        "addresstype": "hamlet",
+        "name": "Heimismatt",
+        "display_name": "Heimismatt, Heimiswil, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3413, Schweiz",
+        "address": {
+            "hamlet": "Heimismatt",
+            "village": "Heimiswil",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3413",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0531622",
+            "47.0931622",
+            "7.6616849",
+            "7.7016849"
+        ]
+    }
+]

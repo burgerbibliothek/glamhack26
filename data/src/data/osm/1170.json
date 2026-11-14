@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92099372,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 393422021,
+        "lat": "46.7422525",
+        "lon": "7.9286266",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44446571818640085,
+        "addresstype": "peak",
+        "name": "Augstmatthorn",
+        "display_name": "Augstmatthorn, Oberried am Brienzersee, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3854, Schweiz",
+        "address": {
+            "peak": "Augstmatthorn",
+            "village": "Oberried am Brienzersee",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3854",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7422025",
+            "46.7423025",
+            "7.9285766",
+            "7.9286766"
+        ]
+    }
+]

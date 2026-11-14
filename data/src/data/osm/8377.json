@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 72824596,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 320295852,
+        "lat": "47.1482659",
+        "lon": "9.1532413",
+        "category": "highway",
+        "type": "service",
+        "place_rank": 27,
+        "importance": 0.040045297169451426,
+        "addresstype": "road",
+        "name": "Chrischonastrasse",
+        "display_name": "Chrischonastrasse, Hofstetten, Betlis, Amden, Wahlkreis See-Gaster, St. Gallen, 8873, Schweiz",
+        "address": {
+            "road": "Chrischonastrasse",
+            "hamlet": "Hofstetten",
+            "village": "Betlis",
+            "county": "Wahlkreis See-Gaster",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "8873",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1481004",
+            "47.1484588",
+            "9.1529454",
+            "9.1535419"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 146146406,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2886853701,
+        "lat": "52.5677164",
+        "lon": "13.4445891",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "57, Eigerstraße, Blumenwinkel, Heinersdorf, Pankow, Berlin, 13089, Deutschland",
+        "address": {
+            "house_number": "57",
+            "road": "Eigerstraße",
+            "neighbourhood": "Blumenwinkel",
+            "suburb": "Heinersdorf",
+            "borough": "Pankow",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13089",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5676664",
+            "52.5677664",
+            "13.4445391",
+            "13.4446391"
+        ]
+    }
+]

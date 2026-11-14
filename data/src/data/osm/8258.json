@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91264164,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682648,
+        "lat": "46.8277309",
+        "lon": "7.8610673",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42438157964431183,
+        "addresstype": "village",
+        "name": "Schangnau",
+        "display_name": "Schangnau, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 6197, Schweiz",
+        "address": {
+            "village": "Schangnau",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "6197",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7856213",
+            "46.8473904",
+            "7.8180453",
+            "7.9539215"
+        ]
+    }
+]

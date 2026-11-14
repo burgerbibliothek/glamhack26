@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92213241,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685086,
+        "lat": "46.5727701",
+        "lon": "6.8397081",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.1600460692759594,
+        "addresstype": "city_district",
+        "name": "Oron-le-Châtel",
+        "display_name": "Oron-le-Châtel, Oron, District de Lavaux-Oron, Waadt, 1608, Schweiz",
+        "address": {
+            "city_district": "Oron-le-Châtel",
+            "city": "Oron",
+            "county": "District de Lavaux-Oron",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1608",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5649614",
+            "46.5800470",
+            "6.8318312",
+            "6.8486749"
+        ]
+    }
+]

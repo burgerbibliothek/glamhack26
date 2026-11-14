@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73774542,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 4447223,
+        "lat": "46.7976371",
+        "lon": "10.2996234",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.46642750586093373,
+        "addresstype": "village",
+        "name": "Scuol",
+        "display_name": "Scuol, Region Engiadina Bassa/Val Müstair, Graubünden, 7550, Schweiz",
+        "address": {
+            "village": "Scuol",
+            "county": "Region Engiadina Bassa/Val Müstair",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7550",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6496178",
+            "46.9297715",
+            "10.1018761",
+            "10.4440385"
+        ]
+    }
+]

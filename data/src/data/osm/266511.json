@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92294073,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 283463291,
+        "lat": "47.1329930",
+        "lon": "7.0592994",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4607434984208263,
+        "addresstype": "peak",
+        "name": "Chasseral",
+        "display_name": "Chasseral, Nods, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2518, Schweiz",
+        "address": {
+            "peak": "Chasseral",
+            "village": "Nods",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2518",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1329430",
+            "47.1330430",
+            "7.0592494",
+            "7.0593494"
+        ]
+    }
+]

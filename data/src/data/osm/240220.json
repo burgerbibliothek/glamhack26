@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71924054,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 102332676,
+        "lat": "47.4570858",
+        "lon": "8.7443440",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3737616996631093,
+        "addresstype": "village",
+        "name": "Kyburg",
+        "display_name": "Kyburg, Illnau-Effretikon, Bezirk Pfäffikon, Zürich, 8314, Schweiz",
+        "address": {
+            "village": "Kyburg",
+            "city": "Illnau-Effretikon",
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8314",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4370858",
+            "47.4770858",
+            "8.7243440",
+            "8.7643440"
+        ]
+    }
+]

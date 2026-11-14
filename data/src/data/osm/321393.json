@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 138259783,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 173797900,
+        "lat": "50.1018423",
+        "lon": "8.6867287",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.941481651021618e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "59, Brückenstraße, Sachsenhausen Nord, Sachsenhausen, Süd, Frankfurt am Main, Hessen, 60594, Deutschland",
+        "address": {
+            "house_number": "59",
+            "road": "Brückenstraße",
+            "quarter": "Sachsenhausen Nord",
+            "suburb": "Sachsenhausen",
+            "city_district": "Süd",
+            "city": "Frankfurt am Main",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "60594",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.1017642",
+            "50.1019120",
+            "8.6866034",
+            "8.6868541"
+        ]
+    }
+]

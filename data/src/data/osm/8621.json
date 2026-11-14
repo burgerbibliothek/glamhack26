@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91391383,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685401,
+        "lat": "46.3372451",
+        "lon": "6.8887175",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38250674189122186,
+        "addresstype": "village",
+        "name": "Vouvry",
+        "display_name": "Vouvry, Monthey, Unterwallis, Wallis, 1896, Schweiz",
+        "address": {
+            "village": "Vouvry",
+            "county": "Monthey",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1896",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3155257",
+            "46.3602779",
+            "6.7751462",
+            "6.9322723"
+        ]
+    }
+]

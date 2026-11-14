@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72174280,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240087696,
+        "lat": "47.4405517",
+        "lon": "8.8193439",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671271763179974,
+        "addresstype": "village",
+        "name": "Rämismühle",
+        "display_name": "Rämismühle, Zell, Bezirk Winterthur, Zürich, 8487, Schweiz",
+        "address": {
+            "village": "Rämismühle",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8487",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4205517",
+            "47.4605517",
+            "8.7993439",
+            "8.8393439"
+        ]
+    }
+]

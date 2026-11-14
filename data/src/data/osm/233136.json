@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92468592,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682667,
+        "lat": "47.1967887",
+        "lon": "7.1705782",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4271353410957559,
+        "addresstype": "village",
+        "name": "Sonceboz-Sombeval",
+        "display_name": "Sonceboz-Sombeval, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2605, Schweiz",
+        "address": {
+            "village": "Sonceboz-Sombeval",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2605",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1661819",
+            "47.2159424",
+            "7.1537049",
+            "7.2074405"
+        ]
+    }
+]

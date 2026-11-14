@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72498541,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684423,
+        "lat": "47.3054517",
+        "lon": "8.0527946",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3993661419952677,
+        "addresstype": "village",
+        "name": "Schöftland",
+        "display_name": "Schöftland, Bezirk Kulm, Aargau, 5040, Schweiz",
+        "address": {
+            "village": "Schöftland",
+            "county": "Bezirk Kulm",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5040",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2934629",
+            "47.3188963",
+            "8.0308613",
+            "8.0854569"
+        ]
+    }
+]

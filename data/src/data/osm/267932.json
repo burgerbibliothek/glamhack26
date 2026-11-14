@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93221492,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685634,
+        "lat": "47.4512425",
+        "lon": "7.1485023",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38382602028473783,
+        "addresstype": "village",
+        "name": "Vendlincourt",
+        "display_name": "Vendlincourt, Bezirk Porrentruy, Jura, 2943, Schweiz",
+        "address": {
+            "village": "Vendlincourt",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2943",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4391893",
+            "47.4658493",
+            "7.1166440",
+            "7.1790325"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73246919,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683961,
+        "lat": "47.0925073",
+        "lon": "9.4549078",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3891971053939251,
+        "addresstype": "city",
+        "name": "Wartau",
+        "display_name": "Wartau, Wahlkreis Werdenberg, St. Gallen, Schweiz",
+        "address": {
+            "city": "Wartau",
+            "county": "Wahlkreis Werdenberg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0647838",
+            "47.1193332",
+            "9.3753923",
+            "9.5196235"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91812755,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 225784085,
+        "lat": "46.9478338",
+        "lon": "7.4458613",
+        "category": "highway",
+        "type": "footway",
+        "place_rank": 27,
+        "importance": 0.04007734264133668,
+        "addresstype": "road",
+        "name": "Amthausgässchen",
+        "display_name": "Amthausgässchen, Gelbes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3000, Schweiz",
+        "address": {
+            "road": "Amthausgässchen",
+            "quarter": "Gelbes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9477887",
+            "46.9478787",
+            "7.4458564",
+            "7.4458671"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91300743,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685113,
+        "lat": "46.5008111",
+        "lon": "6.7823914",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3977269304249201,
+        "addresstype": "village",
+        "name": "Puidoux",
+        "display_name": "Puidoux, District de Lavaux-Oron, Waadt, 1070, Schweiz",
+        "address": {
+            "village": "Puidoux",
+            "county": "District de Lavaux-Oron",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1070",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4385400",
+            "46.5480627",
+            "6.7336970",
+            "6.8242876"
+        ]
+    }
+]

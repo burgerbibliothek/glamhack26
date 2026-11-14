@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92516948,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240109065,
+        "lat": "46.9852153",
+        "lon": "6.8688571",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3756911839236167,
+        "addresstype": "village",
+        "name": "Corcelles-Cormondrèche",
+        "display_name": "Corcelles-Cormondrèche, Neuenburg, Région Littoral, Neuenburg, 2035, Schweiz",
+        "address": {
+            "village": "Corcelles-Cormondrèche",
+            "town": "Neuenburg",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2035",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9652153",
+            "47.0052153",
+            "6.8488571",
+            "6.8888571"
+        ]
+    }
+]

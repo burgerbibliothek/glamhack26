@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91307884,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682621,
+        "lat": "46.7044135",
+        "lon": "7.8960911",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41592289788182557,
+        "addresstype": "village",
+        "name": "Ringgenberg (BE)",
+        "display_name": "Ringgenberg (BE), Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Ringgenberg (BE)",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6925430",
+            "46.7283984",
+            "7.8607916",
+            "7.9187851"
+        ]
+    }
+]

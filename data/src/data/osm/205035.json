@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91975153,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1868687,
+        "lat": "46.6451351",
+        "lon": "6.6835292",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39742443319360427,
+        "addresstype": "city",
+        "name": "Montilliez",
+        "display_name": "Montilliez, District du Gros-de-Vaud, Waadt, 1043, Schweiz",
+        "address": {
+            "city": "Montilliez",
+            "county": "District du Gros-de-Vaud",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1043",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6225768",
+            "46.6676645",
+            "6.6493921",
+            "6.7093846"
+        ]
+    }
+]

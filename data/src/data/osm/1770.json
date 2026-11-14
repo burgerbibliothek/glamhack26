@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92316610,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12894609787,
+        "lat": "46.4323392",
+        "lon": "7.6250844",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.0667177409018082,
+        "addresstype": "locality",
+        "name": "Schwarenbach",
+        "display_name": "Schwarenbach, Leukerbad, Leuk, Oberwallis, Wallis, 3954, Schweiz",
+        "address": {
+            "locality": "Schwarenbach",
+            "village": "Leukerbad",
+            "county": "Leuk",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3954",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4223392",
+            "46.4423392",
+            "7.6150844",
+            "7.6350844"
+        ]
+    }
+]

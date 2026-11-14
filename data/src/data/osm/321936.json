@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 144860653,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3600809510,
+        "lat": "52.3932079",
+        "lon": "10.8488665",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 6.584191653310472e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "1a, Blumenweg, Hehlingen, Wolfsburg, Niedersachsen, 38446, Deutschland",
+        "address": {
+            "house_number": "1a",
+            "road": "Blumenweg",
+            "residential": "Hehlingen",
+            "suburb": "Hehlingen",
+            "city_district": "Hehlingen",
+            "city": "Wolfsburg",
+            "state": "Niedersachsen",
+            "ISO3166-2-lvl4": "DE-NI",
+            "postcode": "38446",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.3931579",
+            "52.3932579",
+            "10.8488165",
+            "10.8489165"
+        ]
+    }
+]

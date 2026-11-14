@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 28812179,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6981846890,
+        "lat": "-19.9077718",
+        "lon": "140.9236165",
+        "category": "place",
+        "type": "farm",
+        "place_rank": 22,
+        "importance": 0.10670959258411533,
+        "addresstype": "farm",
+        "name": "Ouchy",
+        "display_name": "Ouchy, Taldora, Queensland, 4823, Australien",
+        "address": {
+            "farm": "Ouchy",
+            "hamlet": "Taldora",
+            "state": "Queensland",
+            "ISO3166-2-lvl4": "AU-QLD",
+            "postcode": "4823",
+            "country": "Australien",
+            "country_code": "au"
+        },
+        "boundingbox": [
+            "-19.9177718",
+            "-19.8977718",
+            "140.9136165",
+            "140.9336165"
+        ]
+    }
+]

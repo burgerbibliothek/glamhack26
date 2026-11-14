@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91429180,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1408359874,
+        "lat": "46.7127406",
+        "lon": "7.3522401",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337896162355992,
+        "addresstype": "hamlet",
+        "name": "Sangernboden",
+        "display_name": "Sangernboden, Guggisberg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3158, Schweiz",
+        "address": {
+            "hamlet": "Sangernboden",
+            "village": "Guggisberg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3158",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6927406",
+            "46.7327406",
+            "7.3322401",
+            "7.3722401"
+        ]
+    }
+]

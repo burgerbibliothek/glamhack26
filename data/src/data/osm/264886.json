@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91476043,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 291050660,
+        "lat": "46.0827039",
+        "lon": "7.5075706",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3090170114439377,
+        "addresstype": "village",
+        "name": "Les Haudères",
+        "display_name": "Les Haudères, Evolène, Ering, Mittelwallis, Wallis, 1983, Schweiz",
+        "address": {
+            "village": "Les Haudères",
+            "county": "Ering",
+            "state_district": "Mittelwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1983",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0627039",
+            "46.1027039",
+            "7.4875706",
+            "7.5275706"
+        ]
+    }
+]

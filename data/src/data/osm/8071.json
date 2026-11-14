@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92670507,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240047985,
+        "lat": "46.6377580",
+        "lon": "6.6636040",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.34223694096820295,
+        "addresstype": "village",
+        "name": "Poliez-le-Grand",
+        "display_name": "Poliez-le-Grand, Montilliez, District du Gros-de-Vaud, Waadt, 1041, Schweiz",
+        "address": {
+            "village": "Poliez-le-Grand",
+            "city": "Montilliez",
+            "county": "District du Gros-de-Vaud",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1041",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6177580",
+            "46.6577580",
+            "6.6436040",
+            "6.6836040"
+        ]
+    }
+]

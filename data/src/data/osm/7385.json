@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91866675,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240031105,
+        "lat": "46.9678275",
+        "lon": "7.3774267",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14670922941939418,
+        "addresstype": "village",
+        "name": "Hinterkappelen",
+        "display_name": "Hinterkappelen, Wohlen bei Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3032, Schweiz",
+        "address": {
+            "village": "Hinterkappelen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3032",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9478275",
+            "46.9878275",
+            "7.3574267",
+            "7.3974267"
+        ]
+    }
+]

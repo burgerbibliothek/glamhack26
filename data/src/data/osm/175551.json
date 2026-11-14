@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92374352,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684959,
+        "lat": "46.5473270",
+        "lon": "6.6726245",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40712885412943295,
+        "addresstype": "village",
+        "name": "Épalinges",
+        "display_name": "Épalinges, District de Lausanne, Waadt, 1066, Schweiz",
+        "address": {
+            "village": "Épalinges",
+            "county": "District de Lausanne",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1066",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5379857",
+            "46.5668031",
+            "6.6468052",
+            "6.6866380"
+        ]
+    }
+]

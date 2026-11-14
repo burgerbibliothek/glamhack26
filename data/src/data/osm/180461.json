@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72875344,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2531362363,
+        "lat": "47.4898455",
+        "lon": "9.3373464",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337783855954832,
+        "addresstype": "hamlet",
+        "name": "Bifang",
+        "display_name": "Bifang, Häggenschwil, Wahlkreis St. Gallen, St. Gallen, 9312, Schweiz",
+        "address": {
+            "hamlet": "Bifang",
+            "village": "Häggenschwil",
+            "county": "Wahlkreis St. Gallen",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9312",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4698455",
+            "47.5098455",
+            "9.3173464",
+            "9.3573464"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 188074599,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 567005966,
+        "lat": "48.2101053",
+        "lon": "16.3655617",
+        "category": "tourism",
+        "type": "hotel",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "tourism",
+        "name": "Radisson Blu Style Hotel",
+        "display_name": "Radisson Blu Style Hotel, 12, Herrengasse, Schottenviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich",
+        "address": {
+            "tourism": "Radisson Blu Style Hotel",
+            "house_number": "12",
+            "road": "Herrengasse",
+            "neighbourhood": "Schottenviertel",
+            "suburb": "Innere Stadt",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1010",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2100553",
+            "48.2101553",
+            "16.3655117",
+            "16.3656117"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72407879,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682143,
+        "lat": "47.2523354",
+        "lon": "8.7680277",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.425772933155395,
+        "addresstype": "village",
+        "name": "Hombrechtikon",
+        "display_name": "Hombrechtikon, Bezirk Meilen, Zürich, 8634, Schweiz",
+        "address": {
+            "village": "Hombrechtikon",
+            "county": "Bezirk Meilen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8634",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2335996",
+            "47.2704179",
+            "8.7298664",
+            "8.8048369"
+        ]
+    }
+]

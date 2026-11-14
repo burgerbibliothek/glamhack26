@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 74802619,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9033325599,
+        "lat": "47.5911520",
+        "lon": "9.8384397",
+        "category": "information",
+        "type": "board",
+        "place_rank": 30,
+        "importance": 5.1313801785260053e-05,
+        "addresstype": "information",
+        "name": "Der zweite große Wasserfall",
+        "display_name": "Der zweite große Wasserfall, Märchenwald, Rickenbach, Scheidegg, Landkreis Lindau, Bayern, 88175, Deutschland",
+        "address": {
+            "information": "Der zweite große Wasserfall",
+            "road": "Märchenwald",
+            "hamlet": "Rickenbach",
+            "village": "Scheidegg",
+            "city": "Scheidegg",
+            "county": "Landkreis Lindau",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "88175",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.5911020",
+            "47.5912020",
+            "9.8383897",
+            "9.8384897"
+        ]
+    }
+]

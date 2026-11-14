@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92729722,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3081128609,
+        "lat": "47.1545622",
+        "lon": "7.7904121",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.13618373728802152,
+        "addresstype": "railway",
+        "name": "Lindenholz",
+        "display_name": "Lindenholz, Hauptstrasse, Lindenholz, Kleindietwil, Madiswil, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4936, Schweiz",
+        "address": {
+            "railway": "Lindenholz",
+            "road": "Hauptstrasse",
+            "hamlet": "Lindenholz",
+            "village": "Kleindietwil",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4936",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1495622",
+            "47.1595622",
+            "7.7854121",
+            "7.7954121"
+        ]
+    }
+]

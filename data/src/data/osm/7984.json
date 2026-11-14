@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92351548,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2023749384,
+        "lat": "46.9145909",
+        "lon": "7.3624214",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.2548773901198179,
+        "addresstype": "railway",
+        "name": "Oberwangen",
+        "display_name": "Oberwangen, Freiburgstrasse, Oberwangen, Köniz, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3173, Schweiz",
+        "address": {
+            "railway": "Oberwangen",
+            "road": "Freiburgstrasse",
+            "suburb": "Oberwangen",
+            "town": "Köniz",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3173",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9095909",
+            "46.9195909",
+            "7.3574214",
+            "7.3674214"
+        ]
+    }
+]

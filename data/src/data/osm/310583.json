@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73493027,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 270447681,
+        "lat": "46.4405777",
+        "lon": "8.9518170",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.3728855590490345,
+        "addresstype": "hamlet",
+        "name": "Dongio",
+        "display_name": "Dongio, Acquarossa, Circolo d'Acquarossa, Bezirk Blenio, Tessin, 6715, Schweiz",
+        "address": {
+            "hamlet": "Dongio",
+            "village": "Acquarossa",
+            "municipality": "Circolo d'Acquarossa",
+            "county": "Bezirk Blenio",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6715",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4205777",
+            "46.4605777",
+            "8.9318170",
+            "8.9718170"
+        ]
+    }
+]

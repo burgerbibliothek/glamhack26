@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 75347872,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684621,
+        "lat": "45.8491908",
+        "lon": "9.0070811",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39447880025774196,
+        "addresstype": "village",
+        "name": "Balerna",
+        "display_name": "Balerna, Kreis Balerna, Bezirk Mendrisio, Tessin, 6828, Schweiz",
+        "address": {
+            "village": "Balerna",
+            "municipality": "Kreis Balerna",
+            "county": "Bezirk Mendrisio",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6828",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.8322750",
+            "45.8537889",
+            "8.9938790",
+            "9.0218088"
+        ]
+    }
+]

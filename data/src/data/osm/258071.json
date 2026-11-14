@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 88705913,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11538076857,
+        "lat": "45.9842458",
+        "lon": "7.0381352",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1600479598687724,
+        "addresstype": "peak",
+        "name": "Tête Biselx",
+        "display_name": "Tête Biselx, Trient, Martinach, Unterwallis, Wallis, 1929, Schweiz",
+        "address": {
+            "peak": "Tête Biselx",
+            "village": "Trient",
+            "county": "Martinach",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1929",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9841958",
+            "45.9842958",
+            "7.0380852",
+            "7.0381852"
+        ]
+    }
+]

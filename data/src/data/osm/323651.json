@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92113976,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 603632246,
+        "lat": "46.9562319",
+        "lon": "7.4503245",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "37, Optingenstrasse, Spitalacker, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3013, Schweiz",
+        "address": {
+            "house_number": "37",
+            "road": "Optingenstrasse",
+            "quarter": "Spitalacker",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3013",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9561819",
+            "46.9562819",
+            "7.4502745",
+            "7.4503745"
+        ]
+    }
+]

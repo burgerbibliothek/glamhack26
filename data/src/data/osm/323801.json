@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 145689578,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 125809979,
+        "lat": "52.4365112",
+        "lon": "13.3093834",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "7, Ringstraße, Alt-Lichterfelde, Lichterfelde West, Lichterfelde, Steglitz-Zehlendorf, Berlin, 12203, Deutschland",
+        "address": {
+            "house_number": "7",
+            "road": "Ringstraße",
+            "neighbourhood": "Alt-Lichterfelde",
+            "quarter": "Lichterfelde West",
+            "suburb": "Lichterfelde",
+            "borough": "Steglitz-Zehlendorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12203",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4364649",
+            "52.4365653",
+            "13.3092994",
+            "13.3094560"
+        ]
+    }
+]

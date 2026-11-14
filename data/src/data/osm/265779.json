@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91740360,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6485194286,
+        "lat": "46.9275438",
+        "lon": "7.7683722",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338619134813456,
+        "addresstype": "hamlet",
+        "name": "Gartegg",
+        "display_name": "Gartegg, Langnau im Emmental, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3550, Schweiz",
+        "address": {
+            "hamlet": "Gartegg",
+            "village": "Langnau im Emmental",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3550",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9075438",
+            "46.9475438",
+            "7.7483722",
+            "7.7883722"
+        ]
+    }
+]

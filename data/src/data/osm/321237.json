@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 125623259,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 47038156,
+        "lat": "49.2247663",
+        "lon": "9.2146904",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.602731364914958e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "3, Kochergasse, Kochendorf, Friedrichshall, Bad Friedrichshall, VVG der Stadt Bad Friedrichshall, Landkreis Heilbronn, Baden-Württemberg, 74177, Deutschland",
+        "address": {
+            "house_number": "3",
+            "road": "Kochergasse",
+            "suburb": "Kochendorf",
+            "town": "Friedrichshall",
+            "municipality": "VVG der Stadt Bad Friedrichshall",
+            "county": "Landkreis Heilbronn",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "74177",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.2247386",
+            "49.2248088",
+            "9.2146339",
+            "9.2147396"
+        ]
+    }
+]

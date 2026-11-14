@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 120073632,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 153341,
+        "lat": "49.8597222",
+        "lon": "4.1375000",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5918495327150493,
+        "addresstype": "village",
+        "name": "Martigny",
+        "display_name": "Martigny, Vervins, Aisne, Nordfrankreich, Metropolitanes Frankreich, 02500, Frankreich",
+        "address": {
+            "village": "Martigny",
+            "municipality": "Vervins",
+            "county": "Aisne",
+            "ISO3166-2-lvl6": "FR-02",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "02500",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.8413174",
+            "49.8931353",
+            "4.0975557",
+            "4.1737263"
+        ]
+    }
+]

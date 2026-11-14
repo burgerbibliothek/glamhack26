@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92178319,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12007478994,
+        "lat": "47.3217646",
+        "lon": "7.3795773",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671284122987713,
+        "addresstype": "village",
+        "name": "Choindez",
+        "display_name": "Choindez, Courrendlin, Bezirk Delsberg, Jura, 2830, Schweiz",
+        "address": {
+            "village": "Choindez",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2830",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3017646",
+            "47.3417646",
+            "7.3595773",
+            "7.3995773"
+        ]
+    }
+]

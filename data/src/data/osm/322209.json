@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 146324401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 195938950,
+        "lat": "52.4337158",
+        "lon": "13.2620288",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "8, Gartenstraße, Zehlendorf, Steglitz-Zehlendorf, Berlin, 14169, Deutschland",
+        "address": {
+            "house_number": "8",
+            "road": "Gartenstraße",
+            "suburb": "Zehlendorf",
+            "borough": "Steglitz-Zehlendorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "14169",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4336628",
+            "52.4337759",
+            "13.2619265",
+            "13.2621279"
+        ]
+    }
+]

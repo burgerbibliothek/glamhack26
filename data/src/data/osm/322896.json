@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92122558,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 583290188,
+        "lat": "46.9515360",
+        "lon": "7.4576410",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "19, Lerberstrasse, Altenberg, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3013, Schweiz",
+        "address": {
+            "house_number": "19",
+            "road": "Lerberstrasse",
+            "quarter": "Altenberg",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3013",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9514860",
+            "46.9515860",
+            "7.4575910",
+            "7.4576910"
+        ]
+    }
+]

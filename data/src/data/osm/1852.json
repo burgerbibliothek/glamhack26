@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73826060,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1435921493,
+        "lat": "46.7291199",
+        "lon": "8.4465197",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.4080375579827476,
+        "addresstype": "mountain_pass",
+        "name": "Sustenpass",
+        "display_name": "Sustenpass, Gadmen, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3863, Schweiz",
+        "address": {
+            "mountain_pass": "Sustenpass",
+            "city_district": "Gadmen",
+            "village": "Innertkirchen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3863",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7290699",
+            "46.7291699",
+            "8.4464697",
+            "8.4465697"
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 52122967,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 192756,
+        "lat": "28.0000272",
+        "lon": "2.9999825",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.803055403611365,
+        "addresstype": "country",
+        "name": "Algerien",
+        "display_name": "Algerien",
+        "address": {
+            "country": "Algerien",
+            "country_code": "dz"
+        },
+        "boundingbox": [
+            "18.9681470",
+            "37.2962055",
+            "-8.6689080",
+            "11.9973419"
+        ]
+    }
+]

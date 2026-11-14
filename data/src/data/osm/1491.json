@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72642386,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 4900844,
+        "lat": "47.0278388",
+        "lon": "8.9864897",
+        "category": "water",
+        "type": "reservoir",
+        "place_rank": 20,
+        "importance": 0.3511138876399894,
+        "addresstype": "reservoir",
+        "name": "Klöntalersee",
+        "display_name": "Klöntalersee, Glarus, Schweiz",
+        "address": {
+            "reservoir": "Klöntalersee",
+            "town": "Glarus",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0188563",
+            "47.0367942",
+            "8.9461097",
+            "9.0067229"
+        ]
+    }
+]

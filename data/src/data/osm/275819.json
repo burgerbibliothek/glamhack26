@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 69590664,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 208843140,
+        "lat": "46.2759565",
+        "lon": "13.9278521",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671966353856714,
+        "addresstype": "village",
+        "name": "Fürten",
+        "display_name": "Fürten, Wochein, 4267, Slowenien",
+        "address": {
+            "village": "Fürten",
+            "municipality": "Wochein",
+            "ISO3166-2-lvl8": "SI-004",
+            "postcode": "4267",
+            "country": "Slowenien",
+            "country_code": "si"
+        },
+        "boundingbox": [
+            "46.2559565",
+            "46.2959565",
+            "13.9078521",
+            "13.9478521"
+        ]
+    }
+]

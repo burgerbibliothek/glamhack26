@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91899141,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2586286032,
+        "lat": "46.9649012",
+        "lon": "7.4842515",
+        "category": "tourism",
+        "type": "museum",
+        "place_rank": 30,
+        "importance": 4.3543907835462234e-05,
+        "addresstype": "tourism",
+        "name": "Schweizerisches Psychiatrie-Museum Bern",
+        "display_name": "Schweizerisches Psychiatrie-Museum Bern, 127, Bolligenstrasse, Burgfeld, Beundenfeld, Stadtteil IV, Ostermundigen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3072, Schweiz",
+        "address": {
+            "tourism": "Schweizerisches Psychiatrie-Museum Bern",
+            "house_number": "127",
+            "road": "Bolligenstrasse",
+            "quarter": "Burgfeld",
+            "city_district": "Stadtteil IV",
+            "town": "Ostermundigen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3072",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9648512",
+            "46.9649512",
+            "7.4842015",
+            "7.4843015"
+        ]
+    }
+]

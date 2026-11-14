@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73194575,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3059441848,
+        "lat": "46.8685080",
+        "lon": "9.0182461",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.14389741120638372,
+        "addresstype": "peak",
+        "name": "Nüschenstock",
+        "display_name": "Nüschenstock, Glarus Süd, Glarus, Schweiz",
+        "address": {
+            "peak": "Nüschenstock",
+            "city": "Glarus Süd",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8684580",
+            "46.8685580",
+            "9.0181961",
+            "9.0182961"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91830328,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3060765174,
+        "lat": "46.9543592",
+        "lon": "7.4465037",
+        "category": "amenity",
+        "type": "fast_food",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Pittaria Lorraine",
+        "display_name": "Pittaria Lorraine, 19, Viktoriarain, Spitalacker, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3013, Schweiz",
+        "address": {
+            "amenity": "Pittaria Lorraine",
+            "house_number": "19",
+            "road": "Viktoriarain",
+            "quarter": "Spitalacker",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3013",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9543092",
+            "46.9544092",
+            "7.4464537",
+            "7.4465537"
+        ]
+    }
+]

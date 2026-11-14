@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91224379,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2258773,
+        "lat": "46.2040219",
+        "lon": "6.1615598",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.3933592766861344,
+        "addresstype": "suburb",
+        "name": "Eaux-Vives",
+        "display_name": "Eaux-Vives, Genf, Schweiz",
+        "address": {
+            "suburb": "Eaux-Vives",
+            "city": "Genf",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1945059",
+            "46.2118914",
+            "6.1516491",
+            "6.1758454"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73066053,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2641467183,
+        "lat": "47.4816535",
+        "lon": "9.4115879",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337083466849772,
+        "addresstype": "hamlet",
+        "name": "Rütli",
+        "display_name": "Rütli, Berg (SG), Wahlkreis Rorschach, St. Gallen, 9305, Schweiz",
+        "address": {
+            "hamlet": "Rütli",
+            "village": "Berg (SG)",
+            "county": "Wahlkreis Rorschach",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9305",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4616535",
+            "47.5016535",
+            "9.3915879",
+            "9.4315879"
+        ]
+    }
+]

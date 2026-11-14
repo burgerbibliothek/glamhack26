@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 274550608,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 49706048,
+        "lat": "54.4464325",
+        "lon": "-2.9940535",
+        "category": "place",
+        "type": "island",
+        "place_rank": 17,
+        "importance": 0.17338501487754635,
+        "addresstype": "island",
+        "name": "Little Isle",
+        "display_name": "Little Isle, Lakes, Rydal, Westmorland and Furness, England, Vereinigtes Königreich",
+        "address": {
+            "island": "Little Isle",
+            "suburb": "Lakes",
+            "village": "Rydal",
+            "county": "Westmorland and Furness",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "54.4462400",
+            "54.4466589",
+            "-2.9942978",
+            "-2.9938158"
+        ]
+    }
+]

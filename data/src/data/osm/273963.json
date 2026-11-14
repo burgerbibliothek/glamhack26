@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72300179,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 476995046,
+        "lat": "47.4673278",
+        "lon": "8.7597601",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1467167277027542,
+        "addresstype": "village",
+        "name": "Sennhof",
+        "display_name": "Sennhof, Winterthur, Bezirk Winterthur, Zürich, 8482, Schweiz",
+        "address": {
+            "village": "Sennhof",
+            "city": "Winterthur",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8482",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4473278",
+            "47.4873278",
+            "8.7397601",
+            "8.7797601"
+        ]
+    }
+]

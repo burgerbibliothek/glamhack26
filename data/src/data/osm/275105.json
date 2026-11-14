@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92271268,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 894384246,
+        "lat": "46.8345927",
+        "lon": "7.9058214",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333833348592355,
+        "addresstype": "hamlet",
+        "name": "Marbachegg",
+        "display_name": "Marbachegg, Escholzmatt-Marbach, Luzern, 6196, Schweiz",
+        "address": {
+            "hamlet": "Marbachegg",
+            "city": "Escholzmatt-Marbach",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6196",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8145927",
+            "46.8545927",
+            "7.8858214",
+            "7.9258214"
+        ]
+    }
+]

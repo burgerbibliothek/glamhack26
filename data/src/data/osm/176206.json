@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73569956,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1372223240,
+        "lat": "46.6149890",
+        "lon": "8.1407234",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4446133857442175,
+        "addresstype": "peak",
+        "name": "Bärglistock",
+        "display_name": "Bärglistock, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3818, Schweiz",
+        "address": {
+            "peak": "Bärglistock",
+            "village": "Grindelwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3818",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6149390",
+            "46.6150390",
+            "8.1406734",
+            "8.1407734"
+        ]
+    }
+]

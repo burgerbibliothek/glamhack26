@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 70990819,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 132457955,
+        "lat": "47.2469177",
+        "lon": "11.9031458",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 4.9163805600015526e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "33, Hochfeldweg, Hochfeld, Rohrberg, Bezirk Schwaz, Tirol, 6280, Österreich",
+        "address": {
+            "house_number": "33",
+            "road": "Hochfeldweg",
+            "hamlet": "Hochfeld",
+            "village": "Rohrberg",
+            "county": "Bezirk Schwaz",
+            "state": "Tirol",
+            "ISO3166-2-lvl4": "AT-7",
+            "postcode": "6280",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.2467575",
+            "47.2470497",
+            "11.9030151",
+            "11.9032893"
+        ]
+    }
+]

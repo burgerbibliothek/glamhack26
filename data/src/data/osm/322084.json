@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 186262895,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 116315915,
+        "lat": "48.2022176",
+        "lon": "16.4709668",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "40, Erlenweg, Katastralgemeinde Aspern, Donaustadt, Wien, 1220, Österreich",
+        "address": {
+            "house_number": "40",
+            "road": "Erlenweg",
+            "suburb": "Katastralgemeinde Aspern",
+            "city_district": "Donaustadt",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1220",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2021282",
+            "48.2022956",
+            "16.4708516",
+            "16.4710820"
+        ]
+    }
+]

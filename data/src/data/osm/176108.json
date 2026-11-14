@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 76167884,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13724936839,
+        "lat": "45.4732107",
+        "lon": "9.1948461",
+        "category": "shop",
+        "type": "clothes",
+        "place_rank": 30,
+        "importance": 8.390707255660361e-05,
+        "addresstype": "shop",
+        "name": "vivis",
+        "display_name": "vivis, Via Filippo Turati, Borgonuovo, Brera, Municipio 1, Mailand, Rodano, Mailand, Lombardei, 20121, Italien",
+        "address": {
+            "shop": "vivis",
+            "road": "Via Filippo Turati",
+            "neighbourhood": "Borgonuovo",
+            "suburb": "Brera",
+            "city": "Mailand",
+            "municipality": "Rodano",
+            "county": "Mailand",
+            "ISO3166-2-lvl6": "IT-MI",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "20121",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.4731607",
+            "45.4732607",
+            "9.1947961",
+            "9.1948961"
+        ]
+    }
+]

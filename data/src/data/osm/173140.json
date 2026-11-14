@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73133606,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1365382704,
+        "lat": "47.4104335",
+        "lon": "9.6272211",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.28008114849440524,
+        "addresstype": "railway",
+        "name": "Heerbrugg",
+        "display_name": "Heerbrugg, 16, Bahnhofstrasse, Heerbrugg, Au (SG), Wahlkreis Rheintal, St. Gallen, 9435, Schweiz",
+        "address": {
+            "railway": "Heerbrugg",
+            "house_number": "16",
+            "road": "Bahnhofstrasse",
+            "village": "Heerbrugg",
+            "county": "Wahlkreis Rheintal",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9435",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4054335",
+            "47.4154335",
+            "9.6222211",
+            "9.6322211"
+        ]
+    }
+]

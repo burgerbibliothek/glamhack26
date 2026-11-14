@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91989673,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240082277,
+        "lat": "46.7858567",
+        "lon": "7.0150524",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3710973104982575,
+        "addresstype": "village",
+        "name": "Prez-vers-Noréaz",
+        "display_name": "Prez-vers-Noréaz, Prez, Saanebezirk, Freiburg, 1746, Schweiz",
+        "address": {
+            "village": "Prez-vers-Noréaz",
+            "city": "Prez",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1746",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7658567",
+            "46.8058567",
+            "6.9950524",
+            "7.0350524"
+        ]
+    }
+]

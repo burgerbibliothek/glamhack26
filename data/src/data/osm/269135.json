@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93207540,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685618,
+        "lat": "47.3598908",
+        "lon": "7.5107055",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.33749181912886295,
+        "addresstype": "city_district",
+        "name": "Montsevelier",
+        "display_name": "Montsevelier, Val Terbi, Bezirk Delsberg, Jura, 2828, Schweiz",
+        "address": {
+            "city_district": "Montsevelier",
+            "city": "Val Terbi",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2828",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3474872",
+            "47.3723026",
+            "7.4871092",
+            "7.5414545"
+        ]
+    }
+]

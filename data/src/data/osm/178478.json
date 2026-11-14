@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91492175,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9718812181,
+        "lat": "46.8711944",
+        "lon": "7.9094359",
+        "category": "place",
+        "type": "farm",
+        "place_rank": 22,
+        "importance": 0.10671666819256884,
+        "addresstype": "farm",
+        "name": "Rothus",
+        "display_name": "Rothus, Geissenmoos, Marbach LU, Escholzmatt-Marbach, Luzern, 6196, Schweiz",
+        "address": {
+            "farm": "Rothus",
+            "hamlet": "Geissenmoos",
+            "village": "Marbach LU",
+            "city": "Escholzmatt-Marbach",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6196",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8611944",
+            "46.8811944",
+            "7.8994359",
+            "7.9194359"
+        ]
+    }
+]

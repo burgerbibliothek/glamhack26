@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92128488,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683270,
+        "lat": "46.7877054",
+        "lon": "7.0708826",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39965982201271655,
+        "addresstype": "village",
+        "name": "Avry",
+        "display_name": "Avry, Saanebezirk, Freiburg, 1754, Schweiz",
+        "address": {
+            "village": "Avry",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1754",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7768860",
+            "46.8026422",
+            "7.0359125",
+            "7.0832848"
+        ]
+    }
+]

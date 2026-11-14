@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92056897,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11146013709,
+        "lat": "46.7333791",
+        "lon": "7.6945874",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 5.000152590214416e-05,
+        "addresstype": "information",
+        "name": "Ringoldswil",
+        "display_name": "Ringoldswil, Oberdorf, Schwanden, Sigriswil, Verwaltungskreis Thun, Oberland administrative region, Bern, 3656, Schweiz",
+        "address": {
+            "information": "Ringoldswil",
+            "road": "Oberdorf",
+            "village": "Schwanden",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3656",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7333291",
+            "46.7334291",
+            "7.6945374",
+            "7.6946374"
+        ]
+    }
+]

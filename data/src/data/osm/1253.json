@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92307168,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3442709898,
+        "lat": "46.5737261",
+        "lon": "7.5394795",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.1067124643320363,
+        "addresstype": "isolated_dwelling",
+        "name": "Bütschi",
+        "display_name": "Bütschi, Diemtigen, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3754, Schweiz",
+        "address": {
+            "isolated_dwelling": "Bütschi",
+            "village": "Diemtigen",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3754",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5736761",
+            "46.5737761",
+            "7.5394295",
+            "7.5395295"
+        ]
+    }
+]

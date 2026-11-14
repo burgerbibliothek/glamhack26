@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 70711640,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9055890484,
+        "lat": "47.0294788",
+        "lon": "11.4904869",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1679799034751623,
+        "addresstype": "hamlet",
+        "name": "Lueg",
+        "display_name": "Lueg, Gries am Brenner, Bezirk Innsbruck-Land, Tirol, 6156, Österreich",
+        "address": {
+            "hamlet": "Lueg",
+            "village": "Gries am Brenner",
+            "county": "Bezirk Innsbruck-Land",
+            "state": "Tirol",
+            "ISO3166-2-lvl4": "AT-7",
+            "postcode": "6156",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.0094788",
+            "47.0494788",
+            "11.4704869",
+            "11.5104869"
+        ]
+    }
+]

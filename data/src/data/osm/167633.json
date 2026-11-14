@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 28570528,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4382939053,
+        "lat": "-25.6631550",
+        "lon": "134.4086990",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338187762264436,
+        "addresstype": "hamlet",
+        "name": "Antere",
+        "display_name": "Antere, Ghan, Nordterritorium, 0872, Australien",
+        "address": {
+            "hamlet": "Antere",
+            "city_district": "Ghan",
+            "territory": "Nordterritorium",
+            "ISO3166-2-lvl4": "AU-NT",
+            "postcode": "0872",
+            "country": "Australien",
+            "country_code": "au"
+        },
+        "boundingbox": [
+            "-25.6831550",
+            "-25.6431550",
+            "134.3886990",
+            "134.4286990"
+        ]
+    }
+]

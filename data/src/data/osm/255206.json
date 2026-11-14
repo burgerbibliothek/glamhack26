@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 417771276,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240045336,
+        "lat": "46.5894281",
+        "lon": "9.7761388",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.26704010519783294,
+        "addresstype": "hamlet",
+        "name": "Preda",
+        "display_name": "Preda, Bergün Filisur, Albula, Graubünden, Schweiz",
+        "address": {
+            "hamlet": "Preda",
+            "city": "Bergün Filisur",
+            "county": "Albula",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5694281",
+            "46.6094281",
+            "9.7561388",
+            "9.7961388"
+        ]
+    }
+]

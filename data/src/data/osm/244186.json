@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71674303,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682084,
+        "lat": "47.5047036",
+        "lon": "8.5473259",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40350075847621186,
+        "addresstype": "village",
+        "name": "Bachenbülach",
+        "display_name": "Bachenbülach, Bezirk Bülach, Zürich, 8184, Schweiz",
+        "address": {
+            "village": "Bachenbülach",
+            "county": "Bezirk Bülach",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8184",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4871641",
+            "47.5150301",
+            "8.5223610",
+            "8.5686023"
+        ]
+    }
+]

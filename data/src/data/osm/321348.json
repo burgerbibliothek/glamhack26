@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 113622247,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 53396149,
+        "lat": "51.4905472",
+        "lon": "7.4972711",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.363775082012691e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "33, Bollwerkstraße, Clarenberg, Hörde, Dortmund, Nordrhein-Westfalen, 44263, Deutschland",
+        "address": {
+            "house_number": "33",
+            "road": "Bollwerkstraße",
+            "quarter": "Clarenberg",
+            "suburb": "Hörde",
+            "city_district": "Hörde",
+            "city": "Dortmund",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "44263",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.4904802",
+            "51.4906141",
+            "7.4971568",
+            "7.4973853"
+        ]
+    }
+]

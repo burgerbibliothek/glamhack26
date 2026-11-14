@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91815878,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9438276730,
+        "lat": "46.7269657",
+        "lon": "7.8635952",
+        "category": "place",
+        "type": "neighbourhood",
+        "place_rank": 24,
+        "importance": 0.08005000152590216,
+        "addresstype": "neighbourhood",
+        "name": "Bärenmatte",
+        "display_name": "Bärenmatte, Bolsiten, Habkern, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3804, Schweiz",
+        "address": {
+            "neighbourhood": "Bärenmatte",
+            "hamlet": "Bolsiten",
+            "village": "Habkern",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3804",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7169657",
+            "46.7369657",
+            "7.8535952",
+            "7.8735952"
+        ]
+    }
+]

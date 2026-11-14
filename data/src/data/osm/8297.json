@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92831831,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682657,
+        "lat": "47.2524066",
+        "lon": "7.7669632",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42397855970078896,
+        "addresstype": "village",
+        "name": "Schwarzhäusern",
+        "display_name": "Schwarzhäusern, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4911, Schweiz",
+        "address": {
+            "village": "Schwarzhäusern",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4911",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2455337",
+            "47.2678713",
+            "7.7455705",
+            "7.7861533"
+        ]
+    }
+]

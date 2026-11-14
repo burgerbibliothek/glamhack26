@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91866288,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 383176646,
+        "lat": "46.6606214",
+        "lon": "6.9405327",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337907454032194,
+        "addresstype": "hamlet",
+        "name": "Villariaz",
+        "display_name": "Villariaz, Vuisternens-devant-Romont, Glanebezirk, Freiburg, 1685, Schweiz",
+        "address": {
+            "hamlet": "Villariaz",
+            "village": "Vuisternens-devant-Romont",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1685",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6406214",
+            "46.6806214",
+            "6.9205327",
+            "6.9605327"
+        ]
+    }
+]

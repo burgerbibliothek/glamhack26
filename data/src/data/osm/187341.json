@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 95895078,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2126737632,
+        "lat": "48.6126356",
+        "lon": "0.4503227",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339640115968565,
+        "addresstype": "hamlet",
+        "name": "Le Crochet",
+        "display_name": "Le Crochet, Saint-Aubin-de-Courteraie, Mortagne-au-Perche, Orne, Normandie, Metropolitanes Frankreich, 61560, Frankreich",
+        "address": {
+            "hamlet": "Le Crochet",
+            "village": "Saint-Aubin-de-Courteraie",
+            "municipality": "Mortagne-au-Perche",
+            "county": "Orne",
+            "ISO3166-2-lvl6": "FR-61",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "61560",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.5926356",
+            "48.6326356",
+            "0.4303227",
+            "0.4703227"
+        ]
+    }
+]

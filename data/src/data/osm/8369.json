@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92122524,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11393780142,
+        "lat": "46.6754569",
+        "lon": "7.6660004",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671666819256886,
+        "addresstype": "locality",
+        "name": "Spiezwiler",
+        "display_name": "Spiezwiler, Spiez, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3700, Schweiz",
+        "address": {
+            "locality": "Spiezwiler",
+            "town": "Spiez",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3700",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6654569",
+            "46.6854569",
+            "7.6560004",
+            "7.6760004"
+        ]
+    }
+]

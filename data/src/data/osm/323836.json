@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 113516175,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13176679405,
+        "lat": "51.8363068",
+        "lon": "6.6028916",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 5.816052491030774e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "11, Seidenweg, Feldmark, Bocholt, Kreis Borken, Nordrhein-Westfalen, 46395, Deutschland",
+        "address": {
+            "house_number": "11",
+            "road": "Seidenweg",
+            "suburb": "Feldmark",
+            "town": "Bocholt",
+            "county": "Kreis Borken",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "46395",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.8362568",
+            "51.8363568",
+            "6.6028416",
+            "6.6029416"
+        ]
+    }
+]

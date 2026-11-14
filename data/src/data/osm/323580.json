@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 112654502,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 287108657,
+        "lat": "51.0069451",
+        "lon": "6.8509629",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.006485084301545e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "18, Nordring, Esch, Esch/Auweiler, Chorweiler, Köln, Nordrhein-Westfalen, 50765, Deutschland",
+        "address": {
+            "house_number": "18",
+            "road": "Nordring",
+            "suburb": "Esch",
+            "city_district": "Chorweiler",
+            "city": "Köln",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "50765",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.0068428",
+            "51.0070390",
+            "6.8508638",
+            "6.8510536"
+        ]
+    }
+]

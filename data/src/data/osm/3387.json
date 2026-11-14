@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91884535,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2712122984,
+        "lat": "46.9482615",
+        "lon": "7.4516154",
+        "category": "office",
+        "type": "diplomatic",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "office",
+        "name": "Embassy Lithuania",
+        "display_name": "Embassy Lithuania, 12, Kramgasse, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "office": "Embassy Lithuania",
+            "house_number": "12",
+            "road": "Kramgasse",
+            "quarter": "Altstadt",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9482115",
+            "46.9483115",
+            "7.4515654",
+            "7.4516654"
+        ]
+    }
+]

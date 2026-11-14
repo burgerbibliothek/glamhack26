@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72052261,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 446942691,
+        "lat": "47.4520124",
+        "lon": "8.8459788",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 5.000152590214416e-05,
+        "addresstype": "amenity",
+        "name": "Gasthof Gyrenbad",
+        "display_name": "Gasthof Gyrenbad, 133, Girenbadstrasse, Girenbad, Turbenthal, Bezirk Winterthur, Zürich, 8488, Schweiz",
+        "address": {
+            "amenity": "Gasthof Gyrenbad",
+            "house_number": "133",
+            "road": "Girenbadstrasse",
+            "hamlet": "Girenbad",
+            "village": "Turbenthal",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8488",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4519624",
+            "47.4520624",
+            "8.8459288",
+            "8.8460288"
+        ]
+    }
+]

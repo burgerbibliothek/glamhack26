@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92042021,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2091602977,
+        "lat": "46.4256893",
+        "lon": "7.6432034",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1600510742351415,
+        "addresstype": "peak",
+        "name": "Chli Rinderhorn",
+        "display_name": "Chli Rinderhorn, Leukerbad, Leuk, Oberwallis, Wallis, 3954, Schweiz",
+        "address": {
+            "peak": "Chli Rinderhorn",
+            "village": "Leukerbad",
+            "county": "Leuk",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3954",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4256393",
+            "46.4257393",
+            "7.6431534",
+            "7.6432534"
+        ]
+    }
+]

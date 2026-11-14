@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91537816,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 370411210,
+        "lat": "46.6455431",
+        "lon": "7.1085061",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.31776205367205024,
+        "addresstype": "village",
+        "name": "Villarvolard",
+        "display_name": "Villarvolard, Corbières, Greyerzbezirk, Freiburg, 1651, Schweiz",
+        "address": {
+            "village": "Villarvolard",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1651",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6255431",
+            "46.6655431",
+            "7.0885061",
+            "7.1285061"
+        ]
+    }
+]

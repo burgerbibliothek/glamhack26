@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 122847552,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 295938979,
+        "lat": "48.6693710",
+        "lon": "8.1507683",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14670680781261916,
+        "addresstype": "village",
+        "name": "Waldmatt",
+        "display_name": "Waldmatt, Bühl, VVG der Stadt Bühl, Landkreis Rastatt, Baden-Württemberg, 77815, Deutschland",
+        "address": {
+            "village": "Waldmatt",
+            "city": "Bühl",
+            "municipality": "VVG der Stadt Bühl",
+            "county": "Landkreis Rastatt",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "77815",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.6493710",
+            "48.6893710",
+            "8.1307683",
+            "8.1707683"
+        ]
+    }
+]

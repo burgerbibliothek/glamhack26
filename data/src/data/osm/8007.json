@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92844422,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685080,
+        "lat": "46.7241440",
+        "lon": "6.5317943",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4900079648402247,
+        "addresstype": "village",
+        "name": "Orbe",
+        "display_name": "Orbe, District du Jura-Nord vaudois, Waadt, 1350, Schweiz",
+        "address": {
+            "village": "Orbe",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1350",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6975034",
+            "46.7477718",
+            "6.5204240",
+            "6.5818419"
+        ]
+    }
+]

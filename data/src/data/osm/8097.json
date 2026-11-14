@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 103159484,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1689030,
+        "lat": "50.4751466",
+        "lon": "2.3970397",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6178510372026241,
+        "addresstype": "village",
+        "name": "Pressy",
+        "display_name": "Pressy, Arras, Pas-de-Calais, Nordfrankreich, Metropolitanes Frankreich, 62550, Frankreich",
+        "address": {
+            "village": "Pressy",
+            "municipality": "Arras",
+            "county": "Pas-de-Calais",
+            "ISO3166-2-lvl6": "FR-62",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "62550",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.4657294",
+            "50.4813131",
+            "2.3613735",
+            "2.4203787"
+        ]
+    }
+]

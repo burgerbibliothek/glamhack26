@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92563634,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 798214442,
+        "lat": "47.1407101",
+        "lon": "7.7124620",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1679799034751623,
+        "addresstype": "hamlet",
+        "name": "Oschwand",
+        "display_name": "Oschwand, Hermiswil, Seeberg, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 3475, Schweiz",
+        "address": {
+            "hamlet": "Oschwand",
+            "village": "Hermiswil",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3475",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1207101",
+            "47.1607101",
+            "7.6924620",
+            "7.7324620"
+        ]
+    }
+]

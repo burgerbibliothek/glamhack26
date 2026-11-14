@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92871578,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6545232439,
+        "lat": "47.9964414",
+        "lon": "7.8475659",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.206607156476718e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "29, Rathausgasse, Altstadt-Mitte, Altstadt, Freiburg im Breisgau, Baden-Württemberg, 79098, Deutschland",
+        "address": {
+            "house_number": "29",
+            "road": "Rathausgasse",
+            "neighbourhood": "Altstadt-Mitte",
+            "suburb": "Altstadt",
+            "city": "Freiburg im Breisgau",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "79098",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.9963914",
+            "47.9964914",
+            "7.8475159",
+            "7.8476159"
+        ]
+    }
+]

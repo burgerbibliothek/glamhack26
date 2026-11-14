@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92382476,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6805670675,
+        "lat": "46.9461561",
+        "lon": "7.4448233",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "4, Münzrain, Marzili, Sandrain, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3005, Schweiz",
+        "address": {
+            "house_number": "4",
+            "road": "Münzrain",
+            "quarter": "Marzili",
+            "suburb": "Sandrain",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3005",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9461061",
+            "46.9462061",
+            "7.4447733",
+            "7.4448733"
+        ]
+    }
+]

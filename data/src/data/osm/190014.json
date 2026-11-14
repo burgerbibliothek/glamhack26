@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 219583062,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 257038179,
+        "lat": "39.4643175",
+        "lon": "111.8812195",
+        "category": "historic",
+        "type": "citywalls",
+        "place_rank": 30,
+        "importance": 0.5993187513517793,
+        "addresstype": "historic",
+        "name": "Chinesische Mauer",
+        "display_name": "Chinesische Mauer, 长城一号旅游公路, Beichang, Shangyu Town, Pianguan County, Stadt Xinzhou, Shanxi, China",
+        "address": {
+            "historic": "Chinesische Mauer",
+            "road": "长城一号旅游公路",
+            "village": "Beichang",
+            "town": "Shangyu Town",
+            "county": "Pianguan County",
+            "region": "Stadt Xinzhou",
+            "state": "Shanxi",
+            "ISO3166-2-lvl4": "CN-SX",
+            "country": "China",
+            "country_code": "cn"
+        },
+        "boundingbox": [
+            "39.4623276",
+            "39.4663366",
+            "111.8810748",
+            "111.8819755"
+        ]
+    }
+]

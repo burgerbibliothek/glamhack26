@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71707908,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 9713057,
+        "lat": "47.5078613",
+        "lon": "8.7547606",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.35411856752696674,
+        "addresstype": "suburb",
+        "name": "Oberwinterthur",
+        "display_name": "Oberwinterthur, Winterthur, Bezirk Winterthur, Zürich, Schweiz",
+        "address": {
+            "suburb": "Oberwinterthur",
+            "city": "Winterthur",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4787698",
+            "47.5480027",
+            "8.7338099",
+            "8.8099412"
+        ]
+    }
+]

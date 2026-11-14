@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91921459,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 703075343,
+        "lat": "46.9427688",
+        "lon": "7.4233355",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "19, Hubelmattstrasse, Mattenhof, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3007, Schweiz",
+        "address": {
+            "house_number": "19",
+            "road": "Hubelmattstrasse",
+            "quarter": "Mattenhof",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3007",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9427188",
+            "46.9428188",
+            "7.4232855",
+            "7.4233855"
+        ]
+    }
+]

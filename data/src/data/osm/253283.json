@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 87443826,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 384635,
+        "lat": "44.0127055",
+        "lon": "4.6982216",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5564724454290436,
+        "addresstype": "village",
+        "name": "Tavel",
+        "display_name": "Tavel, Nîmes, Gard, Okzitanien, Metropolitanes Frankreich, 30126, Frankreich",
+        "address": {
+            "village": "Tavel",
+            "municipality": "Nîmes",
+            "county": "Gard",
+            "ISO3166-2-lvl6": "FR-30",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "30126",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.9905732",
+            "44.0266363",
+            "4.6327369",
+            "4.7416761"
+        ]
+    }
+]

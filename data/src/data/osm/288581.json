@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73756262,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2202533,
+        "lat": "46.6633447",
+        "lon": "9.6332951",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.4519984561927137,
+        "addresstype": "river",
+        "name": "Albula",
+        "display_name": "Albula, Graubünden, Schweiz",
+        "address": {
+            "river": "Albula",
+            "county": "Albula",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5784536",
+            "46.7125918",
+            "9.4493973",
+            "9.8084275"
+        ]
+    }
+]

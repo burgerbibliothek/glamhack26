@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 183941576,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3375409651,
+        "lat": "50.0637779",
+        "lon": "19.9418451",
+        "category": "shop",
+        "type": "florist",
+        "place_rank": 30,
+        "importance": 7.936751354233642e-05,
+        "addresstype": "shop",
+        "name": "Teatralna",
+        "display_name": "Teatralna, 32, Spitalgasse, Altstadt, Stare Miasto, Altstadt, Krakau, Woiwodschaft Kleinpolen, 31-024, Polen",
+        "address": {
+            "shop": "Teatralna",
+            "house_number": "32",
+            "road": "Spitalgasse",
+            "quarter": "Altstadt",
+            "suburb": "Stare Miasto",
+            "city_district": "Altstadt",
+            "city": "Krakau",
+            "state": "Woiwodschaft Kleinpolen",
+            "ISO3166-2-lvl4": "PL-12",
+            "postcode": "31-024",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "50.0637279",
+            "50.0638279",
+            "19.9417951",
+            "19.9418951"
+        ]
+    }
+]

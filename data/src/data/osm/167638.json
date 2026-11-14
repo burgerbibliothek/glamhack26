@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 90903487,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 28138188,
+        "lat": "46.8625607",
+        "lon": "7.5313586",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05338780727855341,
+        "addresstype": "residential",
+        "name": "Springenhaus",
+        "display_name": "Springenhaus, Neuhaus, Belpberg, Belp, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3124, Schweiz",
+        "address": {
+            "road": "Springenhaus",
+            "hamlet": "Neuhaus",
+            "suburb": "Belpberg",
+            "village": "Belpberg",
+            "town": "Belp",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3124",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8623754",
+            "46.8627508",
+            "7.5299478",
+            "7.5328295"
+        ]
+    }
+]

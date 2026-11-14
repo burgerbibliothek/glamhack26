@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 67906143,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4875789819,
+        "lat": "47.5583323",
+        "lon": "14.8895752",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1600519180590524,
+        "addresstype": "peak",
+        "name": "Schafloch",
+        "display_name": "Schafloch, Eisenerz, Bezirk Leoben, Steiermark, 8790, Österreich",
+        "address": {
+            "peak": "Schafloch",
+            "town": "Eisenerz",
+            "county": "Bezirk Leoben",
+            "state": "Steiermark",
+            "ISO3166-2-lvl4": "AT-6",
+            "postcode": "8790",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.5582823",
+            "47.5583823",
+            "14.8895252",
+            "14.8896252"
+        ]
+    }
+]

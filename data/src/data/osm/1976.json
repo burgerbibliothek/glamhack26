@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72594039,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 540344,
+        "lat": "47.1223571",
+        "lon": "8.4798433",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.4381054293548757,
+        "addresstype": "lake",
+        "name": "Zugersee",
+        "display_name": "Zugersee, Meierskappel, Schwyz, Luzern, 6344, Schweiz",
+        "address": {
+            "lake": "Zugersee",
+            "village": "Meierskappel",
+            "county": "Schwyz",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6344",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0614622",
+            "47.1828763",
+            "8.4528847",
+            "8.5281713"
+        ]
+    }
+]

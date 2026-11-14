@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91679090,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682730,
+        "lat": "46.9308618",
+        "lon": "7.5645522",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.48333689371115596,
+        "addresstype": "town",
+        "name": "Worb",
+        "display_name": "Worb, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, Schweiz",
+        "address": {
+            "town": "Worb",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9092483",
+            "46.9515720",
+            "7.5216103",
+            "7.6176024"
+        ]
+    }
+]

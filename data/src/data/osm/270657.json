@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91570602,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 460439575,
+        "lat": "46.7140543",
+        "lon": "7.0161370",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3151525238377993,
+        "addresstype": "village",
+        "name": "Villarsel-le-Gibloux",
+        "display_name": "Villarsel-le-Gibloux, Gibloux, Saanebezirk, Freiburg, 1695, Schweiz",
+        "address": {
+            "village": "Villarsel-le-Gibloux",
+            "city": "Gibloux",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1695",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6940543",
+            "46.7340543",
+            "6.9961370",
+            "7.0361370"
+        ]
+    }
+]

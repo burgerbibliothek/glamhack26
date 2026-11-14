@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72004251,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3344853735,
+        "lat": "47.3691377",
+        "lon": "8.5310935",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "21, Gerechtigkeitsgasse, City, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz",
+        "address": {
+            "house_number": "21",
+            "road": "Gerechtigkeitsgasse",
+            "quarter": "City",
+            "suburb": "Altstadt",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3690877",
+            "47.3691877",
+            "8.5310435",
+            "8.5311435"
+        ]
+    }
+]

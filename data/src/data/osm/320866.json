@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91781288,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2583594616,
+        "lat": "46.9496554",
+        "lon": "7.4432298",
+        "category": "amenity",
+        "type": "pub",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "McCarthy's Irish Pub",
+        "display_name": "McCarthy's Irish Pub, 20, Aarbergergasse, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "amenity": "McCarthy's Irish Pub",
+            "house_number": "20",
+            "road": "Aarbergergasse",
+            "quarter": "Rotes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9496054",
+            "46.9497054",
+            "7.4431798",
+            "7.4432798"
+        ]
+    }
+]

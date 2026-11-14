@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73424239,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 344668897,
+        "lat": "46.4779410",
+        "lon": "8.0201572",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4454924665156093,
+        "addresstype": "peak",
+        "name": "Dreieckhorn",
+        "display_name": "Dreieckhorn, Bettmeralp, Östlich Raron, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "peak": "Dreieckhorn",
+            "village": "Bettmeralp",
+            "county": "Östlich Raron",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4778910",
+            "46.4779910",
+            "8.0201072",
+            "8.0202072"
+        ]
+    }
+]

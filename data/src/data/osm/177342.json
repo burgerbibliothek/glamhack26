@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 90647783,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 612391742,
+        "lat": "46.5067095",
+        "lon": "5.7736436",
+        "category": "natural",
+        "type": "water",
+        "place_rank": 22,
+        "importance": 0.1679799034751623,
+        "addresstype": "water",
+        "name": "Lac de l'Assencière",
+        "display_name": "Lac de l'Assencière, Châtel-de-Joux, Saint-Claude, Jura, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 39130, Frankreich",
+        "address": {
+            "water": "Lac de l'Assencière",
+            "village": "Châtel-de-Joux",
+            "municipality": "Saint-Claude",
+            "county": "Jura",
+            "ISO3166-2-lvl6": "FR-39",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "39130",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.5063587",
+            "46.5071378",
+            "5.7732376",
+            "5.7740933"
+        ]
+    }
+]

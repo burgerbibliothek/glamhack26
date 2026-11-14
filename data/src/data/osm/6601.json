@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92817700,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682813,
+        "lat": "47.1506183",
+        "lon": "8.0013407",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39022041580958405,
+        "addresstype": "village",
+        "name": "Alberswil",
+        "display_name": "Alberswil, Luzern, 6248, Schweiz",
+        "address": {
+            "village": "Alberswil",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6248",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1312001",
+            "47.1599635",
+            "7.9794869",
+            "8.0073106"
+        ]
+    }
+]

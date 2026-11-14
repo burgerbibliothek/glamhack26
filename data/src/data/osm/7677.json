@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91965939,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685031,
+        "lat": "46.5265684",
+        "lon": "6.5206068",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4469318768565461,
+        "addresstype": "village",
+        "name": "Lonay",
+        "display_name": "Lonay, District de Morges, Waadt, 1027, Schweiz",
+        "address": {
+            "village": "Lonay",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1027",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5173137",
+            "46.5422146",
+            "6.5040349",
+            "6.5339352"
+        ]
+    }
+]

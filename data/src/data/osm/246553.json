@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93242772,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683515,
+        "lat": "47.2572657",
+        "lon": "7.5768712",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3735437609124175,
+        "addresstype": "village",
+        "name": "Günsberg",
+        "display_name": "Günsberg, Bezirk Lebern, Amtei Solothurn-Lebern, Solothurn, 4524, Schweiz",
+        "address": {
+            "village": "Günsberg",
+            "municipality": "Bezirk Lebern",
+            "county": "Amtei Solothurn-Lebern",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4524",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2492227",
+            "47.2763510",
+            "7.5481177",
+            "7.5949079"
+        ]
+    }
+]

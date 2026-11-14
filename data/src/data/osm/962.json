@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 47857677,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1381350,
+        "lat": "31.7788472",
+        "lon": "35.2257856",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.7779582981863712,
+        "addresstype": "city",
+        "name": "Jerusalem",
+        "display_name": "Jerusalem, Unterbezirk Jerusalem, Bezirk Jerusalem, Israel",
+        "address": {
+            "city": "Jerusalem",
+            "state_district": "Unterbezirk Jerusalem",
+            "state": "Bezirk Jerusalem",
+            "ISO3166-2-lvl4": "IL-JM",
+            "country": "Israel",
+            "country_code": "il"
+        },
+        "boundingbox": [
+            "31.7096214",
+            "31.8826655",
+            "35.0852011",
+            "35.2650458"
+        ]
+    }
+]

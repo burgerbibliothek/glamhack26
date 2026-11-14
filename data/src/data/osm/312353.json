@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91574131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 459850004,
+        "lat": "46.5489446",
+        "lon": "7.0171352",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4514027827507835,
+        "addresstype": "peak",
+        "name": "Moléson",
+        "display_name": "Moléson, Gruyères, Greyerzbezirk, Freiburg, 1663, Schweiz",
+        "address": {
+            "peak": "Moléson",
+            "village": "Gruyères",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1663",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5488946",
+            "46.5489946",
+            "7.0170852",
+            "7.0171852"
+        ]
+    }
+]

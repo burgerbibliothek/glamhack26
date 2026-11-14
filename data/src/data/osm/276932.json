@@ -1,0 +1,28 @@
+[
+    {
+        "place_id": 425167779,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2698607,
+        "lat": "45.9083263",
+        "lon": "9.1420628",
+        "category": "boundary",
+        "type": "region",
+        "place_rank": 18,
+        "importance": 0.7224670975960791,
+        "addresstype": "region",
+        "name": "Alpen",
+        "display_name": "Alpen, Italien",
+        "address": {
+            "region": "Alpen",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "43.4077305",
+            "48.4092924",
+            "5.0455740",
+            "16.6058353"
+        ]
+    }
+]

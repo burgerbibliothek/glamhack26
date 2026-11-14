@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92336058,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240113091,
+        "lat": "47.0557511",
+        "lon": "7.4488838",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.36736730413826313,
+        "addresstype": "village",
+        "name": "Bangerten",
+        "display_name": "Bangerten, Rapperswil (BE), Seeland administrative district, Seeland administrative region, Bern, 3256, Schweiz",
+        "address": {
+            "village": "Bangerten",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3256",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0357511",
+            "47.0757511",
+            "7.4288838",
+            "7.4688838"
+        ]
+    }
+]

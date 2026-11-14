@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 90917178,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4031313414,
+        "lat": "46.4027557",
+        "lon": "6.1488282",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10671471808957043,
+        "addresstype": "isolated_dwelling",
+        "name": "Bonmont",
+        "display_name": "Bonmont, Chéserex, District de Nyon, Waadt, 1275, Schweiz",
+        "address": {
+            "isolated_dwelling": "Bonmont",
+            "village": "Chéserex",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1275",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4027057",
+            "46.4028057",
+            "6.1487782",
+            "6.1488782"
+        ]
+    }
+]

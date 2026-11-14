@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92789593,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6164273313,
+        "lat": "47.2804937",
+        "lon": "7.1732649",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337832074464026,
+        "addresstype": "hamlet",
+        "name": "Fornet-Dessous",
+        "display_name": "Fornet-Dessous, Châtelat, Petit-Val, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2717, Schweiz",
+        "address": {
+            "hamlet": "Fornet-Dessous",
+            "village": "Châtelat",
+            "city": "Petit-Val",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2717",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2604937",
+            "47.3004937",
+            "7.1532649",
+            "7.1932649"
+        ]
+    }
+]

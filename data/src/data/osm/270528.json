@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92412171,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683428,
+        "lat": "46.6530690",
+        "lon": "6.9292600",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3793875555226289,
+        "addresstype": "village",
+        "name": "Vuisternens-devant-Romont",
+        "display_name": "Vuisternens-devant-Romont, Glanebezirk, Freiburg, Schweiz",
+        "address": {
+            "village": "Vuisternens-devant-Romont",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6138793",
+            "46.6941195",
+            "6.8877016",
+            "6.9918300"
+        ]
+    }
+]

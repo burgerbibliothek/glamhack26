@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91794736,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683406,
+        "lat": "46.7445749",
+        "lon": "6.8607883",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3930358659837339,
+        "addresstype": "village",
+        "name": "Surpierre",
+        "display_name": "Surpierre, Broyebezirk, Freiburg, 1528, Schweiz",
+        "address": {
+            "village": "Surpierre",
+            "county": "Broyebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1528",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7245857",
+            "46.7749429",
+            "6.8125052",
+            "6.8820901"
+        ]
+    }
+]

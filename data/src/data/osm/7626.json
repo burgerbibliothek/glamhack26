@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91652397,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682530,
+        "lat": "46.6540687",
+        "lon": "7.7738604",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41191683235927684,
+        "addresstype": "village",
+        "name": "Leissigen",
+        "display_name": "Leissigen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3706, Schweiz",
+        "address": {
+            "village": "Leissigen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3706",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6221928",
+            "46.6603167",
+            "7.7447908",
+            "7.8092125"
+        ]
+    }
+]

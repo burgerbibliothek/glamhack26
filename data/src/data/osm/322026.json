@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 145391889,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 22933351,
+        "lat": "52.1206954",
+        "lon": "11.6183513",
+        "category": "highway",
+        "type": "unclassified",
+        "place_rank": 26,
+        "importance": 0.05340585259784844,
+        "addresstype": "unclassified",
+        "name": "Schlachthofweg",
+        "display_name": "Schlachthofweg, Bahnhofsviertel, Altstadt, Magdeburg, Sachsen-Anhalt, 39104, Deutschland",
+        "address": {
+            "road": "Schlachthofweg",
+            "neighbourhood": "Bahnhofsviertel",
+            "suburb": "Altstadt",
+            "city": "Magdeburg",
+            "state": "Sachsen-Anhalt",
+            "ISO3166-2-lvl4": "DE-ST",
+            "postcode": "39104",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.1204247",
+            "52.1209058",
+            "11.6167197",
+            "11.6199931"
+        ]
+    }
+]

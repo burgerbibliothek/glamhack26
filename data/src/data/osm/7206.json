@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72717565,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683073,
+        "lat": "47.2044110",
+        "lon": "8.7598816",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.43883445952664873,
+        "addresstype": "village",
+        "name": "Freienbach",
+        "display_name": "Freienbach, Höfe, Schwyz, Schweiz",
+        "address": {
+            "village": "Freienbach",
+            "county": "Höfe",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1733457",
+            "47.2225628",
+            "8.7212517",
+            "8.8163360"
+        ]
+    }
+]

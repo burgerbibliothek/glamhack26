@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91211224,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685307,
+        "lat": "46.0828050",
+        "lon": "6.9765238",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3841981265934431,
+        "addresstype": "village",
+        "name": "Finhaut",
+        "display_name": "Finhaut, St-Maurice, Unterwallis, Wallis, 1925, Schweiz",
+        "address": {
+            "village": "Finhaut",
+            "county": "St-Maurice",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1925",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0425240",
+            "46.1014179",
+            "6.8717270",
+            "6.9926141"
+        ]
+    }
+]

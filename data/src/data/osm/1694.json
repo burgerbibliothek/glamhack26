@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72993637,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2971400806,
+        "lat": "47.0274441",
+        "lon": "8.5195668",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.19938740066310082,
+        "addresstype": "peak",
+        "name": "Rigi Scheidegg",
+        "display_name": "Rigi Scheidegg, Gersau, Schwyz, 6442, Schweiz",
+        "address": {
+            "peak": "Rigi Scheidegg",
+            "village": "Gersau",
+            "county": "Gersau",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "6442",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0273941",
+            "47.0274941",
+            "8.5195168",
+            "8.5196168"
+        ]
+    }
+]

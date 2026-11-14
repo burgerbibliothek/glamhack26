@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 91655996,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2093320038,
+        "lat": "46.9456438",
+        "lon": "7.4368296",
+        "category": "shop",
+        "type": "bicycle",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "shop",
+        "name": "Thömus Factory Store",
+        "display_name": "Thömus Factory Store, 1, Effingerstrasse, Villette, Monbijou, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "shop": "Thömus Factory Store",
+            "house_number": "1",
+            "road": "Effingerstrasse",
+            "neighbourhood": "Villette",
+            "quarter": "Monbijou",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9455938",
+            "46.9456938",
+            "7.4367796",
+            "7.4368796"
+        ]
+    }
+]

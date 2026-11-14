@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91832727,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685299,
+        "lat": "46.2927770",
+        "lon": "7.7148033",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.35557074529832616,
+        "addresstype": "village",
+        "name": "Ergisch",
+        "display_name": "Ergisch, Leuk, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "village": "Ergisch",
+            "county": "Leuk",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2043697",
+            "46.3011993",
+            "7.6984509",
+            "7.7624760"
+        ]
+    }
+]

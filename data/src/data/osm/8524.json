@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 96427112,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 390972,
+        "lat": "48.8430632",
+        "lon": "0.0330790",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5644410504589954,
+        "addresstype": "village",
+        "name": "Trun",
+        "display_name": "Trun, Argentan, Orne, Normandie, Metropolitanes Frankreich, 61160, Frankreich",
+        "address": {
+            "village": "Trun",
+            "municipality": "Argentan",
+            "county": "Orne",
+            "ISO3166-2-lvl6": "FR-61",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "61160",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8297732",
+            "48.8711079",
+            "0.0169710",
+            "0.0706933"
+        ]
+    }
+]

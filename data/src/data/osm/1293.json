@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72536470,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2092719536,
+        "lat": "47.4404479",
+        "lon": "8.2025915",
+        "category": "amenity",
+        "type": "fire_station",
+        "place_rank": 30,
+        "importance": 4.778896772712318e-05,
+        "addresstype": "amenity",
+        "name": "Regionale Feuerwehr Eigenamt",
+        "display_name": "Regionale Feuerwehr Eigenamt, 6, Spycherweg, Scherz, Lupfig, Bezirk Brugg, Aargau, 5242, Schweiz",
+        "address": {
+            "amenity": "Regionale Feuerwehr Eigenamt",
+            "house_number": "6",
+            "road": "Spycherweg",
+            "village": "Scherz",
+            "county": "Bezirk Brugg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5242",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4403979",
+            "47.4404979",
+            "8.2025415",
+            "8.2026415"
+        ]
+    }
+]

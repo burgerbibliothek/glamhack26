@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73753530,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9525580186,
+        "lat": "46.7498245",
+        "lon": "8.2363643",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06670806057831692,
+        "addresstype": "locality",
+        "name": "Mägisalp",
+        "display_name": "Mägisalp, Hasliberg, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 6086, Schweiz",
+        "address": {
+            "locality": "Mägisalp",
+            "municipality": "Hasliberg",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "6086",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7398245",
+            "46.7598245",
+            "8.2263643",
+            "8.2463643"
+        ]
+    }
+]

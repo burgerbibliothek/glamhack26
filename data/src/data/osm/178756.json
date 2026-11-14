@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91826379,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 459849951,
+        "lat": "46.4547924",
+        "lon": "7.2030961",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.09078915819201436,
+        "addresstype": "peak",
+        "name": "La Videmanette",
+        "display_name": "La Videmanette, Rougemont, Bezirk Riviera-Pays-d'Enhaut, Waadt, 1659, Schweiz",
+        "address": {
+            "peak": "La Videmanette",
+            "village": "Rougemont",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1659",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4547424",
+            "46.4548424",
+            "7.2030461",
+            "7.2031461"
+        ]
+    }
+]

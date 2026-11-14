@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 71732908,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1169055177,
+        "lat": "47.3695634",
+        "lon": "8.5477127",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.24930035976498935,
+        "addresstype": "tertiary",
+        "name": "Hirschengraben",
+        "display_name": "Hirschengraben, Hochschulen, Altstadt, Zürich, Bezirk Zürich, Zürich, 8024, Schweiz",
+        "address": {
+            "road": "Hirschengraben",
+            "quarter": "Hochschulen",
+            "suburb": "Altstadt",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8024",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3692263",
+            "47.3699011",
+            "8.5474511",
+            "8.5479749"
+        ]
+    }
+]

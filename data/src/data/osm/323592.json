@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145859291,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1898418740,
+        "lat": "52.5162344",
+        "lon": "13.4825508",
+        "category": "amenity",
+        "type": "cafe",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "amenity",
+        "name": "Bonjour",
+        "display_name": "Bonjour, 37, Normannenstraße, Lichtenberg, Berlin, 10367, Deutschland",
+        "address": {
+            "amenity": "Bonjour",
+            "house_number": "37",
+            "road": "Normannenstraße",
+            "suburb": "Lichtenberg",
+            "borough": "Lichtenberg",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10367",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5161844",
+            "52.5162844",
+            "13.4825008",
+            "13.4826008"
+        ]
+    }
+]

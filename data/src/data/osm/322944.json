@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145715567,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 429739598,
+        "lat": "52.5220107",
+        "lon": "13.3814333",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "27, Marienstraße, Friedrich-Wilhelm-Stadt, Mitte, Berlin, 10117, Deutschland",
+        "address": {
+            "house_number": "27",
+            "road": "Marienstraße",
+            "quarter": "Friedrich-Wilhelm-Stadt",
+            "suburb": "Mitte",
+            "borough": "Mitte",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10117",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5219607",
+            "52.5220607",
+            "13.3813833",
+            "13.3814833"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 111582777,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4014788692,
+        "lat": "51.1949742",
+        "lon": "6.4413590",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 6.801480125119428e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "29, Postgasse, Gründerzeitviertel, Gladbach, Nord, Mönchengladbach, Nordrhein-Westfalen, 41061, Deutschland",
+        "address": {
+            "house_number": "29",
+            "road": "Postgasse",
+            "neighbourhood": "Gründerzeitviertel",
+            "suburb": "Gladbach",
+            "city_district": "Nord",
+            "city": "Mönchengladbach",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "41061",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.1949242",
+            "51.1950242",
+            "6.4413090",
+            "6.4414090"
+        ]
+    }
+]

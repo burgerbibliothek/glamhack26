@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 116449304,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 282794857,
+        "lat": "50.9566638",
+        "lon": "6.8850990",
+        "category": "building",
+        "type": "semidetached_house",
+        "place_rank": 30,
+        "importance": 8.006485084301545e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "17, Falkenweg, Alt-Vogelsang, Vogelsang, Ehrenfeld, Köln, Nordrhein-Westfalen, 50829, Deutschland",
+        "address": {
+            "house_number": "17",
+            "road": "Falkenweg",
+            "neighbourhood": "Alt-Vogelsang",
+            "suburb": "Vogelsang",
+            "city_district": "Ehrenfeld",
+            "city": "Köln",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "50829",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9566239",
+            "50.9567037",
+            "6.8850394",
+            "6.8851585"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92426463,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684853,
+        "lat": "46.7255605",
+        "lon": "6.7108156",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4419798675817451,
+        "addresstype": "village",
+        "name": "Bioley-Magnoux",
+        "display_name": "Bioley-Magnoux, District du Jura-Nord vaudois, Waadt, Schweiz",
+        "address": {
+            "village": "Bioley-Magnoux",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7150419",
+            "46.7391494",
+            "6.6970963",
+            "6.7329723"
+        ]
+    }
+]

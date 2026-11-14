@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 147257533,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2283288,
+        "lat": "54.3042768",
+        "lon": "13.1198511",
+        "category": "place",
+        "type": "islet",
+        "place_rank": 20,
+        "importance": 0.1334006507972839,
+        "addresstype": "islet",
+        "name": "Kleiner Dänholm",
+        "display_name": "Kleiner Dänholm, Franken, Stralsund, Vorpommern-Rügen, Mecklenburg-Vorpommern, Deutschland",
+        "address": {
+            "islet": "Kleiner Dänholm",
+            "suburb": "Franken",
+            "town": "Stralsund",
+            "county": "Vorpommern-Rügen",
+            "state": "Mecklenburg-Vorpommern",
+            "ISO3166-2-lvl4": "DE-MV",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "54.3026767",
+            "54.3058872",
+            "13.1155152",
+            "13.1259041"
+        ]
+    }
+]

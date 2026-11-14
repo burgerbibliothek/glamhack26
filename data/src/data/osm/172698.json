@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72418290,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4543888790,
+        "lat": "47.0235375",
+        "lon": "8.9863570",
+        "category": "historic",
+        "type": "memorial",
+        "place_rank": 30,
+        "importance": 5.737773708700721e-05,
+        "addresstype": "historic",
+        "name": "Gessner-Denkmal",
+        "display_name": "Gessner-Denkmal, Seestrasse, Vorauen, Glarus, Schweiz",
+        "address": {
+            "historic": "Gessner-Denkmal",
+            "road": "Seestrasse",
+            "hamlet": "Vorauen",
+            "town": "Glarus",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0234875",
+            "47.0235875",
+            "8.9863070",
+            "8.9864070"
+        ]
+    }
+]

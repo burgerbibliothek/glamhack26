@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73466537,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 4638291,
+        "lat": "46.6188466",
+        "lon": "8.4000567",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.44297043555740573,
+        "addresstype": "glacier",
+        "name": "Rhonegletscher",
+        "display_name": "Rhonegletscher, Obergoms, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "glacier": "Rhonegletscher",
+            "city": "Obergoms",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5800827",
+            "46.6575968",
+            "8.3755065",
+            "8.4219977"
+        ]
+    }
+]

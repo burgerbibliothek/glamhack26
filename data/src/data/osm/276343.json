@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 125716270,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 16563807,
+        "lat": "49.4093277",
+        "lon": "9.6594709",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.1773516541617975,
+        "addresstype": "hamlet",
+        "name": "Horrenbach",
+        "display_name": "Horrenbach, Krautheim, GVV Krautheim, Hohenlohekreis, Baden-Württemberg, Deutschland",
+        "address": {
+            "hamlet": "Horrenbach",
+            "village": "Krautheim",
+            "municipality": "GVV Krautheim",
+            "county": "Hohenlohekreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.3977133",
+            "49.4150711",
+            "9.6454781",
+            "9.6725137"
+        ]
+    }
+]

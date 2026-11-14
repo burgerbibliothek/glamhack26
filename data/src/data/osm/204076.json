@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92444670,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683536,
+        "lat": "47.1751090",
+        "lon": "7.5990600",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3891971053939251,
+        "addresstype": "village",
+        "name": "Kriegstetten",
+        "display_name": "Kriegstetten, Bezirk Wasseramt, Amtei Bucheggberg-Wasseramt, Solothurn, 4566, Schweiz",
+        "address": {
+            "village": "Kriegstetten",
+            "municipality": "Bezirk Wasseramt",
+            "county": "Amtei Bucheggberg-Wasseramt",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4566",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1620100",
+            "47.1924133",
+            "7.5864047",
+            "7.6372246"
+        ]
+    }
+]

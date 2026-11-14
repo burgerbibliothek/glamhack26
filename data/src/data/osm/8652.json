@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71849709,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684568,
+        "lat": "47.5878752",
+        "lon": "8.8881957",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3957352519202844,
+        "addresstype": "city",
+        "name": "Warth-Weiningen",
+        "display_name": "Warth-Weiningen, Bezirk Frauenfeld, Thurgau, 8532, Schweiz",
+        "address": {
+            "city": "Warth-Weiningen",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8532",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5765814",
+            "47.5991872",
+            "8.8499675",
+            "8.9175042"
+        ]
+    }
+]

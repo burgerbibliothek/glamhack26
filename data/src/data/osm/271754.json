@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92049243,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1802514412,
+        "lat": "46.6381439",
+        "lon": "6.8736794",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.29322317952748045,
+        "addresstype": "village",
+        "name": "Prez-vers-Siviriez",
+        "display_name": "Prez-vers-Siviriez, Siviriez, Glanebezirk, Freiburg, 1677, Schweiz",
+        "address": {
+            "village": "Prez-vers-Siviriez",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1677",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6181439",
+            "46.6581439",
+            "6.8536794",
+            "6.8936794"
+        ]
+    }
+]

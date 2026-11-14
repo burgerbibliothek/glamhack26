@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 146393875,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 149996425,
+        "lat": "52.4523969",
+        "lon": "13.3294547",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "19, Mittelstraße, Steglitz, Steglitz-Zehlendorf, Berlin, 12167, Deutschland",
+        "address": {
+            "house_number": "19",
+            "road": "Mittelstraße",
+            "suburb": "Steglitz",
+            "borough": "Steglitz-Zehlendorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12167",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4522967",
+            "52.4525010",
+            "13.3293373",
+            "13.3295908"
+        ]
+    }
+]

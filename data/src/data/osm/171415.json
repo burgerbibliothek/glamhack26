@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92498071,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1955180999,
+        "lat": "47.0472056",
+        "lon": "6.8748367",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.19283288150311992,
+        "addresstype": "railway",
+        "name": "Les Hauts-Geneveys",
+        "display_name": "Les Hauts-Geneveys, Avenue de la Gare, Les Hauts-Geneveys, Val-de-Ruz, Val-de-Ruz Region, Neuenburg, 2208, Schweiz",
+        "address": {
+            "railway": "Les Hauts-Geneveys",
+            "road": "Avenue de la Gare",
+            "village": "Les Hauts-Geneveys",
+            "city": "Val-de-Ruz",
+            "county": "Val-de-Ruz Region",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2208",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0422056",
+            "47.0522056",
+            "6.8698367",
+            "6.8798367"
+        ]
+    }
+]

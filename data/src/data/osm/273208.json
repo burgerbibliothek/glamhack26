@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 76743899,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9388716650,
+        "lat": "44.6975424",
+        "lon": "10.4031927",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.4452007487319592,
+        "addresstype": "hamlet",
+        "name": "Malcantone",
+        "display_name": "Malcantone, Basilicagoiano, Montechiarugolo, Parma, Emilia-Romagna, 43022, Italien",
+        "address": {
+            "hamlet": "Malcantone",
+            "village": "Basilicagoiano",
+            "county": "Parma",
+            "ISO3166-2-lvl6": "IT-PR",
+            "state": "Emilia-Romagna",
+            "ISO3166-2-lvl4": "IT-45",
+            "postcode": "43022",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.6775424",
+            "44.7175424",
+            "10.3831927",
+            "10.4231927"
+        ]
+    }
+]

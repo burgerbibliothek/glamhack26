@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91810528,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682681,
+        "lat": "46.7542844",
+        "lon": "7.5750016",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4094405247320548,
+        "addresstype": "village",
+        "name": "Thierachern",
+        "display_name": "Thierachern, Verwaltungskreis Thun, Oberland administrative region, Bern, 3634, Schweiz",
+        "address": {
+            "village": "Thierachern",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3634",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7315776",
+            "46.7651904",
+            "7.5409345",
+            "7.5932098"
+        ]
+    }
+]

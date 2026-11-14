@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 90904923,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1116772,
+        "lat": "46.1572481",
+        "lon": "4.5294301",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5198930394271886,
+        "addresstype": "village",
+        "name": "Vernay",
+        "display_name": "Vernay, Villefranche-sur-Saône, Rhône, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 69430, Frankreich",
+        "address": {
+            "village": "Vernay",
+            "municipality": "Villefranche-sur-Saône",
+            "county": "Rhône",
+            "ISO3166-2-lvl6": "FR-69",
+            "state_district": "Rhône",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "69430",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.1532292",
+            "46.1746326",
+            "4.5075733",
+            "4.5484058"
+        ]
+    }
+]

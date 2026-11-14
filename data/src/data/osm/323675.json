@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 146921572,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 53148165,
+        "lat": "53.4288830",
+        "lon": "14.5346566",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 7.326695658803719e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "18, Bolesława Śmiałego, Torney, Stadtmitte, Stettin, Woiwodschaft Westpommern, 70-351, Polen",
+        "address": {
+            "house_number": "18",
+            "road": "Bolesława Śmiałego",
+            "suburb": "Torney",
+            "borough": "Stadtmitte",
+            "city": "Stettin",
+            "state": "Woiwodschaft Westpommern",
+            "ISO3166-2-lvl4": "PL-32",
+            "postcode": "70-351",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "53.4287771",
+            "53.4290404",
+            "14.5344917",
+            "14.5348117"
+        ]
+    }
+]

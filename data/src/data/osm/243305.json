@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 133855339,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 278729479,
+        "lat": "50.8632296",
+        "lon": "15.8725383",
+        "category": "tourism",
+        "type": "alpine_hut",
+        "place_rank": 30,
+        "importance": 0.2827546027204031,
+        "addresstype": "tourism",
+        "name": "Schweizerhaus",
+        "display_name": "Schweizerhaus, 7, Janowicka, Karpniki, gmina Mysłakowice, Karkonosze County, Woiwodschaft Niederschlesien, 58-515, Polen",
+        "address": {
+            "tourism": "Schweizerhaus",
+            "house_number": "7",
+            "road": "Janowicka",
+            "village": "Karpniki",
+            "municipality": "gmina Mysłakowice",
+            "county": "Karkonosze County",
+            "state": "Woiwodschaft Niederschlesien",
+            "ISO3166-2-lvl4": "PL-02",
+            "postcode": "58-515",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "50.8631613",
+            "50.8632985",
+            "15.8724477",
+            "15.8726283"
+        ]
+    }
+]

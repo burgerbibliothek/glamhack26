@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91229887,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10796720051,
+        "lat": "46.4677432",
+        "lon": "6.3343866",
+        "category": "craft",
+        "type": "winery",
+        "place_rank": 30,
+        "importance": 5.248111696035733e-05,
+        "addresstype": "craft",
+        "name": "Domaine de Montbenay",
+        "display_name": "Domaine de Montbenay, 2a, Chemin de Jérusalem, Germagny, Mont-sur-Rolle, District de Nyon, Waadt, 1185, Schweiz",
+        "address": {
+            "craft": "Domaine de Montbenay",
+            "house_number": "2a",
+            "road": "Chemin de Jérusalem",
+            "hamlet": "Germagny",
+            "village": "Mont-sur-Rolle",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1185",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4676932",
+            "46.4677932",
+            "6.3343366",
+            "6.3344366"
+        ]
+    }
+]

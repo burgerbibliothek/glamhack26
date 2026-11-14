@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91810304,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 200771288,
+        "lat": "46.9213166",
+        "lon": "7.5114406",
+        "category": "highway",
+        "type": "primary",
+        "place_rank": 26,
+        "importance": 0.05338859006637671,
+        "addresstype": "primary",
+        "name": "Thunstrasse",
+        "display_name": "Thunstrasse, Muri, Allmendingen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3112, Schweiz",
+        "address": {
+            "road": "Thunstrasse",
+            "suburb": "Muri",
+            "village": "Allmendingen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3112",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9205704",
+            "46.9221530",
+            "7.5100084",
+            "7.5129210"
+        ]
+    }
+]

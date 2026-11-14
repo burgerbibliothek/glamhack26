@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91654631,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 230611050,
+        "lat": "46.9419305",
+        "lon": "7.4494457",
+        "category": "tourism",
+        "type": "museum",
+        "place_rank": 30,
+        "importance": 0.463121116868131,
+        "addresstype": "tourism",
+        "name": "Natural History Museum of Bern",
+        "display_name": "Natural History Museum of Bern, 15, Bernastrasse, Dalmazi, Kirchenfeld, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3005, Schweiz",
+        "address": {
+            "tourism": "Natural History Museum of Bern",
+            "house_number": "15",
+            "road": "Bernastrasse",
+            "quarter": "Dalmazi",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3005",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9415935",
+            "46.9422475",
+            "7.4486442",
+            "7.4497657"
+        ]
+    }
+]

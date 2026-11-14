@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91528274,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 290778210,
+        "lat": "46.8281599",
+        "lon": "7.1740518",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338278095674067,
+        "addresstype": "hamlet",
+        "name": "Balliswil",
+        "display_name": "Balliswil, Düdingen, Sensebezirk, Freiburg, 3186, Schweiz",
+        "address": {
+            "hamlet": "Balliswil",
+            "village": "Düdingen",
+            "county": "Sensebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "3186",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8081599",
+            "46.8481599",
+            "7.1540518",
+            "7.1940518"
+        ]
+    }
+]

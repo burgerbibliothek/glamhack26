@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 128814258,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 879077566,
+        "lat": "48.3363120",
+        "lon": "13.0932780",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338282063019757,
+        "addresstype": "hamlet",
+        "name": "Wegmühle",
+        "display_name": "Wegmühle, Ering, Ering (VGem), Landkreis Rottal-Inn, Bayern, 94140, Deutschland",
+        "address": {
+            "hamlet": "Wegmühle",
+            "village": "Ering",
+            "municipality": "Ering (VGem)",
+            "county": "Landkreis Rottal-Inn",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "94140",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.3163120",
+            "48.3563120",
+            "13.0732780",
+            "13.1132780"
+        ]
+    }
+]

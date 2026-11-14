@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 188320184,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 207606846,
+        "lat": "48.2116614",
+        "lon": "16.2216426",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "9, Postgasse, Cottageviertel, Mariabrunn, Katastralgemeinde Hadersdorf, Penzing, Wien, 1140, Österreich",
+        "address": {
+            "house_number": "9",
+            "road": "Postgasse",
+            "neighbourhood": "Cottageviertel",
+            "quarter": "Mariabrunn",
+            "suburb": "Katastralgemeinde Hadersdorf",
+            "city_district": "Penzing",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1140",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2115950",
+            "48.2117277",
+            "16.2215425",
+            "16.2217426"
+        ]
+    }
+]

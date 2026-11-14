@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 137318798,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6896533602,
+        "lat": "50.2175718",
+        "lon": "11.3661544",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.29684236187219576,
+        "addresstype": "village",
+        "name": "Hinterstöcken",
+        "display_name": "Hinterstöcken, Kronach, Landkreis Kronach, Bayern, 96317, Deutschland",
+        "address": {
+            "village": "Hinterstöcken",
+            "city": "Kronach",
+            "county": "Landkreis Kronach",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "96317",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.1975718",
+            "50.2375718",
+            "11.3461544",
+            "11.3861544"
+        ]
+    }
+]

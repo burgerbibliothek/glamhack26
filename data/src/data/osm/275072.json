@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72958976,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682928,
+        "lat": "47.1843530",
+        "lon": "8.0261730",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39189118331215606,
+        "addresstype": "village",
+        "name": "Wauwil",
+        "display_name": "Wauwil, Luzern, 6242, Schweiz",
+        "address": {
+            "village": "Wauwil",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6242",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1729472",
+            "47.1956861",
+            "8.0131057",
+            "8.0367203"
+        ]
+    }
+]

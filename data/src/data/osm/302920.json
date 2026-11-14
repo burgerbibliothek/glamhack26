@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91575071,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685316,
+        "lat": "46.1807413",
+        "lon": "7.4057866",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37898700054830464,
+        "addresstype": "village",
+        "name": "Hérémence",
+        "display_name": "Hérémence, Ering, Mittelwallis, Wallis, 1987, Schweiz",
+        "address": {
+            "village": "Hérémence",
+            "county": "Ering",
+            "state_district": "Mittelwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1987",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9894162",
+            "46.1921426",
+            "7.3442263",
+            "7.4426700"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92464313,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13545730301,
+        "lat": "46.9478332",
+        "lon": "7.4500310",
+        "category": "shop",
+        "type": "gift",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "shop",
+        "name": "iljos cucina",
+        "display_name": "iljos cucina, 47, Kramgasse, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3000, Schweiz",
+        "address": {
+            "shop": "iljos cucina",
+            "house_number": "47",
+            "road": "Kramgasse",
+            "quarter": "Altstadt",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9477832",
+            "46.9478832",
+            "7.4499810",
+            "7.4500810"
+        ]
+    }
+]

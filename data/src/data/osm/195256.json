@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91045249,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2260098,
+        "lat": "46.1974025",
+        "lon": "6.1409078",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.41081406578491936,
+        "addresstype": "suburb",
+        "name": "Plainpalais",
+        "display_name": "Plainpalais, Genf, 1205, Schweiz",
+        "address": {
+            "suburb": "Plainpalais",
+            "city": "Genf",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "postcode": "1205",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1867526",
+            "46.2010778",
+            "6.1392258",
+            "6.1537085"
+        ]
+    }
+]

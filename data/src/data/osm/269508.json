@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92136162,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685135,
+        "lat": "46.6903286",
+        "lon": "6.7349556",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.35411856752696674,
+        "addresstype": "village",
+        "name": "Saint-Cierges",
+        "display_name": "Saint-Cierges, Montanaire, District du Gros-de-Vaud, Waadt, 1064, Schweiz",
+        "address": {
+            "village": "Saint-Cierges",
+            "city": "Montanaire",
+            "county": "District du Gros-de-Vaud",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1064",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6754002",
+            "46.7040025",
+            "6.7172234",
+            "6.7776472"
+        ]
+    }
+]

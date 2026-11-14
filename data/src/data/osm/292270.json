@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 145841251,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 680881136,
+        "lat": "52.3738867",
+        "lon": "13.6030027",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "12, Erlenweg, Siedlung Eichberg, Waltersdorf, Schulzendorf, Schenkendorf-Krummensee, Dahme-Spreewald, Brandenburg, 15732, Deutschland",
+        "address": {
+            "house_number": "12",
+            "road": "Erlenweg",
+            "hamlet": "Siedlung Eichberg",
+            "village": "Waltersdorf",
+            "municipality": "Schenkendorf-Krummensee",
+            "county": "Dahme-Spreewald",
+            "state": "Brandenburg",
+            "ISO3166-2-lvl4": "DE-BB",
+            "postcode": "15732",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.3738250",
+            "52.3739484",
+            "13.6028985",
+            "13.6031069"
+        ]
+    }
+]

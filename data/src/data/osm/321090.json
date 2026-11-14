@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 123926316,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8070899752,
+        "lat": "48.5966733",
+        "lon": "8.8687238",
+        "category": "information",
+        "type": "board",
+        "place_rank": 30,
+        "importance": 5.596017395280411e-05,
+        "addresstype": "information",
+        "name": "Badgasse 21",
+        "display_name": "Badgasse 21, 21, Badgasse, Herrenberg (Stadt), Herrenberg, VVG der Stadt Herrenberg, Landkreis Böblingen, Baden-Württemberg, 71083, Deutschland",
+        "address": {
+            "information": "Badgasse 21",
+            "house_number": "21",
+            "road": "Badgasse",
+            "town": "Herrenberg (Stadt)",
+            "municipality": "VVG der Stadt Herrenberg",
+            "county": "Landkreis Böblingen",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "71083",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.5966233",
+            "48.5967233",
+            "8.8686738",
+            "8.8687738"
+        ]
+    }
+]

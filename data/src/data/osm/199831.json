@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 419962596,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 20982783,
+        "lat": "47.3659896",
+        "lon": "8.8204115",
+        "category": "place",
+        "type": "region",
+        "place_rank": 18,
+        "importance": 0.16004503013656823,
+        "addresstype": "region",
+        "name": "Zürcher Oberland",
+        "display_name": "Zürcher Oberland, Bezirk Pfäffikon, Zürich, Schweiz",
+        "address": {
+            "region": "Zürcher Oberland",
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2432624",
+            "47.4887118",
+            "8.6775126",
+            "8.9849510"
+        ]
+    }
+]

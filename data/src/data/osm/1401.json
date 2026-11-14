@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91222566,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5887456159,
+        "lat": "46.7322475",
+        "lon": "7.4477528",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06670835660334172,
+        "addresstype": "locality",
+        "name": "Gurnigel",
+        "display_name": "Gurnigel, Rüeggisberg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, Schweiz",
+        "address": {
+            "locality": "Gurnigel",
+            "village": "Rüeggisberg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7222475",
+            "46.7422475",
+            "7.4377528",
+            "7.4577528"
+        ]
+    }
+]

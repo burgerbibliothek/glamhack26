@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92682691,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 8036450,
+        "lat": "47.1917831",
+        "lon": "7.2462466",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.38493605591222957,
+        "addresstype": "village",
+        "name": "Péry",
+        "display_name": "Péry, Péry-La Heutte, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2603, Schweiz",
+        "address": {
+            "village": "Péry",
+            "city": "Péry-La Heutte",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2603",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1698240",
+            "47.2175214",
+            "7.2288091",
+            "7.3204635"
+        ]
+    }
+]

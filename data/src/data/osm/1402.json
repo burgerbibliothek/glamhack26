@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92713429,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 430765089,
+        "lat": "46.7613942",
+        "lon": "7.4435782",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338582818341344,
+        "addresstype": "hamlet",
+        "name": "Gurnigelbad",
+        "display_name": "Gurnigelbad, Riggisberg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3132, Schweiz",
+        "address": {
+            "hamlet": "Gurnigelbad",
+            "village": "Riggisberg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3132",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7413942",
+            "46.7813942",
+            "7.4235782",
+            "7.4635782"
+        ]
+    }
+]

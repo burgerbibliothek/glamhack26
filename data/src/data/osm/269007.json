@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92457876,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240034387,
+        "lat": "47.3668809",
+        "lon": "6.9540107",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.31243468429384014,
+        "addresstype": "village",
+        "name": "Roche-d'Or",
+        "display_name": "Roche-d'Or, Haute-Ajoie, Bezirk Porrentruy, Jura, 2912, Schweiz",
+        "address": {
+            "village": "Roche-d'Or",
+            "city": "Haute-Ajoie",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2912",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3468809",
+            "47.3868809",
+            "6.9340107",
+            "6.9740107"
+        ]
+    }
+]

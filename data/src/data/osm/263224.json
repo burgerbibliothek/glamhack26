@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93155006,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685601,
+        "lat": "47.3238285",
+        "lon": "7.1856593",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3733250944850813,
+        "addresstype": "city_district",
+        "name": "Glovelier",
+        "display_name": "Glovelier, Haute-Sorne, Bezirk Delsberg, Jura, 2855, Schweiz",
+        "address": {
+            "city_district": "Glovelier",
+            "city": "Haute-Sorne",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2855",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2995857",
+            "47.3484274",
+            "7.1373409",
+            "7.2223837"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92002782,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10032766755,
+        "lat": "47.1658026",
+        "lon": "6.9893554",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.27236747457604304,
+        "addresstype": "peak",
+        "name": "Mont Soleil",
+        "display_name": "Mont Soleil, Saint-Imier, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2610, Schweiz",
+        "address": {
+            "peak": "Mont Soleil",
+            "village": "Saint-Imier",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2610",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1657526",
+            "47.1658526",
+            "6.9893054",
+            "6.9894054"
+        ]
+    }
+]

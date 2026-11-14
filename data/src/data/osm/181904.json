@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91954295,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 26862474,
+        "lat": "46.4651980",
+        "lon": "7.9932117",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4779790681261021,
+        "addresstype": "peak",
+        "name": "Aletschhorn",
+        "display_name": "Aletschhorn, Naters, Brig, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "peak": "Aletschhorn",
+            "village": "Naters",
+            "county": "Brig",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4651480",
+            "46.4652480",
+            "7.9931617",
+            "7.9932617"
+        ]
+    }
+]

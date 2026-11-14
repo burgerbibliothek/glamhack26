@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 86751310,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 120695,
+        "lat": "45.2995221",
+        "lon": "1.8507685",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5385170135267359,
+        "addresstype": "village",
+        "name": "Gimel-les-Cascades",
+        "display_name": "Gimel-les-Cascades, Tulle, Corrèze, Neu-Aquitanien, Metropolitanes Frankreich, 19800, Frankreich",
+        "address": {
+            "village": "Gimel-les-Cascades",
+            "municipality": "Tulle",
+            "county": "Corrèze",
+            "ISO3166-2-lvl6": "FR-19",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "19800",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.2729868",
+            "45.3293691",
+            "1.7885010",
+            "1.8793195"
+        ]
+    }
+]

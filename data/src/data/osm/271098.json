@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92611627,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 286068893,
+        "lat": "47.3920034",
+        "lon": "6.9998562",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.32363080181052895,
+        "addresstype": "village",
+        "name": "Chevenez",
+        "display_name": "Chevenez, Haute-Ajoie, Bezirk Porrentruy, Jura, 2906, Schweiz",
+        "address": {
+            "village": "Chevenez",
+            "city": "Haute-Ajoie",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2906",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3720034",
+            "47.4120034",
+            "6.9798562",
+            "7.0198562"
+        ]
+    }
+]

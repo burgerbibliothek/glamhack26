@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91362721,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8862668019,
+        "lat": "46.5548071",
+        "lon": "7.3740219",
+        "category": "amenity",
+        "type": "driving_school",
+        "place_rank": 30,
+        "importance": 4.1357289997665635e-05,
+        "addresstype": "amenity",
+        "name": "Obersimmental",
+        "display_name": "Obersimmental, Montreuxstrasse, Stalde, Mannried, Zweisimmen, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3770, Schweiz",
+        "address": {
+            "amenity": "Obersimmental",
+            "road": "Montreuxstrasse",
+            "hamlet": "Stalde",
+            "village": "Mannried",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3770",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5547571",
+            "46.5548571",
+            "7.3739719",
+            "7.3740719"
+        ]
+    }
+]

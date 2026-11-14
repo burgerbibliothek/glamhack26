@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 99967460,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3008251,
+        "lat": "49.7953910",
+        "lon": "0.8592043",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5849147972443964,
+        "addresstype": "village",
+        "name": "Autigny",
+        "display_name": "Autigny, Dieppe, Seine-Maritime, Normandie, Metropolitanes Frankreich, 76740, Frankreich",
+        "address": {
+            "village": "Autigny",
+            "municipality": "Dieppe",
+            "county": "Seine-Maritime",
+            "ISO3166-2-lvl6": "FR-76",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "76740",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.7815445",
+            "49.8105070",
+            "0.8387138",
+            "0.8691082"
+        ]
+    }
+]

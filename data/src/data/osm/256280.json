@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91970426,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 40886757,
+        "lat": "46.9337689",
+        "lon": "7.4488985",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "building",
+        "name": "Dählhölzli",
+        "display_name": "Dählhölzli, 2, Tierparkweg, Dalmazi, Kirchenfeld, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3005, Schweiz",
+        "address": {
+            "building": "Dählhölzli",
+            "house_number": "2",
+            "road": "Tierparkweg",
+            "quarter": "Dalmazi",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3005",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9336184",
+            "46.9339173",
+            "7.4486511",
+            "7.4492427"
+        ]
+    }
+]

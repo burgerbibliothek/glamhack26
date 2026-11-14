@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73088804,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6914702964,
+        "lat": "46.7443970",
+        "lon": "8.0926752",
+        "category": "place",
+        "type": "neighbourhood",
+        "place_rank": 24,
+        "importance": 0.08005512245365069,
+        "addresstype": "neighbourhood",
+        "name": "Wilerbrücke",
+        "display_name": "Wilerbrücke, Unterbach, Meiringen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3856, Schweiz",
+        "address": {
+            "neighbourhood": "Wilerbrücke",
+            "village": "Unterbach",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3856",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7343970",
+            "46.7543970",
+            "8.0826752",
+            "8.1026752"
+        ]
+    }
+]

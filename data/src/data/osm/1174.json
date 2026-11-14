@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 152614799,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1452923658,
+        "lat": "52.5720777",
+        "lon": "13.4527185",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05342208819714653,
+        "addresstype": "residential",
+        "name": "Axenstraße",
+        "display_name": "Axenstraße, Heinersdorf, Pankow, Berlin, 13089, Deutschland",
+        "address": {
+            "road": "Axenstraße",
+            "suburb": "Heinersdorf",
+            "borough": "Pankow",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13089",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5719582",
+            "52.5721972",
+            "13.4525882",
+            "13.4528489"
+        ]
+    }
+]

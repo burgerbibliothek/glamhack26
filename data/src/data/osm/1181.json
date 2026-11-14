@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72109214,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1105588020,
+        "lat": "47.2807988",
+        "lon": "8.7013342",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10671101014724954,
+        "addresstype": "isolated_dwelling",
+        "name": "Balmholz",
+        "display_name": "Balmholz, Esslingen, Egg, Bezirk Uster, Zürich, Schweiz",
+        "address": {
+            "isolated_dwelling": "Balmholz",
+            "village": "Esslingen",
+            "county": "Bezirk Uster",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2800809",
+            "47.2819247",
+            "8.7005692",
+            "8.7025685"
+        ]
+    }
+]

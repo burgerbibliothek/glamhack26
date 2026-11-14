@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 123124523,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 79376778,
+        "lat": "48.7635793",
+        "lon": "9.1773846",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.8644235904433e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "10, Altenbergstraße, Lehen, Stuttgart-Süd, Stuttgart, Baden-Württemberg, 70180, Deutschland",
+        "address": {
+            "house_number": "10",
+            "road": "Altenbergstraße",
+            "neighbourhood": "Lehen",
+            "suburb": "Stuttgart-Süd",
+            "city": "Stuttgart",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "70180",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.7634950",
+            "48.7636635",
+            "9.1773021",
+            "9.1774670"
+        ]
+    }
+]

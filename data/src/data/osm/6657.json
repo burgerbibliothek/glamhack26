@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73711114,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684041,
+        "lat": "46.7797248",
+        "lon": "9.6781356",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5285270064089688,
+        "addresstype": "village",
+        "name": "Arosa",
+        "display_name": "Arosa, Plessur, Graubünden, Schweiz",
+        "address": {
+            "village": "Arosa",
+            "county": "Plessur",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7295740",
+            "46.8736008",
+            "9.5832230",
+            "9.8070118"
+        ]
+    }
+]

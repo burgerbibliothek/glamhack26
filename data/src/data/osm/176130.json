@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91856948,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1505760950,
+        "lat": "46.1156899",
+        "lon": "7.0997616",
+        "category": "highway",
+        "type": "motorway_junction",
+        "place_rank": 30,
+        "importance": 5.901655603871241e-05,
+        "addresstype": "highway",
+        "name": "Grand Saint-Bernard",
+        "display_name": "Grand Saint-Bernard, A9, Le Guercet, Martigny, Martinach, Unterwallis, Wallis, 1927, Schweiz",
+        "address": {
+            "highway": "Grand Saint-Bernard",
+            "road": "A9",
+            "village": "Le Guercet",
+            "town": "Martigny",
+            "county": "Martinach",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1927",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1156399",
+            "46.1157399",
+            "7.0997116",
+            "7.0998116"
+        ]
+    }
+]

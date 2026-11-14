@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91694445,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 303814461,
+        "lat": "46.7409445",
+        "lon": "7.1770092",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671518806744482,
+        "addresstype": "village",
+        "name": "Montévraz",
+        "display_name": "Montévraz, Le Mouret, Saanebezirk, Freiburg, 1724, Schweiz",
+        "address": {
+            "village": "Montévraz",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1724",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7209445",
+            "46.7609445",
+            "7.1570092",
+            "7.1970092"
+        ]
+    }
+]

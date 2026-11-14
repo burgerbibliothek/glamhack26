@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 93899850,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11518563417,
+        "lat": "47.1211717",
+        "lon": "7.4121884",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671474402990768,
+        "addresstype": "locality",
+        "name": "Hofuure",
+        "display_name": "Hofuure, Oberwil bei Büren, Seeland administrative district, Seeland administrative region, Bern, 3298, Schweiz",
+        "address": {
+            "locality": "Hofuure",
+            "village": "Oberwil bei Büren",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3298",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1111717",
+            "47.1311717",
+            "7.4021884",
+            "7.4221884"
+        ]
+    }
+]

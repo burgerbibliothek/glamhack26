@@ -1,0 +1,41 @@
+[
+    {
+        "place_id": 95323816,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12994962109,
+        "lat": "46.7404660",
+        "lon": "1.8369782",
+        "category": "shop",
+        "type": "car_repair",
+        "place_rank": 30,
+        "importance": 6.007400625615347e-05,
+        "addresstype": "shop",
+        "name": "Garage du Chêne Vert - Garage Lepers",
+        "display_name": "Garage du Chêne Vert - Garage Lepers, 69, Avenue de Verdun, Saint-Martin, Saint-Vincent, Bruneterre, Ardentes, Châteauroux, Indre, Zentrum-Loiretal, Metropolitanes Frankreich, 36120, Frankreich",
+        "address": {
+            "shop": "Garage du Chêne Vert - Garage Lepers",
+            "house_number": "69",
+            "road": "Avenue de Verdun",
+            "neighbourhood": "Saint-Martin",
+            "quarter": "Saint-Vincent",
+            "hamlet": "Bruneterre",
+            "village": "Ardentes",
+            "municipality": "Châteauroux",
+            "county": "Indre",
+            "ISO3166-2-lvl6": "FR-36",
+            "state": "Zentrum-Loiretal",
+            "ISO3166-2-lvl4": "FR-CVL",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "36120",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.7404160",
+            "46.7405160",
+            "1.8369282",
+            "1.8370282"
+        ]
+    }
+]

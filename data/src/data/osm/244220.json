@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73254267,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684702,
+        "lat": "46.2318743",
+        "lon": "9.0672648",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.35614271866453184,
+        "addresstype": "village",
+        "name": "Lumino",
+        "display_name": "Lumino, Kreis Arbedo-Castione, Bezirk Bellinzona, Tessin, 6533, Schweiz",
+        "address": {
+            "village": "Lumino",
+            "municipality": "Kreis Arbedo-Castione",
+            "county": "Bezirk Bellinzona",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6533",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2101078",
+            "46.2766034",
+            "9.0495605",
+            "9.0890585"
+        ]
+    }
+]

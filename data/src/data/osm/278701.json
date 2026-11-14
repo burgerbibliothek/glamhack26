@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91782582,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1350577339,
+        "lat": "46.0939140",
+        "lon": "7.8588670",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4857419571472126,
+        "addresstype": "peak",
+        "name": "Dom",
+        "display_name": "Dom, Saas-Fee, Visp, Oberwallis, Wallis, 3906, Schweiz",
+        "address": {
+            "peak": "Dom",
+            "village": "Saas-Fee",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3906",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0938640",
+            "46.0939640",
+            "7.8588170",
+            "7.8589170"
+        ]
+    }
+]

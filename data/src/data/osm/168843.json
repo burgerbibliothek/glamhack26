@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 125505316,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 12616036,
+        "lat": "49.2361584",
+        "lon": "9.3293362",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.4859384485461709,
+        "addresstype": "town",
+        "name": "Neuenstadt",
+        "display_name": "Neuenstadt, Neuenstadt am Kocher, VVG der Stadt Neuenstadt am Kocher, Landkreis Heilbronn, Baden-Württemberg, Deutschland",
+        "address": {
+            "town": "Neuenstadt",
+            "municipality": "VVG der Stadt Neuenstadt am Kocher",
+            "county": "Landkreis Heilbronn",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.1972709",
+            "49.2401130",
+            "9.3061736",
+            "9.3686576"
+        ]
+    }
+]

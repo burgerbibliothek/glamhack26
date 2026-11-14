@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72149559,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2906840335,
+        "lat": "47.3762310",
+        "lon": "8.5446259",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "44, Zähringerstrasse, Rathaus, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz",
+        "address": {
+            "house_number": "44",
+            "road": "Zähringerstrasse",
+            "quarter": "Rathaus",
+            "suburb": "Altstadt",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3761810",
+            "47.3762810",
+            "8.5445759",
+            "8.5446759"
+        ]
+    }
+]

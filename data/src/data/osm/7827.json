@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 283619850,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1153871051,
+        "lat": "50.7238227",
+        "lon": "-3.5109895",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05340006027313646,
+        "addresstype": "residential",
+        "name": "Mont Le Grand",
+        "display_name": "Mont Le Grand, Newtown, Exeter, Devon, Devon and Torbay, England, EX1 2PD, Vereinigtes Königreich",
+        "address": {
+            "road": "Mont Le Grand",
+            "suburb": "Newtown",
+            "city": "Exeter",
+            "county": "Devon",
+            "ISO3166-2-lvl6": "GB-DEV",
+            "state_district": "Devon and Torbay",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "EX1 2PD",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "50.7236232",
+            "50.7240223",
+            "-3.5115719",
+            "-3.5104071"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91881032,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1394919086,
+        "lat": "46.5125763",
+        "lon": "7.8543864",
+        "category": "natural",
+        "type": "arete",
+        "place_rank": 22,
+        "importance": 0.10671010223544668,
+        "addresstype": "arete",
+        "name": "Tschingelgrat",
+        "display_name": "Tschingelgrat, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "arete": "Tschingelgrat",
+            "village": "Lauterbrunnen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5115062",
+            "46.5148106",
+            "7.8483413",
+            "7.8599400"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 137545759,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11182867054,
+        "lat": "51.3076844",
+        "lon": "8.2892928",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1600567032883192,
+        "addresstype": "peak",
+        "name": "Suberg",
+        "display_name": "Suberg, Meschede, Hochsauerlandkreis, Nordrhein-Westfalen, 59872, Deutschland",
+        "address": {
+            "peak": "Suberg",
+            "town": "Meschede",
+            "county": "Hochsauerlandkreis",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "59872",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.3076344",
+            "51.3077344",
+            "8.2892428",
+            "8.2893428"
+        ]
+    }
+]

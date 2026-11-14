@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72572662,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2917307826,
+        "lat": "47.3721068",
+        "lon": "8.5410474",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "6, Schwanengasse, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz",
+        "address": {
+            "house_number": "6",
+            "road": "Schwanengasse",
+            "quarter": "Lindenhof",
+            "suburb": "Altstadt",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3720568",
+            "47.3721568",
+            "8.5409974",
+            "8.5410974"
+        ]
+    }
+]

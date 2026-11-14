@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72041440,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 301570693,
+        "lat": "47.4241993",
+        "lon": "8.9115995",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.09078915819201436,
+        "addresstype": "hamlet",
+        "name": "Sitzberg",
+        "display_name": "Sitzberg, Turbenthal, Bezirk Winterthur, Zürich, 8495, Schweiz",
+        "address": {
+            "hamlet": "Sitzberg",
+            "village": "Turbenthal",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8495",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4041993",
+            "47.4441993",
+            "8.8915995",
+            "8.9315995"
+        ]
+    }
+]

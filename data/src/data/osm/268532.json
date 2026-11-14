@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 419218198,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1524394064,
+        "lat": "46.9587698",
+        "lon": "7.8483642",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 22,
+        "importance": 0.1067049874113069,
+        "addresstype": "stream",
+        "name": "Twärengraben",
+        "display_name": "Twärengraben, Trub, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3556, Schweiz",
+        "address": {
+            "stream": "Twärengraben",
+            "village": "Trub",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3556",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9585801",
+            "46.9589305",
+            "7.8482430",
+            "7.8483837"
+        ]
+    }
+]

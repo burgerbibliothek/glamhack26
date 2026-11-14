@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73795857,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 47086,
+        "lat": "46.3179384",
+        "lon": "10.8009380",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5644647146088988,
+        "addresstype": "city",
+        "name": "Mezzana",
+        "display_name": "Mezzana, Comunità della Valle di Sole, Autonome Provinz Trient, Trentino-Südtirol, Italien",
+        "address": {
+            "city": "Mezzana",
+            "municipality": "Comunità della Valle di Sole",
+            "county": "Autonome Provinz Trient",
+            "ISO3166-2-lvl6": "IT-TN",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.2661491",
+            "46.3706407",
+            "10.7727271",
+            "10.8257137"
+        ]
+    }
+]

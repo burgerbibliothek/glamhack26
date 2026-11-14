@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91953383,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 31664300,
+        "lat": "46.6940109",
+        "lon": "7.5377356",
+        "category": "tourism",
+        "type": "viewpoint",
+        "place_rank": 30,
+        "importance": 0.4519984561927137,
+        "addresstype": "tourism",
+        "name": "Stockhorn",
+        "display_name": "Stockhorn, Oberstocken, Stocken-Höfen, Verwaltungskreis Thun, Oberland administrative region, Bern, 3762, Schweiz",
+        "address": {
+            "tourism": "Stockhorn",
+            "road": "Stockhorn",
+            "village": "Oberstocken",
+            "city": "Stocken-Höfen",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3762",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6939609",
+            "46.6940609",
+            "7.5376856",
+            "7.5377856"
+        ]
+    }
+]

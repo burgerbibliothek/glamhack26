@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 90993367,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9278813349,
+        "lat": "46.2071463",
+        "lon": "6.1188198",
+        "category": "historic",
+        "type": "memorial",
+        "place_rank": 30,
+        "importance": 7.90165560387124e-05,
+        "addresstype": "historic",
+        "name": "Bourbaki-Denkmal und 1915-17 Genève",
+        "display_name": "Bourbaki-Denkmal und 1915-17 Genève, Chemin François-Furet, Les Ouches, La Concorde, Saint-Jean et Charmilles, Genf, 1203, Schweiz",
+        "address": {
+            "historic": "Bourbaki-Denkmal und 1915-17 Genève",
+            "road": "Chemin François-Furet",
+            "neighbourhood": "Les Ouches",
+            "quarter": "La Concorde",
+            "suburb": "Saint-Jean et Charmilles",
+            "city": "Genf",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "postcode": "1203",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2070963",
+            "46.2071963",
+            "6.1187698",
+            "6.1188698"
+        ]
+    }
+]

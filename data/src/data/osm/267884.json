@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91472301,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 4806715,
+        "lat": "46.4116337",
+        "lon": "7.6191917",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.2562004762132184,
+        "addresstype": "lake",
+        "name": "Daubensee",
+        "display_name": "Daubensee, Leukerbad, Leuk, Oberwallis, Wallis, 3954, Schweiz",
+        "address": {
+            "lake": "Daubensee",
+            "village": "Leukerbad",
+            "county": "Leuk",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3954",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4043545",
+            "46.4187890",
+            "7.6135498",
+            "7.6240272"
+        ]
+    }
+]

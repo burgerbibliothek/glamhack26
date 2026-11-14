@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73339677,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7193110565,
+        "lat": "47.4113972",
+        "lon": "9.3368444",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 6.722743572132474e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "10, Erlachstrasse, Bruggen, Sankt Gallen, Wahlkreis St. Gallen, St. Gallen, 9014, Schweiz",
+        "address": {
+            "house_number": "10",
+            "road": "Erlachstrasse",
+            "suburb": "Bruggen",
+            "city": "Sankt Gallen",
+            "county": "Wahlkreis St. Gallen",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9014",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4113472",
+            "47.4114472",
+            "9.3367944",
+            "9.3368944"
+        ]
+    }
+]

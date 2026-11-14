@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 84625450,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 348059,
+        "lat": "42.3736381",
+        "lon": "1.8871916",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5117692060407495,
+        "addresstype": "village",
+        "name": "Alp",
+        "display_name": "Alp, Cerdanya, Girona, Katalonien, 17538, Spanien",
+        "address": {
+            "village": "Alp",
+            "county": "Cerdanya",
+            "province": "Girona",
+            "ISO3166-2-lvl6": "ES-GI",
+            "state": "Katalonien",
+            "ISO3166-2-lvl4": "ES-CT",
+            "postcode": "17538",
+            "country": "Spanien",
+            "country_code": "es"
+        },
+        "boundingbox": [
+            "42.3083515",
+            "42.3827795",
+            "1.8686049",
+            "2.0160595"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92279085,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 548505758,
+        "lat": "46.9680074",
+        "lon": "7.1896076",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 4.846036469057782e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "38a, Murtenstrasse, Kerzers, Seebezirk, Freiburg, 3210, Schweiz",
+        "address": {
+            "house_number": "38a",
+            "road": "Murtenstrasse",
+            "village": "Kerzers",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "3210",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9678682",
+            "46.9681866",
+            "7.1893971",
+            "7.1898181"
+        ]
+    }
+]

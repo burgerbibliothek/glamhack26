@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 143219502,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 51277261,
+        "lat": "53.5593824",
+        "lon": "9.9645588",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.255359731436664e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "4, Schanzenstraße, Sternschanze, Altona, Hamburg, 20357, Deutschland",
+        "address": {
+            "house_number": "4",
+            "road": "Schanzenstraße",
+            "suburb": "Sternschanze",
+            "city_district": "Altona",
+            "city": "Hamburg",
+            "ISO3166-2-lvl4": "DE-HH",
+            "postcode": "20357",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "53.5593314",
+            "53.5594621",
+            "9.9644406",
+            "9.9646657"
+        ]
+    }
+]

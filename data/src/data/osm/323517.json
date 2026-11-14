@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92947603,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 926274078,
+        "lat": "47.1381100",
+        "lon": "7.2449407",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 6.320210574497623e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "34, Neuengasse, Neustadt, Biel, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2502, Schweiz",
+        "address": {
+            "house_number": "34",
+            "road": "Neuengasse",
+            "suburb": "Neustadt",
+            "city": "Biel",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2502",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1380317",
+            "47.1381906",
+            "7.2448180",
+            "7.2450637"
+        ]
+    }
+]

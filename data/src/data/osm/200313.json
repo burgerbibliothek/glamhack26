@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72964839,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240091637,
+        "lat": "47.1045090",
+        "lon": "8.6415298",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.22489365626900393,
+        "addresstype": "hamlet",
+        "name": "Morgarten",
+        "display_name": "Morgarten, Oberägeri, Zug, 6315, Schweiz",
+        "address": {
+            "hamlet": "Morgarten",
+            "village": "Oberägeri",
+            "state": "Zug",
+            "ISO3166-2-lvl4": "CH-ZG",
+            "postcode": "6315",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0845090",
+            "47.1245090",
+            "8.6215298",
+            "8.6615298"
+        ]
+    }
+]

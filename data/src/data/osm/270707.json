@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92111852,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 652567842,
+        "lat": "46.7506768",
+        "lon": "7.1774652",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.3172483997907332,
+        "addresstype": "hamlet",
+        "name": "Praroman",
+        "display_name": "Praroman, Montévraz, Le Mouret, Saanebezirk, Freiburg, 1724, Schweiz",
+        "address": {
+            "hamlet": "Praroman",
+            "village": "Montévraz",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1724",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7306768",
+            "46.7706768",
+            "7.1574652",
+            "7.1974652"
+        ]
+    }
+]

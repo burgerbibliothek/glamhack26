@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 93077794,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 918041762,
+        "lat": "47.0975731",
+        "lon": "7.1040845",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 4.5112535286442624e-05,
+        "addresstype": "information",
+        "name": "Montagne Diesse/Châtillon",
+        "display_name": "Montagne Diesse/Châtillon, Route de Châtillon, Châtillon, Prêles, Plateau de Diesse, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2515, Schweiz",
+        "address": {
+            "information": "Montagne Diesse/Châtillon",
+            "road": "Route de Châtillon",
+            "hamlet": "Châtillon",
+            "village": "Prêles",
+            "city": "Plateau de Diesse",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2515",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0975231",
+            "47.0976231",
+            "7.1040345",
+            "7.1041345"
+        ]
+    }
+]

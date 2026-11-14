@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92937694,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683708,
+        "lat": "47.4634767",
+        "lon": "7.8125639",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.43407397006149884,
+        "addresstype": "village",
+        "name": "Sissach",
+        "display_name": "Sissach, Bezirk Sissach, Basel-Landschaft, 4450, Schweiz",
+        "address": {
+            "village": "Sissach",
+            "county": "Bezirk Sissach",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4450",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4508131",
+            "47.4885241",
+            "7.7767738",
+            "7.8346230"
+        ]
+    }
+]

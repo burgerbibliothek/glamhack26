@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92648377,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685570,
+        "lat": "47.4710500",
+        "lon": "7.0360430",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38401233771949483,
+        "addresstype": "city",
+        "name": "Basse-Allaine",
+        "display_name": "Basse-Allaine, Bezirk Porrentruy, Jura, Schweiz",
+        "address": {
+            "city": "Basse-Allaine",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4436715",
+            "47.4984472",
+            "6.9997923",
+            "7.0750140"
+        ]
+    }
+]

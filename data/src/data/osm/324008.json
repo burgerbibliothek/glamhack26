@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 136633737,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 900445768,
+        "lat": "50.6485818",
+        "lon": "11.9866168",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.2630655374944956e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "25, Speichergasse, Meinersdorf, Zeulenroda, Zeulenroda-Triebes, Greiz, Thüringen, 07937, Deutschland",
+        "address": {
+            "house_number": "25",
+            "road": "Speichergasse",
+            "suburb": "Meinersdorf",
+            "town": "Zeulenroda",
+            "municipality": "Zeulenroda-Triebes",
+            "county": "Greiz",
+            "state": "Thüringen",
+            "ISO3166-2-lvl4": "DE-TH",
+            "postcode": "07937",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.6485230",
+            "50.6486406",
+            "11.9865165",
+            "11.9867170"
+        ]
+    }
+]

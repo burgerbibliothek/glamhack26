@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92629536,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4225424989,
+        "lat": "47.1472112",
+        "lon": "7.7128468",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.133378149843595,
+        "addresstype": "hamlet",
+        "name": "Spych",
+        "display_name": "Spych, Ochlenberg, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 3367, Schweiz",
+        "address": {
+            "hamlet": "Spych",
+            "village": "Ochlenberg",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3367",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1272112",
+            "47.1672112",
+            "7.6928468",
+            "7.7328468"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 140330514,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 277050005,
+        "lat": "52.0463380",
+        "lon": "9.9919549",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337682383459218,
+        "addresstype": "hamlet",
+        "name": "Maiental",
+        "display_name": "Maiental, Östrum, Bad Salzdetfurth, Landkreis Hildesheim, Niedersachsen, 31162, Deutschland",
+        "address": {
+            "hamlet": "Maiental",
+            "village": "Östrum",
+            "town": "Bad Salzdetfurth",
+            "county": "Landkreis Hildesheim",
+            "state": "Niedersachsen",
+            "ISO3166-2-lvl4": "DE-NI",
+            "postcode": "31162",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.0263380",
+            "52.0663380",
+            "9.9719549",
+            "10.0119549"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92061678,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 539761312,
+        "lat": "46.5464845",
+        "lon": "7.6598138",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.2713361062662927,
+        "addresstype": "valley",
+        "name": "Kandertal",
+        "display_name": "Kandertal, Kandergrund, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "valley": "Kandertal",
+            "village": "Kandergrund",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4955939",
+            "46.5967409",
+            "7.6523956",
+            "7.6751211"
+        ]
+    }
+]

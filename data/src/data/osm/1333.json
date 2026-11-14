@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72199962,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1694010,
+        "lat": "47.3662672",
+        "lon": "8.5107128",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.40336244684265926,
+        "addresstype": "suburb",
+        "name": "Kreis 3",
+        "display_name": "Kreis 3, Zürich, Bezirk Zürich, Zürich, Schweiz",
+        "address": {
+            "suburb": "Kreis 3",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3363588",
+            "47.3810104",
+            "8.4834275",
+            "8.5281842"
+        ]
+    }
+]

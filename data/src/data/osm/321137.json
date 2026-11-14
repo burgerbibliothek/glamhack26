@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 187397316,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2184128085,
+        "lat": "48.2275792",
+        "lon": "16.3591195",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "15, Badgasse, Lichtental, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich",
+        "address": {
+            "house_number": "15",
+            "road": "Badgasse",
+            "neighbourhood": "Lichtental",
+            "suburb": "Alsergrund",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1090",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2275292",
+            "48.2276292",
+            "16.3590695",
+            "16.3591695"
+        ]
+    }
+]

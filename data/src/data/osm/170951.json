@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91255890,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685449,
+        "lat": "46.1499139",
+        "lon": "6.1051191",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44903335771633834,
+        "addresstype": "village",
+        "name": "Bardonnex",
+        "display_name": "Bardonnex, Genf, 1257, Schweiz",
+        "address": {
+            "village": "Bardonnex",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "postcode": "1257",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1403178",
+            "46.1588930",
+            "6.0917351",
+            "6.1472578"
+        ]
+    }
+]

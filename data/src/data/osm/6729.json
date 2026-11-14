@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91286699,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684845,
+        "lat": "46.4411298",
+        "lon": "6.2492689",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44266723809851893,
+        "addresstype": "village",
+        "name": "Begnins",
+        "display_name": "Begnins, District de Nyon, Waadt, 1268, Schweiz",
+        "address": {
+            "village": "Begnins",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1268",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4316337",
+            "46.4611764",
+            "6.2369910",
+            "6.2683507"
+        ]
+    }
+]

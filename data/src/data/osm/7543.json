@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 95673592,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682515,
+        "lat": "46.6609730",
+        "lon": "7.7256121",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3759021037005979,
+        "addresstype": "village",
+        "name": "Krattigen",
+        "display_name": "Krattigen, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3704, Schweiz",
+        "address": {
+            "village": "Krattigen",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3704",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6318984",
+            "46.6660352",
+            "7.7145799",
+            "7.7651010"
+        ]
+    }
+]

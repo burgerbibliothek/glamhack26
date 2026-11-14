@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 174612567,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 692618088,
+        "lat": "54.2262445",
+        "lon": "21.8429671",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2954185985350713,
+        "addresstype": "village",
+        "name": "Waldhof",
+        "display_name": "Waldhof, Gemeinde Buddern, powiat węgorzewski, Woiwodschaft Ermland-Masuren, 11-606, Polen",
+        "address": {
+            "village": "Waldhof",
+            "municipality": "Gemeinde Buddern",
+            "state": "Woiwodschaft Ermland-Masuren",
+            "ISO3166-2-lvl4": "PL-28",
+            "postcode": "11-606",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "54.2062445",
+            "54.2462445",
+            "21.8229671",
+            "21.8629671"
+        ]
+    }
+]

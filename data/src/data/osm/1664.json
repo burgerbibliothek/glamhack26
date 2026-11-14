@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91522036,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 35867668,
+        "lat": "46.7071128",
+        "lon": "7.7260967",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.1570394422394589,
+        "addresstype": "building",
+        "name": "Gut Ralligen",
+        "display_name": "Gut Ralligen, 3, Schlossweg, Endorf, Gunten, Merligen, Verwaltungskreis Thun, Oberland administrative region, Bern, 3658, Schweiz",
+        "address": {
+            "building": "Gut Ralligen",
+            "house_number": "3",
+            "road": "Schlossweg",
+            "hamlet": "Endorf",
+            "village": "Gunten",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3658",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7069549",
+            "46.7072639",
+            "7.7258479",
+            "7.7263455"
+        ]
+    }
+]

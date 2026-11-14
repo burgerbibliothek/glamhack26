@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 72923862,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682912,
+        "lat": "47.1153443",
+        "lon": "8.3911091",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39005097060730937,
+        "addresstype": "village",
+        "name": "Root",
+        "display_name": "Root, Luzern, Schweiz",
+        "address": {
+            "village": "Root",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0972524",
+            "47.1405651",
+            "8.3561067",
+            "8.4203260"
+        ]
+    }
+]

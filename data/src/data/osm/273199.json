@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73280068,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 902770546,
+        "lat": "46.4911317",
+        "lon": "8.7545297",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.3809657170471295,
+        "addresstype": "valley",
+        "name": "Valle Leventina",
+        "display_name": "Valle Leventina, Bezirk Leventina, Tessin, Schweiz",
+        "address": {
+            "valley": "Valle Leventina",
+            "county": "Bezirk Leventina",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3569828",
+            "46.5263022",
+            "8.5121045",
+            "8.9565815"
+        ]
+    }
+]

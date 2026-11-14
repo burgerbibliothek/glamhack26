@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 82862705,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5397917437,
+        "lat": "43.5509034",
+        "lon": "7.0199163",
+        "category": "shop",
+        "type": "jewelry",
+        "place_rank": 30,
+        "importance": 7.097047379258438e-05,
+        "addresstype": "shop",
+        "name": "Ferret",
+        "display_name": "Ferret, Boulevard de la Croisette, La Lepre, Cannes, Grasse, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 06407, Frankreich",
+        "address": {
+            "shop": "Ferret",
+            "road": "Boulevard de la Croisette",
+            "suburb": "La Lepre",
+            "town": "Cannes",
+            "municipality": "Grasse",
+            "county": "Maritime Alps",
+            "ISO3166-2-lvl6": "FR-06",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "06407",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.5508534",
+            "43.5509534",
+            "7.0198663",
+            "7.0199663"
+        ]
+    }
+]

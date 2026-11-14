@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 178799793,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 31522699,
+        "lat": "53.9424319",
+        "lon": "21.8730947",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3459998341921779,
+        "addresstype": "village",
+        "name": "Milken",
+        "display_name": "Milken, Gemeinde Milken, Giżycko County, Woiwodschaft Ermland-Masuren, 11-513, Polen",
+        "address": {
+            "village": "Milken",
+            "municipality": "Gemeinde Milken",
+            "county": "Giżycko County",
+            "state": "Woiwodschaft Ermland-Masuren",
+            "ISO3166-2-lvl4": "PL-28",
+            "postcode": "11-513",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "53.9224319",
+            "53.9624319",
+            "21.8530947",
+            "21.8930947"
+        ]
+    }
+]

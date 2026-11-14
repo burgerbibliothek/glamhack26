@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 96778479,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1769723,
+        "lat": "48.8708848",
+        "lon": "3.5381991",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.583850028965619,
+        "addresstype": "village",
+        "name": "Montmirail",
+        "display_name": "Montmirail, Épernay, Marne, Groß-Osten, Metropolitanes Frankreich, 51210, Frankreich",
+        "address": {
+            "village": "Montmirail",
+            "municipality": "Épernay",
+            "county": "Marne",
+            "ISO3166-2-lvl6": "FR-51",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "51210",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8237542",
+            "48.9188252",
+            "3.5017920",
+            "3.6265256"
+        ]
+    }
+]

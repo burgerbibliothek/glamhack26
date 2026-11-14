@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 175718395,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 31578647,
+        "lat": "53.6005400",
+        "lon": "17.4825500",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2869812649426343,
+        "addresstype": "village",
+        "name": "Bonstetten",
+        "display_name": "Bonstetten, gmina Kamień Krajeński, Sępólno County, Woiwodschaft Kujawien-Pommern, 89-430, Polen",
+        "address": {
+            "village": "Bonstetten",
+            "municipality": "gmina Kamień Krajeński",
+            "county": "Sępólno County",
+            "state": "Woiwodschaft Kujawien-Pommern",
+            "ISO3166-2-lvl4": "PL-04",
+            "postcode": "89-430",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "53.5805400",
+            "53.6205400",
+            "17.4625500",
+            "17.5025500"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "place_id": 424268986,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 6038068,
+        "lat": "54.3151594",
+        "lon": "-1.9181532",
+        "category": "place",
+        "type": "island",
+        "place_rank": 17,
+        "importance": 0.7491806990308624,
+        "addresstype": "island",
+        "name": "Großbritannien",
+        "display_name": "Großbritannien, Vereinigtes Königreich",
+        "address": {
+            "island": "Großbritannien",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "49.9586992",
+            "58.6720780",
+            "-6.2278849",
+            "1.7632199"
+        ]
+    }
+]

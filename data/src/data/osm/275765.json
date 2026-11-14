@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72758157,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683148,
+        "lat": "47.1975084",
+        "lon": "8.4860144",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41312073637402513,
+        "addresstype": "village",
+        "name": "Steinhausen",
+        "display_name": "Steinhausen, Zug, 6312, Schweiz",
+        "address": {
+            "village": "Steinhausen",
+            "state": "Zug",
+            "ISO3166-2-lvl4": "CH-ZG",
+            "postcode": "6312",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1848774",
+            "47.2123468",
+            "8.4689965",
+            "8.5038468"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93155206,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682715,
+        "lat": "47.1126558",
+        "lon": "7.7768008",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42012812644844244,
+        "addresstype": "village",
+        "name": "Walterswil (BE)",
+        "display_name": "Walterswil (BE), Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Walterswil (BE)",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0869335",
+            "47.1239874",
+            "7.7331621",
+            "7.7923649"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72092897,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682157,
+        "lat": "47.3176276",
+        "lon": "8.5830859",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.49310485071894505,
+        "addresstype": "town",
+        "name": "Küsnacht",
+        "display_name": "Küsnacht, Bezirk Meilen, Zürich, 8700, Schweiz",
+        "address": {
+            "town": "Küsnacht",
+            "county": "Bezirk Meilen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8700",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3070328",
+            "47.3358664",
+            "8.5715654",
+            "8.6585920"
+        ]
+    }
+]

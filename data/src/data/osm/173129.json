@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 90133769,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2337253867,
+        "lat": "46.7217545",
+        "lon": "4.7605318",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339703746089873,
+        "addresstype": "hamlet",
+        "name": "Les Ponts",
+        "display_name": "Les Ponts, Granges, Chalon-sur-Saône, Saône-et-Loire, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 71390, Frankreich",
+        "address": {
+            "hamlet": "Les Ponts",
+            "village": "Granges",
+            "municipality": "Chalon-sur-Saône",
+            "county": "Saône-et-Loire",
+            "ISO3166-2-lvl6": "FR-71",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "71390",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.7017545",
+            "46.7417545",
+            "4.7405318",
+            "4.7805318"
+        ]
+    }
+]

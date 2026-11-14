@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 424000669,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 6892403,
+        "lat": "46.9514294",
+        "lon": "7.4247299",
+        "category": "building",
+        "type": "transportation",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "43, Depotstrasse, Muesmatt, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "house_number": "43",
+            "road": "Depotstrasse",
+            "quarter": "Muesmatt",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9508935",
+            "46.9519872",
+            "7.4239432",
+            "7.4256445"
+        ]
+    }
+]

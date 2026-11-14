@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 72414914,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 220387961,
+        "lat": "47.3452996",
+        "lon": "8.2562037",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 4.773556115048474e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "14, Moserweg, Villmergen, Bezirk Bremgarten, Aargau, 5612, Schweiz",
+        "address": {
+            "house_number": "14",
+            "road": "Moserweg",
+            "village": "Villmergen",
+            "county": "Bezirk Bremgarten",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5612",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3452236",
+            "47.3453756",
+            "8.2560811",
+            "8.2563263"
+        ]
+    }
+]

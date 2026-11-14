@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 71986779,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 336046525,
+        "lat": "47.3974836",
+        "lon": "8.0057618",
+        "category": "landuse",
+        "type": "meadow",
+        "place_rank": 24,
+        "importance": 0.08004827725642784,
+        "addresstype": "meadow",
+        "name": "Löwenmatte",
+        "display_name": "Löwenmatte, Erlinsbach (SO), Bezirk Gösgen, Amtei Olten-Gösgen, Solothurn, 5015, Schweiz",
+        "address": {
+            "meadow": "Löwenmatte",
+            "village": "Erlinsbach (SO)",
+            "municipality": "Bezirk Gösgen",
+            "county": "Amtei Olten-Gösgen",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "5015",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3970393",
+            "47.3981671",
+            "8.0052809",
+            "8.0061825"
+        ]
+    }
+]

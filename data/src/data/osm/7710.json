@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91855464,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682543,
+        "lat": "46.6376303",
+        "lon": "7.9504605",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41603709239052356,
+        "addresstype": "village",
+        "name": "Lütschental",
+        "display_name": "Lütschental, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3816, Schweiz",
+        "address": {
+            "village": "Lütschental",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3816",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6181960",
+            "46.6733101",
+            "7.9255364",
+            "7.9800453"
+        ]
+    }
+]

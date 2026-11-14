@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 137240912,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 117958834,
+        "lat": "50.1588833",
+        "lon": "8.7519283",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.941481651021618e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "53, Nordring, Bergen, Bergen-Enkheim, Frankfurt am Main, Hessen, 60388, Deutschland",
+        "address": {
+            "house_number": "53",
+            "road": "Nordring",
+            "quarter": "Bergen",
+            "suburb": "Bergen-Enkheim",
+            "city_district": "Bergen-Enkheim",
+            "city": "Frankfurt am Main",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "60388",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.1587976",
+            "50.1589691",
+            "8.7518243",
+            "8.7520323"
+        ]
+    }
+]

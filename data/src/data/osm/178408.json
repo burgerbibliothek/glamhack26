@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91386114,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685373,
+        "lat": "46.1452873",
+        "lon": "7.1807405",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38250674189122186,
+        "addresstype": "village",
+        "name": "Saxon",
+        "display_name": "Saxon, Martinach, Unterwallis, Wallis, 1907, Schweiz",
+        "address": {
+            "village": "Saxon",
+            "county": "Martinach",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1907",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1135449",
+            "46.1615936",
+            "7.1422500",
+            "7.2261937"
+        ]
+    }
+]

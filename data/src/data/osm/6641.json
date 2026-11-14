@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72920576,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240102374,
+        "lat": "47.3299506",
+        "lon": "9.4099311",
+        "category": "place",
+        "type": "town",
+        "place_rank": 18,
+        "importance": 0.47353344308630146,
+        "addresstype": "town",
+        "name": "Appenzell",
+        "display_name": "Appenzell, Appenzell Innerrhoden, 9050, Schweiz",
+        "address": {
+            "town": "Appenzell",
+            "city": "Appenzell",
+            "state": "Appenzell Innerrhoden",
+            "ISO3166-2-lvl4": "CH-AI",
+            "postcode": "9050",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2899506",
+            "47.3699506",
+            "9.3699311",
+            "9.4499311"
+        ]
+    }
+]

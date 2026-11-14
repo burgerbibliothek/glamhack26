@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92832460,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682356,
+        "lat": "47.2390820",
+        "lon": "7.7701468",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.43653918711954165,
+        "addresstype": "village",
+        "name": "Aarwangen",
+        "display_name": "Aarwangen, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4912, Schweiz",
+        "address": {
+            "village": "Aarwangen",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4912",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2186738",
+            "47.2521680",
+            "7.7325512",
+            "7.7934347"
+        ]
+    }
+]

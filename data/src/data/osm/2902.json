@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 93008966,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9084199042,
+        "lat": "46.9482263",
+        "lon": "7.4542925",
+        "category": "information",
+        "type": "board",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "information",
+        "name": "Gerechtigkeitsgasse 33",
+        "display_name": "Gerechtigkeitsgasse 33, Gerechtigkeitsgasse, Weisses Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3000, Schweiz",
+        "address": {
+            "information": "Gerechtigkeitsgasse 33",
+            "road": "Gerechtigkeitsgasse",
+            "quarter": "Weisses Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9481763",
+            "46.9482763",
+            "7.4542425",
+            "7.4543425"
+        ]
+    }
+]

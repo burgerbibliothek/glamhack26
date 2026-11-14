@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 121618356,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 286300739,
+        "lat": "48.0067347",
+        "lon": "9.6573316",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.539406424043667e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "3, Klosterhof, Bad Schussenried, VVG der Stadt Bad Schussenried, Landkreis Biberach, Baden-Württemberg, 88427, Deutschland",
+        "address": {
+            "house_number": "3",
+            "neighbourhood": "Klosterhof",
+            "town": "Bad Schussenried",
+            "city": "Bad Schussenried",
+            "municipality": "VVG der Stadt Bad Schussenried",
+            "county": "Landkreis Biberach",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "88427",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.0066893",
+            "48.0068209",
+            "9.6571975",
+            "9.6574658"
+        ]
+    }
+]

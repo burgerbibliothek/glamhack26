@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72605761,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682177,
+        "lat": "47.4768036",
+        "lon": "8.5203554",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4094405247320548,
+        "addresstype": "village",
+        "name": "Oberglatt",
+        "display_name": "Oberglatt, Bezirk Dielsdorf, Zürich, 8154, Schweiz",
+        "address": {
+            "village": "Oberglatt",
+            "county": "Bezirk Dielsdorf",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8154",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4626264",
+            "47.4976110",
+            "8.4983398",
+            "8.5512189"
+        ]
+    }
+]

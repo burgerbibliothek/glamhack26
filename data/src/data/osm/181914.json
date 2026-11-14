@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 127856590,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8736048313,
+        "lat": "48.2644564",
+        "lon": "10.4251046",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005024261844814,
+        "addresstype": "peak",
+        "name": "Faulberg",
+        "display_name": "Faulberg, Krumbach (Schwaben), Landkreis Günzburg, Bayern, 86381, Deutschland",
+        "address": {
+            "peak": "Faulberg",
+            "town": "Krumbach (Schwaben)",
+            "county": "Landkreis Günzburg",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "86381",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.2644064",
+            "48.2645064",
+            "10.4250546",
+            "10.4251546"
+        ]
+    }
+]

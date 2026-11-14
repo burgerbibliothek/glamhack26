@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91879619,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3081154456,
+        "lat": "46.9792613",
+        "lon": "7.4578175",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.18929199030239088,
+        "addresstype": "railway",
+        "name": "Worblaufen",
+        "display_name": "Worblaufen, Worblaufenstrasse, Altikofen, Worblaufen, Ittigen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3048, Schweiz",
+        "address": {
+            "railway": "Worblaufen",
+            "road": "Worblaufenstrasse",
+            "quarter": "Altikofen",
+            "suburb": "Worblaufen",
+            "town": "Ittigen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3048",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9742613",
+            "46.9842613",
+            "7.4528175",
+            "7.4628175"
+        ]
+    }
+]

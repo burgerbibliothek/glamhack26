@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 66603433,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8842402441,
+        "lat": "47.4946475",
+        "lon": "19.0553503",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.408560311279495e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "14, Rathausgasse, Pest, Innenstadt, V. Bezirk, Budapest, 1052, Ungarn",
+        "address": {
+            "house_number": "14",
+            "road": "Rathausgasse",
+            "suburb": "Pest",
+            "borough": "V. Bezirk",
+            "city": "Budapest",
+            "ISO3166-2-lvl8": "HU-BU",
+            "region": "Budapest",
+            "ISO3166-2-lvl6": "HU-BU",
+            "postcode": "1052",
+            "country": "Ungarn",
+            "country_code": "hu"
+        },
+        "boundingbox": [
+            "47.4945975",
+            "47.4946975",
+            "19.0553003",
+            "19.0554003"
+        ]
+    }
+]

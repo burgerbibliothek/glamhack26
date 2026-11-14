@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 422036945,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 14004980084,
+        "lat": "47.1019557",
+        "lon": "7.6041421",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 4.5416189822186886e-05,
+        "addresstype": "highway",
+        "name": "Rudswil",
+        "display_name": "Rudswil, Dorfstrasse, Furtrain, Oberösch, Ersigen, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3424, Schweiz",
+        "address": {
+            "highway": "Rudswil",
+            "road": "Dorfstrasse",
+            "hamlet": "Furtrain",
+            "village": "Oberösch",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3424",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1019057",
+            "47.1020057",
+            "7.6040921",
+            "7.6041921"
+        ]
+    }
+]

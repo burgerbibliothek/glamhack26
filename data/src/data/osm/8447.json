@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91696255,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 7105548,
+        "lat": "46.8763081",
+        "lon": "7.5855767",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.4196979736104267,
+        "addresstype": "village",
+        "name": "Tägertschi",
+        "display_name": "Tägertschi, Münsingen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3111, Schweiz",
+        "address": {
+            "village": "Tägertschi",
+            "town": "Münsingen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3111",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8607927",
+            "46.8866255",
+            "7.5732940",
+            "7.6071314"
+        ]
+    }
+]

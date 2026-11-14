@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92628079,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10777808172,
+        "lat": "47.4073148",
+        "lon": "7.7097051",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671026398107881,
+        "addresstype": "locality",
+        "name": "Kastelen",
+        "display_name": "Kastelen, Titterten, Bezirk Waldenburg, Basel-Landschaft, 4425, Schweiz",
+        "address": {
+            "locality": "Kastelen",
+            "village": "Titterten",
+            "county": "Bezirk Waldenburg",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4425",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3973148",
+            "47.4173148",
+            "7.6997051",
+            "7.7197051"
+        ]
+    }
+]

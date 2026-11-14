@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 186787874,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4087003305,
+        "lat": "48.1496252",
+        "lon": "17.1170271",
+        "category": "amenity",
+        "type": "cafe",
+        "place_rank": 30,
+        "importance": 7.727397573810967e-05,
+        "addresstype": "amenity",
+        "name": "LOT coffee",
+        "display_name": "LOT coffee, 7778/55, Spitalgasse, Oblasť Dunajská, Staré Mesto, Okres Bratislava I, Bratislava, Bratislavský kraj, 811 08, Slowakei",
+        "address": {
+            "amenity": "LOT coffee",
+            "house_number": "7778/55",
+            "road": "Spitalgasse",
+            "neighbourhood": "Oblasť Dunajská",
+            "suburb": "Staré Mesto",
+            "city_district": "Okres Bratislava I",
+            "city": "Bratislava",
+            "region": "Bratislavský kraj",
+            "ISO3166-2-lvl4": "SK-BL",
+            "postcode": "811 08",
+            "country": "Slowakei",
+            "country_code": "sk"
+        },
+        "boundingbox": [
+            "48.1495752",
+            "48.1496752",
+            "17.1169771",
+            "17.1170771"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 129562190,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 23655731,
+        "lat": "49.9994688",
+        "lon": "8.2711060",
+        "category": "building",
+        "type": "civic",
+        "place_rank": 30,
+        "importance": 0.4362046242762565,
+        "addresstype": "building",
+        "name": "Staatstheater",
+        "display_name": "Staatstheater, 7, Gutenbergplatz, Ignazviertel, Südliche Altstadt, Altstadt, Mainz, Rheinland-Pfalz, 55116, Deutschland",
+        "address": {
+            "building": "Staatstheater",
+            "house_number": "7",
+            "road": "Gutenbergplatz",
+            "neighbourhood": "Ignazviertel",
+            "quarter": "Südliche Altstadt",
+            "suburb": "Altstadt",
+            "city": "Mainz",
+            "state": "Rheinland-Pfalz",
+            "ISO3166-2-lvl4": "DE-RP",
+            "postcode": "55116",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.9991202",
+            "49.9997733",
+            "8.2706341",
+            "8.2715926"
+        ]
+    }
+]

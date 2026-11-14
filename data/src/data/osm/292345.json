@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91721058,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2358174910,
+        "lat": "46.9711939",
+        "lon": "7.4408213",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 5.295109483477558e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "48, Felsenaustrasse, Gewerbepark Felsenau, Felsenau, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3004, Schweiz",
+        "address": {
+            "house_number": "48",
+            "road": "Felsenaustrasse",
+            "commercial": "Gewerbepark Felsenau",
+            "quarter": "Felsenau",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3004",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9711439",
+            "46.9712439",
+            "7.4407713",
+            "7.4408713"
+        ]
+    }
+]

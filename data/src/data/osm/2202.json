@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 187667316,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 216636800,
+        "lat": "48.2004077",
+        "lon": "16.5387307",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "1a, Badgasse, Katastralgemeinde Großenzersdorf, Donaustadt, Groß-Enzersdorf, Bezirk Gänserndorf, Niederösterreich, 2301, Österreich",
+        "address": {
+            "house_number": "1a",
+            "road": "Badgasse",
+            "suburb": "Katastralgemeinde Großenzersdorf",
+            "city_district": "Donaustadt",
+            "town": "Groß-Enzersdorf",
+            "county": "Bezirk Gänserndorf",
+            "state": "Niederösterreich",
+            "ISO3166-2-lvl4": "AT-3",
+            "postcode": "2301",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2003543",
+            "48.2004612",
+            "16.5386442",
+            "16.5388172"
+        ]
+    }
+]

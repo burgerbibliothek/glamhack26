@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93676610,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 7849692,
+        "lat": "47.5833760",
+        "lon": "7.5975738",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.29960026554141705,
+        "addresstype": "suburb",
+        "name": "Kleinhüningen",
+        "display_name": "Kleinhüningen, Kleinbasel, Basel, Basel-Stadt, 4019, Schweiz",
+        "address": {
+            "suburb": "Kleinhüningen",
+            "borough": "Kleinbasel",
+            "city": "Basel",
+            "state": "Basel-Stadt",
+            "ISO3166-2-lvl4": "CH-BS",
+            "postcode": "4019",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5745771",
+            "47.5895963",
+            "7.5869655",
+            "7.6053390"
+        ]
+    }
+]

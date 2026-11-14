@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92549144,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 315076794,
+        "lat": "47.0745826",
+        "lon": "7.4176362",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333812672617685,
+        "addresstype": "hamlet",
+        "name": "Zimlisberg",
+        "display_name": "Zimlisberg, Ruppoldsried, Rapperswil (BE), Seeland administrative district, Seeland administrative region, Bern, 3251, Schweiz",
+        "address": {
+            "hamlet": "Zimlisberg",
+            "village": "Ruppoldsried",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3251",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0545826",
+            "47.0945826",
+            "7.3976362",
+            "7.4376362"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72830996,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7091056004,
+        "lat": "46.7210412",
+        "lon": "8.2949390",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333828511482414,
+        "addresstype": "hamlet",
+        "name": "Nessental",
+        "display_name": "Nessental, Gadmen, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3863, Schweiz",
+        "address": {
+            "hamlet": "Nessental",
+            "city_district": "Gadmen",
+            "village": "Innertkirchen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3863",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7010412",
+            "46.7410412",
+            "8.2749390",
+            "8.3149390"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91998793,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682591,
+        "lat": "46.7374750",
+        "lon": "7.9619532",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4132399184526773,
+        "addresstype": "village",
+        "name": "Oberried am Brienzersee",
+        "display_name": "Oberried am Brienzersee, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3854, Schweiz",
+        "address": {
+            "village": "Oberried am Brienzersee",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3854",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7249088",
+            "46.7917289",
+            "7.9197739",
+            "7.9970634"
+        ]
+    }
+]

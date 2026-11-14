@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92029894,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 173457268,
+        "lat": "46.8798504",
+        "lon": "7.4297271",
+        "category": "highway",
+        "type": "service",
+        "place_rank": 27,
+        "importance": 0.04005219272144655,
+        "addresstype": "road",
+        "name": "Dürsgraben",
+        "display_name": "Dürsgraben, Scherliau, Niederscherli, Köniz, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3096, Schweiz",
+        "address": {
+            "road": "Dürsgraben",
+            "hamlet": "Scherliau",
+            "suburb": "Niederscherli",
+            "town": "Köniz",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3096",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8780052",
+            "46.8812736",
+            "7.4262648",
+            "7.4333702"
+        ]
+    }
+]

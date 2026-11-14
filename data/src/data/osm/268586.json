@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 121373272,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 92325,
+        "lat": "48.4933336",
+        "lon": "7.1616678",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5877027705420098,
+        "addresstype": "village",
+        "name": "Michelbrunn",
+        "display_name": "Michelbrunn, Molsheim, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67130, Frankreich",
+        "address": {
+            "village": "Michelbrunn",
+            "municipality": "Molsheim",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67130",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.4409935",
+            "48.5373461",
+            "7.0645089",
+            "7.1756143"
+        ]
+    }
+]

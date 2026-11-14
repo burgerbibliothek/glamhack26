@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73363849,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 391710846,
+        "lat": "46.8385897",
+        "lon": "9.9656614",
+        "category": "highway",
+        "type": "track",
+        "place_rank": 26,
+        "importance": 0.0533754749370565,
+        "addresstype": "track",
+        "name": "Vereina",
+        "display_name": "Vereina, Klosters, Prättigau/Davos, Graubünden, Schweiz",
+        "address": {
+            "road": "Vereina",
+            "village": "Klosters",
+            "county": "Prättigau/Davos",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8385661",
+            "46.8386132",
+            "9.9656252",
+            "9.9656977"
+        ]
+    }
+]

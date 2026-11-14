@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 71971063,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 46150365,
+        "lat": "47.5014728",
+        "lon": "8.5951258",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 5.0575265125459946e-05,
+        "addresstype": "amenity",
+        "name": "Restaurant zur Linde",
+        "display_name": "Restaurant zur Linde, 2, Dorfstrasse, Haller, Embrach, Bezirk Bülach, Zürich, 8424, Schweiz",
+        "address": {
+            "amenity": "Restaurant zur Linde",
+            "house_number": "2",
+            "road": "Dorfstrasse",
+            "hamlet": "Haller",
+            "village": "Embrach",
+            "county": "Bezirk Bülach",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8424",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5013736",
+            "47.5015658",
+            "8.5949541",
+            "8.5952784"
+        ]
+    }
+]

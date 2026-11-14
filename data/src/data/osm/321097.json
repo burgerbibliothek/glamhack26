@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 137882791,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 335387609,
+        "lat": "50.0871707",
+        "lon": "8.2212771",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.142519264510594e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "26, Aarstraße, Nordost, Wiesbaden, Hessen, 65195, Deutschland",
+        "address": {
+            "house_number": "26",
+            "road": "Aarstraße",
+            "suburb": "Nordost",
+            "city": "Wiesbaden",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "65195",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.0870951",
+            "50.0872463",
+            "8.2211598",
+            "8.2213944"
+        ]
+    }
+]

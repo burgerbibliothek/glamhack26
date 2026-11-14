@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 122766945,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8727957483,
+        "lat": "48.8902629",
+        "lon": "8.7004249",
+        "category": "shop",
+        "type": "optician",
+        "place_rank": 30,
+        "importance": 6.460440985728264e-05,
+        "addresstype": "shop",
+        "name": "GlassHouse",
+        "display_name": "GlassHouse, 16, Am Waisenhausplatz, Innenstadt, Pforzheim, Baden-Württemberg, 75172, Deutschland",
+        "address": {
+            "shop": "GlassHouse",
+            "house_number": "16",
+            "road": "Am Waisenhausplatz",
+            "suburb": "Innenstadt",
+            "city": "Pforzheim",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "75172",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.8902129",
+            "48.8903129",
+            "8.7003749",
+            "8.7004749"
+        ]
+    }
+]

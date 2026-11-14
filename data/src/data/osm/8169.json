@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92492429,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682623,
+        "lat": "47.2411470",
+        "lon": "7.8230774",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42498149712919636,
+        "addresstype": "village",
+        "name": "Roggwil (BE)",
+        "display_name": "Roggwil (BE), Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4914, Schweiz",
+        "address": {
+            "village": "Roggwil (BE)",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4914",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2156228",
+            "47.2535441",
+            "7.7902127",
+            "7.8389458"
+        ]
+    }
+]

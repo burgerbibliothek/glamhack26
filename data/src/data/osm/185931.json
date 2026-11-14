@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 144920894,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 28456671,
+        "lat": "52.5644675",
+        "lon": "13.3184723",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "5, Jupiterstraße, Cité Berthezène, Reinickendorf, Berlin, 13405, Deutschland",
+        "address": {
+            "house_number": "5",
+            "road": "Jupiterstraße",
+            "neighbourhood": "Cité Berthezène",
+            "suburb": "Reinickendorf",
+            "borough": "Reinickendorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13405",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5644101",
+            "52.5645195",
+            "13.3183672",
+            "13.3185750"
+        ]
+    }
+]

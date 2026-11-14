@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72636596,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682922,
+        "lat": "47.1353737",
+        "lon": "8.1920262",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4299627096914104,
+        "addresstype": "village",
+        "name": "Sempach",
+        "display_name": "Sempach, Luzern, 6204, Schweiz",
+        "address": {
+            "village": "Sempach",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6204",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1189935",
+            "47.1616004",
+            "8.1647595",
+            "8.2174461"
+        ]
+    }
+]

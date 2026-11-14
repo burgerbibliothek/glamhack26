@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 91929215,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 44431475,
+        "lat": "46.9444197",
+        "lon": "7.4449231",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "building",
+        "name": "Depot Pontonier Fahrverein",
+        "display_name": "Depot Pontonier Fahrverein, 103, Aarstrasse, Marzili, Sandrain, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3005, Schweiz",
+        "address": {
+            "building": "Depot Pontonier Fahrverein",
+            "house_number": "103",
+            "road": "Aarstrasse",
+            "quarter": "Marzili",
+            "suburb": "Sandrain",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3005",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9443066",
+            "46.9444973",
+            "7.4448157",
+            "7.4450057"
+        ]
+    }
+]

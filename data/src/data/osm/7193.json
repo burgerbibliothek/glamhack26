@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91192643,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684979,
+        "lat": "46.3338174",
+        "lon": "6.1943733",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4390756772363493,
+        "addresstype": "village",
+        "name": "Founex",
+        "display_name": "Founex, District de Nyon, Waadt, 1297, Schweiz",
+        "address": {
+            "village": "Founex",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1297",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3177229",
+            "46.3469739",
+            "6.1622346",
+            "6.2323218"
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 91635849,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684606,
+        "lat": "46.5814897",
+        "lon": "7.8359235",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 10,
+        "importance": 0.2667101022354467,
+        "addresstype": "state_district",
+        "name": "Oberland administrative region",
+        "display_name": "Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3264712",
+            "46.8366125",
+            "7.1925415",
+            "8.4551633"
+        ]
+    }
+]

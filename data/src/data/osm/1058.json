@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 174092761,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3009667684,
+        "lat": "54.2466667",
+        "lon": "21.6027778",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.3436304091577327,
+        "addresstype": "isolated_dwelling",
+        "name": "Rosenstein",
+        "display_name": "Rosenstein, Klein Dombrowken, Gemeinde Angerburg, powiat węgorzewski, Woiwodschaft Ermland-Masuren, 11-600, Polen",
+        "address": {
+            "isolated_dwelling": "Rosenstein",
+            "village": "Klein Dombrowken",
+            "municipality": "Gemeinde Angerburg",
+            "state": "Woiwodschaft Ermland-Masuren",
+            "ISO3166-2-lvl4": "PL-28",
+            "postcode": "11-600",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "54.2466167",
+            "54.2467167",
+            "21.6027278",
+            "21.6028278"
+        ]
+    }
+]

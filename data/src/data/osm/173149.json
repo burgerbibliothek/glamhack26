@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72960502,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4429416432,
+        "lat": "47.1933917",
+        "lon": "9.2841370",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 4.4224460212054895e-05,
+        "addresstype": "information",
+        "name": "Alt Sankt Johann",
+        "display_name": "Alt Sankt Johann, Hauptstrasse, Boden-Berg, Alt St. Johann, Unterwasser, Wildhaus-Alt St. Johann, Wahlkreis Toggenburg, St. Gallen, 9657, Schweiz",
+        "address": {
+            "information": "Alt Sankt Johann",
+            "road": "Hauptstrasse",
+            "hamlet": "Boden-Berg",
+            "village": "Alt St. Johann",
+            "city": "Wildhaus-Alt St. Johann",
+            "county": "Wahlkreis Toggenburg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9657",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1933417",
+            "47.1934417",
+            "9.2840870",
+            "9.2841870"
+        ]
+    }
+]

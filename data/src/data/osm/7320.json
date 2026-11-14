@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91951304,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240121942,
+        "lat": "46.7134749",
+        "lon": "7.7016140",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2024340213354661,
+        "addresstype": "village",
+        "name": "Gunten",
+        "display_name": "Gunten, Sigriswil, Verwaltungskreis Thun, Oberland administrative region, Bern, 3654, Schweiz",
+        "address": {
+            "village": "Gunten",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3654",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6934749",
+            "46.7334749",
+            "7.6816140",
+            "7.7216140"
+        ]
+    }
+]

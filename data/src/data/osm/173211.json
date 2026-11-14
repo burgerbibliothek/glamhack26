@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72303143,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684565,
+        "lat": "47.5910435",
+        "lon": "8.8314620",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3947951802650482,
+        "addresstype": "city",
+        "name": "Uesslingen-Buch",
+        "display_name": "Uesslingen-Buch, Neunforn, Bezirk Frauenfeld, Thurgau, 8524, Schweiz",
+        "address": {
+            "city": "Uesslingen-Buch",
+            "municipality": "Neunforn",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8524",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5701568",
+            "47.6119949",
+            "8.7980280",
+            "8.8630475"
+        ]
+    }
+]

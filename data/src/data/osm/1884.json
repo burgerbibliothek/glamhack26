@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91766860,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 344668877,
+        "lat": "46.6002161",
+        "lon": "7.9495525",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.444243590667141,
+        "addresstype": "peak",
+        "name": "Tschuggen",
+        "display_name": "Tschuggen, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3818, Schweiz",
+        "address": {
+            "peak": "Tschuggen",
+            "village": "Grindelwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3818",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6001661",
+            "46.6002661",
+            "7.9495025",
+            "7.9496025"
+        ]
+    }
+]

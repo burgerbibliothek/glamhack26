@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 90929157,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9786720041,
+        "lat": "46.8739855",
+        "lon": "7.9014141",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10671666819256884,
+        "addresstype": "isolated_dwelling",
+        "name": "Stächelegg",
+        "display_name": "Stächelegg, Rütti, Escholzmatt-Marbach, Luzern, 6196, Schweiz",
+        "address": {
+            "isolated_dwelling": "Stächelegg",
+            "hamlet": "Rütti",
+            "city": "Escholzmatt-Marbach",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6196",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8739355",
+            "46.8740355",
+            "7.9013641",
+            "7.9014641"
+        ]
+    }
+]

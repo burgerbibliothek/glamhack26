@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 431073269,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 14306842940,
+        "lat": "46.8376073",
+        "lon": "7.4787550",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005196688792248,
+        "addresstype": "peak",
+        "name": "Leueberg",
+        "display_name": "Leueberg, Rüeggisberg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3126, Schweiz",
+        "address": {
+            "peak": "Leueberg",
+            "village": "Rüeggisberg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3126",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8375573",
+            "46.8376573",
+            "7.4787050",
+            "7.4788050"
+        ]
+    }
+]

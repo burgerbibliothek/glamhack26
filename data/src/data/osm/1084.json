@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 42681971,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 192789,
+        "lat": "14.5844444",
+        "lon": "29.4917691",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.7524114574079375,
+        "addresstype": "country",
+        "name": "Sudan",
+        "display_name": "Sudan",
+        "address": {
+            "country": "Sudan",
+            "country_code": "sd"
+        },
+        "boundingbox": [
+            "8.6852780",
+            "22.0056734",
+            "21.8143904",
+            "39.0576252"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 75185266,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 26863960,
+        "lat": "45.9771120",
+        "lon": "8.9473021",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.45356092873116677,
+        "addresstype": "peak",
+        "name": "Monte San Salvatore",
+        "display_name": "Monte San Salvatore, Lugano, Kreis Lugano West, Bezirk Lugano, Tessin, 6912, Schweiz",
+        "address": {
+            "peak": "Monte San Salvatore",
+            "city": "Lugano",
+            "municipality": "Kreis Lugano West",
+            "county": "Bezirk Lugano",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6912",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9770620",
+            "45.9771620",
+            "8.9472521",
+            "8.9473521"
+        ]
+    }
+]

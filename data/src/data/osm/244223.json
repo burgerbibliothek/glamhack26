@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73358917,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684171,
+        "lat": "46.3661494",
+        "lon": "9.2216584",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38154785896147225,
+        "addresstype": "village",
+        "name": "Soazza",
+        "display_name": "Soazza, Moesa, Graubünden, 6562, Schweiz",
+        "address": {
+            "village": "Soazza",
+            "county": "Moesa",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "6562",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3144312",
+            "46.3856349",
+            "9.1562311",
+            "9.2998670"
+        ]
+    }
+]

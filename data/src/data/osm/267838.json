@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 75717865,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684670,
+        "lat": "45.9884787",
+        "lon": "8.8419197",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.38401233771949483,
+        "addresstype": "village",
+        "name": "Croglio",
+        "display_name": "Croglio, Purasca, Tresa, Kreis Sessa, Bezirk Lugano, Tessin, Schweiz",
+        "address": {
+            "village": "Croglio",
+            "city": "Tresa",
+            "municipality": "Kreis Sessa",
+            "county": "Bezirk Lugano",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9705829",
+            "46.0024716",
+            "8.8235712",
+            "8.8588068"
+        ]
+    }
+]

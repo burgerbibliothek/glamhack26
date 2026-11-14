@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92763202,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240091175,
+        "lat": "47.2729722",
+        "lon": "7.6612053",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.39951314662297394,
+        "addresstype": "village",
+        "name": "Wolfisberg",
+        "display_name": "Wolfisberg, Niederbipp, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4704, Schweiz",
+        "address": {
+            "village": "Wolfisberg",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4704",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2529722",
+            "47.2929722",
+            "7.6412053",
+            "7.6812053"
+        ]
+    }
+]

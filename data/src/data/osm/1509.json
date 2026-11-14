@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91899205,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 230344481,
+        "lat": "46.3951234",
+        "lon": "7.3323545",
+        "category": "natural",
+        "type": "water",
+        "place_rank": 22,
+        "importance": 0.23094323434513592,
+        "addresstype": "water",
+        "name": "Lauenensee",
+        "display_name": "Lauenensee, Höji, Lauenen, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3782, Schweiz",
+        "address": {
+            "water": "Lauenensee",
+            "hamlet": "Höji",
+            "village": "Lauenen",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3782",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3927384",
+            "46.3974351",
+            "7.3303686",
+            "7.3339206"
+        ]
+    }
+]

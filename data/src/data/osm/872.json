@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 51696556,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3726170,
+        "lat": "28.8382688",
+        "lon": "30.8544768",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.5027970550398619,
+        "addresstype": "state",
+        "name": "Beni Suef",
+        "display_name": "Beni Suef, Ägypten",
+        "address": {
+            "state": "Beni Suef",
+            "ISO3166-2-lvl4": "EG-BNS",
+            "country": "Ägypten",
+            "country_code": "eg"
+        },
+        "boundingbox": [
+            "28.2690955",
+            "29.4361592",
+            "29.7796533",
+            "31.9711097"
+        ]
+    }
+]

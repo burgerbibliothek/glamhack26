@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92086114,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685446,
+        "lat": "46.9763951",
+        "lon": "6.8786323",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3943200352487266,
+        "addresstype": "village",
+        "name": "Auvernier",
+        "display_name": "Auvernier, Milvignes, Région Littoral, Neuenburg, 2012, Schweiz",
+        "address": {
+            "village": "Auvernier",
+            "city": "Milvignes",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9687331",
+            "46.9834789",
+            "6.8640089",
+            "6.8950998"
+        ]
+    }
+]

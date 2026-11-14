@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91739866,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12029600034,
+        "lat": "46.6071864",
+        "lon": "7.9194048",
+        "category": "information",
+        "type": "board",
+        "place_rank": 30,
+        "importance": 5.78507667658048e-05,
+        "addresstype": "information",
+        "name": "Panorama Lauterbrunnental",
+        "display_name": "Panorama Lauterbrunnental, Trogihaltenweg, Auf der Burg, Wengen, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3823, Schweiz",
+        "address": {
+            "information": "Panorama Lauterbrunnental",
+            "road": "Trogihaltenweg",
+            "neighbourhood": "Auf der Burg",
+            "village": "Wengen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3823",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6071364",
+            "46.6072364",
+            "7.9193548",
+            "7.9194548"
+        ]
+    }
+]

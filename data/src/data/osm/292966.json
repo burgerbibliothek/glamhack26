@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73498095,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 452525980,
+        "lat": "47.3378340",
+        "lon": "9.7699710",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.07194870560319186,
+        "addresstype": "peak",
+        "name": "Sattelspitze",
+        "display_name": "Sattelspitze, Dornbirn, Bezirk Dornbirn, Vorarlberg, 6850, Österreich",
+        "address": {
+            "peak": "Sattelspitze",
+            "town": "Dornbirn",
+            "county": "Bezirk Dornbirn",
+            "state": "Vorarlberg",
+            "ISO3166-2-lvl4": "AT-8",
+            "postcode": "6850",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.3377840",
+            "47.3378840",
+            "9.7699210",
+            "9.7700210"
+        ]
+    }
+]

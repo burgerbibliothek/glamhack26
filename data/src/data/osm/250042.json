@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92688103,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682468,
+        "lat": "47.0569331",
+        "lon": "7.1870499",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42316500223065584,
+        "addresstype": "village",
+        "name": "Hagneck",
+        "display_name": "Hagneck, Seeland administrative district, Seeland administrative region, Bern, 2575, Schweiz",
+        "address": {
+            "village": "Hagneck",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2575",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0423070",
+            "47.0632868",
+            "7.1750369",
+            "7.2035118"
+        ]
+    }
+]

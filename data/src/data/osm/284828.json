@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72712003,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 205372024,
+        "lat": "47.0600249",
+        "lon": "8.0727881",
+        "category": "amenity",
+        "type": "fire_station",
+        "place_rank": 30,
+        "importance": 4.088273441667838e-05,
+        "addresstype": "amenity",
+        "name": "Feuerwehr Magazin Wohlhusen",
+        "display_name": "Feuerwehr Magazin Wohlhusen, Wiggernweg, Wolhusen, Luzern, 6110, Schweiz",
+        "address": {
+            "amenity": "Feuerwehr Magazin Wohlhusen",
+            "road": "Wiggernweg",
+            "village": "Wolhusen",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6110",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0599272",
+            "47.0602013",
+            "8.0726548",
+            "8.0729914"
+        ]
+    }
+]

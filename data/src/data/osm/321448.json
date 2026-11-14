@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91929162,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 312777526,
+        "lat": "46.9472765",
+        "lon": "7.4406445",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "residential",
+        "name": "Bubenbergplatz",
+        "display_name": "Bubenbergplatz, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3001, Schweiz",
+        "address": {
+            "road": "Bubenbergplatz",
+            "quarter": "Rotes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9472291",
+            "46.9473064",
+            "7.4405275",
+            "7.4407548"
+        ]
+    }
+]

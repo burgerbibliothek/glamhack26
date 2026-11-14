@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 90924837,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13382897273,
+        "lat": "44.1581934",
+        "lon": "1.8938081",
+        "category": "tourism",
+        "type": "chalet",
+        "place_rank": 30,
+        "importance": 6.110399023418048e-05,
+        "addresstype": "tourism",
+        "name": "Petit Bayard",
+        "display_name": "Petit Bayard, 36, Rue du Ramonet, Les Plâtrières, Lexos, Varen, Montauban, Tarn-et-Garonne, Okzitanien, Metropolitanes Frankreich, 82330, Frankreich",
+        "address": {
+            "tourism": "Petit Bayard",
+            "house_number": "36",
+            "road": "Rue du Ramonet",
+            "hamlet": "Les Plâtrières",
+            "village": "Lexos",
+            "municipality": "Montauban",
+            "county": "Tarn-et-Garonne",
+            "ISO3166-2-lvl6": "FR-82",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "82330",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.1581434",
+            "44.1582434",
+            "1.8937581",
+            "1.8938581"
+        ]
+    }
+]

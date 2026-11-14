@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92252419,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 25283166,
+        "lat": "46.9467068",
+        "lon": "7.4601460",
+        "category": "highway",
+        "type": "pedestrian",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "pedestrian",
+        "name": "Kleiner Muristalden",
+        "display_name": "Kleiner Muristalden, Campagne Schönberg, Schosshalde, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "road": "Kleiner Muristalden",
+            "neighbourhood": "Campagne Schönberg",
+            "quarter": "Schosshalde",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9454143",
+            "46.9484078",
+            "7.4600952",
+            "7.4610524"
+        ]
+    }
+]

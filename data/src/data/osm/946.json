@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 55083915,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 192307,
+        "lat": "38.9953683",
+        "lon": "21.9877132",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.856400375987068,
+        "addresstype": "country",
+        "name": "Griechenland",
+        "display_name": "Griechenland",
+        "address": {
+            "country": "Griechenland",
+            "country_code": "gr"
+        },
+        "boundingbox": [
+            "34.7188863",
+            "41.7488889",
+            "19.1127535",
+            "29.6838100"
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 42480460,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7719724524,
+        "lat": "12.0431566",
+        "lon": "19.5099935",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333433333333333,
+        "addresstype": "hamlet",
+        "name": "Miélé",
+        "display_name": "Miélé, Salamat, Tschad",
+        "address": {
+            "hamlet": "Miélé",
+            "state": "Salamat",
+            "ISO3166-2-lvl4": "TD-SA",
+            "country": "Tschad",
+            "country_code": "td"
+        },
+        "boundingbox": [
+            "12.0231566",
+            "12.0631566",
+            "19.4899935",
+            "19.5299935"
+        ]
+    }
+]

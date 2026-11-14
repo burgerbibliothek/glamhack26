@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 139109563,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3904980396,
+        "lat": "51.7606884",
+        "lon": "9.5557664",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.18157831638402872,
+        "addresstype": "peak",
+        "name": "Moosberg",
+        "display_name": "Moosberg, Holzminden, Landkreis Holzminden, Niedersachsen, 37603, Deutschland",
+        "address": {
+            "peak": "Moosberg",
+            "city": "Holzminden",
+            "county": "Landkreis Holzminden",
+            "state": "Niedersachsen",
+            "ISO3166-2-lvl4": "DE-NI",
+            "postcode": "37603",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.7606384",
+            "51.7607384",
+            "9.5557164",
+            "9.5558164"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73018496,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683147,
+        "lat": "47.1424545",
+        "lon": "8.4511472",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41359616883692174,
+        "addresstype": "city",
+        "name": "Risch-Rotkreuz",
+        "display_name": "Risch-Rotkreuz, Zug, 6343, Schweiz",
+        "address": {
+            "city": "Risch-Rotkreuz",
+            "state": "Zug",
+            "ISO3166-2-lvl4": "CH-ZG",
+            "postcode": "6343",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1134467",
+            "47.1712907",
+            "8.4119631",
+            "8.4894047"
+        ]
+    }
+]

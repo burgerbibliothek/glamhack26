@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 67643320,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1098006502,
+        "lat": "47.0687925",
+        "lon": "15.4411373",
+        "category": "shop",
+        "type": "coffee",
+        "place_rank": 30,
+        "importance": 7.381322957193893e-05,
+        "addresstype": "shop",
+        "name": "Tchibo",
+        "display_name": "Tchibo, 28, Herrengasse, Katastralgemeinde Innere Stadt, Innere Stadt, Graz, Steiermark, 8010, Österreich",
+        "address": {
+            "shop": "Tchibo",
+            "house_number": "28",
+            "road": "Herrengasse",
+            "neighbourhood": "Katastralgemeinde Innere Stadt",
+            "suburb": "Innere Stadt",
+            "city": "Graz",
+            "state": "Steiermark",
+            "ISO3166-2-lvl4": "AT-6",
+            "postcode": "8010",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.0687425",
+            "47.0688425",
+            "15.4410873",
+            "15.4411873"
+        ]
+    }
+]

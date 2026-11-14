@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91762022,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683380,
+        "lat": "46.6881649",
+        "lon": "7.0767305",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39635455236634,
+        "addresstype": "city",
+        "name": "Pont-en-Ogoz",
+        "display_name": "Pont-en-Ogoz, Greyerzbezirk, Freiburg, Schweiz",
+        "address": {
+            "city": "Pont-en-Ogoz",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6653712",
+            "46.7107264",
+            "7.0437448",
+            "7.1086867"
+        ]
+    }
+]

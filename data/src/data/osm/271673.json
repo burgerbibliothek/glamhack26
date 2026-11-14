@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92500402,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683322,
+        "lat": "46.9429660",
+        "lon": "7.1992209",
+        "category": "boundary",
+        "type": "old_administrative",
+        "place_rank": 25,
+        "importance": 0.34566654831183224,
+        "addresstype": "old_administrative",
+        "name": "Gempenach",
+        "display_name": "Gempenach, Murten, Seebezirk, Freiburg, 3215, Schweiz",
+        "address": {
+            "old_administrative": "Gempenach",
+            "village": "Gempenach",
+            "town": "Murten",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "3215",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9368618",
+            "46.9491416",
+            "7.1855873",
+            "7.2104402"
+        ]
+    }
+]

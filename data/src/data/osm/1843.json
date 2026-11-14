@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91763441,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 408844435,
+        "lat": "46.7110492",
+        "lon": "7.5730679",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.10671166781109329,
+        "addresstype": "valley",
+        "name": "Stockental",
+        "display_name": "Stockental, Niederstocken, Stocken-Höfen, Horrenbach-Buchen, Verwaltungskreis Thun, Oberland administrative region, Bern, 3632, Schweiz",
+        "address": {
+            "valley": "Stockental",
+            "village": "Niederstocken",
+            "city": "Stocken-Höfen",
+            "municipality": "Horrenbach-Buchen",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3632",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6964815",
+            "46.7324233",
+            "7.5299237",
+            "7.6198528"
+        ]
+    }
+]

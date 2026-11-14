@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 272116984,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 10070597,
+        "lat": "55.9997834",
+        "lon": "-3.3882699",
+        "category": "man_made",
+        "type": "bridge",
+        "place_rank": 30,
+        "importance": 0.5005129877673589,
+        "addresstype": "man_made",
+        "name": "Forth Bridge",
+        "display_name": "Forth Bridge, High Street, Scotstoun, South Queensferry, Schottland, EH30 9HW, Vereinigtes Königreich",
+        "address": {
+            "man_made": "Forth Bridge",
+            "road": "High Street",
+            "suburb": "Scotstoun",
+            "town": "South Queensferry",
+            "state": "Schottland",
+            "ISO3166-2-lvl4": "GB-SCT",
+            "postcode": "EH30 9HW",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "55.9894664",
+            "56.0105822",
+            "-3.3935241",
+            "-3.3832290"
+        ]
+    }
+]

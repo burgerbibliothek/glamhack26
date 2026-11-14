@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92706373,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683519,
+        "lat": "47.2962466",
+        "lon": "7.5935558",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3520298540975971,
+        "addresstype": "village",
+        "name": "Herbetswil",
+        "display_name": "Herbetswil, Bezirk Thal, Amtei Thal-Gäu, Solothurn, 4715, Schweiz",
+        "address": {
+            "village": "Herbetswil",
+            "municipality": "Bezirk Thal",
+            "county": "Amtei Thal-Gäu",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4715",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2721344",
+            "47.3196791",
+            "7.5145425",
+            "7.6071093"
+        ]
+    }
+]

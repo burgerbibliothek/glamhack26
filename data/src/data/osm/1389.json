@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91609447,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 26863067,
+        "lat": "46.5115775",
+        "lon": "7.8272708",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4472868399702154,
+        "addresstype": "peak",
+        "name": "Gspaltenhorn",
+        "display_name": "Gspaltenhorn, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "peak": "Gspaltenhorn",
+            "village": "Lauterbrunnen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5115275",
+            "46.5116275",
+            "7.8272208",
+            "7.8273208"
+        ]
+    }
+]

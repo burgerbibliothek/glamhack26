@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92297676,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3790241420,
+        "lat": "46.6597692",
+        "lon": "7.8954990",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.13618373728802152,
+        "addresstype": "railway",
+        "name": "Breitlauenen",
+        "display_name": "Breitlauenen, Wanderweg Schynige Platte, Gsteigwiler, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3814, Schweiz",
+        "address": {
+            "railway": "Breitlauenen",
+            "road": "Wanderweg Schynige Platte",
+            "village": "Gsteigwiler",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3814",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6547692",
+            "46.6647692",
+            "7.8904990",
+            "7.9004990"
+        ]
+    }
+]

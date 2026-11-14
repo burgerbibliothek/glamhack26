@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145182032,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3025269180,
+        "lat": "52.5532710",
+        "lon": "13.4703055",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "12, Gartenstraße, Bruno-Siedlung, Weißensee, Pankow, Berlin, 13088, Deutschland",
+        "address": {
+            "house_number": "12",
+            "road": "Gartenstraße",
+            "neighbourhood": "Bruno-Siedlung",
+            "suburb": "Weißensee",
+            "borough": "Pankow",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13088",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5532210",
+            "52.5533210",
+            "13.4702555",
+            "13.4703555"
+        ]
+    }
+]

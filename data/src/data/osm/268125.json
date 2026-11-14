@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91597964,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3884355546,
+        "lat": "46.4842097",
+        "lon": "6.1157374",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44599986666192903,
+        "addresstype": "peak",
+        "name": "Le Noirmont",
+        "display_name": "Le Noirmont, Arzier-Le Muids, District de Nyon, Waadt, 1265, Schweiz",
+        "address": {
+            "peak": "Le Noirmont",
+            "village": "Arzier-Le Muids",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1265",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4841597",
+            "46.4842597",
+            "6.1156874",
+            "6.1157874"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 116494064,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 218524666,
+        "lat": "50.9404810",
+        "lon": "6.8398424",
+        "category": "building",
+        "type": "terrace",
+        "place_rank": 30,
+        "importance": 8.006485084301545e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "99, Bahnstraße, Weiden, Lindenthal, Köln, Nordrhein-Westfalen, 50858, Deutschland",
+        "address": {
+            "house_number": "99",
+            "road": "Bahnstraße",
+            "suburb": "Weiden",
+            "city_district": "Lindenthal",
+            "city": "Köln",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "50858",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9404293",
+            "50.9405484",
+            "6.8397655",
+            "6.8399192"
+        ]
+    }
+]

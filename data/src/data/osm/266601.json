@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 93545305,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685577,
+        "lat": "47.3489482",
+        "lon": "7.2140576",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3867453017489014,
+        "addresstype": "village",
+        "name": "Boécourt",
+        "display_name": "Boécourt, Bezirk Delsberg, Jura, Schweiz",
+        "address": {
+            "village": "Boécourt",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3399428",
+            "47.3838359",
+            "7.1909090",
+            "7.2523005"
+        ]
+    }
+]

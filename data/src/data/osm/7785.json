@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 137207423,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2857008,
+        "lat": "50.9410689",
+        "lon": "11.3950640",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.43096957211662124,
+        "addresstype": "village",
+        "name": "Mellingen",
+        "display_name": "Mellingen, Landkreis Weimarer Land, Thüringen, Deutschland",
+        "address": {
+            "village": "Mellingen",
+            "municipality": "Mellingen",
+            "county": "Landkreis Weimarer Land",
+            "state": "Thüringen",
+            "ISO3166-2-lvl4": "DE-TH",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.8906558",
+            "50.9640181",
+            "11.3507942",
+            "11.4242207"
+        ]
+    }
+]

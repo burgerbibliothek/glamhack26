@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 61810523,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7983067647,
+        "lat": "47.0478855",
+        "lon": "28.8970393",
+        "category": "amenity",
+        "type": "biergarten",
+        "place_rank": 30,
+        "importance": 7.086518654149718e-05,
+        "addresstype": "amenity",
+        "name": "Ragaz",
+        "display_name": "Ragaz, 11/2, Nicolae Milescu Spătarul Street, Kischinau, Ciocana Sector, Munizip Kischinau, MD-2075, Moldau",
+        "address": {
+            "amenity": "Ragaz",
+            "house_number": "11/2",
+            "road": "Nicolae Milescu Spătarul Street",
+            "city": "Kischinau",
+            "ISO3166-2-lvl8": "MD-CU",
+            "suburb": "Ciocana Sector",
+            "municipality": "Munizip Kischinau",
+            "ISO3166-2-lvl4": "MD-CU",
+            "postcode": "MD-2075",
+            "country": "Moldau",
+            "country_code": "md"
+        },
+        "boundingbox": [
+            "47.0478355",
+            "47.0479355",
+            "28.8969893",
+            "28.8970893"
+        ]
+    }
+]

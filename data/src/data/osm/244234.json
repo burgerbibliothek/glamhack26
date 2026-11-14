@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73603359,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684681,
+        "lat": "46.1813937",
+        "lon": "8.8633895",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39862612808608605,
+        "addresstype": "village",
+        "name": "Gordola",
+        "display_name": "Gordola, Kreis Navegna, Bezirk Locarno, Tessin, 6596, Schweiz",
+        "address": {
+            "village": "Gordola",
+            "municipality": "Kreis Navegna",
+            "county": "Bezirk Locarno",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6596",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1674814",
+            "46.2055549",
+            "8.8444771",
+            "8.8817364"
+        ]
+    }
+]

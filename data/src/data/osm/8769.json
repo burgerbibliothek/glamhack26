@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92989541,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682738,
+        "lat": "47.0514104",
+        "lon": "7.4715761",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.45952151608557235,
+        "addresstype": "village",
+        "name": "Zuzwil (BE)",
+        "display_name": "Zuzwil (BE), Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3303, Schweiz",
+        "address": {
+            "village": "Zuzwil (BE)",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3303",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0402923",
+            "47.0589825",
+            "7.4453743",
+            "7.4863863"
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 68548093,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1675882,
+        "lat": "46.3664410",
+        "lon": "14.8397651",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5460487610268853,
+        "addresstype": "municipality",
+        "name": "Laufen",
+        "display_name": "Laufen, 3333, Slowenien",
+        "address": {
+            "municipality": "Laufen",
+            "ISO3166-2-lvl8": "SI-062",
+            "postcode": "3333",
+            "country": "Slowenien",
+            "country_code": "si"
+        },
+        "boundingbox": [
+            "46.3092540",
+            "46.4242757",
+            "14.7764053",
+            "14.9015058"
+        ]
+    }
+]

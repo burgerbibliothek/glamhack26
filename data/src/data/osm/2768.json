@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92064831,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 57890956,
+        "lat": "46.9442871",
+        "lon": "7.4067258",
+        "category": "club",
+        "type": "model_railway",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "club",
+        "name": "Berner Modell-Eisenbahn Club",
+        "display_name": "Berner Modell-Eisenbahn Club, 140, Freiburgstrasse, Holligen, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3008, Schweiz",
+        "address": {
+            "club": "Berner Modell-Eisenbahn Club",
+            "house_number": "140",
+            "road": "Freiburgstrasse",
+            "quarter": "Holligen",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3008",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9440832",
+            "46.9443694",
+            "7.4065069",
+            "7.4068245"
+        ]
+    }
+]

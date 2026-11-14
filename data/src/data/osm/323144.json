@@ -1,0 +1,41 @@
+[
+    {
+        "place_id": 120412896,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7660527186,
+        "lat": "48.5831790",
+        "lon": "7.7504102",
+        "category": "shop",
+        "type": "bakery",
+        "place_rank": 30,
+        "importance": 7.748149843590475e-05,
+        "addresstype": "shop",
+        "name": "Maison Alsacienne de Biscuiterie",
+        "display_name": "Maison Alsacienne de Biscuiterie, 16, Münstergasse, Centre, Straßburg, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67000, Frankreich",
+        "address": {
+            "shop": "Maison Alsacienne de Biscuiterie",
+            "house_number": "16",
+            "road": "Münstergasse",
+            "suburb": "Centre",
+            "city": "Straßburg",
+            "municipality": "Straßburg",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.5831290",
+            "48.5832290",
+            "7.7503602",
+            "7.7504602"
+        ]
+    }
+]

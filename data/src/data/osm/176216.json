@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72311285,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 10567943,
+        "lat": "47.3585740",
+        "lon": "8.5211476",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.053411847867551654,
+        "addresstype": "residential",
+        "name": "Bubenbergstrasse",
+        "display_name": "Bubenbergstrasse, Alt-Wiedikon, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8027, Schweiz",
+        "address": {
+            "road": "Bubenbergstrasse",
+            "quarter": "Alt-Wiedikon",
+            "suburb": "Kreis 3",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8027",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3581646",
+            "47.3585994",
+            "8.5205336",
+            "8.5215819"
+        ]
+    }
+]

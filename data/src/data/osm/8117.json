@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73827124,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3296546658,
+        "lat": "46.1822717",
+        "lon": "9.0493407",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10672887998779276,
+        "addresstype": "isolated_dwelling",
+        "name": "Monti di Ravecchia",
+        "display_name": "Monti di Ravecchia, S. Antonio (Valle Morobbia), Bellinzona, Kreis Bellinzona, Bezirk Bellinzona, Tessin, 6583, Schweiz",
+        "address": {
+            "isolated_dwelling": "Monti di Ravecchia",
+            "village": "S. Antonio (Valle Morobbia)",
+            "town": "Bellinzona",
+            "municipality": "Kreis Bellinzona",
+            "county": "Bezirk Bellinzona",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6583",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1822217",
+            "46.1823217",
+            "9.0492907",
+            "9.0493907"
+        ]
+    }
+]

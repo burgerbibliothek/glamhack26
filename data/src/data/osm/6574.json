@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 139336388,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 347657570,
+        "lat": "51.2165195",
+        "lon": "8.7656176",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339007476920728,
+        "addresstype": "hamlet",
+        "name": "Aarmühle",
+        "display_name": "Aarmühle, Goddelsheim, Lichtenfels, Landkreis Waldeck-Frankenberg, Hessen, 35104, Deutschland",
+        "address": {
+            "hamlet": "Aarmühle",
+            "village": "Goddelsheim",
+            "municipality": "Lichtenfels",
+            "county": "Landkreis Waldeck-Frankenberg",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "35104",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.1965195",
+            "51.2365195",
+            "8.7456176",
+            "8.7856176"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73835008,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2584267043,
+        "lat": "46.4858946",
+        "lon": "11.4552752",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.43786060464304577,
+        "addresstype": "village",
+        "name": "Steinegg",
+        "display_name": "Steinegg, Karneid, Salten-Schlern, Bozen, Trentino-Südtirol, 39053, Italien",
+        "address": {
+            "village": "Steinegg",
+            "city": "Karneid",
+            "municipality": "Salten-Schlern",
+            "county": "Bozen",
+            "ISO3166-2-lvl6": "IT-BZ",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "postcode": "39053",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.4658946",
+            "46.5058946",
+            "11.4352752",
+            "11.4752752"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 42700555,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2190480,
+        "lat": "6.7526716",
+        "lon": "30.0948429",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.44357265160904613,
+        "addresstype": "state",
+        "name": "Seen",
+        "display_name": "Seen, Südsudan",
+        "address": {
+            "state": "Seen",
+            "ISO3166-2-lvl4": "SS-LK",
+            "country": "Südsudan",
+            "country_code": "ss"
+        },
+        "boundingbox": [
+            "5.6733268",
+            "7.8326054",
+            "28.4629711",
+            "31.6905329"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 284269236,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 186989,
+        "lat": "49.1211062",
+        "lon": "-0.5513502",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.574309527449573,
+        "addresstype": "village",
+        "name": "Missy",
+        "display_name": "Missy, Val d'Arry, Vire, Calvados, Normandie, Metropolitanes Frankreich, 14210, Frankreich",
+        "address": {
+            "village": "Missy",
+            "city": "Val d'Arry",
+            "municipality": "Vire",
+            "county": "Calvados",
+            "ISO3166-2-lvl6": "FR-14",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "14210",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.1097757",
+            "49.1401322",
+            "-0.5585596",
+            "-0.5228722"
+        ]
+    }
+]

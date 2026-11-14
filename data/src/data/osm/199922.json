@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 150826885,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 39042017,
+        "lat": "54.1878394",
+        "lon": "9.1471738",
+        "category": "highway",
+        "type": "track",
+        "place_rank": 26,
+        "importance": 0.053392810711833334,
+        "addresstype": "track",
+        "name": "Sichternweg",
+        "display_name": "Sichternweg, Duvenheide, Süderholm, Heide, Kreis Dithmarschen, Schleswig-Holstein, 25746, Deutschland",
+        "address": {
+            "road": "Sichternweg",
+            "hamlet": "Duvenheide",
+            "village": "Süderholm",
+            "town": "Heide",
+            "county": "Kreis Dithmarschen",
+            "state": "Schleswig-Holstein",
+            "ISO3166-2-lvl4": "DE-SH",
+            "postcode": "25746",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "54.1854487",
+            "54.1907526",
+            "9.1433654",
+            "9.1505691"
+        ]
+    }
+]

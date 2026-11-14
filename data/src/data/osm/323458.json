@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92074218,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 93946294,
+        "lat": "46.9457008",
+        "lon": "7.2467123",
+        "category": "building",
+        "type": "farm",
+        "place_rank": 30,
+        "importance": 4.9938963912367705e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "52, Murtenstrasse, Gümmenen, Mühleberg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3205, Schweiz",
+        "address": {
+            "house_number": "52",
+            "road": "Murtenstrasse",
+            "hamlet": "Gümmenen",
+            "village": "Mühleberg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3205",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9456123",
+            "46.9458133",
+            "7.2466318",
+            "7.2468809"
+        ]
+    }
+]

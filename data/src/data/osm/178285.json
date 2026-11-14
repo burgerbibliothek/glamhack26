@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72951317,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 38453981,
+        "lat": "47.1205556",
+        "lon": "9.1581661",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338168535896847,
+        "addresstype": "hamlet",
+        "name": "Mülital",
+        "display_name": "Mülital, Obstalden, Glarus Nord, Glarus, 8758, Schweiz",
+        "address": {
+            "hamlet": "Mülital",
+            "village": "Obstalden",
+            "city": "Glarus Nord",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "postcode": "8758",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1005556",
+            "47.1405556",
+            "9.1381661",
+            "9.1781661"
+        ]
+    }
+]

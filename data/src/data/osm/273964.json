@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 76639843,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683933,
+        "lat": "47.2256001",
+        "lon": "8.9415774",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4093142170089203,
+        "addresstype": "village",
+        "name": "Schmerikon",
+        "display_name": "Schmerikon, Wahlkreis See-Gaster, St. Gallen, Schweiz",
+        "address": {
+            "village": "Schmerikon",
+            "county": "Wahlkreis See-Gaster",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2158366",
+            "47.2352361",
+            "8.9165782",
+            "8.9675822"
+        ]
+    }
+]

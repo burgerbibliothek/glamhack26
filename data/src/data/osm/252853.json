@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 94191673,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 114583,
+        "lat": "47.7291744",
+        "lon": "6.9810090",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.46579012336862585,
+        "addresstype": "village",
+        "name": "Thal",
+        "display_name": "Thal, Belfort, Territoire-de-Belfort, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 90110, Frankreich",
+        "address": {
+            "village": "Thal",
+            "municipality": "Belfort",
+            "county": "Territoire-de-Belfort",
+            "ISO3166-2-lvl6": "FR-90",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "90110",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.7187863",
+            "47.7459024",
+            "6.9681052",
+            "7.0207004"
+        ]
+    }
+]

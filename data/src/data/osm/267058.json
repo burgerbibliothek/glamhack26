@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71995432,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1599381313,
+        "lat": "47.5367433",
+        "lon": "8.8772586",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.28779482241276744,
+        "addresstype": "village",
+        "name": "Gerlikon",
+        "display_name": "Gerlikon, Frauenfeld, Bezirk Frauenfeld, Thurgau, 8500, Schweiz",
+        "address": {
+            "village": "Gerlikon",
+            "town": "Frauenfeld",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8500",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5167433",
+            "47.5567433",
+            "8.8572586",
+            "8.8972586"
+        ]
+    }
+]

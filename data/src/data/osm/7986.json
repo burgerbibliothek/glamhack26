@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92896966,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682595,
+        "lat": "47.1301054",
+        "lon": "7.4065122",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41980577698315585,
+        "addresstype": "village",
+        "name": "Oberwil bei Büren",
+        "display_name": "Oberwil bei Büren, Seeland administrative district, Seeland administrative region, Bern, 3298, Schweiz",
+        "address": {
+            "village": "Oberwil bei Büren",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3298",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1176790",
+            "47.1465187",
+            "7.3867465",
+            "7.4401827"
+        ]
+    }
+]

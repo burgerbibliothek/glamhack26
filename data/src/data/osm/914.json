@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 43983857,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 14046869,
+        "lat": "15.5407528",
+        "lon": "41.8333210",
+        "category": "place",
+        "type": "island",
+        "place_rank": 17,
+        "importance": 0.38401233771949483,
+        "addresstype": "island",
+        "name": "Dschazirat Dschabal at-Tair",
+        "display_name": "Dschazirat Dschabal at-Tair, Kamaran, Gouvernement al-Hudaida, Jemen",
+        "address": {
+            "island": "Dschazirat Dschabal at-Tair",
+            "district": "Kamaran",
+            "state": "Gouvernement al-Hudaida",
+            "ISO3166-2-lvl4": "YE-HU",
+            "country": "Jemen",
+            "country_code": "ye"
+        },
+        "boundingbox": [
+            "15.5234777",
+            "15.5582410",
+            "41.8150109",
+            "41.8520259"
+        ]
+    }
+]

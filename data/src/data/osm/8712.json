@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71754452,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 321572660,
+        "lat": "47.5031923",
+        "lon": "8.9222991",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2681408123538118,
+        "addresstype": "village",
+        "name": "Wittenwil",
+        "display_name": "Wittenwil, Aadorf, Bezirk Münchwilen, Thurgau, 8355, Schweiz",
+        "address": {
+            "village": "Wittenwil",
+            "county": "Bezirk Münchwilen",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8355",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4831923",
+            "47.5231923",
+            "8.9022991",
+            "8.9422991"
+        ]
+    }
+]

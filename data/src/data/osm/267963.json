@@ -1,0 +1,28 @@
+[
+    {
+        "place_id": 174088141,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2835044,
+        "lat": "54.1898132",
+        "lon": "20.6797103",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.45533791270208157,
+        "addresstype": "river",
+        "name": "Alle",
+        "display_name": "Alle, Polen",
+        "address": {
+            "river": "Alle",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "53.4429527",
+            "54.6209474",
+            "20.3728435",
+            "21.2648994"
+        ]
+    }
+]

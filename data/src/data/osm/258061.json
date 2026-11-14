@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 109982294,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 7164668,
+        "lat": "51.4695086",
+        "lon": "5.4513889",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05340373006790261,
+        "addresstype": "residential",
+        "name": "Grand Combin",
+        "display_name": "Grand Combin, Driehoeksbos, Woensel-Noord, Eindhoven, Nordbrabant, Niederlande, 5624 NM, Niederlande",
+        "address": {
+            "road": "Grand Combin",
+            "neighbourhood": "Driehoeksbos",
+            "suburb": "Woensel-Noord",
+            "city": "Eindhoven",
+            "municipality": "Eindhoven",
+            "state": "Nordbrabant",
+            "ISO3166-2-lvl4": "NL-NB",
+            "country": "Niederlande",
+            "postcode": "5624 NM",
+            "country_code": "nl"
+        },
+        "boundingbox": [
+            "51.4682537",
+            "51.4700254",
+            "5.4489175",
+            "5.4542630"
+        ]
+    }
+]

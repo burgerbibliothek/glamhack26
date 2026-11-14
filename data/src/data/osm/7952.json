@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91777009,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685074,
+        "lat": "46.3820585",
+        "lon": "6.2402791",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5865899694421386,
+        "addresstype": "town",
+        "name": "Nyon",
+        "display_name": "Nyon, District de Nyon, Waadt, 1260, Schweiz",
+        "address": {
+            "town": "Nyon",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1260",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3604208",
+            "46.4064013",
+            "6.2056934",
+            "6.2680776"
+        ]
+    }
+]

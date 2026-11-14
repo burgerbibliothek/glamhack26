@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 288550284,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 149718,
+        "lat": "46.9487434",
+        "lon": "-0.4668920",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.5044740876489993,
+        "addresstype": "city_district",
+        "name": "La Coudre",
+        "display_name": "La Coudre, Argentonnay, Bressuire, Deux-Sèvres, Neu-Aquitanien, Metropolitanes Frankreich, 79150, Frankreich",
+        "address": {
+            "city_district": "La Coudre",
+            "city": "Argentonnay",
+            "municipality": "Bressuire",
+            "county": "Deux-Sèvres",
+            "ISO3166-2-lvl6": "FR-79",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "79150",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.9333791",
+            "46.9641512",
+            "-0.5039677",
+            "-0.4330760"
+        ]
+    }
+]

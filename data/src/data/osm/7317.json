@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91712267,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 6561935,
+        "lat": "46.9365243",
+        "lon": "7.5067496",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.4955556388873402,
+        "addresstype": "suburb",
+        "name": "Gümligen",
+        "display_name": "Gümligen, Muri bei Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3073, Schweiz",
+        "address": {
+            "suburb": "Gümligen",
+            "village": "Gümligen",
+            "town": "Muri bei Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3073",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9224165",
+            "46.9508557",
+            "7.4895009",
+            "7.5247938"
+        ]
+    }
+]

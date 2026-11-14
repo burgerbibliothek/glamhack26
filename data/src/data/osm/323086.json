@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 144702658,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2930925267,
+        "lat": "52.5903987",
+        "lon": "13.4614198",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "20, Mittelstraße, Alt-Blankenburg, Anlage Blankenburg, Blankenburg, Pankow, Berlin, 13129, Deutschland",
+        "address": {
+            "house_number": "20",
+            "road": "Mittelstraße",
+            "neighbourhood": "Alt-Blankenburg",
+            "quarter": "Anlage Blankenburg",
+            "suburb": "Blankenburg",
+            "borough": "Pankow",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13129",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5903487",
+            "52.5904487",
+            "13.4613698",
+            "13.4614698"
+        ]
+    }
+]

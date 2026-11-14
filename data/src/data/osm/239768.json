@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91930960,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 285869381,
+        "lat": "46.9485087",
+        "lon": "7.4416137",
+        "category": "highway",
+        "type": "footway",
+        "place_rank": 27,
+        "importance": 0.04007734264133668,
+        "addresstype": "road",
+        "name": "Von-Werdt-Passage",
+        "display_name": "Von-Werdt-Passage, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3001, Schweiz",
+        "address": {
+            "road": "Von-Werdt-Passage",
+            "quarter": "Rotes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9480266",
+            "46.9490117",
+            "7.4415413",
+            "7.4417218"
+        ]
+    }
+]

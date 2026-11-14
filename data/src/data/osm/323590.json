@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 116723210,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 181180100,
+        "lat": "50.7886010",
+        "lon": "6.0980930",
+        "category": "building",
+        "type": "semidetached_house",
+        "place_rank": 30,
+        "importance": 7.28747997252921e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "31, Normannenstraße, Aachen-Mitte, Aachen, Städteregion Aachen, Nordrhein-Westfalen, 52070, Deutschland",
+        "address": {
+            "house_number": "31",
+            "road": "Normannenstraße",
+            "city_district": "Aachen-Mitte",
+            "city": "Aachen",
+            "county": "Städteregion Aachen",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "52070",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.7885562",
+            "50.7886491",
+            "6.0980237",
+            "6.0981666"
+        ]
+    }
+]

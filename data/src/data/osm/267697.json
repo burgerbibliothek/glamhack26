@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 80243321,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3950043660,
+        "lat": "42.8396663",
+        "lon": "12.5612320",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.45904993504418296,
+        "addresstype": "hamlet",
+        "name": "Castagnola",
+        "display_name": "Castagnola, Giano dell'Umbria, Perugia, Umbrien, 06030, Italien",
+        "address": {
+            "hamlet": "Castagnola",
+            "village": "Giano dell'Umbria",
+            "county": "Perugia",
+            "ISO3166-2-lvl6": "IT-PG",
+            "state": "Umbrien",
+            "ISO3166-2-lvl4": "IT-55",
+            "postcode": "06030",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "42.8196663",
+            "42.8596663",
+            "12.5412320",
+            "12.5812320"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92427845,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682541,
+        "lat": "47.0650881",
+        "lon": "7.5819291",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41882909805791557,
+        "addresstype": "village",
+        "name": "Lyssach",
+        "display_name": "Lyssach, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3421, Schweiz",
+        "address": {
+            "village": "Lyssach",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3421",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0542977",
+            "47.0816942",
+            "7.5527274",
+            "7.6028047"
+        ]
+    }
+]

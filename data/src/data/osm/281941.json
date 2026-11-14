@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91322807,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4341843529,
+        "lat": "46.1259182",
+        "lon": "5.9740164",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339249942778666,
+        "addresstype": "hamlet",
+        "name": "La Petite Joux",
+        "display_name": "La Petite Joux, Valleiry, Saint-Julien-en-Genevois, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74520, Frankreich",
+        "address": {
+            "hamlet": "La Petite Joux",
+            "village": "Valleiry",
+            "municipality": "Saint-Julien-en-Genevois",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74520",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.1059182",
+            "46.1459182",
+            "5.9540164",
+            "5.9940164"
+        ]
+    }
+]

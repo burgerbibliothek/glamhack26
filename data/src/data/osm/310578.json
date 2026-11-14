@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 420721862,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 746830907,
+        "lat": "45.7936297",
+        "lon": "8.8096689",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.4026664728735604,
+        "addresstype": "village",
+        "name": "Capolago",
+        "display_name": "Capolago, Väris, Varese, Lombardei, 21026, Italien",
+        "address": {
+            "village": "Capolago",
+            "city": "Väris",
+            "county": "Varese",
+            "ISO3166-2-lvl6": "IT-VA",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "21026",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.7736297",
+            "45.8136297",
+            "8.7896689",
+            "8.8296689"
+        ]
+    }
+]

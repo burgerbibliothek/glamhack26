@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91449854,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1389693347,
+        "lat": "46.6841642",
+        "lon": "7.0402724",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4480610519695675,
+        "addresstype": "peak",
+        "name": "Gibloux",
+        "display_name": "Gibloux, Sorens, Greyerzbezirk, Freiburg, 1642, Schweiz",
+        "address": {
+            "peak": "Gibloux",
+            "village": "Sorens",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1642",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6841142",
+            "46.6842142",
+            "7.0402224",
+            "7.0403224"
+        ]
+    }
+]

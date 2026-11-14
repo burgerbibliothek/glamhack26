@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 112177681,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 550318162,
+        "lat": "51.2289884",
+        "lon": "6.7746670",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.726176852059232e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "3, Neubrückstraße, Altstadt, Stadtbezirk 1, Düsseldorf, Nordrhein-Westfalen, 40213, Deutschland",
+        "address": {
+            "house_number": "3",
+            "road": "Neubrückstraße",
+            "suburb": "Altstadt",
+            "city_district": "Stadtbezirk 1",
+            "city": "Düsseldorf",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "40213",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.2288338",
+            "51.2291567",
+            "6.7743815",
+            "6.7748670"
+        ]
+    }
+]

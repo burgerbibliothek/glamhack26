@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73458424,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2711509607,
+        "lat": "46.7565855",
+        "lon": "9.1196490",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1467137613488975,
+        "addresstype": "village",
+        "name": "Affeier",
+        "display_name": "Affeier, Obersaxen-Mundaun, Surselva, Graubünden, 7133, Schweiz",
+        "address": {
+            "village": "Affeier",
+            "city": "Obersaxen-Mundaun",
+            "county": "Surselva",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7133",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7365855",
+            "46.7765855",
+            "9.0996490",
+            "9.1396490"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 141924592,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1218232391,
+        "lat": "53.0796621",
+        "lon": "8.3853372",
+        "category": "waterway",
+        "type": "canal",
+        "place_rank": 20,
+        "importance": 0.13338168535896847,
+        "addresstype": "canal",
+        "name": "Göhlgraben",
+        "display_name": "Göhlgraben, Hurrel, Lintel, Hude (Oldenburg), Landkreis Oldenburg, Niedersachsen, 27798, Deutschland",
+        "address": {
+            "canal": "Göhlgraben",
+            "hamlet": "Hurrel",
+            "village": "Lintel",
+            "town": "Hude (Oldenburg)",
+            "county": "Landkreis Oldenburg",
+            "state": "Niedersachsen",
+            "ISO3166-2-lvl4": "DE-NI",
+            "postcode": "27798",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "53.0796348",
+            "53.0803118",
+            "8.3829881",
+            "8.3877664"
+        ]
+    }
+]

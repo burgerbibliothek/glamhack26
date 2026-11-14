@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92734660,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682841,
+        "lat": "47.1706870",
+        "lon": "7.8877050",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39022041580958405,
+        "addresstype": "village",
+        "name": "Grossdietwil",
+        "display_name": "Grossdietwil, Luzern, 6146, Schweiz",
+        "address": {
+            "village": "Grossdietwil",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6146",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1473141",
+            "47.2028623",
+            "7.8753839",
+            "7.9335986"
+        ]
+    }
+]

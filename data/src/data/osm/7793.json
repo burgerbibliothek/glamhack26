@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72808686,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683144,
+        "lat": "47.1782910",
+        "lon": "8.5899339",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4099433336060744,
+        "addresstype": "village",
+        "name": "Menzingen",
+        "display_name": "Menzingen, Zug, 6313, Schweiz",
+        "address": {
+            "village": "Menzingen",
+            "state": "Zug",
+            "ISO3166-2-lvl4": "CH-ZG",
+            "postcode": "6313",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1480617",
+            "47.2052405",
+            "8.5544094",
+            "8.6657840"
+        ]
+    }
+]

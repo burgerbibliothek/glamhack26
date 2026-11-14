@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73286496,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 539763497,
+        "lat": "46.7198760",
+        "lon": "8.2102100",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.28779482241276744,
+        "addresstype": "valley",
+        "name": "Aareschlucht",
+        "display_name": "Aareschlucht, Innertkirchen, Meiringen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "valley": "Aareschlucht",
+            "city_district": "Innertkirchen",
+            "village": "Meiringen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7118880",
+            "46.7211183",
+            "8.1990157",
+            "8.2172278"
+        ]
+    }
+]

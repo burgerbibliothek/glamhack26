@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72032338,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683700,
+        "lat": "47.5789455",
+        "lon": "8.5721611",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40816634963515963,
+        "addresstype": "village",
+        "name": "Rüdlingen",
+        "display_name": "Rüdlingen, Bezirk Schaffhausen, Schaffhausen, 8455, Schweiz",
+        "address": {
+            "village": "Rüdlingen",
+            "county": "Bezirk Schaffhausen",
+            "state": "Schaffhausen",
+            "ISO3166-2-lvl4": "CH-SH",
+            "postcode": "8455",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5575980",
+            "47.6061569",
+            "8.5371735",
+            "8.5957278"
+        ]
+    }
+]

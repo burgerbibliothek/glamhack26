@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 128894204,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3572568494,
+        "lat": "48.1173552",
+        "lon": "11.5826776",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "5, Alpenstraße, Feldmüllersiedlung, Obergiesing, Obergiesing-Fasangarten, München, Bayern, 81541, Deutschland",
+        "address": {
+            "house_number": "5",
+            "road": "Alpenstraße",
+            "neighbourhood": "Feldmüllersiedlung",
+            "quarter": "Obergiesing",
+            "city_district": "Obergiesing-Fasangarten",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "81541",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1173052",
+            "48.1174052",
+            "11.5826276",
+            "11.5827276"
+        ]
+    }
+]

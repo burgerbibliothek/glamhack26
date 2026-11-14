@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91645859,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 701192322,
+        "lat": "46.2736464",
+        "lon": "7.0517714",
+        "category": "railway",
+        "type": "halt",
+        "place_rank": 30,
+        "importance": 0.2836220396951343,
+        "addresstype": "railway",
+        "name": "Gryon-Chalméry",
+        "display_name": "Gryon-Chalméry, Chemin de Chalméry, Les Posses-sur-Bex, Bex, Aigle District, Waadt, 1880, Schweiz",
+        "address": {
+            "railway": "Gryon-Chalméry",
+            "road": "Chemin de Chalméry",
+            "village": "Les Posses-sur-Bex",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1880",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2735964",
+            "46.2736964",
+            "7.0517214",
+            "7.0518214"
+        ]
+    }
+]

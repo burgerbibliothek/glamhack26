@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 71079032,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 512989818,
+        "lat": "47.6755894",
+        "lon": "9.5942615",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.569161516742226e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "19, Dr.-Alex-Frick-Weg, Frohe Aussicht, Tettnang, VVG der Stadt Tettnang, Bodenseekreis, Baden-Württemberg, 88069, Deutschland",
+        "address": {
+            "house_number": "19",
+            "road": "Dr.-Alex-Frick-Weg",
+            "hamlet": "Frohe Aussicht",
+            "town": "Tettnang",
+            "municipality": "VVG der Stadt Tettnang",
+            "county": "Bodenseekreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "88069",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.6755275",
+            "47.6756506",
+            "9.5941675",
+            "9.5943600"
+        ]
+    }
+]

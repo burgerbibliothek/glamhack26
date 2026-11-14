@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72440462,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684325,
+        "lat": "47.3862540",
+        "lon": "8.2168579",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38493605591222957,
+        "addresstype": "village",
+        "name": "Hendschiken",
+        "display_name": "Hendschiken, Bezirk Lenzburg, Aargau, 5604, Schweiz",
+        "address": {
+            "village": "Hendschiken",
+            "county": "Bezirk Lenzburg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5604",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3745503",
+            "47.3936214",
+            "8.1998054",
+            "8.2314978"
+        ]
+    }
+]

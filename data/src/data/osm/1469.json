@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92000924,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 8153343,
+        "lat": "46.9754500",
+        "lon": "7.4325548",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.05338628442816812,
+        "addresstype": "tertiary",
+        "name": "Kalchackerstrasse",
+        "display_name": "Kalchackerstrasse, Kalchackerhof, Stuckishaus, Bremgarten bei Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3047, Schweiz",
+        "address": {
+            "road": "Kalchackerstrasse",
+            "neighbourhood": "Kalchackerhof",
+            "quarter": "Stuckishaus",
+            "village": "Bremgarten bei Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3047",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9750279",
+            "46.9756380",
+            "7.4284581",
+            "7.4366737"
+        ]
+    }
+]

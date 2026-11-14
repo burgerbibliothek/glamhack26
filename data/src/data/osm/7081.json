@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91983749,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11413556062,
+        "lat": "46.7995366",
+        "lon": "7.5048525",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333853002212558,
+        "addresstype": "hamlet",
+        "name": "Aebnit",
+        "display_name": "Aebnit, Burgistein, Verwaltungskreis Thun, Oberland administrative region, Bern, 3664, Schweiz",
+        "address": {
+            "hamlet": "Aebnit",
+            "village": "Burgistein",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3664",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7795366",
+            "46.8195366",
+            "7.4848525",
+            "7.5248525"
+        ]
+    }
+]

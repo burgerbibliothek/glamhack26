@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 59684221,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 9462905,
+        "lat": "41.0096545",
+        "lon": "29.1174872",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.2432038182346074,
+        "addresstype": "suburb",
+        "name": "Site Mahallesi",
+        "display_name": "Site Mahallesi, Ümraniye, İstanbul, Marmararegion, 34760, Türkei",
+        "address": {
+            "suburb": "Site Mahallesi",
+            "town": "Ümraniye",
+            "province": "İstanbul",
+            "ISO3166-2-lvl4": "TR-34",
+            "region": "Marmararegion",
+            "postcode": "34760",
+            "country": "Türkei",
+            "country_code": "tr"
+        },
+        "boundingbox": [
+            "41.0045062",
+            "41.0140208",
+            "29.1070962",
+            "29.1219234"
+        ]
+    }
+]

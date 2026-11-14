@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93034013,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685484,
+        "lat": "47.0591568",
+        "lon": "6.8888393",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.36591189903985394,
+        "addresstype": "city_district",
+        "name": "Fontainemelon",
+        "display_name": "Fontainemelon, Val-de-Ruz, Val-de-Ruz Region, Neuenburg, 2052, Schweiz",
+        "address": {
+            "city_district": "Fontainemelon",
+            "city": "Val-de-Ruz",
+            "county": "Val-de-Ruz Region",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2052",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0488796",
+            "47.0691544",
+            "6.8685081",
+            "6.8962159"
+        ]
+    }
+]

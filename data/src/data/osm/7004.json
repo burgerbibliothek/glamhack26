@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92404182,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682416,
+        "lat": "47.1785533",
+        "lon": "7.0703235",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.43728576240816325,
+        "addresstype": "village",
+        "name": "Courtelary",
+        "display_name": "Courtelary, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2608, Schweiz",
+        "address": {
+            "village": "Courtelary",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2608",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1374682",
+            "47.2098219",
+            "7.0256559",
+            "7.1063205"
+        ]
+    }
+]

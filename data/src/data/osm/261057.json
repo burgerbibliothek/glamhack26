@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91925391,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12997356529,
+        "lat": "46.5965617",
+        "lon": "7.8907070",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.23094323434513592,
+        "addresstype": "railway",
+        "name": "Grütschalp",
+        "display_name": "Grütschalp, Grütsch-Trail, Greifenbach, Isenfluh, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3822, Schweiz",
+        "address": {
+            "railway": "Grütschalp",
+            "road": "Grütsch-Trail",
+            "neighbourhood": "Greifenbach",
+            "village": "Isenfluh",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3822",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5915617",
+            "46.6015617",
+            "7.8857070",
+            "7.8957070"
+        ]
+    }
+]

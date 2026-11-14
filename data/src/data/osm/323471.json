@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92353890,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 42350732,
+        "lat": "46.9349747",
+        "lon": "7.4658296",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "residential",
+        "name": "Müslinweg",
+        "display_name": "Müslinweg, Brunnadern, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "road": "Müslinweg",
+            "quarter": "Brunnadern",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9340940",
+            "46.9358594",
+            "7.4646668",
+            "7.4669956"
+        ]
+    }
+]

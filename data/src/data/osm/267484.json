@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 71611014,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7118201246,
+        "lat": "47.8162560",
+        "lon": "8.9051258",
+        "category": "information",
+        "type": "board",
+        "place_rank": 30,
+        "importance": 5.000152590214416e-05,
+        "addresstype": "information",
+        "name": "Kapellenstraße 5",
+        "display_name": "Kapellenstraße 5, 5, Kapellenstraße, Schoren, Wiechs, Steißlingen, VVG der Stadt Singen (Hohentwiel), Landkreis Konstanz, Baden-Württemberg, 78256, Deutschland",
+        "address": {
+            "information": "Kapellenstraße 5",
+            "house_number": "5",
+            "road": "Kapellenstraße",
+            "hamlet": "Schoren",
+            "village": "Wiechs",
+            "municipality": "VVG der Stadt Singen (Hohentwiel)",
+            "county": "Landkreis Konstanz",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "78256",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.8162060",
+            "47.8163060",
+            "8.9050758",
+            "8.9051758"
+        ]
+    }
+]

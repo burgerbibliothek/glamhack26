@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 71913294,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684536,
+        "lat": "47.5160563",
+        "lon": "9.1866321",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39384141776543397,
+        "addresstype": "city",
+        "name": "Kradolf-Schönenberg",
+        "display_name": "Kradolf-Schönenberg, Bezirk Weinfelden, Thurgau, Schweiz",
+        "address": {
+            "city": "Kradolf-Schönenberg",
+            "county": "Bezirk Weinfelden",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4945113",
+            "47.5376144",
+            "9.1496959",
+            "9.2146310"
+        ]
+    }
+]

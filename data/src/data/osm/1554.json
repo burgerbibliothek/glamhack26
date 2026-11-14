@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73504104,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 27835309,
+        "lat": "46.4408265",
+        "lon": "8.0920173",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.33155205287302,
+        "addresstype": "lake",
+        "name": "Märjelensee",
+        "display_name": "Märjelensee, Fieschertal, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "lake": "Märjelensee",
+            "village": "Fieschertal",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4405275",
+            "46.4411310",
+            "8.0914732",
+            "8.0928237"
+        ]
+    }
+]

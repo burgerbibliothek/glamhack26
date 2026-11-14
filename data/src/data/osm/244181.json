@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71918914,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1693216,
+        "lat": "47.3424271",
+        "lon": "8.5307085",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.4127618832342703,
+        "addresstype": "suburb",
+        "name": "Wollishofen",
+        "display_name": "Wollishofen, Kreis 2, Zürich, Bezirk Zürich, Zürich, 8038, Schweiz",
+        "address": {
+            "suburb": "Wollishofen",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8038",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3239131",
+            "47.3534234",
+            "8.5161356",
+            "8.5538766"
+        ]
+    }
+]

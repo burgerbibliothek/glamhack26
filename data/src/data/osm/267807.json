@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73937602,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3170060134,
+        "lat": "46.0138169",
+        "lon": "8.8322029",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338380636301211,
+        "addresstype": "hamlet",
+        "name": "Bombinasco",
+        "display_name": "Bombinasco, Bedigliora, Lema, Kreis Magliasina, Bezirk Lugano, Tessin, 6981, Schweiz",
+        "address": {
+            "hamlet": "Bombinasco",
+            "village": "Bedigliora",
+            "city": "Lema",
+            "municipality": "Kreis Magliasina",
+            "county": "Bezirk Lugano",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6981",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9938169",
+            "46.0338169",
+            "8.8122029",
+            "8.8522029"
+        ]
+    }
+]

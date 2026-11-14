@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 146634766,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 259449888,
+        "lat": "52.4183247",
+        "lon": "13.4880327",
+        "category": "building",
+        "type": "detached",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "10, Landhausweg, Siedlung an der Groß-Ziethener Chaussee, Blumenviertel, Rudow, Neukölln, Berlin, 12355, Deutschland",
+        "address": {
+            "house_number": "10",
+            "road": "Landhausweg",
+            "neighbourhood": "Siedlung an der Groß-Ziethener Chaussee",
+            "quarter": "Blumenviertel",
+            "suburb": "Rudow",
+            "borough": "Neukölln",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12355",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4182625",
+            "52.4183868",
+            "13.4879192",
+            "13.4881461"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72599168,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 102305481,
+        "lat": "47.4931594",
+        "lon": "8.2518887",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.39416088441914005,
+        "addresstype": "village",
+        "name": "Turgi",
+        "display_name": "Turgi, Baden, Bezirk Baden, Aargau, 5300, Schweiz",
+        "address": {
+            "village": "Turgi",
+            "town": "Baden",
+            "county": "Bezirk Baden",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5300",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4731594",
+            "47.5131594",
+            "8.2318887",
+            "8.2718887"
+        ]
+    }
+]

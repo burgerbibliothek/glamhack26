@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 93829101,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5323512618,
+        "lat": "47.6375114",
+        "lon": "7.6841131",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 5.9579613946700506e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "36, Sägemattstraße, Haagen, Lörrach, VVG der Stadt Lörrach, Landkreis Lörrach, Baden-Württemberg, 79541, Deutschland",
+        "address": {
+            "house_number": "36",
+            "road": "Sägemattstraße",
+            "village": "Haagen",
+            "town": "Lörrach",
+            "municipality": "VVG der Stadt Lörrach",
+            "county": "Landkreis Lörrach",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "79541",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.6374614",
+            "47.6375614",
+            "7.6840631",
+            "7.6841631"
+        ]
+    }
+]

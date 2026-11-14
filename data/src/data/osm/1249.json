@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 115308442,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3224777,
+        "lat": "51.2209373",
+        "lon": "7.1328875",
+        "category": "landuse",
+        "type": "forest",
+        "place_rank": 24,
+        "importance": 0.2827546027204031,
+        "addresstype": "forest",
+        "name": "Burgholz",
+        "display_name": "Burgholz, Wuppertal, Nordrhein-Westfalen, 42117, Deutschland",
+        "address": {
+            "forest": "Burgholz",
+            "city": "Wuppertal",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "42117",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.1948232",
+            "51.2470167",
+            "7.0976133",
+            "7.1475875"
+        ]
+    }
+]

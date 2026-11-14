@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91394369,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 177626879,
+        "lat": "46.9015246",
+        "lon": "7.6606258",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 4.112382696264618e-05,
+        "addresstype": "building",
+        "name": "Thunstrasse 2",
+        "display_name": "Thunstrasse 2, 2a, Thunstrasse, Zäziwil, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3532, Schweiz",
+        "address": {
+            "building": "Thunstrasse 2",
+            "house_number": "2a",
+            "road": "Thunstrasse",
+            "village": "Zäziwil",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3532",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9014468",
+            "46.9016298",
+            "7.6604426",
+            "7.6608030"
+        ]
+    }
+]

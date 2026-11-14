@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 75853816,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 574804746,
+        "lat": "45.8553637",
+        "lon": "8.9604027",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.30663527500158994,
+        "addresstype": "village",
+        "name": "Genestrerio",
+        "display_name": "Genestrerio, Mendrisio, Kreis Mendrisio, Bezirk Mendrisio, Tessin, 6852, Schweiz",
+        "address": {
+            "village": "Genestrerio",
+            "town": "Mendrisio",
+            "municipality": "Kreis Mendrisio",
+            "county": "Bezirk Mendrisio",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6852",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.8353637",
+            "45.8753637",
+            "8.9404027",
+            "8.9804027"
+        ]
+    }
+]

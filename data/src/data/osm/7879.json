@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 73683575,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 937321928,
+        "lat": "46.6530538",
+        "lon": "10.4737244",
+        "category": "highway",
+        "type": "primary",
+        "place_rank": 26,
+        "importance": 0.45952151608557235,
+        "addresstype": "primary",
+        "name": "Münstertal",
+        "display_name": "Münstertal, Schlossoir, Taufers im Münstertal, Vinschgau, Bozen, Trentino-Südtirol, 39020, Italien",
+        "address": {
+            "road": "Münstertal",
+            "hamlet": "Schlossoir",
+            "village": "Taufers im Münstertal",
+            "municipality": "Vinschgau",
+            "county": "Bozen",
+            "ISO3166-2-lvl6": "IT-BZ",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "postcode": "39020",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.6530360",
+            "46.6530716",
+            "10.4736992",
+            "10.4737495"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92270567,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 564930045,
+        "lat": "46.9555365",
+        "lon": "7.4281548",
+        "category": "shop",
+        "type": "bicycle",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "shop",
+        "name": "Veloterra",
+        "display_name": "Veloterra, 74, Länggassstrasse, Neufeld, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "shop": "Veloterra",
+            "house_number": "74",
+            "road": "Länggassstrasse",
+            "quarter": "Neufeld",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9554865",
+            "46.9555865",
+            "7.4281048",
+            "7.4282048"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92504768,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 243799486,
+        "lat": "47.1067630",
+        "lon": "7.2165141",
+        "category": "leisure",
+        "type": "marina",
+        "place_rank": 30,
+        "importance": 4.543602655065259e-05,
+        "addresstype": "leisure",
+        "name": "Sutz",
+        "display_name": "Sutz, Strandweg, Bielersee (BE), Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2572, Schweiz",
+        "address": {
+            "leisure": "Sutz",
+            "road": "Strandweg",
+            "city": "Bielersee (BE)",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2572",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1064922",
+            "47.1068932",
+            "7.2160568",
+            "7.2169398"
+        ]
+    }
+]

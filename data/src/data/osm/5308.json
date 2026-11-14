@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91879808,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 258957017,
+        "lat": "46.7797956",
+        "lon": "7.6344113",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.000152590214416e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "4, Zibelegässli, Schwendibach, Steffisburg, Verwaltungskreis Thun, Oberland administrative region, Bern, 3612, Schweiz",
+        "address": {
+            "house_number": "4",
+            "road": "Zibelegässli",
+            "village": "Schwendibach",
+            "town": "Steffisburg",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3612",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7797182",
+            "46.7798851",
+            "7.6342560",
+            "7.6345565"
+        ]
+    }
+]

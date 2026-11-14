@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92223691,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6308557604,
+        "lat": "47.1114805",
+        "lon": "7.1542024",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333780628671702,
+        "addresstype": "hamlet",
+        "name": "Twannberg",
+        "display_name": "Twannberg, Gaicht, Twann-Tüscherz, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2516, Schweiz",
+        "address": {
+            "hamlet": "Twannberg",
+            "village": "Gaicht",
+            "city": "Twann-Tüscherz",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2516",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0914805",
+            "47.1314805",
+            "7.1342024",
+            "7.1742024"
+        ]
+    }
+]

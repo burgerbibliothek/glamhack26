@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91791285,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 68868271,
+        "lat": "46.9594592",
+        "lon": "7.4402038",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "36, Tiefenaustrasse, Viererfeld, Engeried, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "house_number": "36",
+            "road": "Tiefenaustrasse",
+            "neighbourhood": "Viererfeld",
+            "quarter": "Engeried",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9594142",
+            "46.9595109",
+            "7.4401300",
+            "7.4402765"
+        ]
+    }
+]

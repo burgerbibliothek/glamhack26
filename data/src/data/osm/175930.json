@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 345933221,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 20522677,
+        "lat": "38.3294551",
+        "lon": "-77.4452428",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05337842603189132,
+        "addresstype": "residential",
+        "name": "Ben Neuis Place",
+        "display_name": "Ben Neuis Place, Heather Hills, Falmouth, Stafford County, Virginia, 22405, Vereinigte Staaten von Amerika",
+        "address": {
+            "road": "Ben Neuis Place",
+            "neighbourhood": "Heather Hills",
+            "village": "Falmouth",
+            "county": "Stafford County",
+            "state": "Virginia",
+            "ISO3166-2-lvl4": "US-VA",
+            "postcode": "22405",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "38.3283750",
+            "38.3301410",
+            "-77.4458040",
+            "-77.4451460"
+        ]
+    }
+]

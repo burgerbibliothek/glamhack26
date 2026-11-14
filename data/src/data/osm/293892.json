@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 76309435,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3175115061,
+        "lat": "44.8006540",
+        "lon": "9.2437890",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.4529793612120576,
+        "addresstype": "hamlet",
+        "name": "Canova",
+        "display_name": "Canova, Menconico, Pavia, Lombardei, 27057, Italien",
+        "address": {
+            "hamlet": "Canova",
+            "village": "Menconico",
+            "county": "Pavia",
+            "ISO3166-2-lvl6": "IT-PV",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "27057",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.7806540",
+            "44.8206540",
+            "9.2237890",
+            "9.2637890"
+        ]
+    }
+]

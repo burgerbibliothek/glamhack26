@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 91772538,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1699156,
+        "lat": "46.9219189",
+        "lon": "7.1408081",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.45502410982979663,
+        "addresstype": "county",
+        "name": "Seebezirk",
+        "display_name": "Seebezirk, Freiburg, Schweiz",
+        "address": {
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8369493",
+            "47.0068059",
+            "7.0401633",
+            "7.2356890"
+        ]
+    }
+]

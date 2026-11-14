@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92399405,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 936977147,
+        "lat": "46.8055892",
+        "lon": "6.9588997",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333887426565957,
+        "addresstype": "hamlet",
+        "name": "Vers-chez-Savary",
+        "display_name": "Vers-chez-Savary, Payerne, District de la Broye-Vully, Waadt, 1551, Schweiz",
+        "address": {
+            "hamlet": "Vers-chez-Savary",
+            "town": "Payerne",
+            "county": "District de la Broye-Vully",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1551",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7855892",
+            "46.8255892",
+            "6.9388997",
+            "6.9788997"
+        ]
+    }
+]

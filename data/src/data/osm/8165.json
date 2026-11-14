@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 95564512,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 274301,
+        "lat": "47.7962627",
+        "lon": "1.4502387",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5321712867329288,
+        "addresstype": "village",
+        "name": "Roches",
+        "display_name": "Roches, Blois, Loir-et-Cher, Zentrum-Loiretal, Metropolitanes Frankreich, 41370, Frankreich",
+        "address": {
+            "village": "Roches",
+            "municipality": "Blois",
+            "county": "Loir-et-Cher",
+            "ISO3166-2-lvl6": "FR-41",
+            "state": "Zentrum-Loiretal",
+            "ISO3166-2-lvl4": "FR-CVL",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "41370",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.7761693",
+            "47.8136473",
+            "1.4279583",
+            "1.4816008"
+        ]
+    }
+]

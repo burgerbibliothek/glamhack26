@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91809406,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684808,
+        "lat": "46.9769849",
+        "lon": "7.8025938",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.4668490071334186,
+        "addresstype": "county",
+        "name": "Verwaltungskreis Emmental",
+        "display_name": "Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7856213",
+            "47.1683570",
+            "7.5045639",
+            "7.9562101"
+        ]
+    }
+]

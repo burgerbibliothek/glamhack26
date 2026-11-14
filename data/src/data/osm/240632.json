@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73728166,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 427744306,
+        "lat": "46.9297607",
+        "lon": "8.3403710",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44917108759705926,
+        "addresstype": "peak",
+        "name": "Stanserhorn",
+        "display_name": "Stanserhorn, Dallenwil, Nidwalden, 6372, Schweiz",
+        "address": {
+            "peak": "Stanserhorn",
+            "village": "Dallenwil",
+            "state": "Nidwalden",
+            "ISO3166-2-lvl4": "CH-NW",
+            "postcode": "6372",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9297107",
+            "46.9298107",
+            "8.3403210",
+            "8.3404210"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92511512,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2284807279,
+        "lat": "47.2860260",
+        "lon": "7.6922491",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 4.803768978403933e-05,
+        "addresstype": "information",
+        "name": "Erlinsburg",
+        "display_name": "Erlinsburg, Heissesteiweg, Leen, Wolfisberg, Niederbipp, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4704, Schweiz",
+        "address": {
+            "information": "Erlinsburg",
+            "road": "Heissesteiweg",
+            "hamlet": "Leen",
+            "village": "Wolfisberg",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4704",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2859760",
+            "47.2860760",
+            "7.6921991",
+            "7.6922991"
+        ]
+    }
+]

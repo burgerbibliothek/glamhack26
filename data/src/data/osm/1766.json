@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92653366,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2198044,
+        "lat": "47.1858622",
+        "lon": "7.0946613",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.42397855970078896,
+        "addresstype": "river",
+        "name": "Schüss",
+        "display_name": "Schüss, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, Schweiz",
+        "address": {
+            "river": "Schüss",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0951349",
+            "47.1979212",
+            "6.8711033",
+            "7.2711842"
+        ]
+    }
+]

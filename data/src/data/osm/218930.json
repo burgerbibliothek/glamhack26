@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 134934223,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2494510887,
+        "lat": "51.0179553",
+        "lon": "13.7405479",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.848859388108671e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "7, Zieglerstraße, Kleinpestitz/Mockritz, Mockritz, Plauen, Dresden, Sachsen, 01217, Deutschland",
+        "address": {
+            "house_number": "7",
+            "road": "Zieglerstraße",
+            "neighbourhood": "Kleinpestitz/Mockritz",
+            "suburb": "Mockritz",
+            "city_district": "Plauen",
+            "city": "Dresden",
+            "state": "Sachsen",
+            "ISO3166-2-lvl4": "DE-SN",
+            "postcode": "01217",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.0179053",
+            "51.0180053",
+            "13.7404979",
+            "13.7405979"
+        ]
+    }
+]

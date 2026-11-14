@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 337150998,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 126149,
+        "lat": "37.2936633",
+        "lon": "-88.9753462",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44771027162293786,
+        "addresstype": "village",
+        "name": "Karnak",
+        "display_name": "Karnak, Pulaski County, Illinois, Vereinigte Staaten von Amerika",
+        "address": {
+            "village": "Karnak",
+            "county": "Pulaski County",
+            "state": "Illinois",
+            "ISO3166-2-lvl4": "US-IL",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "37.2849860",
+            "37.3038380",
+            "-88.9894020",
+            "-88.9611990"
+        ]
+    }
+]

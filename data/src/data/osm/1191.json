@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91711386,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3442694830,
+        "lat": "46.6854949",
+        "lon": "7.7467838",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10671666819256884,
+        "addresstype": "isolated_dwelling",
+        "name": "Beatenbucht",
+        "display_name": "Beatenbucht, Thunersee, Horrenbach-Buchen, Amtsbezirk Niedersimmental, Oberland administrative region, Bern, 3658, Schweiz",
+        "address": {
+            "isolated_dwelling": "Beatenbucht",
+            "city": "Thunersee",
+            "municipality": "Horrenbach-Buchen",
+            "county": "Amtsbezirk Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3658",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6854449",
+            "46.6855449",
+            "7.7467338",
+            "7.7468338"
+        ]
+    }
+]

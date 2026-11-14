@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91318363,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1469446623,
+        "lat": "46.9785773",
+        "lon": "7.4702889",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.05338044327458606,
+        "addresstype": "secondary",
+        "name": "Worblentalstrasse",
+        "display_name": "Worblentalstrasse, Im Park, Altikofen, Worblaufen, Ittigen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3063, Schweiz",
+        "address": {
+            "road": "Worblentalstrasse",
+            "neighbourhood": "Im Park",
+            "quarter": "Altikofen",
+            "suburb": "Worblaufen",
+            "town": "Ittigen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3063",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9782073",
+            "46.9786812",
+            "7.4691182",
+            "7.4714023"
+        ]
+    }
+]

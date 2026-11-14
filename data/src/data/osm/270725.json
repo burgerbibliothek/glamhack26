@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92144124,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 560058742,
+        "lat": "46.6294313",
+        "lon": "6.9392407",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2961343492019334,
+        "addresstype": "village",
+        "name": "La Joux FR",
+        "display_name": "La Joux FR, Vuisternens-devant-Romont, Glanebezirk, Freiburg, 1697, Schweiz",
+        "address": {
+            "village": "La Joux FR",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1697",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6094313",
+            "46.6494313",
+            "6.9192407",
+            "6.9592407"
+        ]
+    }
+]

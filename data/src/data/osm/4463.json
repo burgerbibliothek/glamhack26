@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 132643734,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 296526483,
+        "lat": "50.0872941",
+        "lon": "14.4190154",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.434958419160781e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "2/1, Rathausgasse, Josefstadt, Stadtbezirk Prag 1, Prag, 110 00, Tschechien",
+        "address": {
+            "house_number": "2/1",
+            "road": "Rathausgasse",
+            "suburb": "Josefstadt",
+            "city_district": "Stadtbezirk Prag 1",
+            "city": "Prag",
+            "ISO3166-2-lvl4": "CZ-10",
+            "postcode": "110 00",
+            "country": "Tschechien",
+            "country_code": "cz"
+        },
+        "boundingbox": [
+            "50.0872441",
+            "50.0873441",
+            "14.4189654",
+            "14.4190654"
+        ]
+    }
+]

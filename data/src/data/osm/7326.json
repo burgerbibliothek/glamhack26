@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91990383,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 122640677,
+        "lat": "46.8896529",
+        "lon": "7.5920677",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.32076214465567665,
+        "addresstype": "village",
+        "name": "Gysenstein",
+        "display_name": "Gysenstein, Konolfingen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3503, Schweiz",
+        "address": {
+            "village": "Gysenstein",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3503",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8696529",
+            "46.9096529",
+            "7.5720677",
+            "7.6120677"
+        ]
+    }
+]

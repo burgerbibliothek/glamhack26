@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91856312,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11626800081,
+        "lat": "46.9484853",
+        "lon": "7.4545757",
+        "category": "tourism",
+        "type": "gallery",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "tourism",
+        "name": "Galerie da Mihi | KunstKeller",
+        "display_name": "Galerie da Mihi | KunstKeller, 40, Gerechtigkeitsgasse, Weisses Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "tourism": "Galerie da Mihi | KunstKeller",
+            "house_number": "40",
+            "road": "Gerechtigkeitsgasse",
+            "quarter": "Weisses Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9484353",
+            "46.9485353",
+            "7.4545257",
+            "7.4546257"
+        ]
+    }
+]

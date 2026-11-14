@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 145982863,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3236060498,
+        "lat": "52.4794149",
+        "lon": "13.4829907",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "9, Dammweg, Plänterwald, Treptow-Köpenick, Berlin, 12437, Deutschland",
+        "address": {
+            "house_number": "9",
+            "road": "Dammweg",
+            "suburb": "Plänterwald",
+            "borough": "Treptow-Köpenick",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12437",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4793649",
+            "52.4794649",
+            "13.4829407",
+            "13.4830407"
+        ]
+    }
+]

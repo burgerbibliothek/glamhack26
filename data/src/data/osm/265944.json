@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92633879,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682400,
+        "lat": "47.0186014",
+        "lon": "7.5253800",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44882621826855235,
+        "addresstype": "village",
+        "name": "Bäriswil",
+        "display_name": "Bäriswil, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3323, Schweiz",
+        "address": {
+            "village": "Bäriswil",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3323",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0037615",
+            "47.0281689",
+            "7.5161455",
+            "7.5430822"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73624408,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685275,
+        "lat": "46.3655993",
+        "lon": "8.1883972",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3913944132881851,
+        "addresstype": "village",
+        "name": "Binn",
+        "display_name": "Binn, Goms, Oberwallis, Wallis, 3996, Schweiz",
+        "address": {
+            "village": "Binn",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3996",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3064588",
+            "46.4104587",
+            "8.1552046",
+            "8.3187412"
+        ]
+    }
+]

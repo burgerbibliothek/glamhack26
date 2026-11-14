@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 93052756,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6172170635,
+        "lat": "47.1832741",
+        "lon": "7.0347261",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337085755703057,
+        "addresstype": "hamlet",
+        "name": "Mont-Crosin",
+        "display_name": "Mont-Crosin, Cormoret, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2612, Schweiz",
+        "address": {
+            "hamlet": "Mont-Crosin",
+            "village": "Cormoret",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2612",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1632741",
+            "47.2032741",
+            "7.0147261",
+            "7.0547261"
+        ]
+    }
+]

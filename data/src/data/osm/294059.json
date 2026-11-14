@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 88598325,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1892310212,
+        "lat": "44.5239254",
+        "lon": "7.6318235",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.4896752433753157,
+        "addresstype": "hamlet",
+        "name": "San Vittore",
+        "display_name": "San Vittore, Maddalene, Fossano, Cuneo, Piemont, 12038, Italien",
+        "address": {
+            "hamlet": "San Vittore",
+            "village": "Maddalene",
+            "city": "Fossano",
+            "county": "Cuneo",
+            "ISO3166-2-lvl6": "IT-CN",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "postcode": "12038",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.5039254",
+            "44.5439254",
+            "7.6118235",
+            "7.6518235"
+        ]
+    }
+]

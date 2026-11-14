@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 182261210,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7214042733,
+        "lat": "50.0642323",
+        "lon": "19.9420840",
+        "category": "amenity",
+        "type": "college",
+        "place_rank": 30,
+        "importance": 7.936751354233642e-05,
+        "addresstype": "amenity",
+        "name": "TEB Edukacja",
+        "display_name": "TEB Edukacja, 38, Spitalgasse, Altstadt, Stare Miasto, Altstadt, Krakau, Woiwodschaft Kleinpolen, 31-024, Polen",
+        "address": {
+            "amenity": "TEB Edukacja",
+            "house_number": "38",
+            "road": "Spitalgasse",
+            "quarter": "Altstadt",
+            "suburb": "Stare Miasto",
+            "city_district": "Altstadt",
+            "city": "Krakau",
+            "state": "Woiwodschaft Kleinpolen",
+            "ISO3166-2-lvl4": "PL-12",
+            "postcode": "31-024",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "50.0641823",
+            "50.0642823",
+            "19.9420340",
+            "19.9421340"
+        ]
+    }
+]

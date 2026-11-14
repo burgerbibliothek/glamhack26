@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 417020890,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1687206,
+        "lat": "47.2945245",
+        "lon": "9.1234085",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.4617730651396066,
+        "addresstype": "county",
+        "name": "Wahlkreis Toggenburg",
+        "display_name": "Wahlkreis Toggenburg, St. Gallen, Schweiz",
+        "address": {
+            "county": "Wahlkreis Toggenburg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1447213",
+            "47.4442306",
+            "8.9435351",
+            "9.4019883"
+        ]
+    }
+]

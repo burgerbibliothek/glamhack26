@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 306249892,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 555017,
+        "lat": "18.1850507",
+        "lon": "-77.3947693",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.764944822648316,
+        "addresstype": "country",
+        "name": "Jamaika",
+        "display_name": "Jamaika",
+        "address": {
+            "country": "Jamaika",
+            "country_code": "jm"
+        },
+        "boundingbox": [
+            "16.5899443",
+            "18.7256394",
+            "-78.5782366",
+            "-75.7541143"
+        ]
+    }
+]

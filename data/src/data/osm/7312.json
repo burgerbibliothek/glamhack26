@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91393313,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682461,
+        "lat": "46.6536378",
+        "lon": "7.8746460",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40196302320864,
+        "addresstype": "village",
+        "name": "Gsteigwiler",
+        "display_name": "Gsteigwiler, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3814, Schweiz",
+        "address": {
+            "village": "Gsteigwiler",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3814",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6338776",
+            "46.6666456",
+            "7.8671545",
+            "7.9107270"
+        ]
+    }
+]

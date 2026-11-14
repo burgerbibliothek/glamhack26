@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145409220,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2980269158,
+        "lat": "52.5657351",
+        "lon": "13.3967817",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "3, Florastraße, Florakiez, Pankow, Berlin, 13187, Deutschland",
+        "address": {
+            "house_number": "3",
+            "road": "Florastraße",
+            "quarter": "Florakiez",
+            "suburb": "Pankow",
+            "borough": "Pankow",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13187",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5656851",
+            "52.5657851",
+            "13.3967317",
+            "13.3968317"
+        ]
+    }
+]

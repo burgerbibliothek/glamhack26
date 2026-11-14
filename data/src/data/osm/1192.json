@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91930382,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4227999362,
+        "lat": "46.6835508",
+        "lon": "7.7821872",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 5.000152590214416e-05,
+        "addresstype": "highway",
+        "name": "Beatushöhlen",
+        "display_name": "Beatushöhlen, Staatsstrasse, Schwendi, Sundlauenen, Beatenberg, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3803, Schweiz",
+        "address": {
+            "highway": "Beatushöhlen",
+            "road": "Staatsstrasse",
+            "hamlet": "Schwendi",
+            "village": "Sundlauenen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3803",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6835008",
+            "46.6836008",
+            "7.7821372",
+            "7.7822372"
+        ]
+    }
+]

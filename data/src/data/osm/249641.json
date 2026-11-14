@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92072035,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 364806278,
+        "lat": "47.0485803",
+        "lon": "7.3206789",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333726840619516,
+        "addresstype": "hamlet",
+        "name": "Wiler bei Seedorf",
+        "display_name": "Wiler bei Seedorf, Seedorf (BE), Seeland administrative district, Seeland administrative region, Bern, 3266, Schweiz",
+        "address": {
+            "hamlet": "Wiler bei Seedorf",
+            "village": "Seedorf (BE)",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3266",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0285803",
+            "47.0685803",
+            "7.3006789",
+            "7.3406789"
+        ]
+    }
+]

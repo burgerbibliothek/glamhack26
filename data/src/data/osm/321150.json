@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 319841658,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2312929,
+        "lat": "34.0159398",
+        "lon": "-118.1119750",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5320937601963287,
+        "addresstype": "town",
+        "name": "Montebello",
+        "display_name": "Montebello, Los Angeles County, Kalifornien, Vereinigte Staaten von Amerika",
+        "address": {
+            "town": "Montebello",
+            "county": "Los Angeles County",
+            "state": "Kalifornien",
+            "ISO3166-2-lvl4": "US-CA",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "33.9744777",
+            "34.0461161",
+            "-118.1441620",
+            "-118.0730430"
+        ]
+    }
+]

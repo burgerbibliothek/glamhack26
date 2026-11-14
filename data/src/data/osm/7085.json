@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92050350,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684956,
+        "lat": "46.6515007",
+        "lon": "6.5285061",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.449514150372869,
+        "addresstype": "village",
+        "name": "Eclépens",
+        "display_name": "Eclépens, District de Morges, Waadt, 1312, Schweiz",
+        "address": {
+            "village": "Eclépens",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1312",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6381281",
+            "46.6662604",
+            "6.5189528",
+            "6.5704854"
+        ]
+    }
+]

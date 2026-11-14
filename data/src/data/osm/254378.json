@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91835026,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 663038215,
+        "lat": "46.9488736",
+        "lon": "7.4264893",
+        "category": "highway",
+        "type": "primary",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "primary",
+        "name": "Murtenstrasse",
+        "display_name": "Murtenstrasse, Holligen, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3008, Schweiz",
+        "address": {
+            "road": "Murtenstrasse",
+            "quarter": "Holligen",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3008",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9487752",
+            "46.9489808",
+            "7.4262803",
+            "7.4267027"
+        ]
+    }
+]

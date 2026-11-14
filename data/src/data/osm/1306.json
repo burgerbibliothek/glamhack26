@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73826456,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 314745995,
+        "lat": "46.7763357",
+        "lon": "8.3429310",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.1067161844815747,
+        "addresstype": "isolated_dwelling",
+        "name": "Engstlen",
+        "display_name": "Engstlen, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3862, Schweiz",
+        "address": {
+            "isolated_dwelling": "Engstlen",
+            "city_district": "Innertkirchen",
+            "village": "Innertkirchen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3862",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7762857",
+            "46.7763857",
+            "8.3428810",
+            "8.3429810"
+        ]
+    }
+]

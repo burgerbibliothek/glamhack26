@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91968796,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1406886409,
+        "lat": "46.8955291",
+        "lon": "7.9093496",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337356603341724,
+        "addresstype": "hamlet",
+        "name": "Wiggen",
+        "display_name": "Wiggen, Escholzmatt-Marbach, Luzern, 6192, Schweiz",
+        "address": {
+            "hamlet": "Wiggen",
+            "city": "Escholzmatt-Marbach",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6192",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8755291",
+            "46.9155291",
+            "7.8893496",
+            "7.9293496"
+        ]
+    }
+]

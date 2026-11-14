@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 70778523,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1849260354,
+        "lat": "47.6470522",
+        "lon": "9.1550638",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.3015950553092256,
+        "addresstype": "locality",
+        "name": "Emmishofen",
+        "display_name": "Emmishofen, Granegg, Bernrainzelg, Kreuzlingen, Bezirk Kreuzlingen, Thurgau, 8280, Schweiz",
+        "address": {
+            "locality": "Emmishofen",
+            "neighbourhood": "Granegg",
+            "suburb": "Bernrainzelg",
+            "town": "Kreuzlingen",
+            "county": "Bezirk Kreuzlingen",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8280",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.6370522",
+            "47.6570522",
+            "9.1450638",
+            "9.1650638"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 183050274,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 440618,
+        "lat": "50.4500731",
+        "lon": "16.0588928",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 14,
+        "importance": 0.4807127565695885,
+        "addresstype": "municipality",
+        "name": "Rothenburg",
+        "display_name": "Rothenburg, Bezirk Nachod, Königgrätzer Region, Tschechien",
+        "address": {
+            "municipality": "Rothenburg",
+            "district": "Bezirk Nachod",
+            "ISO3166-2-lvl5": "CZ-523",
+            "state": "Königgrätzer Region",
+            "ISO3166-2-lvl4": "CZ-52",
+            "country": "Tschechien",
+            "country_code": "cz"
+        },
+        "boundingbox": [
+            "50.4425392",
+            "50.4586869",
+            "16.0477939",
+            "16.0744278"
+        ]
+    }
+]

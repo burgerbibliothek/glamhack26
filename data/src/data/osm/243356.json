@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91715924,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 276513276,
+        "lat": "46.9136868",
+        "lon": "7.4560120",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337991226062407,
+        "addresstype": "hamlet",
+        "name": "Gurtendorf",
+        "display_name": "Gurtendorf, Wabern, Köniz, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3122, Schweiz",
+        "address": {
+            "hamlet": "Gurtendorf",
+            "suburb": "Wabern",
+            "town": "Köniz",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3122",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8936868",
+            "46.9336868",
+            "7.4360120",
+            "7.4760120"
+        ]
+    }
+]

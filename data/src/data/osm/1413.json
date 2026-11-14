@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72268422,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684320,
+        "lat": "47.4620655",
+        "lon": "8.1871807",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4063398020044483,
+        "addresstype": "village",
+        "name": "Habsburg",
+        "display_name": "Habsburg, Bezirk Brugg, Aargau, 5245, Schweiz",
+        "address": {
+            "village": "Habsburg",
+            "county": "Bezirk Brugg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5245",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4519062",
+            "47.4714810",
+            "8.1708841",
+            "8.2005569"
+        ]
+    }
+]

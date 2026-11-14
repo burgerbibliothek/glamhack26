@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92580254,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 35222714,
+        "lat": "47.1087989",
+        "lon": "7.4945374",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.4104423115181327,
+        "addresstype": "village",
+        "name": "Limpach",
+        "display_name": "Limpach, Fraubrunnen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3312, Schweiz",
+        "address": {
+            "village": "Limpach",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3312",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0887989",
+            "47.1287989",
+            "7.4745374",
+            "7.5145374"
+        ]
+    }
+]

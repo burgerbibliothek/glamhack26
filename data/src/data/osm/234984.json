@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92837713,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1696131392,
+        "lat": "47.0020381",
+        "lon": "7.6249970",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14670574883649953,
+        "addresstype": "village",
+        "name": "Biembach im Emmental",
+        "display_name": "Biembach im Emmental, Hasle bei Burgdorf, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3419, Schweiz",
+        "address": {
+            "village": "Biembach im Emmental",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3419",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9820381",
+            "47.0220381",
+            "7.6049970",
+            "7.6449970"
+        ]
+    }
+]

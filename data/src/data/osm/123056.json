@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 71656465,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 39469291,
+        "lat": "47.5067080",
+        "lon": "8.7258471",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 6.545433737692863e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "22, Brunngasse, Äusseres Lind, Neuwiesen, Stadt, Winterthur, Bezirk Winterthur, Zürich, 8400, Schweiz",
+        "address": {
+            "house_number": "22",
+            "road": "Brunngasse",
+            "neighbourhood": "Äusseres Lind",
+            "quarter": "Neuwiesen",
+            "suburb": "Stadt",
+            "city": "Winterthur",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8400",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5066521",
+            "47.5067630",
+            "8.7257595",
+            "8.7259347"
+        ]
+    }
+]

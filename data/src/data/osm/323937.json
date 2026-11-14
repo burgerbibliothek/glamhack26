@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92004866,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 43266220,
+        "lat": "46.9621995",
+        "lon": "7.4779786",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 4.3543907835462234e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "101, Schermenweg, Burgfeld, Beundenfeld, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "house_number": "101",
+            "road": "Schermenweg",
+            "quarter": "Burgfeld",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9621440",
+            "46.9622579",
+            "7.4778831",
+            "7.4780871"
+        ]
+    }
+]

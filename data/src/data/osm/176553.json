@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73599231,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11151679865,
+        "lat": "46.5588628",
+        "lon": "8.5621664",
+        "category": "highway",
+        "type": "traffic_sign",
+        "place_rank": 30,
+        "importance": 5.351567864495334e-05,
+        "addresstype": "highway",
+        "name": "Gotthardpass 2106m",
+        "display_name": "Gotthardpass 2106m, Nuova strada del Passo del San Gottardo, Airolo, Kreis Airolo, Bezirk Leventina, Tessin, 6780, Schweiz",
+        "address": {
+            "highway": "Gotthardpass 2106m",
+            "road": "Nuova strada del Passo del San Gottardo",
+            "village": "Airolo",
+            "municipality": "Kreis Airolo",
+            "county": "Bezirk Leventina",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6780",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5588128",
+            "46.5589128",
+            "8.5621164",
+            "8.5622164"
+        ]
+    }
+]

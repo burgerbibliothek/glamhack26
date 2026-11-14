@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73121934,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9910364469,
+        "lat": "46.6817314",
+        "lon": "8.1813687",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1600375013351644,
+        "addresstype": "peak",
+        "name": "Simelistock",
+        "display_name": "Simelistock, Schattenhalb, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "peak": "Simelistock",
+            "village": "Schattenhalb",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6816814",
+            "46.6817814",
+            "8.1813187",
+            "8.1814187"
+        ]
+    }
+]

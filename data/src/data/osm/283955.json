@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72141348,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684523,
+        "lat": "47.5396518",
+        "lon": "8.8523731",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40196302320864,
+        "addresstype": "village",
+        "name": "Gachnang",
+        "display_name": "Gachnang, Neunforn, Bezirk Frauenfeld, Thurgau, Schweiz",
+        "address": {
+            "village": "Gachnang",
+            "municipality": "Neunforn",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5303352",
+            "47.5694305",
+            "8.8278967",
+            "8.8806452"
+        ]
+    }
+]

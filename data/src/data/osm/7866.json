@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91808139,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240044042,
+        "lat": "46.8140615",
+        "lon": "7.5096282",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.42828097732087733,
+        "addresstype": "village",
+        "name": "Mühlethurnen",
+        "display_name": "Mühlethurnen, Thurnen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3127, Schweiz",
+        "address": {
+            "village": "Mühlethurnen",
+            "city": "Thurnen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3127",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7940615",
+            "46.8340615",
+            "7.4896282",
+            "7.5296282"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73575337,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682552,
+        "lat": "46.7285518",
+        "lon": "8.1870934",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.49702965686561673,
+        "addresstype": "village",
+        "name": "Meiringen",
+        "display_name": "Meiringen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Meiringen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6548970",
+            "46.7703724",
+            "8.0743133",
+            "8.2224105"
+        ]
+    }
+]

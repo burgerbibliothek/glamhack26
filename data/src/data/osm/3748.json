@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 186359098,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4349028337,
+        "lat": "48.2286461",
+        "lon": "16.3572024",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "amenity",
+        "name": "Markt58",
+        "display_name": "Markt58, 58, Marktgasse, Lichtental, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich",
+        "address": {
+            "amenity": "Markt58",
+            "house_number": "58",
+            "road": "Marktgasse",
+            "neighbourhood": "Lichtental",
+            "suburb": "Alsergrund",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1090",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2285961",
+            "48.2286961",
+            "16.3571524",
+            "16.3572524"
+        ]
+    }
+]

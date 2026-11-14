@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91976052,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 968786074,
+        "lat": "46.9344001",
+        "lon": "7.4348152",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "tertiary",
+        "name": "Morillonstrasse",
+        "display_name": "Morillonstrasse, Weissenbühl, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3007, Schweiz",
+        "address": {
+            "road": "Morillonstrasse",
+            "quarter": "Weissenbühl",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3007",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9337701",
+            "46.9350396",
+            "7.4342214",
+            "7.4353924"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 139967815,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 968176466,
+        "lat": "52.2619435",
+        "lon": "8.0527161",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 6.866178377961421e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "31, Spinnereiweg, Schölerberg, Osnabrück, Niedersachsen, 49082, Deutschland",
+        "address": {
+            "house_number": "31",
+            "road": "Spinnereiweg",
+            "suburb": "Schölerberg",
+            "city": "Osnabrück",
+            "state": "Niedersachsen",
+            "ISO3166-2-lvl4": "DE-NI",
+            "postcode": "49082",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.2618531",
+            "52.2620033",
+            "8.0526113",
+            "8.0528210"
+        ]
+    }
+]

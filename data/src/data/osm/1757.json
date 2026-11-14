@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91138832,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 34209945,
+        "lat": "46.4958952",
+        "lon": "7.9036527",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.14389741120638372,
+        "addresstype": "glacier",
+        "name": "Schmadrigletscher",
+        "display_name": "Schmadrigletscher, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "glacier": "Schmadrigletscher",
+            "village": "Lauterbrunnen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4915399",
+            "46.5001150",
+            "7.8959198",
+            "7.9194819"
+        ]
+    }
+]

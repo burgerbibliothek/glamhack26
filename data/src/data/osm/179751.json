@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92633038,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11843438882,
+        "lat": "47.2066438",
+        "lon": "7.2267089",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.0667118616006714,
+        "addresstype": "locality",
+        "name": "Werdtberg",
+        "display_name": "Werdtberg, La Heutte, Péry-La Heutte, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2604, Schweiz",
+        "address": {
+            "locality": "Werdtberg",
+            "village": "La Heutte",
+            "city": "Péry-La Heutte",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2604",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1966438",
+            "47.2166438",
+            "7.2167089",
+            "7.2367089"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 123410588,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1325204,
+        "lat": "48.6977936",
+        "lon": "8.3502273",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.4580964618367127,
+        "addresstype": "river",
+        "name": "Murg",
+        "display_name": "Murg, Landkreis Rastatt, Baden-Württemberg, Deutschland",
+        "address": {
+            "river": "Murg",
+            "county": "Landkreis Rastatt",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.5089947",
+            "48.9195574",
+            "8.1641570",
+            "8.4016041"
+        ]
+    }
+]

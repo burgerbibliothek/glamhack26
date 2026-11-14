@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91304137,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 359937155,
+        "lat": "46.0834343",
+        "lon": "7.8571946",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.40182142199856696,
+        "addresstype": "peak",
+        "name": "Täschhorn",
+        "display_name": "Täschhorn, Täsch, Visp, Oberwallis, Wallis, 3929, Schweiz",
+        "address": {
+            "peak": "Täschhorn",
+            "village": "Täsch",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3929",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0833843",
+            "46.0834843",
+            "7.8571446",
+            "7.8572446"
+        ]
+    }
+]

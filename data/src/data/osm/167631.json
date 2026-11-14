@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72541257,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1284588378,
+        "lat": "47.4811662",
+        "lon": "8.5473080",
+        "category": "landuse",
+        "type": "farmland",
+        "place_rank": 24,
+        "importance": 0.08005057526512548,
+        "addresstype": "farmland",
+        "name": "Ägerten",
+        "display_name": "Ägerten, Niderrüti, Winkel, Bezirk Bülach, Zürich, Schweiz",
+        "address": {
+            "farmland": "Ägerten",
+            "hamlet": "Niderrüti",
+            "village": "Winkel",
+            "county": "Bezirk Bülach",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4794504",
+            "47.4825924",
+            "8.5450065",
+            "8.5498074"
+        ]
+    }
+]

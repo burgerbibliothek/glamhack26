@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92662365,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683541,
+        "lat": "47.1710866",
+        "lon": "7.5267532",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3908938462590478,
+        "addresstype": "village",
+        "name": "Lohn-Ammannsegg",
+        "display_name": "Lohn-Ammannsegg, Bezirk Wasseramt, Amtei Bucheggberg-Wasseramt, Solothurn, 4573, Schweiz",
+        "address": {
+            "village": "Lohn-Ammannsegg",
+            "municipality": "Bezirk Wasseramt",
+            "county": "Amtei Bucheggberg-Wasseramt",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4573",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1607152",
+            "47.1884858",
+            "7.5102203",
+            "7.5453829"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91874871,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 560931442,
+        "lat": "46.6588747",
+        "lon": "6.8948108",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337947280079346,
+        "addresstype": "hamlet",
+        "name": "La Pierra",
+        "display_name": "La Pierra, Chavannes-les-Forts, Siviriez, Glanebezirk, Freiburg, 1676, Schweiz",
+        "address": {
+            "hamlet": "La Pierra",
+            "village": "Chavannes-les-Forts",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1676",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6388747",
+            "46.6788747",
+            "6.8748108",
+            "6.9148108"
+        ]
+    }
+]

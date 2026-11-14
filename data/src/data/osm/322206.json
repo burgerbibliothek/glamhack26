@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 187634704,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 168709191,
+        "lat": "48.1547921",
+        "lon": "16.2742158",
+        "category": "building",
+        "type": "detached",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "11, Friedensstraße, Katastralgemeinde Mauer, Liesing, Wien, 1230, Österreich",
+        "address": {
+            "house_number": "11",
+            "road": "Friedensstraße",
+            "suburb": "Katastralgemeinde Mauer",
+            "city_district": "Liesing",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1230",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.1546951",
+            "48.1548891",
+            "16.2740716",
+            "16.2743599"
+        ]
+    }
+]

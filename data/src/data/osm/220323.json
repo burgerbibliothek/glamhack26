@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 120888751,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1187625100,
+        "lat": "48.6031828",
+        "lon": "7.6588485",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.0667312542915999,
+        "addresstype": "locality",
+        "name": "Riedweg",
+        "display_name": "Riedweg, Wolfisheim, Straßburg, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67202, Frankreich",
+        "address": {
+            "locality": "Riedweg",
+            "village": "Wolfisheim",
+            "municipality": "Straßburg",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67202",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.5931828",
+            "48.6131828",
+            "7.6488485",
+            "7.6688485"
+        ]
+    }
+]

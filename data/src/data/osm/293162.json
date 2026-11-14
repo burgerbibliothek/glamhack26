@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145923322,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2928074226,
+        "lat": "52.6070871",
+        "lon": "13.2099560",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "36, Fährstraße, Alt-Heiligensee, Heiligensee, Reinickendorf, Berlin, 13503, Deutschland",
+        "address": {
+            "house_number": "36",
+            "road": "Fährstraße",
+            "neighbourhood": "Alt-Heiligensee",
+            "suburb": "Heiligensee",
+            "borough": "Reinickendorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13503",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.6070371",
+            "52.6071371",
+            "13.2099060",
+            "13.2100060"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91297565,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 459849735,
+        "lat": "46.2837869",
+        "lon": "7.1557117",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16004986266880292,
+        "addresstype": "peak",
+        "name": "Tour d'Anzeinde",
+        "display_name": "Tour d'Anzeinde, Bex, Aigle District, Waadt, 1880, Schweiz",
+        "address": {
+            "peak": "Tour d'Anzeinde",
+            "village": "Bex",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1880",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2837369",
+            "46.2838369",
+            "7.1556617",
+            "7.1557617"
+        ]
+    }
+]

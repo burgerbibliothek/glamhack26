@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 47423038,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 332186156,
+        "lat": "24.5705872",
+        "lon": "32.9481241",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14670666742961772,
+        "addresstype": "village",
+        "name": "Dabud",
+        "display_name": "Dabud, Assuan, Ägypten",
+        "address": {
+            "village": "Dabud",
+            "state": "Assuan",
+            "ISO3166-2-lvl4": "EG-ASN",
+            "country": "Ägypten",
+            "country_code": "eg"
+        },
+        "boundingbox": [
+            "24.5505872",
+            "24.5905872",
+            "32.9281241",
+            "32.9681241"
+        ]
+    }
+]

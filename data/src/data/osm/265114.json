@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91533949,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1372214030,
+        "lat": "46.4982480",
+        "lon": "7.9326525",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.3363461829037416,
+        "addresstype": "peak",
+        "name": "Mittaghorn",
+        "display_name": "Mittaghorn, Fieschertal, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "peak": "Mittaghorn",
+            "village": "Fieschertal",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4981980",
+            "46.4982980",
+            "7.9326025",
+            "7.9327025"
+        ]
+    }
+]

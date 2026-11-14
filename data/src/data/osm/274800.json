@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 117700194,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1245111,
+        "lat": "49.7436099",
+        "lon": "7.3955794",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4779790681261021,
+        "addresstype": "village",
+        "name": "Fischbach",
+        "display_name": "Fischbach, Herrstein-Rhaunen, Landkreis Birkenfeld, Rheinland-Pfalz, Deutschland",
+        "address": {
+            "village": "Fischbach",
+            "municipality": "Herrstein-Rhaunen",
+            "county": "Landkreis Birkenfeld",
+            "state": "Rheinland-Pfalz",
+            "ISO3166-2-lvl4": "DE-RP",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.7391939",
+            "49.7608127",
+            "7.3613793",
+            "7.4154570"
+        ]
+    }
+]

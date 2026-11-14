@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91703757,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9851582513,
+        "lat": "46.6335433",
+        "lon": "7.9178224",
+        "category": "place",
+        "type": "neighbourhood",
+        "place_rank": 24,
+        "importance": 0.08005785076676582,
+        "addresstype": "neighbourhood",
+        "name": "Rüdli",
+        "display_name": "Rüdli, Zweilütschinen, Gündlischwand, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3815, Schweiz",
+        "address": {
+            "neighbourhood": "Rüdli",
+            "village": "Zweilütschinen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3815",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6235433",
+            "46.6435433",
+            "7.9078224",
+            "7.9278224"
+        ]
+    }
+]

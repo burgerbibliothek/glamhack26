@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71810272,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 437557920,
+        "lat": "47.4155764",
+        "lon": "8.9034130",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.14389741120638372,
+        "addresstype": "hamlet",
+        "name": "Schmidrüti",
+        "display_name": "Schmidrüti, Turbenthal, Bezirk Winterthur, Zürich, 8495, Schweiz",
+        "address": {
+            "hamlet": "Schmidrüti",
+            "village": "Turbenthal",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8495",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3955764",
+            "47.4355764",
+            "8.8834130",
+            "8.9234130"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92290805,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685057,
+        "lat": "46.6455648",
+        "lon": "6.7141929",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.33711216279521466,
+        "addresstype": "city_district",
+        "name": "Montaubion-Chardonney",
+        "display_name": "Montaubion-Chardonney, Jorat-Menthue, District du Gros-de-Vaud, Waadt, Schweiz",
+        "address": {
+            "city_district": "Montaubion-Chardonney",
+            "city": "Jorat-Menthue",
+            "county": "District du Gros-de-Vaud",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6350030",
+            "46.6562056",
+            "6.7025843",
+            "6.7252581"
+        ]
+    }
+]

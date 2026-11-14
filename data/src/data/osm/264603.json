@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91482795,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2450450995,
+        "lat": "46.6149208",
+        "lon": "7.6979825",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14670433127336532,
+        "addresstype": "village",
+        "name": "Scharnachtal",
+        "display_name": "Scharnachtal, Reichenbach im Kandertal, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3722, Schweiz",
+        "address": {
+            "village": "Scharnachtal",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3722",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5949208",
+            "46.6349208",
+            "7.6779825",
+            "7.7179825"
+        ]
+    }
+]

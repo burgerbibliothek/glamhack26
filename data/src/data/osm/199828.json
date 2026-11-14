@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 69073684,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 942503467,
+        "lat": "46.6711968",
+        "lon": "13.7971632",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.20813244289121335,
+        "addresstype": "valley",
+        "name": "Krastal",
+        "display_name": "Krastal, Puch, Weißenstein, Bezirk Villach-Land, Kärnten, Österreich",
+        "address": {
+            "valley": "Krastal",
+            "village": "Puch",
+            "county": "Bezirk Villach-Land",
+            "state": "Kärnten",
+            "ISO3166-2-lvl4": "AT-2",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "46.6618668",
+            "46.6805267",
+            "13.7632941",
+            "13.8310323"
+        ]
+    }
+]

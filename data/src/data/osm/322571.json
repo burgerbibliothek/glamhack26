@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 126774443,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 141596687,
+        "lat": "48.1393453",
+        "lon": "11.6301285",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "28, Jurastraße, Parkstadt Bogenhausen, Zamdorf, Bogenhausen, München, Bayern, 81677, Deutschland",
+        "address": {
+            "house_number": "28",
+            "road": "Jurastraße",
+            "quarter": "Parkstadt Bogenhausen",
+            "suburb": "Zamdorf",
+            "city_district": "Bogenhausen",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "81677",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1392857",
+            "48.1394049",
+            "11.6300876",
+            "11.6301695"
+        ]
+    }
+]

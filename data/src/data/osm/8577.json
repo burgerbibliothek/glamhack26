@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92680307,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682705,
+        "lat": "47.1872992",
+        "lon": "7.2990426",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3737616996631093,
+        "addresstype": "village",
+        "name": "Vauffelin",
+        "display_name": "Vauffelin, Sauge, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, Schweiz",
+        "address": {
+            "village": "Vauffelin",
+            "city": "Sauge",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1668395",
+            "47.2044342",
+            "7.2523834",
+            "7.3243363"
+        ]
+    }
+]

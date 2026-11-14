@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 90247461,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 179613481,
+        "lat": "45.6170305",
+        "lon": "4.3337062",
+        "category": "highway",
+        "type": "unclassified",
+        "place_rank": 26,
+        "importance": 0.05339451667048139,
+        "addresstype": "unclassified",
+        "name": "Chemin des Bayards",
+        "display_name": "Chemin des Bayards, Les Bayards, Saint-Galmier, Montbrison, Loire, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 42330, Frankreich",
+        "address": {
+            "road": "Chemin des Bayards",
+            "hamlet": "Les Bayards",
+            "village": "Saint-Galmier",
+            "municipality": "Montbrison",
+            "county": "Loire",
+            "ISO3166-2-lvl6": "FR-42",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "42330",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.6165414",
+            "45.6170331",
+            "4.3322199",
+            "4.3352548"
+        ]
+    }
+]

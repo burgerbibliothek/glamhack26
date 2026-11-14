@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92162268,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2701305498,
+        "lat": "46.9534739",
+        "lon": "7.4323668",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Curry Legend",
+        "display_name": "Curry Legend, 32, Länggassstrasse, Neufeld, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "amenity": "Curry Legend",
+            "house_number": "32",
+            "road": "Länggassstrasse",
+            "quarter": "Neufeld",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9534239",
+            "46.9535239",
+            "7.4323168",
+            "7.4324168"
+        ]
+    }
+]

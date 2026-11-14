@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 140042444,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 331576712,
+        "lat": "51.8187433",
+        "lon": "8.5530140",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.340886549167647e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "11, Neubrückstraße, Westerloh, Steinhorst, Delbrück, Kreis Paderborn, Nordrhein-Westfalen, 33129, Deutschland",
+        "address": {
+            "house_number": "11",
+            "road": "Neubrückstraße",
+            "suburb": "Westerloh",
+            "village": "Steinhorst",
+            "town": "Delbrück",
+            "county": "Kreis Paderborn",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "33129",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.8186635",
+            "51.8188236",
+            "8.5529136",
+            "8.5531143"
+        ]
+    }
+]

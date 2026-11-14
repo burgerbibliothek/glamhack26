@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92558553,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 366919554,
+        "lat": "47.1825118",
+        "lon": "7.7936526",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 4.3569848172686615e-05,
+        "addresstype": "amenity",
+        "name": "Bad Gutenburg",
+        "display_name": "Bad Gutenburg, 108, Huttwilstrasse, Lotzwil, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4932, Schweiz",
+        "address": {
+            "amenity": "Bad Gutenburg",
+            "house_number": "108",
+            "road": "Huttwilstrasse",
+            "village": "Lotzwil",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4932",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1824618",
+            "47.1825618",
+            "7.7936026",
+            "7.7937026"
+        ]
+    }
+]

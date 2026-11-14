@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91603813,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1372222309,
+        "lat": "46.5929069",
+        "lon": "7.8169744",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.19938740066310082,
+        "addresstype": "peak",
+        "name": "Schwalmere",
+        "display_name": "Schwalmere, Reichenbach im Kandertal, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "peak": "Schwalmere",
+            "village": "Reichenbach im Kandertal",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5928569",
+            "46.5929569",
+            "7.8169244",
+            "7.8170244"
+        ]
+    }
+]

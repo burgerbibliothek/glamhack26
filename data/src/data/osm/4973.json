@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 116993396,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 79595085,
+        "lat": "50.7724285",
+        "lon": "6.0882737",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.28747997252921e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "17, Theaterplatz, Burtscheid, Aachen-Mitte, Aachen, Städteregion Aachen, Nordrhein-Westfalen, 52062, Deutschland",
+        "address": {
+            "house_number": "17",
+            "road": "Theaterplatz",
+            "suburb": "Burtscheid",
+            "city_district": "Aachen-Mitte",
+            "city": "Aachen",
+            "county": "Städteregion Aachen",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "52062",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.7722987",
+            "50.7725343",
+            "6.0880503",
+            "6.0884369"
+        ]
+    }
+]

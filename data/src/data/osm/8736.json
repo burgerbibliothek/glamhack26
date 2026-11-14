@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93232299,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682732,
+        "lat": "47.2585983",
+        "lon": "7.8127574",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42518025459327075,
+        "addresstype": "village",
+        "name": "Wynau",
+        "display_name": "Wynau, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4923, Schweiz",
+        "address": {
+            "village": "Wynau",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4923",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2433295",
+            "47.2684574",
+            "7.7821304",
+            "7.8303888"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 73206794,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4293142047,
+        "lat": "46.5400511",
+        "lon": "8.5800104",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 5.351567864495334e-05,
+        "addresstype": "information",
+        "name": "Val Tremola Ponte Inf.",
+        "display_name": "Val Tremola Ponte Inf., Tremolastrasse, Scíma du Bòsc', Airolo, Kreis Airolo, Bezirk Leventina, Tessin, 6780, Schweiz",
+        "address": {
+            "information": "Val Tremola Ponte Inf.",
+            "road": "Tremolastrasse",
+            "hamlet": "Scíma du Bòsc'",
+            "village": "Airolo",
+            "municipality": "Kreis Airolo",
+            "county": "Bezirk Leventina",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6780",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5400011",
+            "46.5401011",
+            "8.5799604",
+            "8.5800604"
+        ]
+    }
+]

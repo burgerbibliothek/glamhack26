@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 91582199,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2741953,
+        "lat": "46.8904936",
+        "lon": "7.9178156",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3592022808514427,
+        "addresstype": "city",
+        "name": "Escholzmatt-Marbach",
+        "display_name": "Escholzmatt-Marbach, Luzern, Schweiz",
+        "address": {
+            "city": "Escholzmatt-Marbach",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7996576",
+            "46.9812582",
+            "7.8561605",
+            "8.0156434"
+        ]
+    }
+]

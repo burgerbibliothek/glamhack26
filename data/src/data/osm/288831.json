@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92972366,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1701206,
+        "lat": "47.1393970",
+        "lon": "7.4721981",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.4114290048959136,
+        "addresstype": "municipality",
+        "name": "Bezirk Bucheggberg",
+        "display_name": "Bezirk Bucheggberg, Amtei Bucheggberg-Wasseramt, Solothurn, Schweiz",
+        "address": {
+            "municipality": "Bezirk Bucheggberg",
+            "county": "Amtei Bucheggberg-Wasseramt",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0743437",
+            "47.2045687",
+            "7.3697076",
+            "7.5297549"
+        ]
+    }
+]

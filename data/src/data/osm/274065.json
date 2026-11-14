@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92719302,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 617521325,
+        "lat": "47.2421739",
+        "lon": "7.4509771",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44944568143391417,
+        "addresstype": "peak",
+        "name": "Hasenmatt",
+        "display_name": "Hasenmatt, Selzach, Bezirk Lebern, Amtei Solothurn-Lebern, Solothurn, 2545, Schweiz",
+        "address": {
+            "peak": "Hasenmatt",
+            "village": "Selzach",
+            "municipality": "Bezirk Lebern",
+            "county": "Amtei Solothurn-Lebern",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "2545",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2421239",
+            "47.2422239",
+            "7.4509271",
+            "7.4510271"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73284268,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684064,
+        "lat": "46.7784526",
+        "lon": "9.5429675",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40308494416412793,
+        "addresstype": "village",
+        "name": "Churwalden",
+        "display_name": "Churwalden, Plessur, Graubünden, Schweiz",
+        "address": {
+            "village": "Churwalden",
+            "county": "Plessur",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7501435",
+            "46.8350437",
+            "9.4911152",
+            "9.5964761"
+        ]
+    }
+]

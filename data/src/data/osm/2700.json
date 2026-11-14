@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92281528,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 69594776,
+        "lat": "46.9511845",
+        "lon": "7.4356424",
+        "category": "building",
+        "type": "public",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "building",
+        "name": "Forensisch-Psychiatrischer Dienst",
+        "display_name": "Forensisch-Psychiatrischer Dienst, 18, Falkenplatz, Länggasse, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "building": "Forensisch-Psychiatrischer Dienst",
+            "house_number": "18",
+            "road": "Falkenplatz",
+            "quarter": "Länggasse",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9511015",
+            "46.9512459",
+            "7.4355045",
+            "7.4357804"
+        ]
+    }
+]

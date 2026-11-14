@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92837490,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682437,
+        "lat": "47.1494705",
+        "lon": "7.2395711",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4022453104308014,
+        "addresstype": "village",
+        "name": "Leubringen",
+        "display_name": "Leubringen, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Leubringen",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1327845",
+            "47.1572185",
+            "7.1908464",
+            "7.2494451"
+        ]
+    }
+]

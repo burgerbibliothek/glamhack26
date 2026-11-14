@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92799698,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682506,
+        "lat": "47.0717509",
+        "lon": "7.5487983",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4156939097669075,
+        "addresstype": "village",
+        "name": "Kernenried",
+        "display_name": "Kernenried, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3309, Schweiz",
+        "address": {
+            "village": "Kernenried",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3309",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0536603",
+            "47.0801357",
+            "7.5362810",
+            "7.5660463"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 191027366,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 975407791,
+        "lat": "50.7470887",
+        "lon": "25.3232875",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 6.683833066295898e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "8, Theaterplatz, Altstadt, Luzk, Stadtgemeinde Luzk, Rajon Luzk, 43025, Ukraine",
+        "address": {
+            "house_number": "8",
+            "road": "Theaterplatz",
+            "suburb": "Altstadt",
+            "city": "Luzk",
+            "municipality": "Stadtgemeinde Luzk",
+            "district": "Rajon Luzk",
+            "postcode": "43025",
+            "country": "Ukraine",
+            "country_code": "ua"
+        },
+        "boundingbox": [
+            "50.7470468",
+            "50.7471217",
+            "25.3232318",
+            "25.3233260"
+        ]
+    }
+]

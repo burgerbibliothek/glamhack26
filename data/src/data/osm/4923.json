@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 142048882,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 60430899,
+        "lat": "53.5570469",
+        "lon": "9.8046433",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.255359731436664e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "33, Strandweg, Blankenese, Altona, Hamburg, 22587, Deutschland",
+        "address": {
+            "house_number": "33",
+            "road": "Strandweg",
+            "suburb": "Blankenese",
+            "city_district": "Altona",
+            "city": "Hamburg",
+            "ISO3166-2-lvl4": "DE-HH",
+            "postcode": "22587",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "53.5570025",
+            "53.5571345",
+            "9.8045731",
+            "9.8047443"
+        ]
+    }
+]

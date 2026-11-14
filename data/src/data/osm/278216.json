@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 153146447,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1188804092,
+        "lat": "52.3945773",
+        "lon": "13.7068391",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "4, Uferweg, Gosen, Gosen-Neu Zittau, Spreenhagen, Oder-Spree, Brandenburg, 15537, Deutschland",
+        "address": {
+            "house_number": "4",
+            "road": "Uferweg",
+            "village": "Gosen",
+            "city": "Gosen-Neu Zittau",
+            "municipality": "Spreenhagen",
+            "county": "Oder-Spree",
+            "state": "Brandenburg",
+            "ISO3166-2-lvl4": "DE-BB",
+            "postcode": "15537",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.3945348",
+            "52.3946198",
+            "13.7067707",
+            "13.7069075"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91359647,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 658836537,
+        "lat": "46.4035040",
+        "lon": "7.8566292",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.13336846494239718,
+        "addresstype": "mountain_pass",
+        "name": "Baltschiederjoch",
+        "display_name": "Baltschiederjoch, Baltschieder, Visp, Oberwallis, Wallis, 3937, Schweiz",
+        "address": {
+            "mountain_pass": "Baltschiederjoch",
+            "village": "Baltschieder",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3937",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4034540",
+            "46.4035540",
+            "7.8565792",
+            "7.8566792"
+        ]
+    }
+]

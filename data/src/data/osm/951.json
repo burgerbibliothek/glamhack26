@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 295533075,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13606591800,
+        "lat": "35.7219340",
+        "lon": "-5.4640910",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.2024340213354661,
+        "addresstype": "hamlet",
+        "name": "Dar el Hajar دار الحجار",
+        "display_name": "Dar el Hajar دار الحجار, Eddaher الظاهر, Taghramt تغرامت, Caïdat de Taghramt, Cercle d'Anjra دائرة أنجرة, Fahs-Anjra Province, Tanger-Tétouan-Al Hoceïma, Marokko",
+        "address": {
+            "hamlet": "Dar el Hajar دار الحجار",
+            "village": "Eddaher الظاهر",
+            "municipality": "Caïdat de Taghramt",
+            "county": "Cercle d'Anjra دائرة أنجرة",
+            "state_district": "Fahs-Anjra Province",
+            "ISO3166-2-lvl5": "MA-FAH",
+            "state": "Tanger-Tétouan-Al Hoceïma",
+            "ISO3166-2-lvl4": "MA-01",
+            "country": "Marokko",
+            "country_code": "ma"
+        },
+        "boundingbox": [
+            "35.7019340",
+            "35.7419340",
+            "-5.4840910",
+            "-5.4440910"
+        ]
+    }
+]

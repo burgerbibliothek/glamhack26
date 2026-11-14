@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73140102,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 601299396,
+        "lat": "46.8421020",
+        "lon": "9.8353422",
+        "category": "landuse",
+        "type": "winter_sports",
+        "place_rank": 24,
+        "importance": 0.23648094285300414,
+        "addresstype": "winter_sports",
+        "name": "Parsenn",
+        "display_name": "Parsenn, Davos, Prättigau/Davos, Graubünden, 7265, Schweiz",
+        "address": {
+            "winter_sports": "Parsenn",
+            "town": "Davos",
+            "county": "Prättigau/Davos",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7265",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8077710",
+            "46.8862148",
+            "9.7923090",
+            "9.8873850"
+        ]
+    }
+]

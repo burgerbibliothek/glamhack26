@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 126856907,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 136091396,
+        "lat": "48.1096384",
+        "lon": "11.6203971",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "12, Zieglerstraße, Ramersdorf, Ramersdorf-Perlach, München, Bayern, 81735, Deutschland",
+        "address": {
+            "house_number": "12",
+            "road": "Zieglerstraße",
+            "suburb": "Ramersdorf",
+            "city_district": "Ramersdorf-Perlach",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "81735",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1095367",
+            "48.1096954",
+            "11.6202099",
+            "11.6206324"
+        ]
+    }
+]

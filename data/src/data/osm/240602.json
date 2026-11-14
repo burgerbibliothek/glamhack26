@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92311381,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 974936456,
+        "lat": "46.4249698",
+        "lon": "6.9246438",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.35293318613167857,
+        "addresstype": "village",
+        "name": "Territet",
+        "display_name": "Territet, Montreux, Bezirk Riviera-Pays-d'Enhaut, Waadt, 1820, Schweiz",
+        "address": {
+            "village": "Territet",
+            "town": "Montreux",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1820",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4049698",
+            "46.4449698",
+            "6.9046438",
+            "6.9446438"
+        ]
+    }
+]

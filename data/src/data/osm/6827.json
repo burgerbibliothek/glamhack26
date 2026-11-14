@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92356408,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3658305068,
+        "lat": "47.1530964",
+        "lon": "7.2730972",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.3002719692158251,
+        "addresstype": "suburb",
+        "name": "Bözingen",
+        "display_name": "Bözingen, Biel, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2504, Schweiz",
+        "address": {
+            "suburb": "Bözingen",
+            "city": "Biel",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2504",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1330964",
+            "47.1730964",
+            "7.2530972",
+            "7.2930972"
+        ]
+    }
+]

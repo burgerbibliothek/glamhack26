@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 145720626,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 972319931,
+        "lat": "52.5122954",
+        "lon": "13.4173278",
+        "category": "amenity",
+        "type": "cafe",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "amenity",
+        "name": "Bake & Bite",
+        "display_name": "Bake & Bite, 4, Brückenstraße, Heine-Viertel, Luisenstadt, Mitte, Berlin, 10179, Deutschland",
+        "address": {
+            "amenity": "Bake & Bite",
+            "house_number": "4",
+            "road": "Brückenstraße",
+            "neighbourhood": "Heine-Viertel",
+            "quarter": "Luisenstadt",
+            "suburb": "Mitte",
+            "borough": "Mitte",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10179",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5122454",
+            "52.5123454",
+            "13.4172778",
+            "13.4173778"
+        ]
+    }
+]

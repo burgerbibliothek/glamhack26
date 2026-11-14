@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92333747,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685529,
+        "lat": "46.9069727",
+        "lon": "6.7572876",
+        "category": "boundary",
+        "type": "historic",
+        "place_rank": 25,
+        "importance": 0.38231608517972687,
+        "addresstype": "historic",
+        "name": "Saint-Aubin-Sauges",
+        "display_name": "Saint-Aubin-Sauges, La Grande-Béroche, Région Littoral, Neuenburg, 2024, Schweiz",
+        "address": {
+            "historic": "Saint-Aubin-Sauges",
+            "village": "Saint-Aubin-Sauges",
+            "city": "La Grande-Béroche",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2024",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8782674",
+            "46.9353204",
+            "6.7238256",
+            "6.7825115"
+        ]
+    }
+]

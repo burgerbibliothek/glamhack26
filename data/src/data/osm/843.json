@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 52141376,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1473947,
+        "lat": "26.2540493",
+        "lon": "29.2675469",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.8377043589365253,
+        "addresstype": "country",
+        "name": "Ägypten",
+        "display_name": "Ägypten",
+        "address": {
+            "country": "Ägypten",
+            "country_code": "eg"
+        },
+        "boundingbox": [
+            "21.9936018",
+            "31.8330854",
+            "24.6499112",
+            "37.1153517"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91551400,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 449555955,
+        "lat": "46.4135531",
+        "lon": "7.6543071",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44614411899810325,
+        "addresstype": "peak",
+        "name": "Rinderhorn",
+        "display_name": "Rinderhorn, Leukerbad, Leuk, Oberwallis, Wallis, 3954, Schweiz",
+        "address": {
+            "peak": "Rinderhorn",
+            "village": "Leukerbad",
+            "county": "Leuk",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3954",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4135031",
+            "46.4136031",
+            "7.6542571",
+            "7.6543571"
+        ]
+    }
+]

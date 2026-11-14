@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92490046,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 398830,
+        "lat": "46.9312138",
+        "lon": "7.0819478",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.4433474690348318,
+        "addresstype": "lake",
+        "name": "Murtensee",
+        "display_name": "Murtensee, Wistenlach, Seebezirk, Freiburg, Schweiz",
+        "address": {
+            "lake": "Murtensee",
+            "city": "Wistenlach",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9044217",
+            "46.9579630",
+            "7.0316504",
+            "7.1337142"
+        ]
+    }
+]

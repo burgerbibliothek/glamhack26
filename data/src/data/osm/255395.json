@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 75877055,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684723,
+        "lat": "45.9226781",
+        "lon": "8.9150466",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.45252343322544014,
+        "addresstype": "village",
+        "name": "Morcote",
+        "display_name": "Morcote, Kreis Carona, Bezirk Lugano, Tessin, 6922, Schweiz",
+        "address": {
+            "village": "Morcote",
+            "municipality": "Kreis Carona",
+            "county": "Bezirk Lugano",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6922",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9176248",
+            "45.9493566",
+            "8.8927241",
+            "8.9315428"
+        ]
+    }
+]

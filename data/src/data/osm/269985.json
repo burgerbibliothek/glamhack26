@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92554489,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685518,
+        "lat": "46.9946188",
+        "lon": "6.8447660",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.36212526445830706,
+        "addresstype": "village",
+        "name": "Montmollin",
+        "display_name": "Montmollin, Val-de-Ruz, Val-de-Ruz Region, Neuenburg, 2037, Schweiz",
+        "address": {
+            "village": "Montmollin",
+            "city": "Val-de-Ruz",
+            "county": "Val-de-Ruz Region",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2037",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9889881",
+            "47.0189521",
+            "6.7954043",
+            "6.8556522"
+        ]
+    }
+]

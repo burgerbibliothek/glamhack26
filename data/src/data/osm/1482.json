@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 68207250,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 289306858,
+        "lat": "47.2052202",
+        "lon": "15.3989480",
+        "category": "waterway",
+        "type": "waterfall",
+        "place_rank": 20,
+        "importance": 0.1507975276546128,
+        "addresstype": "waterfall",
+        "name": "Kesselfall",
+        "display_name": "Kesselfall, Semriach, Bezirk Graz-Umgebung, Steiermark, 8102, Österreich",
+        "address": {
+            "waterfall": "Kesselfall",
+            "village": "Semriach",
+            "county": "Bezirk Graz-Umgebung",
+            "state": "Steiermark",
+            "ISO3166-2-lvl4": "AT-6",
+            "postcode": "8102",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.2051702",
+            "47.2052702",
+            "15.3988980",
+            "15.3989980"
+        ]
+    }
+]

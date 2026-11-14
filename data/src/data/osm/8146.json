@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72741148,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683925,
+        "lat": "47.4706336",
+        "lon": "9.5841080",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.422548132356114,
+        "addresstype": "village",
+        "name": "Rheineck",
+        "display_name": "Rheineck, Wahlkreis Rheintal, St. Gallen, 9424, Schweiz",
+        "address": {
+            "village": "Rheineck",
+            "county": "Wahlkreis Rheintal",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9424",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4591866",
+            "47.4864500",
+            "9.5739236",
+            "9.5940809"
+        ]
+    }
+]

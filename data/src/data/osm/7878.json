@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 71371489,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684546,
+        "lat": "47.6312870",
+        "lon": "9.2329998",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44228625660441245,
+        "addresstype": "village",
+        "name": "Münsterlingen",
+        "display_name": "Münsterlingen, Bezirk Kreuzlingen, Thurgau, Schweiz",
+        "address": {
+            "village": "Münsterlingen",
+            "county": "Bezirk Kreuzlingen",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.6153242",
+            "47.6392533",
+            "9.2123278",
+            "9.2644931"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73077496,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682826,
+        "lat": "47.0812067",
+        "lon": "8.3385210",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.43042229427322687,
+        "addresstype": "town",
+        "name": "Ebikon",
+        "display_name": "Ebikon, Luzern, 6030, Schweiz",
+        "address": {
+            "town": "Ebikon",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6030",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0626277",
+            "47.0952636",
+            "8.2905335",
+            "8.3659861"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 131204556,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7822755385,
+        "lat": "50.4296877",
+        "lon": "12.7108805",
+        "category": "information",
+        "type": "board",
+        "place_rank": 30,
+        "importance": 5.727244983592e-05,
+        "addresstype": "information",
+        "name": "Druckluftleitung",
+        "display_name": "Druckluftleitung, Gabe-Gottes-Weg, Mittelstadt, Johanngeorgenstadt, Erzgebirgskreis, Sachsen, 08349, Deutschland",
+        "address": {
+            "information": "Druckluftleitung",
+            "road": "Gabe-Gottes-Weg",
+            "suburb": "Mittelstadt",
+            "town": "Johanngeorgenstadt",
+            "county": "Erzgebirgskreis",
+            "state": "Sachsen",
+            "ISO3166-2-lvl4": "DE-SN",
+            "postcode": "08349",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.4296377",
+            "50.4297377",
+            "12.7108305",
+            "12.7109305"
+        ]
+    }
+]

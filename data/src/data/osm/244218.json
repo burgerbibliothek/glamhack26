@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73875001,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2149670355,
+        "lat": "46.1916750",
+        "lon": "9.0339947",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339554665445943,
+        "addresstype": "hamlet",
+        "name": "Artore",
+        "display_name": "Artore, Carasso, Bellinzona, Kreis Bellinzona, Bezirk Bellinzona, Tessin, 6503, Schweiz",
+        "address": {
+            "hamlet": "Artore",
+            "village": "Carasso",
+            "town": "Bellinzona",
+            "municipality": "Kreis Bellinzona",
+            "county": "Bezirk Bellinzona",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6503",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1716750",
+            "46.2116750",
+            "9.0139947",
+            "9.0539947"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 143439423,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 388647589,
+        "lat": "53.5370803",
+        "lon": "10.1158642",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.255359731436664e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "6, Kapellenstraße, Schiffbek, Billstedt, Hamburg-Mitte, Hamburg, 22117, Deutschland",
+        "address": {
+            "house_number": "6",
+            "road": "Kapellenstraße",
+            "quarter": "Schiffbek",
+            "suburb": "Billstedt",
+            "borough": "Hamburg-Mitte",
+            "city": "Hamburg",
+            "ISO3166-2-lvl4": "DE-HH",
+            "postcode": "22117",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "53.5370085",
+            "53.5371522",
+            "10.1157422",
+            "10.1159862"
+        ]
+    }
+]

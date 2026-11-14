@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71872466,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1458460652,
+        "lat": "47.3602326",
+        "lon": "8.9194749",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333752704661631,
+        "addresstype": "hamlet",
+        "name": "Lipperschwendi",
+        "display_name": "Lipperschwendi, Bauma, Bezirk Pfäffikon, Zürich, 8496, Schweiz",
+        "address": {
+            "hamlet": "Lipperschwendi",
+            "village": "Bauma",
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8496",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3402326",
+            "47.3802326",
+            "8.8994749",
+            "8.9394749"
+        ]
+    }
+]

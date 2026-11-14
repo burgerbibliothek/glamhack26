@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92984741,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683693,
+        "lat": "47.3974255",
+        "lon": "7.6918178",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38438338989703197,
+        "addresstype": "village",
+        "name": "Reigoldswil",
+        "display_name": "Reigoldswil, Bezirk Waldenburg, Basel-Landschaft, 4418, Schweiz",
+        "address": {
+            "village": "Reigoldswil",
+            "county": "Bezirk Waldenburg",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4418",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3711817",
+            "47.4155621",
+            "7.6630378",
+            "7.7122488"
+        ]
+    }
+]

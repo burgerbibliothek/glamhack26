@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71372419,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682185,
+        "lat": "47.6128544",
+        "lon": "8.7283378",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40540706245566294,
+        "addresstype": "village",
+        "name": "Ossingen",
+        "display_name": "Ossingen, Bezirk Andelfingen, Zürich, 8475, Schweiz",
+        "address": {
+            "village": "Ossingen",
+            "county": "Bezirk Andelfingen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8475",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5878687",
+            "47.6347072",
+            "8.6865496",
+            "8.7547471"
+        ]
+    }
+]

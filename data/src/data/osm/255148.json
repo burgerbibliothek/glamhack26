@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92051417,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685045,
+        "lat": "46.8558706",
+        "lon": "6.6146584",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4436475407357258,
+        "addresstype": "village",
+        "name": "Mauborget",
+        "display_name": "Mauborget, District du Jura-Nord vaudois, Waadt, 1453, Schweiz",
+        "address": {
+            "village": "Mauborget",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1453",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8482638",
+            "46.8866680",
+            "6.5871657",
+            "6.6281357"
+        ]
+    }
+]

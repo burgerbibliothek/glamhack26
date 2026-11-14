@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92232305,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684941,
+        "lat": "46.5183230",
+        "lon": "6.4564786",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44236263041382023,
+        "addresstype": "village",
+        "name": "Denens",
+        "display_name": "Denens, District de Morges, Waadt, 1135, Schweiz",
+        "address": {
+            "village": "Denens",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1135",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5082815",
+            "46.5271713",
+            "6.4364036",
+            "6.4685027"
+        ]
+    }
+]

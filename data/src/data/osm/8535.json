@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92188676,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682697,
+        "lat": "46.7388386",
+        "lon": "7.5542435",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4082948885069334,
+        "addresstype": "village",
+        "name": "Uebeschi",
+        "display_name": "Uebeschi, Verwaltungskreis Thun, Oberland administrative region, Bern, 3635, Schweiz",
+        "address": {
+            "village": "Uebeschi",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3635",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7272075",
+            "46.7526188",
+            "7.5290411",
+            "7.5685531"
+        ]
+    }
+]

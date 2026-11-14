@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 91627790,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6327924990,
+        "lat": "46.9390760",
+        "lon": "7.4730446",
+        "category": "office",
+        "type": "diplomatic",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "office",
+        "name": "Embassy of Belgium",
+        "display_name": "Embassy of Belgium, 4, Weltpoststrasse, Wittigkofen, Murifeld, Schloss Wittigkofen, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3015, Schweiz",
+        "address": {
+            "office": "Embassy of Belgium",
+            "house_number": "4",
+            "road": "Weltpoststrasse",
+            "quarter": "Wittigkofen",
+            "hamlet": "Schloss Wittigkofen",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3015",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9390260",
+            "46.9391260",
+            "7.4729946",
+            "7.4730946"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72398247,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 32453306,
+        "lat": "47.2375140",
+        "lon": "9.0000595",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3151525238377993,
+        "addresstype": "village",
+        "name": "Ernetschwil",
+        "display_name": "Ernetschwil, Gommiswald, Wahlkreis See-Gaster, St. Gallen, 8737, Schweiz",
+        "address": {
+            "village": "Ernetschwil",
+            "county": "Wahlkreis See-Gaster",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "8737",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2175140",
+            "47.2575140",
+            "8.9800595",
+            "9.0200595"
+        ]
+    }
+]

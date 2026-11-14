@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93337859,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683572,
+        "lat": "47.2316224",
+        "lon": "7.5308446",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3750543179568698,
+        "addresstype": "village",
+        "name": "Rüttenen",
+        "display_name": "Rüttenen, Bezirk Lebern, Amtei Solothurn-Lebern, Solothurn, 4522, Schweiz",
+        "address": {
+            "village": "Rüttenen",
+            "municipality": "Bezirk Lebern",
+            "county": "Amtei Solothurn-Lebern",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4522",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2183933",
+            "47.2601493",
+            "7.5123720",
+            "7.5571896"
+        ]
+    }
+]

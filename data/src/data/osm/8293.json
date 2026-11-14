@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 118381462,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 29512464,
+        "lat": "49.2910515",
+        "lon": "7.3191819",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.5159197799415719,
+        "addresstype": "village",
+        "name": "Schwarzenbach",
+        "display_name": "Schwarzenbach, Homburg, Saarpfalz-Kreis, Saarland, 66424, Deutschland",
+        "address": {
+            "village": "Schwarzenbach",
+            "town": "Homburg",
+            "county": "Saarpfalz-Kreis",
+            "state": "Saarland",
+            "ISO3166-2-lvl4": "DE-SL",
+            "postcode": "66424",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.2710515",
+            "49.3110515",
+            "7.2991819",
+            "7.3391819"
+        ]
+    }
+]

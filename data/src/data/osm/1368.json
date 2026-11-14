@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 136460784,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 322611722,
+        "lat": "51.5181893",
+        "lon": "10.9339173",
+        "category": "historic",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.14389741120638372,
+        "addresstype": "historic",
+        "name": "Grasburg",
+        "display_name": "Grasburg, Am Schloßteich, Rottleberode, Südharz, Mansfeld-Südharz, Sachsen-Anhalt, 06536, Deutschland",
+        "address": {
+            "historic": "Grasburg",
+            "road": "Am Schloßteich",
+            "village": "Rottleberode",
+            "municipality": "Südharz",
+            "county": "Mansfeld-Südharz",
+            "state": "Sachsen-Anhalt",
+            "ISO3166-2-lvl4": "DE-ST",
+            "postcode": "06536",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.5181393",
+            "51.5182393",
+            "10.9338673",
+            "10.9339673"
+        ]
+    }
+]

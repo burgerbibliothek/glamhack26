@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 47627652,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12753399915,
+        "lat": "26.1689935",
+        "lon": "32.6571134",
+        "category": "place",
+        "type": "town",
+        "place_rank": 18,
+        "importance": 0.4799432766896504,
+        "addresstype": "town",
+        "name": "Dendera",
+        "display_name": "Dendera, Neues Tal, Ägypten",
+        "address": {
+            "town": "Dendera",
+            "state": "Neues Tal",
+            "ISO3166-2-lvl4": "EG-WAD",
+            "country": "Ägypten",
+            "country_code": "eg"
+        },
+        "boundingbox": [
+            "26.1289935",
+            "26.2089935",
+            "32.6171134",
+            "32.6971134"
+        ]
+    }
+]

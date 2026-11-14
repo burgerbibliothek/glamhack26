@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92763252,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 8499584,
+        "lat": "47.0751947",
+        "lon": "7.6377366",
+        "category": "landuse",
+        "type": "farmyard",
+        "place_rank": 24,
+        "importance": 0.08005681620508122,
+        "addresstype": "farmyard",
+        "name": "Grafeschüre",
+        "display_name": "Grafeschüre, Burgdorf, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "farmyard": "Grafeschüre",
+            "town": "Burgdorf",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0743132",
+            "47.0761378",
+            "7.6366240",
+            "7.6395084"
+        ]
+    }
+]

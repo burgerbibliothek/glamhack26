@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 280172697,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7171355122,
+        "lat": "51.5065602",
+        "lon": "-0.0267079",
+        "category": "office",
+        "type": "company",
+        "place_rank": 30,
+        "importance": 0.5652291813513475,
+        "addresstype": "office",
+        "name": "Chevron",
+        "display_name": "Chevron, 1, Westferry Circus, Canary Wharf, London Borough of Tower Hamlets, Groß-London, England, E14 4HA, Vereinigtes Königreich",
+        "address": {
+            "office": "Chevron",
+            "house_number": "1",
+            "road": "Westferry Circus",
+            "suburb": "Canary Wharf",
+            "borough": "London Borough of Tower Hamlets",
+            "ISO3166-2-lvl8": "GB-TWH",
+            "city": "Groß-London",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "E14 4HA",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.5065102",
+            "51.5066102",
+            "-0.0267579",
+            "-0.0266579"
+        ]
+    }
+]

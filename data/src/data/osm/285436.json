@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73101792,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2727987,
+        "lat": "47.3004450",
+        "lon": "9.0871047",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.47663608461708423,
+        "addresstype": "village",
+        "name": "Wattwil",
+        "display_name": "Wattwil, Wahlkreis Toggenburg, St. Gallen, Schweiz",
+        "address": {
+            "village": "Wattwil",
+            "county": "Wahlkreis Toggenburg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2496744",
+            "47.3386483",
+            "9.0203687",
+            "9.1530584"
+        ]
+    }
+]

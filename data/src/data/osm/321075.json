@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 122335191,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3123112836,
+        "lat": "48.7763771",
+        "lon": "9.1861538",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.8644235904433e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "14, Archivstraße, Oberer Schlossgarten, Stuttgart-Mitte, Stuttgart, Baden-Württemberg, 70182, Deutschland",
+        "address": {
+            "house_number": "14",
+            "road": "Archivstraße",
+            "neighbourhood": "Oberer Schlossgarten",
+            "suburb": "Stuttgart-Mitte",
+            "city": "Stuttgart",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "70182",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.7763271",
+            "48.7764271",
+            "9.1861038",
+            "9.1862038"
+        ]
+    }
+]

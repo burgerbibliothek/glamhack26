@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91992296,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 667895852,
+        "lat": "46.9396821",
+        "lon": "7.4300337",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "6, Bürkiweg, Weissenbühl, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3007, Schweiz",
+        "address": {
+            "house_number": "6",
+            "road": "Bürkiweg",
+            "quarter": "Weissenbühl",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3007",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9396321",
+            "46.9397321",
+            "7.4299837",
+            "7.4300837"
+        ]
+    }
+]

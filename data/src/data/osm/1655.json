@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 120272209,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8478021474,
+        "lat": "49.0757365",
+        "lon": "4.8491692",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06673059815365835,
+        "addresstype": "locality",
+        "name": "Pierre Pertuis",
+        "display_name": "Pierre Pertuis, Argers, Châlons-en-Champagne, Marne, Groß-Osten, Metropolitanes Frankreich, 51800, Frankreich",
+        "address": {
+            "locality": "Pierre Pertuis",
+            "village": "Argers",
+            "municipality": "Châlons-en-Champagne",
+            "county": "Marne",
+            "ISO3166-2-lvl6": "FR-51",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "51800",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.0657365",
+            "49.0857365",
+            "4.8391692",
+            "4.8591692"
+        ]
+    }
+]

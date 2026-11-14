@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92444623,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683407,
+        "lat": "46.6366262",
+        "lon": "6.9743823",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39368109814034213,
+        "addresstype": "village",
+        "name": "Sâles",
+        "display_name": "Sâles, Greyerzbezirk, Freiburg, Schweiz",
+        "address": {
+            "village": "Sâles",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6012946",
+            "46.6620086",
+            "6.9418518",
+            "7.0151937"
+        ]
+    }
+]

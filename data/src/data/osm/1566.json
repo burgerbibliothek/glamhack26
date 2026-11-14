@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92896739,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685616,
+        "lat": "47.3981573",
+        "lon": "7.3220141",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37310569550553185,
+        "addresstype": "village",
+        "name": "Mettembert",
+        "display_name": "Mettembert, Bezirk Delsberg, Jura, 2806, Schweiz",
+        "address": {
+            "village": "Mettembert",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2806",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3926982",
+            "47.4013931",
+            "7.2983023",
+            "7.3596001"
+        ]
+    }
+]

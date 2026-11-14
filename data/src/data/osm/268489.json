@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72890721,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683963,
+        "lat": "47.1346737",
+        "lon": "9.0973561",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40459685994744987,
+        "addresstype": "village",
+        "name": "Weesen",
+        "display_name": "Weesen, Wahlkreis See-Gaster, St. Gallen, 8872, Schweiz",
+        "address": {
+            "village": "Weesen",
+            "county": "Wahlkreis See-Gaster",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "8872",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1299991",
+            "47.1624022",
+            "9.0693933",
+            "9.1154283"
+        ]
+    }
+]

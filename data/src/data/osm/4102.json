@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 72296816,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 719457349,
+        "lat": "47.2787485",
+        "lon": "8.3952163",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 4.448233768210907e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "45, Muristrasse, Ottenbach, Bezirk Affoltern, Zürich, 8913, Schweiz",
+        "address": {
+            "house_number": "45",
+            "road": "Muristrasse",
+            "village": "Ottenbach",
+            "county": "Bezirk Affoltern",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8913",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2787170",
+            "47.2787800",
+            "8.3951824",
+            "8.3952502"
+        ]
+    }
+]

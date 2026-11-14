@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93570993,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5968842483,
+        "lat": "47.4586060",
+        "lon": "7.0467882",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.32173239253715025,
+        "addresstype": "village",
+        "name": "Courtemaîche",
+        "display_name": "Courtemaîche, Basse-Allaine, Bezirk Porrentruy, Jura, 2923, Schweiz",
+        "address": {
+            "village": "Courtemaîche",
+            "city": "Basse-Allaine",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2923",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4386060",
+            "47.4786060",
+            "7.0267882",
+            "7.0667882"
+        ]
+    }
+]

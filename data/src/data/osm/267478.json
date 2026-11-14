@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 93330724,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1996157341,
+        "lat": "47.2506827",
+        "lon": "7.1836947",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.13337133516441593,
+        "addresstype": "mountain_pass",
+        "name": "Col du Fuet",
+        "display_name": "Col du Fuet, Le Fuet, Saicourt, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2712, Schweiz",
+        "address": {
+            "mountain_pass": "Col du Fuet",
+            "village": "Le Fuet",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2712",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2506327",
+            "47.2507327",
+            "7.1836447",
+            "7.1837447"
+        ]
+    }
+]

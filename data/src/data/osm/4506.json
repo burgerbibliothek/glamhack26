@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 184609215,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 200358351,
+        "lat": "50.0592195",
+        "lon": "19.9360921",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.41118372170976975,
+        "addresstype": "amenity",
+        "name": "Franziskanerkirche",
+        "display_name": "Franziskanerkirche, 5, Alle-Heiligen-Platz, Altstadt, Stare Miasto, Altstadt, Krakau, Woiwodschaft Kleinpolen, 31-045, Polen",
+        "address": {
+            "amenity": "Franziskanerkirche",
+            "house_number": "5",
+            "road": "Alle-Heiligen-Platz",
+            "quarter": "Altstadt",
+            "suburb": "Stare Miasto",
+            "city_district": "Altstadt",
+            "city": "Krakau",
+            "state": "Woiwodschaft Kleinpolen",
+            "ISO3166-2-lvl4": "PL-12",
+            "postcode": "31-045",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "50.0590596",
+            "50.0593695",
+            "19.9355814",
+            "19.9366183"
+        ]
+    }
+]

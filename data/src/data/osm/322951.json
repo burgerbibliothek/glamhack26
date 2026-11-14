@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 187459882,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 415766577,
+        "lat": "48.2254680",
+        "lon": "16.3585472",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "6, Marktgasse, Lichtental, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich",
+        "address": {
+            "house_number": "6",
+            "road": "Marktgasse",
+            "neighbourhood": "Lichtental",
+            "suburb": "Alsergrund",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1090",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2254180",
+            "48.2255180",
+            "16.3584972",
+            "16.3585972"
+        ]
+    }
+]

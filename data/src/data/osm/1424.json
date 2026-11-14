@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91828392,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 543541001,
+        "lat": "46.9925606",
+        "lon": "7.4119603",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.05338516899366747,
+        "addresstype": "tertiary",
+        "name": "Heimenhausstrasse",
+        "display_name": "Heimenhausstrasse, Niederlindach, Herrenschwanden, Kirchlindach, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3038, Schweiz",
+        "address": {
+            "road": "Heimenhausstrasse",
+            "hamlet": "Niederlindach",
+            "village": "Herrenschwanden",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3038",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9920346",
+            "46.9930866",
+            "7.4119100",
+            "7.4120106"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91984295,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12551289718,
+        "lat": "46.8129730",
+        "lon": "7.6753659",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333833348592355,
+        "addresstype": "hamlet",
+        "name": "Längmatt",
+        "display_name": "Längmatt, Heimenschwand, Buchholterberg, Verwaltungskreis Thun, Oberland administrative region, Bern, 3615, Schweiz",
+        "address": {
+            "hamlet": "Längmatt",
+            "village": "Heimenschwand",
+            "city": "Buchholterberg",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3615",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7929730",
+            "46.8329730",
+            "7.6553659",
+            "7.6953659"
+        ]
+    }
+]

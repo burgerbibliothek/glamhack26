@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 90878234,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10287692524,
+        "lat": "46.4938553",
+        "lon": "6.3812121",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671868085755703,
+        "addresstype": "locality",
+        "name": "Bougy-Saint-Martin",
+        "display_name": "Bougy-Saint-Martin, Sous-Bougy, Aubonne, District de Morges, Waadt, 1170, Schweiz",
+        "address": {
+            "locality": "Bougy-Saint-Martin",
+            "neighbourhood": "Sous-Bougy",
+            "city_district": "Aubonne",
+            "village": "Aubonne",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1170",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4838553",
+            "46.5038553",
+            "6.3712121",
+            "6.3912121"
+        ]
+    }
+]

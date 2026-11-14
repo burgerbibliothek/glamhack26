@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91658740,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1214087525,
+        "lat": "46.9431533",
+        "lon": "7.4064674",
+        "category": "highway",
+        "type": "primary",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "primary",
+        "name": "Freiburgstrasse",
+        "display_name": "Freiburgstrasse, Holligen, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3008, Schweiz",
+        "address": {
+            "road": "Freiburgstrasse",
+            "quarter": "Holligen",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3008",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9429932",
+            "46.9433227",
+            "7.4058693",
+            "7.4070629"
+        ]
+    }
+]

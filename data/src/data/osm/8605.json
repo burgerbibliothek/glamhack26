@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91941129,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 320662425,
+        "lat": "46.6074559",
+        "lon": "6.4063577",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333826558327611,
+        "addresstype": "hamlet",
+        "name": "Villars-Bozon",
+        "display_name": "Villars-Bozon, L'Isle, District de Morges, Waadt, 1148, Schweiz",
+        "address": {
+            "hamlet": "Villars-Bozon",
+            "village": "L'Isle",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1148",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5874559",
+            "46.6274559",
+            "6.3863577",
+            "6.4263577"
+        ]
+    }
+]

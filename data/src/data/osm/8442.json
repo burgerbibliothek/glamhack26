@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73641978,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240094802,
+        "lat": "46.7493761",
+        "lon": "10.0797412",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.38656660986684044,
+        "addresstype": "village",
+        "name": "Susch",
+        "display_name": "Susch, Zernez, Region Engiadina Bassa/Val Müstair, Graubünden, 7542, Schweiz",
+        "address": {
+            "village": "Susch",
+            "county": "Region Engiadina Bassa/Val Müstair",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7542",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7293761",
+            "46.7693761",
+            "10.0597412",
+            "10.0997412"
+        ]
+    }
+]

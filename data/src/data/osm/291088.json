@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91144224,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 95838974,
+        "lat": "46.9398452",
+        "lon": "7.3986471",
+        "category": "office",
+        "type": "educational_institution",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "office",
+        "name": "ICT Berufsbildungscenter AG",
+        "display_name": "ICT Berufsbildungscenter AG, 70, Bahnhöheweg, Bümpliz Dorf, Bümpliz, Stadtteil VI, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3018, Schweiz",
+        "address": {
+            "office": "ICT Berufsbildungscenter AG",
+            "house_number": "70",
+            "road": "Bahnhöheweg",
+            "quarter": "Bümpliz Dorf",
+            "city_district": "Stadtteil VI",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3018",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9396101",
+            "46.9400870",
+            "7.3982855",
+            "7.3988226"
+        ]
+    }
+]

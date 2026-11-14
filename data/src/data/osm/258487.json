@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92399364,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 752740560,
+        "lat": "47.2195688",
+        "lon": "7.9960604",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 3.919050888833475e-05,
+        "addresstype": "amenity",
+        "name": "Chrüzberg Kapelle",
+        "display_name": "Chrüzberg Kapelle, Kreuzbergkapelle, Uffikon, Dagmersellen, Luzern, 6252, Schweiz",
+        "address": {
+            "amenity": "Chrüzberg Kapelle",
+            "locality": "Kreuzbergkapelle",
+            "village": "Uffikon",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6252",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2194943",
+            "47.2196433",
+            "7.9959589",
+            "7.9961619"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 72343736,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 277447792,
+        "lat": "47.4436930",
+        "lon": "8.2335792",
+        "category": "aeroway",
+        "type": "aerodrome",
+        "place_rank": 30,
+        "importance": 0.22052600253021823,
+        "addresstype": "aeroway",
+        "name": "Flugplatz Birrfeld",
+        "display_name": "Flugplatz Birrfeld, K 397, Lupfig, Bezirk Brugg, Aargau, 5242, Schweiz",
+        "address": {
+            "aeroway": "Flugplatz Birrfeld",
+            "road": "K 397",
+            "village": "Lupfig",
+            "county": "Bezirk Brugg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5242",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4415624",
+            "47.4453364",
+            "8.2269349",
+            "8.2402711"
+        ]
+    }
+]

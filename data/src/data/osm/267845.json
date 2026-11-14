@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92522851,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682522,
+        "lat": "47.1177147",
+        "lon": "7.1361859",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.371323530184831,
+        "addresstype": "village",
+        "name": "Lamboing",
+        "display_name": "Lamboing, Plateau de Diesse, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2516, Schweiz",
+        "address": {
+            "village": "Lamboing",
+            "city": "Plateau de Diesse",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2516",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1081823",
+            "47.1455879",
+            "7.1252142",
+            "7.2005279"
+        ]
+    }
+]

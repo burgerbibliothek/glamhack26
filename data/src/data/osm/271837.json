@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92518529,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 815550321,
+        "lat": "46.7002329",
+        "lon": "6.9273634",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 22,
+        "importance": 0.10671749370565345,
+        "addresstype": "stream",
+        "name": "Le Glaney",
+        "display_name": "Le Glaney, Chavannes-sous-Romont, Romont, Glanebezirk, Freiburg, 1680, Schweiz",
+        "address": {
+            "stream": "Le Glaney",
+            "hamlet": "Chavannes-sous-Romont",
+            "village": "Romont",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1680",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7002111",
+            "46.7005154",
+            "6.9242081",
+            "6.9305129"
+        ]
+    }
+]

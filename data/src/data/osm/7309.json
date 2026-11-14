@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92033724,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 187228808,
+        "lat": "46.4721619",
+        "lon": "7.2887480",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.5458289939275522,
+        "addresstype": "village",
+        "name": "Gstaad",
+        "display_name": "Gstaad, Saanen, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3780, Schweiz",
+        "address": {
+            "village": "Gstaad",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3780",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4521619",
+            "46.4921619",
+            "7.2687480",
+            "7.3087480"
+        ]
+    }
+]

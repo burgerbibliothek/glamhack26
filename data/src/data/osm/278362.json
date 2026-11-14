@@ -1,0 +1,28 @@
+[
+    {
+        "place_id": 119572554,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 123924,
+        "lat": "50.4677626",
+        "lon": "7.3519890",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.7181322513972689,
+        "addresstype": "river",
+        "name": "Rhein",
+        "display_name": "Rhein, Deutschland",
+        "address": {
+            "river": "Rhein",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "46.6323593",
+            "52.5835735",
+            "4.0496041",
+            "9.6708805"
+        ]
+    }
+]

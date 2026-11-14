@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92273037,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 286031262,
+        "lat": "46.8539372",
+        "lon": "7.4051325",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337409094377048,
+        "addresstype": "hamlet",
+        "name": "Borisried",
+        "display_name": "Borisried, Oberbalm, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3096, Schweiz",
+        "address": {
+            "hamlet": "Borisried",
+            "village": "Oberbalm",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3096",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8339372",
+            "46.8739372",
+            "7.3851325",
+            "7.4251325"
+        ]
+    }
+]

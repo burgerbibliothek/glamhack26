@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92363932,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2278851869,
+        "lat": "46.9202807",
+        "lon": "7.3436837",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 4.6578927290715154e-05,
+        "addresstype": "information",
+        "name": "Niederwangenhubel",
+        "display_name": "Niederwangenhubel, Stahlengasse, Oberwangen, Köniz, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3173, Schweiz",
+        "address": {
+            "information": "Niederwangenhubel",
+            "road": "Stahlengasse",
+            "suburb": "Oberwangen",
+            "town": "Köniz",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3173",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9202307",
+            "46.9203307",
+            "7.3436337",
+            "7.3437337"
+        ]
+    }
+]

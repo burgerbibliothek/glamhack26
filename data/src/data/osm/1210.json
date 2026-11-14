@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92869616,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2202591,
+        "lat": "47.3939054",
+        "lon": "7.4333958",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.4569458819436982,
+        "addresstype": "river",
+        "name": "Birs",
+        "display_name": "Birs, Bezirk Laufen, Verwaltungsregion Berner Jura, Basel-Landschaft, Schweiz",
+        "address": {
+            "river": "Birs",
+            "county": "Bezirk Laufen",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2137416",
+            "47.5586380",
+            "7.1950843",
+            "7.6230051"
+        ]
+    }
+]

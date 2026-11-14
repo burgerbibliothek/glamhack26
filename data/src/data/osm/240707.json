@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71610256,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683704,
+        "lat": "47.7488818",
+        "lon": "8.4845902",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4143029080783626,
+        "addresstype": "village",
+        "name": "Schleitheim",
+        "display_name": "Schleitheim, Bezirk Schleitheim, Schaffhausen, 8226, Schweiz",
+        "address": {
+            "village": "Schleitheim",
+            "county": "Bezirk Schleitheim",
+            "state": "Schaffhausen",
+            "ISO3166-2-lvl4": "CH-SH",
+            "postcode": "8226",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.7258114",
+            "47.7761972",
+            "8.4498010",
+            "8.5488277"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73884109,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684055,
+        "lat": "46.2720456",
+        "lon": "9.1691657",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3726646801410257,
+        "addresstype": "village",
+        "name": "Cama",
+        "display_name": "Cama, Moesa, Graubünden, 6557, Schweiz",
+        "address": {
+            "village": "Cama",
+            "county": "Moesa",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "6557",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2290938",
+            "46.2918849",
+            "9.1625573",
+            "9.2497104"
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 92190877,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 312520904,
+        "lat": "46.9474306",
+        "lon": "7.4368668",
+        "category": "amenity",
+        "type": "cinema",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "cineBubenberg",
+        "display_name": "cineBubenberg, 2, Laupenstrasse, Villette, Monbijou, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3008, Schweiz",
+        "address": {
+            "amenity": "cineBubenberg",
+            "house_number": "2",
+            "road": "Laupenstrasse",
+            "neighbourhood": "Villette",
+            "quarter": "Monbijou",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3008",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9473806",
+            "46.9474806",
+            "7.4368168",
+            "7.4369168"
+        ]
+    }
+]

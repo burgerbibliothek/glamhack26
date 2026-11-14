@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93011613,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682368,
+        "lat": "47.1323040",
+        "lon": "7.8340500",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4212966827966051,
+        "addresstype": "village",
+        "name": "Auswil",
+        "display_name": "Auswil, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4944, Schweiz",
+        "address": {
+            "village": "Auswil",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4944",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1230876",
+            "47.1484815",
+            "7.8017490",
+            "7.8546315"
+        ]
+    }
+]

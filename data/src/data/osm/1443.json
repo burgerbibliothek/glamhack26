@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71984240,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 133498103,
+        "lat": "47.4383993",
+        "lon": "8.7538027",
+        "category": "place",
+        "type": "farm",
+        "place_rank": 22,
+        "importance": 0.10671672770275423,
+        "addresstype": "farm",
+        "name": "Hünegg",
+        "display_name": "Hünegg, Theilingen, Weisslingen, Bezirk Pfäffikon, Zürich, Schweiz",
+        "address": {
+            "farm": "Hünegg",
+            "village": "Theilingen",
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4378149",
+            "47.4387757",
+            "8.7523173",
+            "8.7547456"
+        ]
+    }
+]

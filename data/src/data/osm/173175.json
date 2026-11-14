@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73228003,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684697,
+        "lat": "46.1695739",
+        "lon": "8.7954859",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5704739192796259,
+        "addresstype": "town",
+        "name": "Locarno",
+        "display_name": "Locarno, Kreis Locarno, Bezirk Locarno, Tessin, Schweiz",
+        "address": {
+            "town": "Locarno",
+            "municipality": "Kreis Locarno",
+            "county": "Bezirk Locarno",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1423390",
+            "46.1973217",
+            "8.7494219",
+            "8.9203634"
+        ]
+    }
+]

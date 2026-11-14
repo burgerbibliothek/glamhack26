@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 69066009,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 106215,
+        "lat": "46.7502901",
+        "lon": "14.1685880",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3476412868877268,
+        "addresstype": "village",
+        "name": "Sankt Urban",
+        "display_name": "Sankt Urban, Bezirk Feldkirchen, Kärnten, 9554, Österreich",
+        "address": {
+            "village": "Sankt Urban",
+            "region": "Bezirk Feldkirchen",
+            "state": "Kärnten",
+            "ISO3166-2-lvl4": "AT-2",
+            "postcode": "9554",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "46.7289679",
+            "46.7957624",
+            "14.1282429",
+            "14.2094004"
+        ]
+    }
+]

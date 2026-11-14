@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92217479,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682588,
+        "lat": "46.7313738",
+        "lon": "7.6687101",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4266520139267868,
+        "addresstype": "village",
+        "name": "Oberhofen am Thunersee",
+        "display_name": "Oberhofen am Thunersee, Verwaltungskreis Thun, Oberland administrative region, Bern, 3653, Schweiz",
+        "address": {
+            "village": "Oberhofen am Thunersee",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3653",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7162532",
+            "46.7447951",
+            "7.6606778",
+            "7.6904912"
+        ]
+    }
+]

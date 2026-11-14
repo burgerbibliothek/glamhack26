@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 183722315,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3852667218,
+        "lat": "50.0628901",
+        "lon": "19.9411937",
+        "category": "amenity",
+        "type": "atm",
+        "place_rank": 30,
+        "importance": 7.936751354233642e-05,
+        "addresstype": "amenity",
+        "name": "Euronet",
+        "display_name": "Euronet, 20, Spitalgasse, Altstadt, Stare Miasto, Altstadt, Krakau, Woiwodschaft Kleinpolen, 31-024, Polen",
+        "address": {
+            "amenity": "Euronet",
+            "house_number": "20",
+            "road": "Spitalgasse",
+            "quarter": "Altstadt",
+            "suburb": "Stare Miasto",
+            "city_district": "Altstadt",
+            "city": "Krakau",
+            "state": "Woiwodschaft Kleinpolen",
+            "ISO3166-2-lvl4": "PL-12",
+            "postcode": "31-024",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "50.0628401",
+            "50.0629401",
+            "19.9411437",
+            "19.9412437"
+        ]
+    }
+]

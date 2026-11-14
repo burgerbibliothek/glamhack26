@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92435612,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682644,
+        "lat": "47.1517750",
+        "lon": "6.9971967",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.47695191970321454,
+        "addresstype": "village",
+        "name": "Saint-Imier",
+        "display_name": "Saint-Imier, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2610, Schweiz",
+        "address": {
+            "village": "Saint-Imier",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2610",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1166977",
+            "47.1873510",
+            "6.9401489",
+            "7.0382365"
+        ]
+    }
+]

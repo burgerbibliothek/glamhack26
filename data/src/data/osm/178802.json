@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 383422646,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13856759892,
+        "lat": "47.2139010",
+        "lon": "7.1954754",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 5.074464026851328e-05,
+        "addresstype": "information",
+        "name": "Source de la Birse",
+        "display_name": "Source de la Birse, A16, Sous le Mont, Tavannes, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2710, Schweiz",
+        "address": {
+            "information": "Source de la Birse",
+            "road": "A16",
+            "hamlet": "Sous le Mont",
+            "village": "Tavannes",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2710",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2138510",
+            "47.2139510",
+            "7.1954254",
+            "7.1955254"
+        ]
+    }
+]

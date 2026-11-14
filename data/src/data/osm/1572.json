@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92129746,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 10612258,
+        "lat": "46.0387094",
+        "lon": "7.8624940",
+        "category": "place",
+        "type": "region",
+        "place_rank": 18,
+        "importance": 0.5313918602864806,
+        "addresstype": "region",
+        "name": "Monte Rosa Massiv",
+        "display_name": "Monte Rosa Massiv, Visp, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "region": "Monte Rosa Massiv",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.8510066",
+            "46.2308626",
+            "7.6849794",
+            "7.9820823"
+        ]
+    }
+]

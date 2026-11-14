@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91488945,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1671617,
+        "lat": "46.7229800",
+        "lon": "7.9650351",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.4520643089223901,
+        "addresstype": "lake",
+        "name": "Brienzersee",
+        "display_name": "Brienzersee, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3855, Schweiz",
+        "address": {
+            "lake": "Brienzersee",
+            "city": "Brienzersee",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3855",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6879743",
+            "46.7579633",
+            "7.8847048",
+            "8.0498648"
+        ]
+    }
+]

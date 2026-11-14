@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92196251,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 510143264,
+        "lat": "46.9412027",
+        "lon": "7.4719122",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "7, Moritzweg, Wittigkofen, Murifeld, Schloss Wittigkofen, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "house_number": "7",
+            "road": "Moritzweg",
+            "quarter": "Wittigkofen",
+            "hamlet": "Schloss Wittigkofen",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9411527",
+            "46.9412527",
+            "7.4718622",
+            "7.4719622"
+        ]
+    }
+]

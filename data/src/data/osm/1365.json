@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92368010,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2271366956,
+        "lat": "46.8241273",
+        "lon": "7.1670312",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338278095674067,
+        "addresstype": "hamlet",
+        "name": "Grandfey",
+        "display_name": "Grandfey, Granges-Paccot, Saanebezirk, Freiburg, 1763, Schweiz",
+        "address": {
+            "hamlet": "Grandfey",
+            "village": "Granges-Paccot",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1763",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8041273",
+            "46.8441273",
+            "7.1470312",
+            "7.1870312"
+        ]
+    }
+]

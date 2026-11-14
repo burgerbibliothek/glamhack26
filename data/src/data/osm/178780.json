@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 98006162,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 374027140,
+        "lat": "48.8221113",
+        "lon": "2.2500163",
+        "category": "man_made",
+        "type": "bridge",
+        "place_rank": 30,
+        "importance": 0.3095991533582804,
+        "addresstype": "man_made",
+        "name": "Ponts de Billancourt",
+        "display_name": "Ponts de Billancourt, Boulevard des Îles, Quartier La Ferme / Les Îles / Les Chartreux, Issy-les-Moulineaux, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, Metropolitanes Frankreich, 92130, Frankreich",
+        "address": {
+            "man_made": "Ponts de Billancourt",
+            "road": "Boulevard des Îles",
+            "suburb": "Quartier La Ferme / Les Îles / Les Chartreux",
+            "town": "Issy-les-Moulineaux",
+            "municipality": "Boulogne-Billancourt",
+            "county": "Hauts-de-Seine",
+            "ISO3166-2-lvl6": "FR-92",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "92130",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8218808",
+            "48.8223180",
+            "2.2497294",
+            "2.2503141"
+        ]
+    }
+]

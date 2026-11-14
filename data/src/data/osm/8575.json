@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91280654,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685538,
+        "lat": "46.2214083",
+        "lon": "6.2024623",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44650336583499306,
+        "addresstype": "village",
+        "name": "Vandœuvres",
+        "display_name": "Vandœuvres, Genf, 1253, Schweiz",
+        "address": {
+            "village": "Vandœuvres",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "postcode": "1253",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2069930",
+            "46.2328458",
+            "6.1877121",
+            "6.2199865"
+        ]
+    }
+]

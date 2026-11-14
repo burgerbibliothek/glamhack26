@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 155783231,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 57857350,
+        "lat": "52.3621554",
+        "lon": "4.8837824",
+        "category": "amenity",
+        "type": "concert_hall",
+        "place_rank": 30,
+        "importance": 0.4782443913822298,
+        "addresstype": "amenity",
+        "name": "Paradiso",
+        "display_name": "Paradiso, 6, Weteringschans, Centrum, Amsterdam, Nordholland, Niederlande, 1017 SG, Niederlande",
+        "address": {
+            "amenity": "Paradiso",
+            "house_number": "6",
+            "road": "Weteringschans",
+            "suburb": "Centrum",
+            "city": "Amsterdam",
+            "municipality": "Amsterdam",
+            "state": "Nordholland",
+            "ISO3166-2-lvl4": "NL-NH",
+            "country": "Niederlande",
+            "postcode": "1017 SG",
+            "country_code": "nl"
+        },
+        "boundingbox": [
+            "52.3620074",
+            "52.3623616",
+            "4.8835482",
+            "4.8840925"
+        ]
+    }
+]

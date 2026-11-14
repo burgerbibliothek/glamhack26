@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 75999339,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9461841488,
+        "lat": "45.4374624",
+        "lon": "9.1572199",
+        "category": "shop",
+        "type": "butcher",
+        "place_rank": 30,
+        "importance": 8.390707255660361e-05,
+        "addresstype": "shop",
+        "name": "Assiut",
+        "display_name": "Assiut, 19, Viale Famagosta, San Cristoforo, Municipio 6, Mailand, Lombardei, 20142, Italien",
+        "address": {
+            "shop": "Assiut",
+            "house_number": "19",
+            "road": "Viale Famagosta",
+            "quarter": "San Cristoforo",
+            "suburb": "Municipio 6",
+            "city": "Mailand",
+            "county": "Mailand",
+            "ISO3166-2-lvl6": "IT-MI",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "20142",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.4374124",
+            "45.4375124",
+            "9.1571699",
+            "9.1572699"
+        ]
+    }
+]

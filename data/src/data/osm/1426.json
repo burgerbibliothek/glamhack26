@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92347671,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6109341037,
+        "lat": "46.6756682",
+        "lon": "7.8500893",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 5.000152590214416e-05,
+        "addresstype": "amenity",
+        "name": "Heimwehfluh",
+        "display_name": "Heimwehfluh, 60, Heimwehfluhstrasse, Wagnerschlucht, Matten bei Interlaken, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3800, Schweiz",
+        "address": {
+            "amenity": "Heimwehfluh",
+            "house_number": "60",
+            "road": "Heimwehfluhstrasse",
+            "neighbourhood": "Wagnerschlucht",
+            "village": "Matten bei Interlaken",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3800",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6756182",
+            "46.6757182",
+            "7.8500393",
+            "7.8501393"
+        ]
+    }
+]

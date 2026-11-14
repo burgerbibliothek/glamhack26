@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91271921,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684831,
+        "lat": "46.3179006",
+        "lon": "6.9688929",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5068547681245278,
+        "addresstype": "town",
+        "name": "Aigle",
+        "display_name": "Aigle, Aigle District, Waadt, 1860, Schweiz",
+        "address": {
+            "town": "Aigle",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1860",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2913075",
+            "46.3416731",
+            "6.9317560",
+            "7.0402787"
+        ]
+    }
+]

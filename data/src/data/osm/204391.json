@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 139169100,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 386400799,
+        "lat": "50.0503151",
+        "lon": "8.2367497",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.142519264510594e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "19, Weihergasse, Gibb, Biebrich, Wiesbaden, Hessen, 65203, Deutschland",
+        "address": {
+            "house_number": "19",
+            "road": "Weihergasse",
+            "residential": "Gibb",
+            "suburb": "Biebrich",
+            "city": "Wiesbaden",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "65203",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.0502579",
+            "50.0503722",
+            "8.2366485",
+            "8.2368510"
+        ]
+    }
+]

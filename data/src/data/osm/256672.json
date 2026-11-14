@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73425334,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12504639421,
+        "lat": "46.6582144",
+        "lon": "8.0443091",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.0667160105287251,
+        "addresstype": "locality",
+        "name": "Bachläger",
+        "display_name": "Bachläger, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3818, Schweiz",
+        "address": {
+            "locality": "Bachläger",
+            "village": "Grindelwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3818",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6482144",
+            "46.6682144",
+            "8.0343091",
+            "8.0543091"
+        ]
+    }
+]

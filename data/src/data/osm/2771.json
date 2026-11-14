@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92334203,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 59264537,
+        "lat": "46.9458551",
+        "lon": "7.4223135",
+        "category": "building",
+        "type": "hospital",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "building",
+        "name": "Inselheim",
+        "display_name": "Inselheim, 31, Freiburgstrasse, Holligen, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3010, Schweiz",
+        "address": {
+            "building": "Inselheim",
+            "house_number": "31",
+            "road": "Freiburgstrasse",
+            "quarter": "Holligen",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3010",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9457414",
+            "46.9459615",
+            "7.4221367",
+            "7.4225086"
+        ]
+    }
+]

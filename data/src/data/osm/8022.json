@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91683925,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682603,
+        "lat": "46.9582779",
+        "lon": "7.4911242",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4848703219267576,
+        "addresstype": "town",
+        "name": "Ostermundigen",
+        "display_name": "Ostermundigen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, Schweiz",
+        "address": {
+            "town": "Ostermundigen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9402741",
+            "46.9716246",
+            "7.4769023",
+            "7.5132556"
+        ]
+    }
+]

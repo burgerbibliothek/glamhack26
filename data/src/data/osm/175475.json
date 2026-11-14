@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 89953998,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5805201,
+        "lat": "45.1741000",
+        "lon": "5.2169900",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5528312368217017,
+        "addresstype": "village",
+        "name": "Saint-Antoine l'Abbaye",
+        "display_name": "Saint-Antoine l'Abbaye, Grenoble, Isère, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 38160, Frankreich",
+        "address": {
+            "village": "Saint-Antoine l'Abbaye",
+            "municipality": "Grenoble",
+            "county": "Isère",
+            "ISO3166-2-lvl6": "FR-38",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "38160",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.1405209",
+            "45.2179956",
+            "5.1633104",
+            "5.2605813"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 74541451,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1646436,
+        "lat": "46.6429510",
+        "lon": "8.1498808",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.3113151607222326,
+        "addresstype": "glacier",
+        "name": "Rosenlauigletscher",
+        "display_name": "Rosenlauigletscher, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3862, Schweiz",
+        "address": {
+            "glacier": "Rosenlauigletscher",
+            "city_district": "Innertkirchen",
+            "village": "Innertkirchen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3862",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6269095",
+            "46.6633480",
+            "8.1256668",
+            "8.1652679"
+        ]
+    }
+]

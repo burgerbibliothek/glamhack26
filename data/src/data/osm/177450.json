@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92567832,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 481321688,
+        "lat": "47.1295069",
+        "lon": "6.9212248",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 3.5728236819974324e-05,
+        "addresstype": "building",
+        "name": "Basler Studienheim",
+        "display_name": "Basler Studienheim, 59b, Rue des Etoblons, Le Plan, La Ferrière, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2333, Schweiz",
+        "address": {
+            "building": "Basler Studienheim",
+            "house_number": "59b",
+            "road": "Rue des Etoblons",
+            "hamlet": "Le Plan",
+            "village": "La Ferrière",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2333",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1293321",
+            "47.1296883",
+            "6.9209368",
+            "6.9215492"
+        ]
+    }
+]

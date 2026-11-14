@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91471891,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7488925633,
+        "lat": "46.6858252",
+        "lon": "7.8562222",
+        "category": "shop",
+        "type": "gift",
+        "place_rank": 30,
+        "importance": 5.891889829857355e-05,
+        "addresstype": "shop",
+        "name": "Jungfraubahn Flagship Store",
+        "display_name": "Jungfraubahn Flagship Store, 35, Höheweg, Interlaken, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3800, Schweiz",
+        "address": {
+            "shop": "Jungfraubahn Flagship Store",
+            "house_number": "35",
+            "road": "Höheweg",
+            "town": "Interlaken",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3800",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6857752",
+            "46.6858752",
+            "7.8561722",
+            "7.8562722"
+        ]
+    }
+]

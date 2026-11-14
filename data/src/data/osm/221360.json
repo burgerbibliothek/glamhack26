@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 146270099,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8545178457,
+        "lat": "52.6227638",
+        "lon": "13.5122438",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "4, Ulmenweg, Eichenring, Schwanebeck, Panketal, Barnim, Brandenburg, 16341, Deutschland",
+        "address": {
+            "house_number": "4",
+            "road": "Ulmenweg",
+            "neighbourhood": "Eichenring",
+            "village": "Schwanebeck",
+            "town": "Panketal",
+            "county": "Barnim",
+            "state": "Brandenburg",
+            "ISO3166-2-lvl4": "DE-BB",
+            "postcode": "16341",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.6227138",
+            "52.6228138",
+            "13.5121938",
+            "13.5122938"
+        ]
+    }
+]

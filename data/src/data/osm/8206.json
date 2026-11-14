@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 72568479,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682914,
+        "lat": "47.0839416",
+        "lon": "8.1262270",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40712885412943295,
+        "addresstype": "village",
+        "name": "Ruswil",
+        "display_name": "Ruswil, Luzern, Schweiz",
+        "address": {
+            "village": "Ruswil",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0434147",
+            "47.1151292",
+            "8.0804729",
+            "8.1961891"
+        ]
+    }
+]

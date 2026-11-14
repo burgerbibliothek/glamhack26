@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92610154,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240041601,
+        "lat": "47.2205376",
+        "lon": "7.5550880",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3756911839236167,
+        "addresstype": "village",
+        "name": "Feldbrunnen",
+        "display_name": "Feldbrunnen, Bezirk Lebern, Amtei Solothurn-Lebern, Solothurn, 4532, Schweiz",
+        "address": {
+            "village": "Feldbrunnen",
+            "municipality": "Bezirk Lebern",
+            "county": "Amtei Solothurn-Lebern",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4532",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2005376",
+            "47.2405376",
+            "7.5350880",
+            "7.5750880"
+        ]
+    }
+]

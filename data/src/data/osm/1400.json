@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92550004,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 408838783,
+        "lat": "46.8280351",
+        "lon": "7.5167162",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.2961343492019334,
+        "addresstype": "valley",
+        "name": "Gürbetal",
+        "display_name": "Gürbetal, Thurnen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, Schweiz",
+        "address": {
+            "valley": "Gürbetal",
+            "city": "Thurnen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7721043",
+            "46.8823905",
+            "7.4964985",
+            "7.5239643"
+        ]
+    }
+]

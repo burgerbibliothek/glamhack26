@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93014619,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1601436596,
+        "lat": "47.0026285",
+        "lon": "7.8255036",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333835851071946,
+        "addresstype": "hamlet",
+        "name": "Lüdernalp",
+        "display_name": "Lüdernalp, Sumiswald, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "hamlet": "Lüdernalp",
+            "village": "Sumiswald",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9826285",
+            "47.0226285",
+            "7.8055036",
+            "7.8455036"
+        ]
+    }
+]

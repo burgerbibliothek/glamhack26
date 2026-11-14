@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73505171,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240110284,
+        "lat": "46.7710786",
+        "lon": "8.6703257",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.21080589711721126,
+        "addresstype": "village",
+        "name": "Amsteg",
+        "display_name": "Amsteg, Silenen, Uri, 6474, Schweiz",
+        "address": {
+            "village": "Amsteg",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6474",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7510786",
+            "46.7910786",
+            "8.6503257",
+            "8.6903257"
+        ]
+    }
+]

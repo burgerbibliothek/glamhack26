@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 418272173,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 20707772,
+        "lat": "25.6022659",
+        "lon": "32.4720648",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.24003750133516438,
+        "addresstype": "county",
+        "name": "Armant",
+        "display_name": "Armant, Luxor, Ägypten",
+        "address": {
+            "county": "Armant",
+            "state": "Luxor",
+            "ISO3166-2-lvl4": "EG-LX",
+            "country": "Ägypten",
+            "country_code": "eg"
+        },
+        "boundingbox": [
+            "25.5249709",
+            "25.6800424",
+            "32.4284703",
+            "32.5608998"
+        ]
+    }
+]

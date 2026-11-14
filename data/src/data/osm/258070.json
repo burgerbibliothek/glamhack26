@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 283141353,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5240036024,
+        "lat": "49.6377833",
+        "lon": "-1.6228326",
+        "category": "amenity",
+        "type": "theatre",
+        "place_rank": 30,
+        "importance": 0.2713361062662927,
+        "addresstype": "amenity",
+        "name": "Le Trident",
+        "display_name": "Le Trident, Place Général de Gaulle, Octeville, Cherbourg-Octeville, Cherbourg-en-Cotentin, Cherbourg, Manche, Normandie, Metropolitanes Frankreich, 50130, Frankreich",
+        "address": {
+            "amenity": "Le Trident",
+            "road": "Place Général de Gaulle",
+            "suburb": "Octeville",
+            "city_district": "Cherbourg-Octeville",
+            "town": "Cherbourg-en-Cotentin",
+            "municipality": "Cherbourg",
+            "county": "Manche",
+            "ISO3166-2-lvl6": "FR-50",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "50130",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.6377333",
+            "49.6378333",
+            "-1.6228826",
+            "-1.6227826"
+        ]
+    }
+]

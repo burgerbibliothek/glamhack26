@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71324232,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 29126418,
+        "lat": "47.5118362",
+        "lon": "9.1714812",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.31353539144981896,
+        "addresstype": "hamlet",
+        "name": "Neukirch an der Thur",
+        "display_name": "Neukirch an der Thur, Kradolf-Schönenberg, Bezirk Weinfelden, Thurgau, 9217, Schweiz",
+        "address": {
+            "hamlet": "Neukirch an der Thur",
+            "city": "Kradolf-Schönenberg",
+            "county": "Bezirk Weinfelden",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "9217",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4918362",
+            "47.5318362",
+            "9.1514812",
+            "9.1914812"
+        ]
+    }
+]

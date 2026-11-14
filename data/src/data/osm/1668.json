@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91542225,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 296538065,
+        "lat": "46.4208345",
+        "lon": "7.4931656",
+        "category": "highway",
+        "type": "track",
+        "place_rank": 26,
+        "importance": 0.05336333485923549,
+        "addresstype": "track",
+        "name": "Rezlibergweg",
+        "display_name": "Rezlibergweg, Lenk, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3775, Schweiz",
+        "address": {
+            "road": "Rezlibergweg",
+            "village": "Lenk",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3775",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4206597",
+            "46.4213163",
+            "7.4927595",
+            "7.4938392"
+        ]
+    }
+]

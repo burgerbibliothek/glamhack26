@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 126344248,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2039891992,
+        "lat": "48.1452144",
+        "lon": "11.4504631",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "15, Neufeldstraße, Pasing, Pasing-Obermenzing, München, Bayern, 81243, Deutschland",
+        "address": {
+            "house_number": "15",
+            "road": "Neufeldstraße",
+            "suburb": "Pasing",
+            "city_district": "Pasing-Obermenzing",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "81243",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1451644",
+            "48.1452644",
+            "11.4504131",
+            "11.4505131"
+        ]
+    }
+]

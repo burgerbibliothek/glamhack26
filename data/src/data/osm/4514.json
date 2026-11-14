@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 128212405,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 108574626,
+        "lat": "48.1290158",
+        "lon": "11.5758579",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "51, Reichenbachstraße, Gärtnerplatz, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
+        "address": {
+            "house_number": "51",
+            "road": "Reichenbachstraße",
+            "quarter": "Gärtnerplatz",
+            "suburb": "Isarvorstadt",
+            "city_district": "Ludwigsvorstadt-Isarvorstadt",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "80469",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1289504",
+            "48.1290811",
+            "11.5757559",
+            "11.5759598"
+        ]
+    }
+]

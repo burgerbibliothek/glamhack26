@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 111749080,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 145692511,
+        "lat": "51.1519972",
+        "lon": "6.8646356",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.726176852059232e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "27, Seidenweg, Urdenbach, Stadtbezirk 9, Düsseldorf, Nordrhein-Westfalen, 40593, Deutschland",
+        "address": {
+            "house_number": "27",
+            "road": "Seidenweg",
+            "suburb": "Urdenbach",
+            "city_district": "Stadtbezirk 9",
+            "city": "Düsseldorf",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "40593",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.1519256",
+            "51.1520580",
+            "6.8645478",
+            "6.8647233"
+        ]
+    }
+]

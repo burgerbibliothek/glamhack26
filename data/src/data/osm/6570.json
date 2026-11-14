@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92849759,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682355,
+        "lat": "47.0443346",
+        "lon": "7.2753004",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4548981664560884,
+        "addresstype": "village",
+        "name": "Aarberg",
+        "display_name": "Aarberg, Seeland administrative district, Seeland administrative region, Bern, 3270, Schweiz",
+        "address": {
+            "village": "Aarberg",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3270",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0267903",
+            "47.0616786",
+            "7.2571099",
+            "7.3080151"
+        ]
+    }
+]

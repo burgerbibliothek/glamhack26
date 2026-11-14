@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72586785,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 151788989,
+        "lat": "47.2823987",
+        "lon": "8.2155407",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.4113064781358611,
+        "addresstype": "lake",
+        "name": "Hallwilersee",
+        "display_name": "Hallwilersee, Birrwil, Bezirk Kulm, Aargau, 5708, Schweiz",
+        "address": {
+            "lake": "Hallwilersee",
+            "village": "Birrwil",
+            "county": "Bezirk Kulm",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5708",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2454907",
+            "47.3192783",
+            "8.1982847",
+            "8.2330243"
+        ]
+    }
+]

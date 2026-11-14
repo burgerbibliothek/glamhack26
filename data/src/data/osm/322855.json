@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 92100098,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3217574317,
+        "lat": "46.9471831",
+        "lon": "7.4332081",
+        "category": "office",
+        "type": "government",
+        "place_rank": 30,
+        "importance": 0.36315663276805743,
+        "addresstype": "office",
+        "name": "Eidgenössische Finanzmarktaufsicht FINMA",
+        "display_name": "Eidgenössische Finanzmarktaufsicht FINMA, 27, Laupenstrasse, Villette, Monbijou, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3008, Schweiz",
+        "address": {
+            "office": "Eidgenössische Finanzmarktaufsicht FINMA",
+            "house_number": "27",
+            "road": "Laupenstrasse",
+            "neighbourhood": "Villette",
+            "quarter": "Monbijou",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3008",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9471331",
+            "46.9472331",
+            "7.4331581",
+            "7.4332581"
+        ]
+    }
+]

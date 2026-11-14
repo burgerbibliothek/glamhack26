@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91581985,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 983834931,
+        "lat": "46.2587067",
+        "lon": "7.0310330",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 0.41118372170976975,
+        "addresstype": "highway",
+        "name": "Le Bévieux",
+        "display_name": "Le Bévieux, Route des Plans, Les Posses-sur-Bex, Bex, Aigle District, Waadt, 1880, Schweiz",
+        "address": {
+            "highway": "Le Bévieux",
+            "road": "Route des Plans",
+            "village": "Les Posses-sur-Bex",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1880",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2586567",
+            "46.2587567",
+            "7.0309830",
+            "7.0310830"
+        ]
+    }
+]

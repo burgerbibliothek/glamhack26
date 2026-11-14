@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91762534,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2198014,
+        "lat": "46.9568875",
+        "lon": "7.7488464",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.4516681956131193,
+        "addresstype": "river",
+        "name": "Emme",
+        "display_name": "Emme, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "river": "Emme",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7461486",
+            "47.2192597",
+            "7.5337336",
+            "7.9540406"
+        ]
+    }
+]

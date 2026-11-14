@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91749201,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 544056659,
+        "lat": "46.1105228",
+        "lon": "7.9289041",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.420080872811502e-05,
+        "addresstype": "building",
+        "name": "Lomatte",
+        "display_name": "Lomatte, 6, Lomattengasse, Saas-Fee, Visp, Oberwallis, Wallis, 3906, Schweiz",
+        "address": {
+            "building": "Lomatte",
+            "house_number": "6",
+            "road": "Lomattengasse",
+            "residential": "Saas-Fee",
+            "village": "Saas-Fee",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3906",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1104555",
+            "46.1105818",
+            "7.9288120",
+            "7.9290033"
+        ]
+    }
+]

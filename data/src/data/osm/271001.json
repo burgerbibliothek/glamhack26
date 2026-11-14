@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92435615,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683416,
+        "lat": "46.8824770",
+        "lon": "6.9516570",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3980280368594564,
+        "addresstype": "village",
+        "name": "Vallon",
+        "display_name": "Vallon, Broyebezirk, Freiburg, 1565, Schweiz",
+        "address": {
+            "village": "Vallon",
+            "county": "Broyebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1565",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8653917",
+            "46.9012272",
+            "6.9386455",
+            "6.9694374"
+        ]
+    }
+]

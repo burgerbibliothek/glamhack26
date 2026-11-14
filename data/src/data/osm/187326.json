@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92496898,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685038,
+        "lat": "46.5028627",
+        "lon": "6.4508849",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44527380008827316,
+        "addresstype": "village",
+        "name": "Lussy-sur-Morges",
+        "display_name": "Lussy-sur-Morges, District de Morges, Waadt, 1167, Schweiz",
+        "address": {
+            "village": "Lussy-sur-Morges",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1167",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4928760",
+            "46.5099531",
+            "6.4351998",
+            "6.4618513"
+        ]
+    }
+]

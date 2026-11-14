@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71873707,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 943422692,
+        "lat": "47.2570817",
+        "lon": "8.8008810",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.205345191009919,
+        "addresstype": "village",
+        "name": "Wolfhausen",
+        "display_name": "Wolfhausen, Bubikon, Bezirk Hinwil, Zürich, 8633, Schweiz",
+        "address": {
+            "village": "Wolfhausen",
+            "county": "Bezirk Hinwil",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8633",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2370817",
+            "47.2770817",
+            "8.7808810",
+            "8.8208810"
+        ]
+    }
+]

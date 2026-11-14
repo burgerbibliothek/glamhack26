@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 71853176,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1275999702,
+        "lat": "47.6557958",
+        "lon": "8.9599950",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333816365300984,
+        "addresstype": "hamlet",
+        "name": "Glarisegg",
+        "display_name": "Glarisegg, Steckborn, Neunforn, Bezirk Frauenfeld, Thurgau, 8266, Schweiz",
+        "address": {
+            "hamlet": "Glarisegg",
+            "village": "Steckborn",
+            "municipality": "Neunforn",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8266",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.6357958",
+            "47.6757958",
+            "8.9399950",
+            "8.9799950"
+        ]
+    }
+]

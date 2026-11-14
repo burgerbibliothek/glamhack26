@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 70678591,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1475008513,
+        "lat": "47.5366814",
+        "lon": "11.8228549",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16004867399099718,
+        "addresstype": "peak",
+        "name": "Sandegg",
+        "display_name": "Sandegg, Steinberg am Rofan, Bezirk Schwaz, Tirol, 6215, Österreich",
+        "address": {
+            "peak": "Sandegg",
+            "village": "Steinberg am Rofan",
+            "county": "Bezirk Schwaz",
+            "state": "Tirol",
+            "ISO3166-2-lvl4": "AT-7",
+            "postcode": "6215",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.5366314",
+            "47.5367314",
+            "11.8228049",
+            "11.8229049"
+        ]
+    }
+]

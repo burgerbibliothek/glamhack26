@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72263614,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1465192664,
+        "lat": "47.4676527",
+        "lon": "8.5269567",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.32592895108882386,
+        "addresstype": "valley",
+        "name": "Glatttal",
+        "display_name": "Glatttal, Bezirk Dielsdorf, Zürich, Schweiz",
+        "address": {
+            "valley": "Glatttal",
+            "county": "Bezirk Dielsdorf",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3727885",
+            "47.5734811",
+            "8.4760420",
+            "8.6550939"
+        ]
+    }
+]

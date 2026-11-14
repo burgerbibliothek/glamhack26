@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92096528,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8931044654,
+        "lat": "46.9817084",
+        "lon": "6.8682080",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 6.530174715796167e-05,
+        "addresstype": "information",
+        "name": "Cormondrèche",
+        "display_name": "Cormondrèche, Route des Nods, Corcelles-Cormondrèche, Neuenburg, Région Littoral, Neuenburg, 2035, Schweiz",
+        "address": {
+            "information": "Cormondrèche",
+            "road": "Route des Nods",
+            "village": "Corcelles-Cormondrèche",
+            "town": "Neuenburg",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2035",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9816584",
+            "46.9817584",
+            "6.8681580",
+            "6.8682580"
+        ]
+    }
+]

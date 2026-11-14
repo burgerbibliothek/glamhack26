@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 144574719,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 327481156,
+        "lat": "52.5249315",
+        "lon": "13.3787628",
+        "category": "building",
+        "type": "hospital",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "Christoph-Wilhelm-Hufeland-Haus 2",
+        "display_name": "Christoph-Wilhelm-Hufeland-Haus 2, 13, Luisenstraße, Friedrich-Wilhelm-Stadt, Mitte, Berlin, 10117, Deutschland",
+        "address": {
+            "building": "Christoph-Wilhelm-Hufeland-Haus 2",
+            "house_number": "13",
+            "road": "Luisenstraße",
+            "quarter": "Friedrich-Wilhelm-Stadt",
+            "suburb": "Mitte",
+            "borough": "Mitte",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10117",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5246987",
+            "52.5251472",
+            "13.3785237",
+            "13.3790247"
+        ]
+    }
+]

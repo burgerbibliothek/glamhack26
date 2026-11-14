@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91888982,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 983973684,
+        "lat": "46.5711843",
+        "lon": "7.7342856",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 3.76646066986651e-05,
+        "addresstype": "highway",
+        "name": "Abzweigung Spiggengrund",
+        "display_name": "Abzweigung Spiggengrund, Talweg, Kiental, Reichenbach im Kandertal, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3723, Schweiz",
+        "address": {
+            "highway": "Abzweigung Spiggengrund",
+            "road": "Talweg",
+            "village": "Kiental",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3723",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5711343",
+            "46.5712343",
+            "7.7342356",
+            "7.7343356"
+        ]
+    }
+]

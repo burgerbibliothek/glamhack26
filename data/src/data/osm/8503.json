@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 71907413,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2202571,
+        "lat": "47.4547376",
+        "lon": "8.7746640",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.4473576023046472,
+        "addresstype": "river",
+        "name": "Töss",
+        "display_name": "Töss, Bezirk Winterthur, Zürich, Schweiz",
+        "address": {
+            "river": "Töss",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3122860",
+            "47.5532812",
+            "8.5539914",
+            "8.9603873"
+        ]
+    }
+]

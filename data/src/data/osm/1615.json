@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91820735,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 419287414,
+        "lat": "46.7117062",
+        "lon": "7.7770938",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.24782860043147328,
+        "addresstype": "peak",
+        "name": "Niederhorn",
+        "display_name": "Niederhorn, Sigriswil, Horrenbach-Buchen, Verwaltungskreis Thun, Oberland administrative region, Bern, 3803, Schweiz",
+        "address": {
+            "peak": "Niederhorn",
+            "village": "Sigriswil",
+            "municipality": "Horrenbach-Buchen",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3803",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7116562",
+            "46.7117562",
+            "7.7770438",
+            "7.7771438"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91633027,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 187228398,
+        "lat": "46.5043881",
+        "lon": "7.2908891",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.2432038182346074,
+        "addresstype": "railway",
+        "name": "Schönried",
+        "display_name": "Schönried, 4, Bahnhofstrasse, Schönried, Saanen, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3778, Schweiz",
+        "address": {
+            "railway": "Schönried",
+            "house_number": "4",
+            "road": "Bahnhofstrasse",
+            "village": "Schönried",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3778",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4993881",
+            "46.5093881",
+            "7.2858891",
+            "7.2958891"
+        ]
+    }
+]

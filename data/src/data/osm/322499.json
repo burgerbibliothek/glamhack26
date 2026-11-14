@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 143361142,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 155067143,
+        "lat": "53.5734141",
+        "lon": "10.0257178",
+        "category": "building",
+        "type": "industrial",
+        "place_rank": 30,
+        "importance": 8.255359731436664e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "41, Humboldtstraße, Barmbek-Süd, Hamburg-Nord, Hamburg, 22083, Deutschland",
+        "address": {
+            "house_number": "41",
+            "road": "Humboldtstraße",
+            "suburb": "Barmbek-Süd",
+            "city_district": "Hamburg-Nord",
+            "city": "Hamburg",
+            "ISO3166-2-lvl4": "DE-HH",
+            "postcode": "22083",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "53.5733345",
+            "53.5735011",
+            "10.0255875",
+            "10.0258393"
+        ]
+    }
+]

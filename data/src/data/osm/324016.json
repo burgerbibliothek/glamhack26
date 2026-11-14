@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 187514364,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 58548,
+        "lat": "48.2185839",
+        "lon": "16.3531529",
+        "category": "building",
+        "type": "hospital",
+        "place_rank": 30,
+        "importance": 0.2909516038077344,
+        "addresstype": "building",
+        "name": "Narrenturm",
+        "display_name": "Narrenturm, 2-4, Hof 6, Spitalgasse, Michelbeuern, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich",
+        "address": {
+            "building": "Narrenturm",
+            "house_number": "2-4, Hof 6",
+            "road": "Spitalgasse",
+            "quarter": "Michelbeuern",
+            "neighbourhood": "Katastralgemeinde Alsergrund",
+            "suburb": "Alsergrund",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1090",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2183990",
+            "48.2187665",
+            "16.3529055",
+            "16.3534575"
+        ]
+    }
+]

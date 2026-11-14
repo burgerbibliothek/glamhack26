@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92219542,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 983850825,
+        "lat": "46.7191229",
+        "lon": "7.1582655",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 4.789578088040005e-05,
+        "addresstype": "highway",
+        "name": "Treyvaux, Le Pratzey",
+        "display_name": "Treyvaux, Le Pratzey, Route de la Gruyère, Essert FR, Montévraz, Treyvaux, Saanebezirk, Freiburg, 1724, Schweiz",
+        "address": {
+            "highway": "Treyvaux, Le Pratzey",
+            "road": "Route de la Gruyère",
+            "hamlet": "Essert FR",
+            "village": "Montévraz",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1724",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7190729",
+            "46.7191729",
+            "7.1582155",
+            "7.1583155"
+        ]
+    }
+]

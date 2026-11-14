@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72512456,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682182,
+        "lat": "47.2703459",
+        "lon": "8.7216570",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3925477355191416,
+        "addresstype": "village",
+        "name": "Oetwil am See",
+        "display_name": "Oetwil am See, Bezirk Meilen, Zürich, 8618, Schweiz",
+        "address": {
+            "village": "Oetwil am See",
+            "county": "Bezirk Meilen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8618",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2611000",
+            "47.2879147",
+            "8.6948170",
+            "8.7466493"
+        ]
+    }
+]

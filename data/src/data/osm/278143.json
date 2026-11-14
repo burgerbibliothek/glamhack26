@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 188062921,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 166996372,
+        "lat": "48.2273920",
+        "lon": "16.3580032",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.2647815871063118,
+        "addresstype": "amenity",
+        "name": "Lichtentaler Pfarrkirche",
+        "display_name": "Lichtentaler Pfarrkirche, 40, Marktgasse, Lichtental, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich",
+        "address": {
+            "amenity": "Lichtentaler Pfarrkirche",
+            "house_number": "40",
+            "road": "Marktgasse",
+            "neighbourhood": "Lichtental",
+            "suburb": "Alsergrund",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1090",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2272374",
+            "48.2275247",
+            "16.3576750",
+            "16.3583362"
+        ]
+    }
+]

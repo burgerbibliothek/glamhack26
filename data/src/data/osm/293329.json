@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 71834007,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3156438870,
+        "lat": "47.7107301",
+        "lon": "8.6308429",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 6.351796749823785e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "51, Felsenaustrasse, Mühlental, Breite, Schaffhausen, Bezirk Schaffhausen, Schaffhausen, 8204, Schweiz",
+        "address": {
+            "house_number": "51",
+            "road": "Felsenaustrasse",
+            "neighbourhood": "Mühlental",
+            "suburb": "Breite",
+            "town": "Schaffhausen",
+            "county": "Bezirk Schaffhausen",
+            "state": "Schaffhausen",
+            "ISO3166-2-lvl4": "CH-SH",
+            "postcode": "8204",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.7106801",
+            "47.7107801",
+            "8.6307929",
+            "8.6308929"
+        ]
+    }
+]

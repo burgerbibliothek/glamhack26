@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 117435174,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1108047,
+        "lat": "50.2830750",
+        "lon": "6.4598166",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5244285511171094,
+        "addresstype": "village",
+        "name": "Neuendorf",
+        "display_name": "Neuendorf, Prüm, Eifelkreis Bitburg-Prüm, Rheinland-Pfalz, Deutschland",
+        "address": {
+            "village": "Neuendorf",
+            "municipality": "Prüm",
+            "county": "Eifelkreis Bitburg-Prüm",
+            "state": "Rheinland-Pfalz",
+            "ISO3166-2-lvl4": "DE-RP",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.2777925",
+            "50.3135869",
+            "6.4454574",
+            "6.4811253"
+        ]
+    }
+]

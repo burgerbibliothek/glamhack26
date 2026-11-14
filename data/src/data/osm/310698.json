@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 73301174,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3074774937,
+        "lat": "46.3804549",
+        "lon": "8.9063454",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.2548773901198179,
+        "addresstype": "railway",
+        "name": "Bodio",
+        "display_name": "Bodio, Via Stazione, Bidrè, Bodio TI, Giornico, Kreis Giornico, Bezirk Leventina, Tessin, 6743, Schweiz",
+        "address": {
+            "railway": "Bodio",
+            "road": "Via Stazione",
+            "hamlet": "Bidrè",
+            "village": "Bodio TI",
+            "municipality": "Kreis Giornico",
+            "county": "Bezirk Leventina",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6743",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3754549",
+            "46.3854549",
+            "8.9013454",
+            "8.9113454"
+        ]
+    }
+]

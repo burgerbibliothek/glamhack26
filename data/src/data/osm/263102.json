@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 116983435,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 246603948,
+        "lat": "50.8552032",
+        "lon": "6.9262887",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.006485084301545e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "16, Weststraße, Meschenich, Rodenkirchen, Köln, Nordrhein-Westfalen, 50997, Deutschland",
+        "address": {
+            "house_number": "16",
+            "road": "Weststraße",
+            "suburb": "Meschenich",
+            "city_district": "Rodenkirchen",
+            "city": "Köln",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "50997",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.8551577",
+            "50.8552910",
+            "6.9262046",
+            "6.9263609"
+        ]
+    }
+]

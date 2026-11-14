@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72860182,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682457,
+        "lat": "46.6242733",
+        "lon": "8.0367462",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5217132980944341,
+        "addresstype": "village",
+        "name": "Grindelwald",
+        "display_name": "Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3818, Schweiz",
+        "address": {
+            "village": "Grindelwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3818",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5465644",
+            "46.6928770",
+            "7.9366200",
+            "8.1433720"
+        ]
+    }
+]

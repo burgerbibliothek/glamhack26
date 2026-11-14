@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91845984,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11018516865,
+        "lat": "46.8464332",
+        "lon": "7.6571382",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333833348592355,
+        "addresstype": "hamlet",
+        "name": "Aulennest",
+        "display_name": "Aulennest, Linden, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3673, Schweiz",
+        "address": {
+            "hamlet": "Aulennest",
+            "village": "Linden",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3673",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8264332",
+            "46.8664332",
+            "7.6371382",
+            "7.6771382"
+        ]
+    }
+]

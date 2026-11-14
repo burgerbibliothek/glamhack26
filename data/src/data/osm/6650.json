@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72468100,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684255,
+        "lat": "47.2869060",
+        "lon": "8.3648630",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3860275900821097,
+        "addresstype": "village",
+        "name": "Aristau",
+        "display_name": "Aristau, Bezirk Muri, Aargau, 5628, Schweiz",
+        "address": {
+            "village": "Aristau",
+            "county": "Bezirk Muri",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5628",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2736757",
+            "47.3077805",
+            "8.3348856",
+            "8.3916132"
+        ]
+    }
+]

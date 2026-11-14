@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92770539,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684905,
+        "lat": "46.4738413",
+        "lon": "7.1303012",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.444243590667141,
+        "addresstype": "village",
+        "name": "Château-d'Oex",
+        "display_name": "Château-d'Oex, Bezirk Riviera-Pays-d'Enhaut, Waadt, 1660, Schweiz",
+        "address": {
+            "village": "Château-d'Oex",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1660",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3753764",
+            "46.5322440",
+            "7.0150268",
+            "7.2098667"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91092524,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684986,
+        "lat": "46.4094508",
+        "lon": "6.1779167",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4404260453689467,
+        "addresstype": "village",
+        "name": "Gingins",
+        "display_name": "Gingins, District de Nyon, Waadt, 1276, Schweiz",
+        "address": {
+            "village": "Gingins",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1276",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4024894",
+            "46.4474571",
+            "6.0745694",
+            "6.1968077"
+        ]
+    }
+]

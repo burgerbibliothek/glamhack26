@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 143868745,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 27779125,
+        "lat": "52.5264614",
+        "lon": "13.3784345",
+        "category": "building",
+        "type": "hospital",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "7, Luisenstraße, Charitéviertel, Mitte, Berlin, 10117, Deutschland",
+        "address": {
+            "house_number": "7",
+            "road": "Luisenstraße",
+            "quarter": "Charitéviertel",
+            "suburb": "Mitte",
+            "borough": "Mitte",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10117",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5262517",
+            "52.5266722",
+            "13.3780731",
+            "13.3787900"
+        ]
+    }
+]

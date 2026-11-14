@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92883475,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683267,
+        "lat": "46.5834600",
+        "lon": "6.8062070",
+        "category": "boundary",
+        "type": "historic",
+        "place_rank": 25,
+        "importance": 0.35323154899007886,
+        "addresstype": "historic",
+        "name": "Auboranges",
+        "display_name": "Auboranges, Rue, Glanebezirk, Freiburg, 1673, Schweiz",
+        "address": {
+            "historic": "Auboranges",
+            "village": "Auboranges",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1673",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5740707",
+            "46.5928686",
+            "6.7947744",
+            "6.8142169"
+        ]
+    }
+]

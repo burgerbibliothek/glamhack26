@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91583966,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682467,
+        "lat": "46.7276046",
+        "lon": "7.8646663",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4148860867684864,
+        "addresstype": "village",
+        "name": "Habkern",
+        "display_name": "Habkern, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3804, Schweiz",
+        "address": {
+            "village": "Habkern",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3804",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7107267",
+            "46.7956683",
+            "7.8280138",
+            "7.9540348"
+        ]
+    }
+]

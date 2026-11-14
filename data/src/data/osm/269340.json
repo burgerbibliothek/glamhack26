@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93238566,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685578,
+        "lat": "47.3849074",
+        "lon": "7.0382889",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.32592895108882386,
+        "addresstype": "city_district",
+        "name": "Bressaucourt",
+        "display_name": "Bressaucourt, Fontenais, Bezirk Porrentruy, Jura, 2904, Schweiz",
+        "address": {
+            "city_district": "Bressaucourt",
+            "village": "Fontenais",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2904",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3679951",
+            "47.4009781",
+            "7.0121695",
+            "7.0634991"
+        ]
+    }
+]

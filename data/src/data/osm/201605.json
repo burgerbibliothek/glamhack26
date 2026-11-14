@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92720978,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6164273315,
+        "lat": "47.2790998",
+        "lon": "7.1588132",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.133376259250782,
+        "addresstype": "hamlet",
+        "name": "Fornet-Dessus",
+        "display_name": "Fornet-Dessus, Lajoux (JU), Freiberge, Jura, 2718, Schweiz",
+        "address": {
+            "hamlet": "Fornet-Dessus",
+            "village": "Lajoux (JU)",
+            "county": "Freiberge",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2718",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2590998",
+            "47.2990998",
+            "7.1388132",
+            "7.1788132"
+        ]
+    }
+]

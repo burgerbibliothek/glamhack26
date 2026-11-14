@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 142758025,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 187965389,
+        "lat": "53.0749781",
+        "lon": "8.8241967",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.550545510028256e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "19, Humboldtstraße, Fesenfeld, Östliche Vorstadt, Bremen-Ost, Bremen, 28203, Deutschland",
+        "address": {
+            "house_number": "19",
+            "road": "Humboldtstraße",
+            "quarter": "Fesenfeld",
+            "suburb": "Östliche Vorstadt",
+            "city_district": "Bremen-Ost",
+            "city": "Bremen",
+            "state": "Bremen",
+            "ISO3166-2-lvl4": "DE-HB",
+            "postcode": "28203",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "53.0749207",
+            "53.0750331",
+            "8.8241222",
+            "8.8242721"
+        ]
+    }
+]

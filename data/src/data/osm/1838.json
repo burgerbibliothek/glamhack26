@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73747907,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 4587937,
+        "lat": "46.6963681",
+        "lon": "8.4210043",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.31461790426364866,
+        "addresstype": "glacier",
+        "name": "Steingletscher",
+        "display_name": "Steingletscher, Gadmen, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3863, Schweiz",
+        "address": {
+            "glacier": "Steingletscher",
+            "city_district": "Gadmen",
+            "village": "Innertkirchen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3863",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6856423",
+            "46.7071125",
+            "8.3981728",
+            "8.4552250"
+        ]
+    }
+]

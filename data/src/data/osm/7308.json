@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91729978,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685000,
+        "lat": "46.2746628",
+        "lon": "7.0636710",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40712885412943295,
+        "addresstype": "village",
+        "name": "Gryon",
+        "display_name": "Gryon, Aigle District, Waadt, 1882, Schweiz",
+        "address": {
+            "village": "Gryon",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1882",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2660612",
+            "46.3103525",
+            "7.0524049",
+            "7.1513895"
+        ]
+    }
+]

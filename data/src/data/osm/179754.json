@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73043434,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11896915923,
+        "lat": "47.0031259",
+        "lon": "8.6044685",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 4.587090867470844e-05,
+        "addresstype": "information",
+        "name": "Wilerbrugg",
+        "display_name": "Wilerbrugg, Wylerbrücke, Schwärteren, Brunnen, Ingenbohl, Schwyz, 6440, Schweiz",
+        "address": {
+            "information": "Wilerbrugg",
+            "road": "Wylerbrücke",
+            "neighbourhood": "Schwärteren",
+            "village": "Brunnen",
+            "county": "Schwyz",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "6440",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0030759",
+            "47.0031759",
+            "8.6044185",
+            "8.6045185"
+        ]
+    }
+]

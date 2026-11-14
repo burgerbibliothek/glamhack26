@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72921419,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8176951739,
+        "lat": "47.1830203",
+        "lon": "8.9443897",
+        "category": "historic",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.13618373728802152,
+        "addresstype": "historic",
+        "name": "Burgstelle Mülenen",
+        "display_name": "Burgstelle Mülenen, A3, Holeneich, Tuggen, March, Schwyz, 8862, Schweiz",
+        "address": {
+            "historic": "Burgstelle Mülenen",
+            "road": "A3",
+            "hamlet": "Holeneich",
+            "village": "Tuggen",
+            "county": "March",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "8862",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1829703",
+            "47.1830703",
+            "8.9443397",
+            "8.9444397"
+        ]
+    }
+]

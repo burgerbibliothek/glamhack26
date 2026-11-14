@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 72673665,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682898,
+        "lat": "47.0838106",
+        "lon": "8.0401310",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40238599906523964,
+        "addresstype": "village",
+        "name": "Menznau",
+        "display_name": "Menznau, Luzern, Schweiz",
+        "address": {
+            "village": "Menznau",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0254557",
+            "47.1075137",
+            "7.9660627",
+            "8.0838742"
+        ]
+    }
+]

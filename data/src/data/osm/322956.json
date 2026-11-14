@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 416727726,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13780017995,
+        "lat": "47.0281085",
+        "lon": "7.7477898",
+        "category": "amenity",
+        "type": "bar",
+        "place_rank": 30,
+        "importance": 5.025177386124998e-05,
+        "addresstype": "amenity",
+        "name": "Marktgasse 18",
+        "display_name": "Marktgasse 18, 18c, Marktgasse, Feld, Gammenthal, Grünen, Sumiswald, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3454, Schweiz",
+        "address": {
+            "amenity": "Marktgasse 18",
+            "house_number": "18c",
+            "road": "Marktgasse",
+            "neighbourhood": "Feld",
+            "hamlet": "Gammenthal",
+            "village": "Grünen",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3454",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0280585",
+            "47.0281585",
+            "7.7477398",
+            "7.7478398"
+        ]
+    }
+]

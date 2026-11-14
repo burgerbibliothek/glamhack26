@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92777510,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1600778102,
+        "lat": "47.0109146",
+        "lon": "7.8493323",
+        "category": "place",
+        "type": "farm",
+        "place_rank": 22,
+        "importance": 0.10671691844052794,
+        "addresstype": "farm",
+        "name": "Chalchofe",
+        "display_name": "Chalchofe, Churzeneialp, Sumiswald, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "farm": "Chalchofe",
+            "hamlet": "Churzeneialp",
+            "village": "Sumiswald",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0009146",
+            "47.0209146",
+            "7.8393323",
+            "7.8593323"
+        ]
+    }
+]

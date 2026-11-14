@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91516479,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 184450308,
+        "lat": "46.7473358",
+        "lon": "7.6362681",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.2753675655596695,
+        "addresstype": "amenity",
+        "name": "Kirche Scherzligen",
+        "display_name": "Kirche Scherzligen, 41, Seestrasse, Rufeli, Thun, Verwaltungskreis Thun, Oberland administrative region, Bern, 3600, Schweiz",
+        "address": {
+            "amenity": "Kirche Scherzligen",
+            "house_number": "41",
+            "road": "Seestrasse",
+            "neighbourhood": "Rufeli",
+            "town": "Thun",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3600",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7472541",
+            "46.7474204",
+            "7.6361201",
+            "7.6364439"
+        ]
+    }
+]

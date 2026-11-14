@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 426192336,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1454744564,
+        "lat": "46.2218261",
+        "lon": "7.7066118",
+        "category": "highway",
+        "type": "track",
+        "place_rank": 26,
+        "importance": 0.053370834668497714,
+        "addresstype": "track",
+        "name": "Meidhornstrasse",
+        "display_name": "Meidhornstrasse, Oberems, Leuk, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "road": "Meidhornstrasse",
+            "village": "Oberems",
+            "county": "Leuk",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2189921",
+            "46.2245065",
+            "7.7049506",
+            "7.7072399"
+        ]
+    }
+]

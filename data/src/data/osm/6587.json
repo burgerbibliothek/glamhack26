@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91540160,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682360,
+        "lat": "46.6583588",
+        "lon": "7.6965086",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3915604223356184,
+        "addresstype": "village",
+        "name": "Aeschi bei Spiez",
+        "display_name": "Aeschi bei Spiez, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3703, Schweiz",
+        "address": {
+            "village": "Aeschi bei Spiez",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3703",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5842936",
+            "46.6679502",
+            "7.6693619",
+            "7.8178019"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 93165135,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240050406,
+        "lat": "47.2806485",
+        "lon": "7.5252234",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3425880974885877,
+        "addresstype": "village",
+        "name": "Welschenrohr",
+        "display_name": "Welschenrohr, Welschenrohr-Gänsbrunnen, Bezirk Thal, Amtei Thal-Gäu, Solothurn, 4716, Schweiz",
+        "address": {
+            "village": "Welschenrohr",
+            "city": "Welschenrohr-Gänsbrunnen",
+            "municipality": "Bezirk Thal",
+            "county": "Amtei Thal-Gäu",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4716",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2606485",
+            "47.3006485",
+            "7.5052234",
+            "7.5452234"
+        ]
+    }
+]

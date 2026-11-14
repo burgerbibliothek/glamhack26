@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93471825,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 29757738,
+        "lat": "47.3940088",
+        "lon": "7.1391362",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671351720454714,
+        "addresstype": "village",
+        "name": "Courtemautruy",
+        "display_name": "Courtemautruy, Courgenay, Bezirk Porrentruy, Jura, 2950, Schweiz",
+        "address": {
+            "village": "Courtemautruy",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2950",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3740088",
+            "47.4140088",
+            "7.1191362",
+            "7.1591362"
+        ]
+    }
+]

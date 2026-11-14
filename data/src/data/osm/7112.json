@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73176506,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1420818430,
+        "lat": "46.9827634",
+        "lon": "9.1523442",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.37484064555151964,
+        "addresstype": "village",
+        "name": "Engi",
+        "display_name": "Engi, Glarus Süd, Glarus, 8765, Schweiz",
+        "address": {
+            "village": "Engi",
+            "city": "Glarus Süd",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "postcode": "8765",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9627634",
+            "47.0027634",
+            "9.1323442",
+            "9.1723442"
+        ]
+    }
+]

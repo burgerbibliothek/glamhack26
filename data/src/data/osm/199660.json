@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 431673063,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 196006369,
+        "lat": "46.8135259",
+        "lon": "7.1798161",
+        "category": "building",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.23648094285300414,
+        "addresstype": "building",
+        "name": "Schloss Übewil",
+        "display_name": "Schloss Übewil, 111, Uebewil, Freiburg, Sensebezirk, Freiburg, 1700, Schweiz",
+        "address": {
+            "building": "Schloss Übewil",
+            "house_number": "111",
+            "road": "Uebewil",
+            "hamlet": "Uebewil",
+            "town": "Freiburg",
+            "county": "Sensebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1700",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8134160",
+            "46.8136359",
+            "7.1796510",
+            "7.1799812"
+        ]
+    }
+]

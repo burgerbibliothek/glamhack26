@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 71948432,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 301197654,
+        "lat": "47.3739598",
+        "lon": "8.5209969",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "43, Elisabethenstrasse, Werd, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz",
+        "address": {
+            "house_number": "43",
+            "road": "Elisabethenstrasse",
+            "quarter": "Werd",
+            "suburb": "Kreis 4",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8004",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3739098",
+            "47.3740098",
+            "8.5209469",
+            "8.5210469"
+        ]
+    }
+]

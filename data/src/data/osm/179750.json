@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92853007,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683477,
+        "lat": "47.2526060",
+        "lon": "7.5579507",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3699543402288119,
+        "addresstype": "village",
+        "name": "Balm bei Günsberg",
+        "display_name": "Balm bei Günsberg, Bezirk Lebern, Amtei Solothurn-Lebern, Solothurn, 4525, Schweiz",
+        "address": {
+            "village": "Balm bei Günsberg",
+            "municipality": "Bezirk Lebern",
+            "county": "Amtei Solothurn-Lebern",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4525",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2460848",
+            "47.2735519",
+            "7.5187010",
+            "7.5686219"
+        ]
+    }
+]

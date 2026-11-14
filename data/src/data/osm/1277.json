@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 73833399,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 401122207,
+        "lat": "46.9469603",
+        "lon": "9.0318506",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 4.7814908064347565e-05,
+        "addresstype": "building",
+        "name": "Mühle am Diesbachfall",
+        "display_name": "Mühle am Diesbachfall, 10, Steinigen, Dornhaus, Marglen, Betschwanden, Glarus Süd, Glarus, 8777, Schweiz",
+        "address": {
+            "building": "Mühle am Diesbachfall",
+            "house_number": "10",
+            "road": "Steinigen",
+            "neighbourhood": "Dornhaus",
+            "hamlet": "Marglen",
+            "village": "Betschwanden",
+            "city": "Glarus Süd",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "postcode": "8777",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9469036",
+            "46.9469981",
+            "9.0317602",
+            "9.0319409"
+        ]
+    }
+]

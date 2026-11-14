@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 144298912,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5047369166,
+        "lat": "52.5849388",
+        "lon": "13.2268186",
+        "category": "shop",
+        "type": "hairdresser",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "shop",
+        "name": "Max & Pippilotta",
+        "display_name": "Max & Pippilotta, 5, Falkenplatz, Konradshöhe, Reinickendorf, Berlin, 13505, Deutschland",
+        "address": {
+            "shop": "Max & Pippilotta",
+            "house_number": "5",
+            "road": "Falkenplatz",
+            "suburb": "Konradshöhe",
+            "borough": "Reinickendorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13505",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5848888",
+            "52.5849888",
+            "13.2267686",
+            "13.2268686"
+        ]
+    }
+]

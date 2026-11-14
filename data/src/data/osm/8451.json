@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92724185,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682696,
+        "lat": "47.0683128",
+        "lon": "7.1993363",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4242810569321047,
+        "addresstype": "village",
+        "name": "Täuffelen",
+        "display_name": "Täuffelen, Seeland administrative district, Seeland administrative region, Bern, 2575, Schweiz",
+        "address": {
+            "village": "Täuffelen",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2575",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0486698",
+            "47.0827140",
+            "7.1767092",
+            "7.2145201"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 97087723,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682373,
+        "lat": "47.1071376",
+        "lon": "7.2467743",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38815755127900875,
+        "addresstype": "village",
+        "name": "Bellmund",
+        "display_name": "Bellmund, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2564, Schweiz",
+        "address": {
+            "village": "Bellmund",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2564",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0898893",
+            "47.1136727",
+            "7.2226723",
+            "7.2680155"
+        ]
+    }
+]

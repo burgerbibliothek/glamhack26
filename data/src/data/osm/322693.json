@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92164089,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4471453623,
+        "lat": "46.9482082",
+        "lon": "7.4470972",
+        "category": "amenity",
+        "type": "theatre",
+        "place_rank": 30,
+        "importance": 0.12743869505990896,
+        "addresstype": "amenity",
+        "name": "Zytglogge-Theater",
+        "display_name": "Zytglogge-Theater, 10, Kornhausplatz, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "amenity": "Zytglogge-Theater",
+            "house_number": "10",
+            "road": "Kornhausplatz",
+            "quarter": "Altstadt",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9481582",
+            "46.9482582",
+            "7.4470472",
+            "7.4471472"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73537828,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684677,
+        "lat": "46.1339979",
+        "lon": "8.8344739",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.43033063500823676,
+        "addresstype": "village",
+        "name": "Gambarogno",
+        "display_name": "Gambarogno, Kreis Gambarogno, Bezirk Locarno, Tessin, Schweiz",
+        "address": {
+            "village": "Gambarogno",
+            "municipality": "Kreis Gambarogno",
+            "county": "Bezirk Locarno",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0753115",
+            "46.1599972",
+            "8.7423432",
+            "8.9403414"
+        ]
+    }
+]

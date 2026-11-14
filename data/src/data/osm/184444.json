@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73044395,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 312774509,
+        "lat": "46.9950294",
+        "lon": "9.8580208",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337888532845044,
+        "addresstype": "hamlet",
+        "name": "Partnun",
+        "display_name": "Partnun, Luzein, Prättigau/Davos, Graubünden, 7246, Schweiz",
+        "address": {
+            "hamlet": "Partnun",
+            "city": "Luzein",
+            "county": "Prättigau/Davos",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7246",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9750294",
+            "47.0150294",
+            "9.8380208",
+            "9.8780208"
+        ]
+    }
+]

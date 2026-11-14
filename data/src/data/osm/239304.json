@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93210608,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 199477601,
+        "lat": "47.2632335",
+        "lon": "7.1667632",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2647815871063118,
+        "addresstype": "village",
+        "name": "Bellelay",
+        "display_name": "Bellelay, Saicourt, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2713, Schweiz",
+        "address": {
+            "village": "Bellelay",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2713",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2604497",
+            "47.2658022",
+            "7.1589353",
+            "7.1727007"
+        ]
+    }
+]

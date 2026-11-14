@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 214383951,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 19107608,
+        "lat": "43.2207525",
+        "lon": "75.8405451",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.35049604782988514,
+        "addresstype": "hamlet",
+        "name": "Бұлақ",
+        "display_name": "Бұлақ, Дегерес ауылдық округі, Zhambyl District, Gebiet Almaty, Kasachstan",
+        "address": {
+            "hamlet": "Бұлақ",
+            "suburb": "Дегерес ауылдық округі",
+            "county": "Zhambyl District",
+            "state": "Gebiet Almaty",
+            "ISO3166-2-lvl4": "KZ-19",
+            "country": "Kasachstan",
+            "country_code": "kz"
+        },
+        "boundingbox": [
+            "43.2127938",
+            "43.2238172",
+            "75.8275215",
+            "75.8438061"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92602184,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3411472,
+        "lat": "47.0498143",
+        "lon": "7.5085719",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.46992665409757184,
+        "addresstype": "village",
+        "name": "Jegenstorf",
+        "display_name": "Jegenstorf, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3303, Schweiz",
+        "address": {
+            "village": "Jegenstorf",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3303",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0349197",
+            "47.0789519",
+            "7.4410826",
+            "7.5399482"
+        ]
+    }
+]

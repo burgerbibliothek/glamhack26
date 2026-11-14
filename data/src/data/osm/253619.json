@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72654544,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2030403312,
+        "lat": "47.0416493",
+        "lon": "9.0738243",
+        "category": "place",
+        "type": "neighbourhood",
+        "place_rank": 24,
+        "importance": 0.08005737773708703,
+        "addresstype": "neighbourhood",
+        "name": "Ennetbühls",
+        "display_name": "Ennetbühls, Ennenda, Glarus, 8755, Schweiz",
+        "address": {
+            "neighbourhood": "Ennetbühls",
+            "village": "Ennenda",
+            "town": "Glarus",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "postcode": "8755",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0316493",
+            "47.0516493",
+            "9.0638243",
+            "9.0838243"
+        ]
+    }
+]

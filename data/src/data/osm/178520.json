@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92847756,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1190339438,
+        "lat": "47.0587033",
+        "lon": "7.6306227",
+        "category": "building",
+        "type": "roof",
+        "place_rank": 30,
+        "importance": 5.681620508120878e-05,
+        "addresstype": "building",
+        "name": "innere Wynigenbrücke",
+        "display_name": "innere Wynigenbrücke, 11, Wynigenstrasse, Einungerquartier, Im Choser, Burgdorf, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3400, Schweiz",
+        "address": {
+            "building": "innere Wynigenbrücke",
+            "house_number": "11",
+            "road": "Wynigenstrasse",
+            "neighbourhood": "Einungerquartier",
+            "suburb": "Im Choser",
+            "town": "Burgdorf",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3400",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0585480",
+            "47.0588585",
+            "7.6303310",
+            "7.6309141"
+        ]
+    }
+]

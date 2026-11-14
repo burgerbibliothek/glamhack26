@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91204600,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1126287547,
+        "lat": "46.3643327",
+        "lon": "6.9543826",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.3508056963223209,
+        "addresstype": "mountain_pass",
+        "name": "Les Agites",
+        "display_name": "Les Agites, Corbeyrier, Aigle District, Waadt, 1856, Schweiz",
+        "address": {
+            "mountain_pass": "Les Agites",
+            "village": "Corbeyrier",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1856",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3642827",
+            "46.3643827",
+            "6.9543326",
+            "6.9544326"
+        ]
+    }
+]

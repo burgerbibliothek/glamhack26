@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92066518,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240107322,
+        "lat": "46.9538359",
+        "lon": "7.1972709",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.2763378134411431,
+        "addresstype": "hamlet",
+        "name": "Agriswil",
+        "display_name": "Agriswil, Ried bei Kerzers, Seebezirk, Freiburg, 3216, Schweiz",
+        "address": {
+            "hamlet": "Agriswil",
+            "village": "Ried bei Kerzers",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "3216",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9338359",
+            "46.9738359",
+            "7.1772709",
+            "7.2172709"
+        ]
+    }
+]

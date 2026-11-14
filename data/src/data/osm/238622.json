@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 71505060,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1282656080,
+        "lat": "47.8475216",
+        "lon": "8.9006631",
+        "category": "place",
+        "type": "farm",
+        "place_rank": 22,
+        "importance": 0.10671666819256884,
+        "addresstype": "farm",
+        "name": "Rebhaus",
+        "display_name": "Rebhaus, Langenstein, Orsingen, Orsingen-Nenzingen, VVG der Stadt Stockach, Landkreis Konstanz, Baden-Württemberg, 78359, Deutschland",
+        "address": {
+            "farm": "Rebhaus",
+            "hamlet": "Langenstein",
+            "village": "Orsingen",
+            "municipality": "Orsingen-Nenzingen",
+            "county": "Landkreis Konstanz",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "78359",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.8375216",
+            "47.8575216",
+            "8.8906631",
+            "8.9106631"
+        ]
+    }
+]

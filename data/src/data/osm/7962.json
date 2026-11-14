@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72810276,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684385,
+        "lat": "47.4378412",
+        "lon": "8.1263141",
+        "category": "boundary",
+        "type": "old_administrative",
+        "place_rank": 25,
+        "importance": 0.3466613603637845,
+        "addresstype": "old_administrative",
+        "name": "Oberflachs",
+        "display_name": "Oberflachs, Schinznach, Bezirk Brugg, Aargau, 5108, Schweiz",
+        "address": {
+            "old_administrative": "Oberflachs",
+            "village": "Oberflachs",
+            "county": "Bezirk Brugg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5108",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4259119",
+            "47.4497868",
+            "8.1103700",
+            "8.1365306"
+        ]
+    }
+]

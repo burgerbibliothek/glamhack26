@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 421503319,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683302,
+        "lat": "46.8905097",
+        "lon": "7.1106549",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3425880974885877,
+        "addresstype": "village",
+        "name": "Courlevon",
+        "display_name": "Courlevon, Murten, Seebezirk, Freiburg, 1795, Schweiz",
+        "address": {
+            "village": "Courlevon",
+            "town": "Murten",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1795",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8821761",
+            "46.9023945",
+            "7.0919512",
+            "7.1297950"
+        ]
+    }
+]

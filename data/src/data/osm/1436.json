@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 121010127,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 453016,
+        "lat": "48.2589583",
+        "lon": "8.0677539",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4345916844899323,
+        "addresstype": "village",
+        "name": "Hofstetten",
+        "display_name": "Hofstetten, VVG der Stadt Haslach im Kinzigtal, Ortenaukreis, Baden-Württemberg, Deutschland",
+        "address": {
+            "village": "Hofstetten",
+            "municipality": "VVG der Stadt Haslach im Kinzigtal",
+            "county": "Ortenaukreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.2215506",
+            "48.2697161",
+            "8.0177781",
+            "8.0858504"
+        ]
+    }
+]

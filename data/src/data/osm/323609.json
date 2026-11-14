@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92150480,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 292049311,
+        "lat": "46.9491052",
+        "lon": "7.4570333",
+        "category": "amenity",
+        "type": "social_facility",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Alterszentrum Domicil Nydegg",
+        "display_name": "Alterszentrum Domicil Nydegg, 9, Nydeggstalden, Matte, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "amenity": "Alterszentrum Domicil Nydegg",
+            "house_number": "9",
+            "road": "Nydeggstalden",
+            "quarter": "Matte",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9489444",
+            "46.9492381",
+            "7.4568650",
+            "7.4572011"
+        ]
+    }
+]

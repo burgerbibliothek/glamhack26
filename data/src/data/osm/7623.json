@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73367280,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4075615789,
+        "lat": "46.8885063",
+        "lon": "8.6785159",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671398260471503,
+        "addresstype": "locality",
+        "name": "Leimern",
+        "display_name": "Leimern, Bürglen (UR), Uri, 6463, Schweiz",
+        "address": {
+            "locality": "Leimern",
+            "village": "Bürglen (UR)",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6463",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8785063",
+            "46.8985063",
+            "8.6685159",
+            "8.6885159"
+        ]
+    }
+]

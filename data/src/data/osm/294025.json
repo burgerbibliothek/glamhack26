@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73821109,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1604293770,
+        "lat": "46.4722136",
+        "lon": "9.7281463",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.4222375047343451,
+        "addresstype": "mountain_pass",
+        "name": "Julierpass",
+        "display_name": "Julierpass, Surses, Albula, Graubünden, Schweiz",
+        "address": {
+            "mountain_pass": "Julierpass",
+            "city": "Surses",
+            "county": "Albula",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4721636",
+            "46.4722636",
+            "9.7280963",
+            "9.7281963"
+        ]
+    }
+]

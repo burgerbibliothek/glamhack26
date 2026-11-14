@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91635510,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 51970593,
+        "lat": "46.9359095",
+        "lon": "7.4394275",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "residential",
+        "name": "Wabernstrasse",
+        "display_name": "Wabernstrasse, Weissenbühl, Sandrain, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3007, Schweiz",
+        "address": {
+            "road": "Wabernstrasse",
+            "quarter": "Weissenbühl",
+            "suburb": "Sandrain",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3007",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9354705",
+            "46.9363638",
+            "7.4393104",
+            "7.4395947"
+        ]
+    }
+]

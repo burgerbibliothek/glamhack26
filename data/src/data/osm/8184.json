@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91828626,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682631,
+        "lat": "46.8536951",
+        "lon": "7.7435504",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4261650932142823,
+        "addresstype": "village",
+        "name": "Röthenbach im Emmental",
+        "display_name": "Röthenbach im Emmental, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3538, Schweiz",
+        "address": {
+            "village": "Röthenbach im Emmental",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3538",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8010253",
+            "46.8895895",
+            "7.7084700",
+            "7.8253972"
+        ]
+    }
+]

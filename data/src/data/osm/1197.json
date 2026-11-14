@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92104437,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3960404615,
+        "lat": "46.9017283",
+        "lon": "7.5048600",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 5.447394522006588e-05,
+        "addresstype": "amenity",
+        "name": "Belpmoos",
+        "display_name": "Belpmoos, 43, Aemmenmattstrasse, Belp, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3123, Schweiz",
+        "address": {
+            "amenity": "Belpmoos",
+            "house_number": "43",
+            "road": "Aemmenmattstrasse",
+            "city_district": "Belp",
+            "town": "Belp",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3123",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9016783",
+            "46.9017783",
+            "7.5048100",
+            "7.5049100"
+        ]
+    }
+]

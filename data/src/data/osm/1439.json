@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 125670702,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 295714333,
+        "lat": "48.7630772",
+        "lon": "10.3818816",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.18554865524912875,
+        "addresstype": "hamlet",
+        "name": "Hohlenstein",
+        "display_name": "Hohlenstein, Kösingen, Neresheim, Ostalbkreis, Baden-Württemberg, 73450, Deutschland",
+        "address": {
+            "hamlet": "Hohlenstein",
+            "village": "Kösingen",
+            "town": "Neresheim",
+            "county": "Ostalbkreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "73450",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.7430772",
+            "48.7830772",
+            "10.3618816",
+            "10.4018816"
+        ]
+    }
+]

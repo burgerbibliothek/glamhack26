@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 93453097,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12964459501,
+        "lat": "47.5574634",
+        "lon": "7.5885105",
+        "category": "office",
+        "type": "company",
+        "place_rank": 30,
+        "importance": 0.36664364446418835,
+        "addresstype": "office",
+        "name": "Leica",
+        "display_name": "Leica, 4, Freie Strasse, Altstadt Grossbasel, Grossbasel, Basel, Basel-Stadt, 4001, Schweiz",
+        "address": {
+            "office": "Leica",
+            "house_number": "4",
+            "road": "Freie Strasse",
+            "suburb": "Altstadt Grossbasel",
+            "borough": "Grossbasel",
+            "city": "Basel",
+            "state": "Basel-Stadt",
+            "ISO3166-2-lvl4": "CH-BS",
+            "postcode": "4001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5574134",
+            "47.5575134",
+            "7.5884605",
+            "7.5885605"
+        ]
+    }
+]

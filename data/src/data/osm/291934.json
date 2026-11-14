@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 145730669,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6540204551,
+        "lat": "52.4626779",
+        "lon": "13.3265960",
+        "category": "shop",
+        "type": "shoes",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "shop",
+        "name": "Toscanini",
+        "display_name": "Toscanini, 119, Schloßstraße, Bismarckviertel, Steglitz, Steglitz-Zehlendorf, Berlin, 12163, Deutschland",
+        "address": {
+            "shop": "Toscanini",
+            "house_number": "119",
+            "road": "Schloßstraße",
+            "quarter": "Bismarckviertel",
+            "suburb": "Steglitz",
+            "borough": "Steglitz-Zehlendorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12163",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4626279",
+            "52.4627279",
+            "13.3265460",
+            "13.3266460"
+        ]
+    }
+]

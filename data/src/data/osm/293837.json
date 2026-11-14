@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72914093,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683913,
+        "lat": "47.4748802",
+        "lon": "9.1856106",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.35499373245428756,
+        "addresstype": "village",
+        "name": "Niederhelfenschwil",
+        "display_name": "Niederhelfenschwil, Wahlkreis Wil, St. Gallen, Schweiz",
+        "address": {
+            "village": "Niederhelfenschwil",
+            "county": "Wahlkreis Wil",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4573324",
+            "47.5040787",
+            "9.1180638",
+            "9.2099146"
+        ]
+    }
+]

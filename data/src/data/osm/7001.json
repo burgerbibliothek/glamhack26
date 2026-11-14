@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93134856,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685591,
+        "lat": "47.3392989",
+        "lon": "7.3735698",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3977269304249201,
+        "addresstype": "village",
+        "name": "Courrendlin",
+        "display_name": "Courrendlin, Bezirk Delsberg, Jura, 2830, Schweiz",
+        "address": {
+            "village": "Courrendlin",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2830",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3058678",
+            "47.3558483",
+            "7.3483544",
+            "7.4423749"
+        ]
+    }
+]

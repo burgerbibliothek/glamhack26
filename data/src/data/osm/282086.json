@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 126311675,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1235107256,
+        "lat": "49.3385434",
+        "lon": "10.6051558",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.244781979759108,
+        "addresstype": "village",
+        "name": "Grüb",
+        "display_name": "Grüb, Weihenzell, Weihenzell (VGem), Landkreis Ansbach, Bayern, 91629, Deutschland",
+        "address": {
+            "village": "Grüb",
+            "city": "Weihenzell",
+            "municipality": "Weihenzell (VGem)",
+            "county": "Landkreis Ansbach",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "91629",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.3185434",
+            "49.3585434",
+            "10.5851558",
+            "10.6251558"
+        ]
+    }
+]

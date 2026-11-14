@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92450122,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682724,
+        "lat": "47.1512512",
+        "lon": "7.5583621",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4253784106722686,
+        "addresstype": "village",
+        "name": "Wiler bei Utzenstorf",
+        "display_name": "Wiler bei Utzenstorf, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3428, Schweiz",
+        "address": {
+            "village": "Wiler bei Utzenstorf",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3428",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1407084",
+            "47.1646078",
+            "7.5430090",
+            "7.5730205"
+        ]
+    }
+]

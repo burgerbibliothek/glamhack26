@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92897286,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683663,
+        "lat": "47.4267377",
+        "lon": "7.7596490",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.36081278497828223,
+        "addresstype": "village",
+        "name": "Lampenberg",
+        "display_name": "Lampenberg, Bezirk Waldenburg, Basel-Landschaft, 4432, Schweiz",
+        "address": {
+            "village": "Lampenberg",
+            "county": "Bezirk Waldenburg",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4432",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4153675",
+            "47.4413338",
+            "7.7375245",
+            "7.7686017"
+        ]
+    }
+]

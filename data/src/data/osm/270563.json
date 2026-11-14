@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92473410,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2431510989,
+        "lat": "46.6384199",
+        "lon": "6.9124151",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.28779482241276744,
+        "addresstype": "village",
+        "name": "Sommentier",
+        "display_name": "Sommentier, Vuisternens-devant-Romont, Glanebezirk, Freiburg, 1688, Schweiz",
+        "address": {
+            "village": "Sommentier",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1688",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6184199",
+            "46.6584199",
+            "6.8924151",
+            "6.9324151"
+        ]
+    }
+]

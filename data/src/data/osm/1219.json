@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91641505,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9443192324,
+        "lat": "46.7297420",
+        "lon": "7.7528042",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671666819256886,
+        "addresstype": "locality",
+        "name": "Bodmi",
+        "display_name": "Bodmi, Sigriswil, Verwaltungskreis Thun, Oberland administrative region, Bern, 3657, Schweiz",
+        "address": {
+            "locality": "Bodmi",
+            "village": "Sigriswil",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3657",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7197420",
+            "46.7397420",
+            "7.7428042",
+            "7.7628042"
+        ]
+    }
+]

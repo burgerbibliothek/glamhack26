@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 73647908,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2755692992,
+        "lat": "46.5441712",
+        "lon": "11.5674341",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 5.483863584339692e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "17, Hauensteinweg, St. Valentin, Seis am Schlern, Kastelruth, Salten-Schlern, Bozen, Trentino-Südtirol, 39040, Italien",
+        "address": {
+            "house_number": "17",
+            "road": "Hauensteinweg",
+            "hamlet": "St. Valentin",
+            "village": "Seis am Schlern",
+            "city": "Kastelruth",
+            "municipality": "Salten-Schlern",
+            "county": "Bozen",
+            "ISO3166-2-lvl6": "IT-BZ",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "postcode": "39040",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.5441212",
+            "46.5442212",
+            "11.5673841",
+            "11.5674841"
+        ]
+    }
+]

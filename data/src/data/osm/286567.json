@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92035121,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12441767711,
+        "lat": "46.8225653",
+        "lon": "7.6380730",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671934462500953,
+        "addresstype": "locality",
+        "name": "Falkenfluh",
+        "display_name": "Falkenfluh, Oberbleiken, Bleiken bei Oberdiessbach, Oberdiessbach, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3674, Schweiz",
+        "address": {
+            "locality": "Falkenfluh",
+            "hamlet": "Oberbleiken",
+            "village": "Bleiken bei Oberdiessbach",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3674",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8125653",
+            "46.8325653",
+            "7.6280730",
+            "7.6480730"
+        ]
+    }
+]

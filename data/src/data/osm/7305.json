@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92379959,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2268723251,
+        "lat": "47.0068905",
+        "lon": "7.7207215",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1467164225223163,
+        "addresstype": "village",
+        "name": "Grünenmatt",
+        "display_name": "Grünenmatt, Lützelflüh, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3452, Schweiz",
+        "address": {
+            "village": "Grünenmatt",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3452",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9868905",
+            "47.0268905",
+            "7.7007215",
+            "7.7407215"
+        ]
+    }
+]

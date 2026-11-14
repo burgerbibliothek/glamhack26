@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73590613,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 286930156,
+        "lat": "46.6989203",
+        "lon": "8.4551989",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4467179718188769,
+        "addresstype": "peak",
+        "name": "Sustenhorn",
+        "display_name": "Sustenhorn, Göschenen, Uri, 6487, Schweiz",
+        "address": {
+            "peak": "Sustenhorn",
+            "village": "Göschenen",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6487",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6988703",
+            "46.6989703",
+            "8.4551489",
+            "8.4552489"
+        ]
+    }
+]

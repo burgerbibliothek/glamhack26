@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 273265666,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 94843713,
+        "lat": "57.4328817",
+        "lon": "-4.4860444",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 5.246890974283997e-05,
+        "addresstype": "building",
+        "name": "Sounion",
+        "display_name": "Sounion, 28A, Post Office Brae, Camault Muir, Kiltarlity, Highland, Schottland, IV4 7JH, Vereinigtes Königreich",
+        "address": {
+            "building": "Sounion",
+            "house_number": "28A",
+            "road": "Post Office Brae",
+            "hamlet": "Camault Muir",
+            "village": "Kiltarlity",
+            "county": "Highland",
+            "ISO3166-2-lvl6": "GB-HLD",
+            "state": "Schottland",
+            "ISO3166-2-lvl4": "GB-SCT",
+            "postcode": "IV4 7JH",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "57.4327855",
+            "57.4329567",
+            "-4.4861787",
+            "-4.4859102"
+        ]
+    }
+]

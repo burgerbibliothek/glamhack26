@@ -1,0 +1,28 @@
+[
+    {
+        "place_id": 186527480,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1741294,
+        "lat": "49.3597062",
+        "lon": "17.3094202",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.5880667916285925,
+        "addresstype": "river",
+        "name": "March",
+        "display_name": "March, Tschechien",
+        "address": {
+            "river": "March",
+            "country": "Tschechien",
+            "country_code": "cz"
+        },
+        "boundingbox": [
+            "48.1718951",
+            "50.2051284",
+            "16.7992354",
+            "17.5172555"
+        ]
+    }
+]

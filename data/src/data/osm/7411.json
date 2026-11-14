@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72461115,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1701449,
+        "lat": "47.3696799",
+        "lon": "8.5550821",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.3694915076724792,
+        "addresstype": "suburb",
+        "name": "Hottingen",
+        "display_name": "Hottingen, Kreis 7, Zürich, Bezirk Zürich, Zürich, 8032, Schweiz",
+        "address": {
+            "suburb": "Hottingen",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8032",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3640545",
+            "47.3903948",
+            "8.5488315",
+            "8.6030739"
+        ]
+    }
+]

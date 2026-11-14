@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 126348926,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 27162702,
+        "lat": "49.6345852",
+        "lon": "10.8195827",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.205345191009919,
+        "addresstype": "village",
+        "name": "Oberlindach",
+        "display_name": "Oberlindach, Weisendorf, Landkreis Erlangen-Höchstadt, Bayern, 91085, Deutschland",
+        "address": {
+            "village": "Oberlindach",
+            "city": "Weisendorf",
+            "county": "Landkreis Erlangen-Höchstadt",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "91085",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.6145852",
+            "49.6545852",
+            "10.7995827",
+            "10.8395827"
+        ]
+    }
+]

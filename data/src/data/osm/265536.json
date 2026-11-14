@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92159802,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1372608134,
+        "lat": "47.0872696",
+        "lon": "7.3281974",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337888532845044,
+        "addresstype": "hamlet",
+        "name": "Hardern",
+        "display_name": "Hardern, Busswil BE, Lyss, Seeland administrative district, Seeland administrative region, Bern, 3292, Schweiz",
+        "address": {
+            "hamlet": "Hardern",
+            "village": "Busswil BE",
+            "town": "Lyss",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3292",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0672696",
+            "47.1072696",
+            "7.3081974",
+            "7.3481974"
+        ]
+    }
+]

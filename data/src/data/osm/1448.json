@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91903311,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 25366502,
+        "lat": "46.8894137",
+        "lon": "7.5372804",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.05338781185625998,
+        "addresstype": "secondary",
+        "name": "Hunzikenbrücke",
+        "display_name": "Hunzikenbrücke, Belp, Rubigen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3113, Schweiz",
+        "address": {
+            "road": "Hunzikenbrücke",
+            "city_district": "Belp",
+            "village": "Rubigen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3113",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8893029",
+            "46.8895192",
+            "7.5366291",
+            "7.5379325"
+        ]
+    }
+]

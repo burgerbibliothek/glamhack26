@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91912595,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6254194710,
+        "lat": "46.8446809",
+        "lon": "7.5211317",
+        "category": "historic",
+        "type": "archaeological_site",
+        "place_rank": 30,
+        "importance": 0.10540294855860563,
+        "addresstype": "historic",
+        "name": "Ruine Kramburg",
+        "display_name": "Ruine Kramburg, Kramburg, Eggenhorn, Gelterfingen, Kirchdorf (BE), Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3126, Schweiz",
+        "address": {
+            "historic": "Ruine Kramburg",
+            "road": "Kramburg",
+            "hamlet": "Eggenhorn",
+            "village": "Gelterfingen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3126",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8446309",
+            "46.8447309",
+            "7.5210817",
+            "7.5211817"
+        ]
+    }
+]

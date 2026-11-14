@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92091203,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 622512410,
+        "lat": "46.9667552",
+        "lon": "7.4589394",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "78, Stauffacherstrasse, Breitfeld, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3014, Schweiz",
+        "address": {
+            "house_number": "78",
+            "road": "Stauffacherstrasse",
+            "quarter": "Breitfeld",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3014",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9667052",
+            "46.9668052",
+            "7.4588894",
+            "7.4589894"
+        ]
+    }
+]

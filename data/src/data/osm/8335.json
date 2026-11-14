@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91780658,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685375,
+        "lat": "46.2922522",
+        "lon": "7.5323195",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5172711613654304,
+        "addresstype": "town",
+        "name": "Siders",
+        "display_name": "Siders, Mittelwallis, Wallis, Schweiz",
+        "address": {
+            "town": "Siders",
+            "county": "Siders",
+            "state_district": "Mittelwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2456808",
+            "46.3071082",
+            "7.4284779",
+            "7.5806027"
+        ]
+    }
+]

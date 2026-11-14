@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92223972,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 4806832,
+        "lat": "46.4984951",
+        "lon": "7.7268429",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.38037835405938786,
+        "addresstype": "lake",
+        "name": "Oeschinen Lake",
+        "display_name": "Oeschinen Lake, Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3718, Schweiz",
+        "address": {
+            "lake": "Oeschinen Lake",
+            "village": "Kandersteg",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3718",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4940417",
+            "46.5028526",
+            "7.7137337",
+            "7.7371377"
+        ]
+    }
+]

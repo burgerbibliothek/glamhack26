@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 93634250,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 248596443,
+        "lat": "47.6770273",
+        "lon": "7.6667327",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.2024340213354661,
+        "addresstype": "hamlet",
+        "name": "Egerten",
+        "display_name": "Egerten, Wollbach, Kandern, VVG der Stadt Kandern, Landkreis Lörrach, Baden-Württemberg, 79400, Deutschland",
+        "address": {
+            "hamlet": "Egerten",
+            "village": "Wollbach",
+            "town": "Kandern",
+            "municipality": "VVG der Stadt Kandern",
+            "county": "Landkreis Lörrach",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "79400",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.6570273",
+            "47.6970273",
+            "7.6467327",
+            "7.6867327"
+        ]
+    }
+]

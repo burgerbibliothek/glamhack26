@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 285801188,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5451225086,
+        "lat": "48.2810939",
+        "lon": "-2.5074705",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333938223849851,
+        "addresstype": "hamlet",
+        "name": "Le Perey",
+        "display_name": "Le Perey, Saint-Jacut-du-Mené, Le Mené, Saint-Brieuc, Côtes-d'Armor, Bretagne, Metropolitanes Frankreich, 22330, Frankreich",
+        "address": {
+            "hamlet": "Le Perey",
+            "city_district": "Saint-Jacut-du-Mené",
+            "city": "Le Mené",
+            "municipality": "Saint-Brieuc",
+            "county": "Côtes-d'Armor",
+            "ISO3166-2-lvl6": "FR-22",
+            "state": "Bretagne",
+            "ISO3166-2-lvl4": "FR-BRE",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "22330",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.2610939",
+            "48.3010939",
+            "-2.5274705",
+            "-2.4874705"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71093821,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 472997686,
+        "lat": "47.4075145",
+        "lon": "10.1672922",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.26922332516764147,
+        "addresstype": "hamlet",
+        "name": "Rohrmoos",
+        "display_name": "Rohrmoos, Oberstdorf, Landkreis Oberallgäu, Bayern, 87561, Deutschland",
+        "address": {
+            "hamlet": "Rohrmoos",
+            "city": "Oberstdorf",
+            "county": "Landkreis Oberallgäu",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "87561",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.3875145",
+            "47.4275145",
+            "10.1472922",
+            "10.1872922"
+        ]
+    }
+]

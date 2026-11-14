@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72007745,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682235,
+        "lat": "47.4318502",
+        "lon": "8.7640975",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3793875555226289,
+        "addresstype": "village",
+        "name": "Weisslingen",
+        "display_name": "Weisslingen, Bezirk Pfäffikon, Zürich, 8484, Schweiz",
+        "address": {
+            "village": "Weisslingen",
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8484",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4100586",
+            "47.4553360",
+            "8.7458200",
+            "8.8054526"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91905824,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6371299957,
+        "lat": "46.9415096",
+        "lon": "7.4586685",
+        "category": "office",
+        "type": "diplomatic",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "office",
+        "name": "Residenz Venezuela",
+        "display_name": "Residenz Venezuela, 30, Seminarstrasse, Gryphenhübeli, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "office": "Residenz Venezuela",
+            "house_number": "30",
+            "road": "Seminarstrasse",
+            "quarter": "Gryphenhübeli",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9414596",
+            "46.9415596",
+            "7.4586185",
+            "7.4587185"
+        ]
+    }
+]

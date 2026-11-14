@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92566447,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682704,
+        "lat": "47.1293896",
+        "lon": "7.5577607",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4324070077991284,
+        "addresstype": "village",
+        "name": "Utzenstorf",
+        "display_name": "Utzenstorf, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3427, Schweiz",
+        "address": {
+            "village": "Utzenstorf",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3427",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0958867",
+            "47.1529447",
+            "7.5337107",
+            "7.5939821"
+        ]
+    }
+]

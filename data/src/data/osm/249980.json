@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92168940,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 948595022,
+        "lat": "46.5897760",
+        "lon": "7.9054290",
+        "category": "waterway",
+        "type": "waterfall",
+        "place_rank": 20,
+        "importance": 0.2853231881743613,
+        "addresstype": "waterfall",
+        "name": "Staubbachfall",
+        "display_name": "Staubbachfall, Wengen, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3822, Schweiz",
+        "address": {
+            "waterfall": "Staubbachfall",
+            "village": "Wengen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3822",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5897260",
+            "46.5898260",
+            "7.9053790",
+            "7.9054790"
+        ]
+    }
+]

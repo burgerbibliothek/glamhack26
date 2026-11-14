@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73789943,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 25967067,
+        "lat": "46.7755769",
+        "lon": "8.7567429",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 22,
+        "importance": 0.19938740066310082,
+        "addresstype": "stream",
+        "name": "Chärstelenbach",
+        "display_name": "Chärstelenbach, Silenen, Uri, Schweiz",
+        "address": {
+            "stream": "Chärstelenbach",
+            "village": "Silenen",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7666071",
+            "46.8028732",
+            "8.6959445",
+            "8.8090939"
+        ]
+    }
+]

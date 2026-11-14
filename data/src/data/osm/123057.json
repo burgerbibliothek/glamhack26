@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 68141099,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1144410805,
+        "lat": "47.0707958",
+        "lon": "15.4387654",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.381322957193893e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "2, Herrengasse, Katastralgemeinde Innere Stadt, Innere Stadt, Graz, Steiermark, 8010, Österreich",
+        "address": {
+            "house_number": "2",
+            "road": "Herrengasse",
+            "neighbourhood": "Katastralgemeinde Innere Stadt",
+            "suburb": "Innere Stadt",
+            "city": "Graz",
+            "state": "Steiermark",
+            "ISO3166-2-lvl4": "AT-6",
+            "postcode": "8010",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.0707458",
+            "47.0708458",
+            "15.4387154",
+            "15.4388154"
+        ]
+    }
+]

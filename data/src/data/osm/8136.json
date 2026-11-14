@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92628894,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683386,
+        "lat": "46.5276138",
+        "lon": "6.8796623",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.33399297642662173,
+        "addresstype": "village",
+        "name": "Remaufens",
+        "display_name": "Remaufens, Vivisbachbezirk, Freiburg, 1617, Schweiz",
+        "address": {
+            "village": "Remaufens",
+            "county": "Vivisbachbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1617",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5125743",
+            "46.5592279",
+            "6.8657655",
+            "6.8969609"
+        ]
+    }
+]

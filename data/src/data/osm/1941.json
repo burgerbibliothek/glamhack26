@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91178683,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4161784980,
+        "lat": "46.5756768",
+        "lon": "7.9390320",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.23648094285300414,
+        "addresstype": "railway",
+        "name": "Wengernalp",
+        "display_name": "Wengernalp, Mendelssohnweg, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3824, Schweiz",
+        "address": {
+            "railway": "Wengernalp",
+            "road": "Mendelssohnweg",
+            "village": "Lauterbrunnen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3824",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5706768",
+            "46.5806768",
+            "7.9340320",
+            "7.9440320"
+        ]
+    }
+]

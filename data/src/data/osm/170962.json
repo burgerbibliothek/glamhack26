@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73732999,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 242674260,
+        "lat": "46.6615603",
+        "lon": "9.5764895",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.39877480132620163,
+        "addresstype": "village",
+        "name": "Tiefencastel",
+        "display_name": "Tiefencastel, Albula, Graubünden, 7450, Schweiz",
+        "address": {
+            "village": "Tiefencastel",
+            "city": "Albula",
+            "county": "Albula",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7450",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6415603",
+            "46.6815603",
+            "9.5564895",
+            "9.5964895"
+        ]
+    }
+]

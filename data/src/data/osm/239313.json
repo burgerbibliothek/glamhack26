@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 262366512,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7660712021,
+        "lat": "36.4126904",
+        "lon": "139.1562064",
+        "category": "railway",
+        "type": "stop",
+        "place_rank": 30,
+        "importance": 0.3436304091577327,
+        "addresstype": "railway",
+        "name": "Ogo",
+        "display_name": "Ogo, Fujioka-Ogo Line, 大胡町, Maebashi, Präfektur Gunma, 371-0231, Japan",
+        "address": {
+            "railway": "Ogo",
+            "road": "Fujioka-Ogo Line",
+            "quarter": "大胡町",
+            "city": "Maebashi",
+            "province": "Präfektur Gunma",
+            "ISO3166-2-lvl4": "JP-10",
+            "postcode": "371-0231",
+            "country": "Japan",
+            "country_code": "jp"
+        },
+        "boundingbox": [
+            "36.4126404",
+            "36.4127404",
+            "139.1561564",
+            "139.1562564"
+        ]
+    }
+]

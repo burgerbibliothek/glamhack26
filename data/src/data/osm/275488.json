@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92432527,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 281173561,
+        "lat": "47.2318707",
+        "lon": "7.9620803",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14670591058213164,
+        "addresstype": "village",
+        "name": "Langnau b. Reiden",
+        "display_name": "Langnau b. Reiden, Reiden, Luzern, 6260, Schweiz",
+        "address": {
+            "village": "Langnau b. Reiden",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6260",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2118707",
+            "47.2518707",
+            "7.9420803",
+            "7.9820803"
+        ]
+    }
+]

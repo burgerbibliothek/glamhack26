@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92485613,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1809894217,
+        "lat": "46.9014959",
+        "lon": "6.7860623",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 4.4224460212054895e-05,
+        "addresstype": "highway",
+        "name": "Chez-le-Bart",
+        "display_name": "Chez-le-Bart, Rue du Littoral, Gorgier, La Grande-Béroche, Région Littoral, Neuenburg, 2023, Schweiz",
+        "address": {
+            "highway": "Chez-le-Bart",
+            "road": "Rue du Littoral",
+            "village": "Gorgier",
+            "city": "La Grande-Béroche",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2023",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9014459",
+            "46.9015459",
+            "6.7860123",
+            "6.7861123"
+        ]
+    }
+]

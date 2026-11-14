@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 76485411,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684659,
+        "lat": "45.8355209",
+        "lon": "9.0290169",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5191647066977659,
+        "addresstype": "town",
+        "name": "Chiasso",
+        "display_name": "Chiasso, Kreis Balerna, Bezirk Mendrisio, Tessin, Schweiz",
+        "address": {
+            "town": "Chiasso",
+            "municipality": "Kreis Balerna",
+            "county": "Bezirk Mendrisio",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.8179585",
+            "45.8400320",
+            "8.9929127",
+            "9.0378749"
+        ]
+    }
+]

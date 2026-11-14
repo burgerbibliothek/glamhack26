@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 89378795,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 473201736,
+        "lat": "45.2139755",
+        "lon": "5.3875447",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06673105134660867,
+        "addresstype": "locality",
+        "name": "Le Reyat",
+        "display_name": "Le Reyat, Vinay, Grenoble, Isère, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 38470, Frankreich",
+        "address": {
+            "locality": "Le Reyat",
+            "village": "Vinay",
+            "municipality": "Grenoble",
+            "county": "Isère",
+            "ISO3166-2-lvl6": "FR-38",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "38470",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.2039755",
+            "45.2239755",
+            "5.3775447",
+            "5.3975447"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 66106662,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 575116,
+        "lat": "46.2559563",
+        "lon": "18.1065598",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5280955377998269,
+        "addresstype": "town",
+        "name": "Sásd",
+        "display_name": "Sásd, Hegyháti járás, Komitat Baranya, Transdanubien, 7370, Ungarn",
+        "address": {
+            "town": "Sásd",
+            "municipality": "Hegyháti járás",
+            "county": "Komitat Baranya",
+            "ISO3166-2-lvl6": "HU-BA",
+            "region": "Transdanubien",
+            "postcode": "7370",
+            "country": "Ungarn",
+            "country_code": "hu"
+        },
+        "boundingbox": [
+            "46.2312047",
+            "46.2767523",
+            "18.0701014",
+            "18.1288123"
+        ]
+    }
+]

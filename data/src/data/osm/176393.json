@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92012258,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682577,
+        "lat": "46.7190508",
+        "lon": "7.9306688",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4073897729372878,
+        "addresstype": "village",
+        "name": "Niederried bei Interlaken",
+        "display_name": "Niederried bei Interlaken, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3853, Schweiz",
+        "address": {
+            "village": "Niederried bei Interlaken",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3853",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7109444",
+            "46.7385329",
+            "7.9083248",
+            "7.9431897"
+        ]
+    }
+]

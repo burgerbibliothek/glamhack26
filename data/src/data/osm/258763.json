@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92673159,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 787651715,
+        "lat": "47.1192419",
+        "lon": "7.6869916",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.2659205816262254,
+        "addresstype": "hamlet",
+        "name": "Brechershäusern",
+        "display_name": "Brechershäusern, Wynigen, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3474, Schweiz",
+        "address": {
+            "hamlet": "Brechershäusern",
+            "village": "Wynigen",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3474",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0992419",
+            "47.1392419",
+            "7.6669916",
+            "7.7069916"
+        ]
+    }
+]

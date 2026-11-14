@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93282993,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240040489,
+        "lat": "47.1826468",
+        "lon": "7.7949969",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.32771111640952466,
+        "addresstype": "village",
+        "name": "Gutenburg",
+        "display_name": "Gutenburg, Madiswil, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4934, Schweiz",
+        "address": {
+            "village": "Gutenburg",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4934",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1626468",
+            "47.2026468",
+            "7.7749969",
+            "7.8149969"
+        ]
+    }
+]

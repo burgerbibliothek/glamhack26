@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92658827,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9183487203,
+        "lat": "47.1439553",
+        "lon": "7.7171367",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10671148317692833,
+        "addresstype": "isolated_dwelling",
+        "name": "Schnerzenbach",
+        "display_name": "Schnerzenbach, Dorf, Spych, Ochlenberg, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 3367, Schweiz",
+        "address": {
+            "isolated_dwelling": "Schnerzenbach",
+            "neighbourhood": "Dorf",
+            "hamlet": "Spych",
+            "village": "Ochlenberg",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3367",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1439053",
+            "47.1440053",
+            "7.7170867",
+            "7.7171867"
+        ]
+    }
+]

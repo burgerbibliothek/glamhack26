@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 89526283,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4312014672,
+        "lat": "46.3910330",
+        "lon": "4.8377247",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339706034943158,
+        "addresstype": "hamlet",
+        "name": "Les Gaillards",
+        "display_name": "Les Gaillards, Charbonnières, Mâcon, Saône-et-Loire, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 71260, Frankreich",
+        "address": {
+            "hamlet": "Les Gaillards",
+            "village": "Charbonnières",
+            "municipality": "Mâcon",
+            "county": "Saône-et-Loire",
+            "ISO3166-2-lvl6": "FR-71",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "71260",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.3710330",
+            "46.4110330",
+            "4.8177247",
+            "4.8577247"
+        ]
+    }
+]

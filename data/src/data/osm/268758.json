@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93051349,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685625,
+        "lat": "47.3457776",
+        "lon": "7.3431762",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37797476194049984,
+        "addresstype": "village",
+        "name": "Rossemaison",
+        "display_name": "Rossemaison, Bezirk Delsberg, Jura, 2842, Schweiz",
+        "address": {
+            "village": "Rossemaison",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2842",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3357118",
+            "47.3519415",
+            "7.3331934",
+            "7.3545377"
+        ]
+    }
+]

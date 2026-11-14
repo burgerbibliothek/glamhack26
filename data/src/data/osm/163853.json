@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 423542633,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 180406232,
+        "lat": "47.8408915",
+        "lon": "8.7827755",
+        "category": "leisure",
+        "type": "nature_reserve",
+        "place_rank": 24,
+        "importance": 0.28187552194901133,
+        "addresstype": "nature_reserve",
+        "name": "Schoren",
+        "display_name": "Schoren, Talhof, Neuhausen, Engen, VVG der Stadt Engen, Landkreis Konstanz, Baden-Württemberg, Deutschland",
+        "address": {
+            "nature_reserve": "Schoren",
+            "hamlet": "Talhof",
+            "village": "Neuhausen",
+            "town": "Engen",
+            "municipality": "VVG der Stadt Engen",
+            "county": "Landkreis Konstanz",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.8361208",
+            "47.8457533",
+            "8.7764395",
+            "8.7938485"
+        ]
+    }
+]

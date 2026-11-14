@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91363719,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685141,
+        "lat": "46.4731819",
+        "lon": "6.7959554",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38250674189122186,
+        "addresstype": "village",
+        "name": "Saint-Saphorin (Lavaux)",
+        "display_name": "Saint-Saphorin (Lavaux), District de Lavaux-Oron, Waadt, 1071, Schweiz",
+        "address": {
+            "village": "Saint-Saphorin (Lavaux)",
+            "county": "District de Lavaux-Oron",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1071",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4345092",
+            "46.4895777",
+            "6.7707187",
+            "6.7999585"
+        ]
+    }
+]

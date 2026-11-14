@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 122441923,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 303831922,
+        "lat": "48.7716514",
+        "lon": "9.1879081",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.8644235904433e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "1, Sonnenbergstraße, Dobel, Stuttgart-Mitte, Stuttgart, Baden-Württemberg, 70184, Deutschland",
+        "address": {
+            "house_number": "1",
+            "road": "Sonnenbergstraße",
+            "neighbourhood": "Dobel",
+            "suburb": "Stuttgart-Mitte",
+            "city": "Stuttgart",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "70184",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.7715679",
+            "48.7717348",
+            "9.1877907",
+            "9.1880255"
+        ]
+    }
+]

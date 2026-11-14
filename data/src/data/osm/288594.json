@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 114910506,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 172203193,
+        "lat": "51.3377294",
+        "lon": "7.6368865",
+        "category": "landuse",
+        "type": "residential",
+        "place_rank": 24,
+        "importance": 0.0800466277561608,
+        "addresstype": "residential",
+        "name": "Kelleramt",
+        "display_name": "Kelleramt, Nachrodt, Rennerde, Nachrodt-Wiblingwerde, Märkischer Kreis, Nordrhein-Westfalen, Deutschland",
+        "address": {
+            "residential": "Kelleramt",
+            "suburb": "Nachrodt",
+            "village": "Rennerde",
+            "county": "Märkischer Kreis",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.3352946",
+            "51.3403308",
+            "7.6349299",
+            "7.6399716"
+        ]
+    }
+]

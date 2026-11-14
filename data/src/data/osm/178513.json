@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 98399481,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 264505993,
+        "lat": "48.8938481",
+        "lon": "2.3478412",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.43407397006149884,
+        "addresstype": "railway",
+        "name": "Simplon",
+        "display_name": "Simplon, Boulevard Ornano, Quartier de Clignancourt, 18th Arrondissement, Paris, Île-de-France, Metropolitanes Frankreich, 75018, Frankreich",
+        "address": {
+            "railway": "Simplon",
+            "road": "Boulevard Ornano",
+            "suburb": "Quartier de Clignancourt",
+            "city_district": "Paris",
+            "city": "Paris",
+            "ISO3166-2-lvl6": "FR-75C",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "75018",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8888481",
+            "48.8988481",
+            "2.3428412",
+            "2.3528412"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145200516,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2879827744,
+        "lat": "52.5470061",
+        "lon": "13.1999609",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "23, Mittelstraße, Neustadt, Spandau, Berlin, 13585, Deutschland",
+        "address": {
+            "house_number": "23",
+            "road": "Mittelstraße",
+            "quarter": "Neustadt",
+            "suburb": "Spandau",
+            "city_district": "Spandau",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13585",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5469561",
+            "52.5470561",
+            "13.1999109",
+            "13.2000109"
+        ]
+    }
+]

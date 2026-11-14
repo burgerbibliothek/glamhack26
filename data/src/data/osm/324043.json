@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 184960542,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 153158228,
+        "lat": "50.0640698",
+        "lon": "19.9419651",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.936751354233642e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "36, Spitalgasse, Altstadt, Stare Miasto, Altstadt, Krakau, Woiwodschaft Kleinpolen, 31-024, Polen",
+        "address": {
+            "house_number": "36",
+            "road": "Spitalgasse",
+            "quarter": "Altstadt",
+            "suburb": "Stare Miasto",
+            "city_district": "Altstadt",
+            "city": "Krakau",
+            "state": "Woiwodschaft Kleinpolen",
+            "ISO3166-2-lvl4": "PL-12",
+            "postcode": "31-024",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "50.0639117",
+            "50.0642495",
+            "19.9416284",
+            "19.9420894"
+        ]
+    }
+]

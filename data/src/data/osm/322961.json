@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 72703984,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 230520577,
+        "lat": "47.4998121",
+        "lon": "8.7292139",
+        "category": "building",
+        "type": "office",
+        "place_rank": 30,
+        "importance": 6.545433737692863e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "34, Marktgasse, Inneres Lind, Lind, Stadt, Winterthur, Bezirk Winterthur, Zürich, 8400, Schweiz",
+        "address": {
+            "house_number": "34",
+            "road": "Marktgasse",
+            "neighbourhood": "Inneres Lind",
+            "quarter": "Lind",
+            "suburb": "Stadt",
+            "city": "Winterthur",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8400",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4997429",
+            "47.4999295",
+            "8.7291391",
+            "8.7292710"
+        ]
+    }
+]

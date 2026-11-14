@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91727572,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685266,
+        "lat": "46.1532222",
+        "lon": "7.5915756",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39877480132620163,
+        "addresstype": "city",
+        "name": "Anniviers",
+        "display_name": "Anniviers, Siders, Mittelwallis, Wallis, 3961, Schweiz",
+        "address": {
+            "city": "Anniviers",
+            "county": "Siders",
+            "state_district": "Mittelwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3961",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0272906",
+            "46.2797141",
+            "7.5151168",
+            "7.7161038"
+        ]
+    }
+]

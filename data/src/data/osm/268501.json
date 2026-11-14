@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73486014,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 26944905,
+        "lat": "46.7731147",
+        "lon": "8.3561417",
+        "category": "natural",
+        "type": "water",
+        "place_rank": 22,
+        "importance": 0.31827171020639217,
+        "addresstype": "water",
+        "name": "Engstlensee",
+        "display_name": "Engstlensee, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3862, Schweiz",
+        "address": {
+            "water": "Engstlensee",
+            "city_district": "Innertkirchen",
+            "village": "Innertkirchen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3862",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7702555",
+            "46.7757271",
+            "8.3469507",
+            "8.3643677"
+        ]
+    }
+]

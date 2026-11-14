@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92579063,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685461,
+        "lat": "47.0594538",
+        "lon": "6.9053838",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.38154785896147225,
+        "addresstype": "village",
+        "name": "Cernier",
+        "display_name": "Cernier, Val-de-Ruz, Val-de-Ruz Region, Neuenburg, 2053, Schweiz",
+        "address": {
+            "village": "Cernier",
+            "city": "Val-de-Ruz",
+            "county": "Val-de-Ruz Region",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2053",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0486987",
+            "47.1051065",
+            "6.8786971",
+            "6.9180296"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73131049,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240047745,
+        "lat": "46.6290381",
+        "lon": "9.7452826",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.40647197265303264,
+        "addresstype": "village",
+        "name": "Bergün",
+        "display_name": "Bergün, Bergün Filisur, Albula, Graubünden, 7484, Schweiz",
+        "address": {
+            "village": "Bergün",
+            "city": "Bergün Filisur",
+            "county": "Albula",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7484",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6090381",
+            "46.6490381",
+            "9.7252826",
+            "9.7652826"
+        ]
+    }
+]

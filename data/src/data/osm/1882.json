@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91530548,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 152932,
+        "lat": "46.4940919",
+        "lon": "7.8238888",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.3436304091577327,
+        "addresstype": "glacier",
+        "name": "Tschingelfirn",
+        "display_name": "Tschingelfirn, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "glacier": "Tschingelfirn",
+            "village": "Lauterbrunnen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4781033",
+            "46.5098872",
+            "7.8142425",
+            "7.8578841"
+        ]
+    }
+]

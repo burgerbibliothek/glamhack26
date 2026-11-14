@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 73529060,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1686449,
+        "lat": "46.9427560",
+        "lon": "8.4119773",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.5570578990439329,
+        "addresstype": "state",
+        "name": "Nidwalden",
+        "display_name": "Nidwalden, Schweiz",
+        "address": {
+            "state": "Nidwalden",
+            "ISO3166-2-lvl4": "CH-NW",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7715140",
+            "47.0199538",
+            "8.2181022",
+            "8.5749545"
+        ]
+    }
+]

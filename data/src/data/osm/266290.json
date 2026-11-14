@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93126495,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 270074618,
+        "lat": "47.0477999",
+        "lon": "7.4089373",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1467185023270008,
+        "addresstype": "village",
+        "name": "Seewil",
+        "display_name": "Seewil, Rapperswil (BE), Seeland administrative district, Seeland administrative region, Bern, 3255, Schweiz",
+        "address": {
+            "village": "Seewil",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3255",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0277999",
+            "47.0677999",
+            "7.3889373",
+            "7.4289373"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 129042859,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4287596511,
+        "lat": "48.8302822",
+        "lon": "13.7968519",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.29892160108322774,
+        "addresstype": "hamlet",
+        "name": "Neuthal",
+        "display_name": "Neuthal, Tusset, Bezirk Prachatitz, Südböhmische Region, 384 44, Tschechien",
+        "address": {
+            "hamlet": "Neuthal",
+            "village": "Tusset",
+            "district": "Bezirk Prachatitz",
+            "ISO3166-2-lvl5": "CZ-315",
+            "region": "Südböhmische Region",
+            "ISO3166-2-lvl4": "CZ-31",
+            "postcode": "384 44",
+            "country": "Tschechien",
+            "country_code": "cz"
+        },
+        "boundingbox": [
+            "48.8102822",
+            "48.8502822",
+            "13.7768519",
+            "13.8168519"
+        ]
+    }
+]

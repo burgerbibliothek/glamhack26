@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 134745162,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 473656019,
+        "lat": "51.3628728",
+        "lon": "12.2709602",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.936293583576742e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "2, Mühlenplatz, Gundorf, Böhlitz-Ehrenberg, Altwest, Leipzig, Sachsen, 04178, Deutschland",
+        "address": {
+            "house_number": "2",
+            "road": "Mühlenplatz",
+            "neighbourhood": "Gundorf",
+            "suburb": "Böhlitz-Ehrenberg",
+            "city_district": "Altwest",
+            "city": "Leipzig",
+            "state": "Sachsen",
+            "ISO3166-2-lvl4": "DE-SN",
+            "postcode": "04178",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.3628031",
+            "51.3629537",
+            "12.2708603",
+            "12.2710810"
+        ]
+    }
+]

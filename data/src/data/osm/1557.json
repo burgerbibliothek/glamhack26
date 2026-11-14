@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73892125,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3547016528,
+        "lat": "46.6086439",
+        "lon": "8.0791297",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.2432038182346074,
+        "addresstype": "peak",
+        "name": "Mättenberg",
+        "display_name": "Mättenberg, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3818, Schweiz",
+        "address": {
+            "peak": "Mättenberg",
+            "village": "Grindelwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3818",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6085939",
+            "46.6086939",
+            "8.0790797",
+            "8.0791797"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93072646,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3835827631,
+        "lat": "47.4219129",
+        "lon": "7.9720204",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333773395895323,
+        "addresstype": "hamlet",
+        "name": "Barmelweid",
+        "display_name": "Barmelweid, Erlinsbach (AG), Bezirk Aarau, Aargau, 5017, Schweiz",
+        "address": {
+            "hamlet": "Barmelweid",
+            "village": "Erlinsbach (AG)",
+            "county": "Bezirk Aarau",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5017",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4019129",
+            "47.4419129",
+            "7.9520204",
+            "7.9920204"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 209601164,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 573539321,
+        "lat": "36.3321657",
+        "lon": "37.1839228",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06673818341344319,
+        "addresstype": "locality",
+        "name": "Ad Dakkah",
+        "display_name": "Ad Dakkah, Kafr Tunah, Unterdistrikt Dschabal Samaan, Distrikt Dschabal Samaan, Gouvernement Aleppo, Syrien",
+        "address": {
+            "locality": "Ad Dakkah",
+            "village": "Kafr Tunah",
+            "subdistrict": "Unterdistrikt Dschabal Samaan",
+            "district": "Distrikt Dschabal Samaan",
+            "state": "Gouvernement Aleppo",
+            "ISO3166-2-lvl4": "SY-HL",
+            "country": "Syrien",
+            "country_code": "sy"
+        },
+        "boundingbox": [
+            "36.3221657",
+            "36.3421657",
+            "37.1739228",
+            "37.1939228"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 145535022,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4897894330,
+        "lat": "52.5121006",
+        "lon": "13.4171592",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "amenity",
+        "name": "Nem & More",
+        "display_name": "Nem & More, 3, Brückenstraße, Heine-Viertel, Luisenstadt, Mitte, Berlin, 10179, Deutschland",
+        "address": {
+            "amenity": "Nem & More",
+            "house_number": "3",
+            "road": "Brückenstraße",
+            "neighbourhood": "Heine-Viertel",
+            "quarter": "Luisenstadt",
+            "suburb": "Mitte",
+            "borough": "Mitte",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10179",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5120506",
+            "52.5121506",
+            "13.4171092",
+            "13.4172092"
+        ]
+    }
+]

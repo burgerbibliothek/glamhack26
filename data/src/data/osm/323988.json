@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91744920,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 745461247,
+        "lat": "46.9462561",
+        "lon": "7.4272017",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "49, Schlösslistrasse, Mattenhof, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3008, Schweiz",
+        "address": {
+            "house_number": "49",
+            "road": "Schlösslistrasse",
+            "quarter": "Mattenhof",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3008",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9462061",
+            "46.9463061",
+            "7.4271517",
+            "7.4272517"
+        ]
+    }
+]

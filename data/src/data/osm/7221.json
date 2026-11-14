@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92031490,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4318016472,
+        "lat": "46.7141351",
+        "lon": "6.9725727",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337874952315554,
+        "addresstype": "hamlet",
+        "name": "Fuyens",
+        "display_name": "Fuyens, Villaz-St-Pierre, Villaz, Glanebezirk, Freiburg, 1690, Schweiz",
+        "address": {
+            "hamlet": "Fuyens",
+            "village": "Villaz-St-Pierre",
+            "city": "Villaz",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1690",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6941351",
+            "46.7341351",
+            "6.9525727",
+            "6.9925727"
+        ]
+    }
+]

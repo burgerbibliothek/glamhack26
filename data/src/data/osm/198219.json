@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72983240,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8818490217,
+        "lat": "47.1367129",
+        "lon": "9.0557640",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671573281452658,
+        "addresstype": "locality",
+        "name": "Linthkolonie",
+        "display_name": "Linthkolonie, Ziegelbrücke, Glarus Nord, Glarus, 8866, Schweiz",
+        "address": {
+            "locality": "Linthkolonie",
+            "village": "Ziegelbrücke",
+            "city": "Glarus Nord",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "postcode": "8866",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1267129",
+            "47.1467129",
+            "9.0457640",
+            "9.0657640"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71596113,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682188,
+        "lat": "47.5161123",
+        "lon": "8.6454232",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40308494416412793,
+        "addresstype": "village",
+        "name": "Pfungen",
+        "display_name": "Pfungen, Bezirk Winterthur, Zürich, 8422, Schweiz",
+        "address": {
+            "village": "Pfungen",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8422",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4974374",
+            "47.5218520",
+            "8.6176555",
+            "8.6611418"
+        ]
+    }
+]

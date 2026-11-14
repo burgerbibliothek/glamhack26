@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72999006,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683903,
+        "lat": "47.4593780",
+        "lon": "9.5615720",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42418037968838074,
+        "addresstype": "village",
+        "name": "Lutzenberg",
+        "display_name": "Lutzenberg, Vorderland, Appenzell Ausserrhoden, Schweiz",
+        "address": {
+            "village": "Lutzenberg",
+            "county": "Vorderland",
+            "state": "Appenzell Ausserrhoden",
+            "ISO3166-2-lvl4": "CH-AR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4526370",
+            "47.4690406",
+            "9.5256405",
+            "9.5894156"
+        ]
+    }
+]

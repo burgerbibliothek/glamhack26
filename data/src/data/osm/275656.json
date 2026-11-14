@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72882949,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10276630228,
+        "lat": "47.3973135",
+        "lon": "9.2507307",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338472953383687,
+        "addresstype": "hamlet",
+        "name": "Mösli",
+        "display_name": "Mösli, Herisau, Hinterland, Appenzell Ausserrhoden, 9200, Schweiz",
+        "address": {
+            "hamlet": "Mösli",
+            "town": "Herisau",
+            "county": "Hinterland",
+            "state": "Appenzell Ausserrhoden",
+            "ISO3166-2-lvl4": "CH-AR",
+            "postcode": "9200",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3773135",
+            "47.4173135",
+            "9.2307307",
+            "9.2707307"
+        ]
+    }
+]

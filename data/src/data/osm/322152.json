@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 144608349,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 34282056,
+        "lat": "53.5722841",
+        "lon": "9.9846783",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.255359731436664e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "62, Hallerstraße, Harvestehude, Eimsbüttel, Hamburg, 20146, Deutschland",
+        "address": {
+            "house_number": "62",
+            "road": "Hallerstraße",
+            "suburb": "Harvestehude",
+            "city": "Hamburg",
+            "ISO3166-2-lvl4": "DE-HH",
+            "postcode": "20146",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "53.5722188",
+            "53.5723493",
+            "9.9845975",
+            "9.9847592"
+        ]
+    }
+]

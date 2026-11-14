@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92237255,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685476,
+        "lat": "46.9432319",
+        "lon": "6.8458944",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4062073640742894,
+        "addresstype": "village",
+        "name": "Cortaillod",
+        "display_name": "Cortaillod, Région Littoral, Neuenburg, 2016, Schweiz",
+        "address": {
+            "village": "Cortaillod",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2016",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9324487",
+            "46.9528407",
+            "6.8286004",
+            "6.8710551"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72392379,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 285240665,
+        "lat": "47.3733093",
+        "lon": "8.5462057",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "12, Predigergasse, Rathaus, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz",
+        "address": {
+            "house_number": "12",
+            "road": "Predigergasse",
+            "quarter": "Rathaus",
+            "suburb": "Altstadt",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3732357",
+            "47.3733877",
+            "8.5460955",
+            "8.5463795"
+        ]
+    }
+]

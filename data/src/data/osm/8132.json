@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92648459,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682617,
+        "lat": "47.1643499",
+        "lon": "7.8452952",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42023522464752683,
+        "addresstype": "village",
+        "name": "Reisiswil",
+        "display_name": "Reisiswil, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4919, Schweiz",
+        "address": {
+            "village": "Reisiswil",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4919",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1514217",
+            "47.1691431",
+            "7.8311897",
+            "7.8524942"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73995846,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 301448420,
+        "lat": "46.3666460",
+        "lon": "8.0391452",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2432038182346074,
+        "addresstype": "village",
+        "name": "Greich",
+        "display_name": "Greich, Riederalp, Östlich Raron, Oberwallis, Wallis, 3986, Schweiz",
+        "address": {
+            "village": "Greich",
+            "county": "Östlich Raron",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3986",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3466460",
+            "46.3866460",
+            "8.0191452",
+            "8.0591452"
+        ]
+    }
+]

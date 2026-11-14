@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 67517736,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 110413,
+        "lat": "47.8693179",
+        "lon": "16.0507263",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41264182722604775,
+        "addresstype": "village",
+        "name": "Waldegg",
+        "display_name": "Waldegg, Bezirk Wiener Neustadt, Niederösterreich, Österreich",
+        "address": {
+            "village": "Waldegg",
+            "county": "Bezirk Wiener Neustadt",
+            "state": "Niederösterreich",
+            "ISO3166-2-lvl4": "AT-3",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.8380471",
+            "47.9025119",
+            "15.9912532",
+            "16.1116505"
+        ]
+    }
+]

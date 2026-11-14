@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 192649039,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 83532409,
+        "lat": "50.7472584",
+        "lon": "25.3241016",
+        "category": "amenity",
+        "type": "theatre",
+        "place_rank": 30,
+        "importance": 0.28187552194901133,
+        "addresstype": "amenity",
+        "name": "Schauspielhaus",
+        "display_name": "Schauspielhaus, 2, Theaterplatz, Altstadt, Luzk, Stadtgemeinde Luzk, Rajon Luzk, 43025, Ukraine",
+        "address": {
+            "amenity": "Schauspielhaus",
+            "house_number": "2",
+            "road": "Theaterplatz",
+            "suburb": "Altstadt",
+            "city": "Luzk",
+            "municipality": "Stadtgemeinde Luzk",
+            "district": "Rajon Luzk",
+            "postcode": "43025",
+            "country": "Ukraine",
+            "country_code": "ua"
+        },
+        "boundingbox": [
+            "50.7469174",
+            "50.7475750",
+            "25.3235193",
+            "25.3247015"
+        ]
+    }
+]

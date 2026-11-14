@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91967797,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 680958661,
+        "lat": "46.8900913",
+        "lon": "7.4952372",
+        "category": "building",
+        "type": "garage",
+        "place_rank": 30,
+        "importance": 5.447394522006588e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "107a, Seftigenstrasse, Hofmatt, Belp, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3123, Schweiz",
+        "address": {
+            "house_number": "107a",
+            "road": "Seftigenstrasse",
+            "hamlet": "Hofmatt",
+            "city_district": "Belp",
+            "town": "Belp",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3123",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8900644",
+            "46.8901181",
+            "7.4952034",
+            "7.4952709"
+        ]
+    }
+]

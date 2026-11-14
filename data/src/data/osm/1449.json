@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92683987,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 559901870,
+        "lat": "47.0203813",
+        "lon": "7.4367774",
+        "category": "place",
+        "type": "neighbourhood",
+        "place_rank": 24,
+        "importance": 0.08005183566033414,
+        "addresstype": "neighbourhood",
+        "name": "Hüslimoos",
+        "display_name": "Hüslimoos, Hole, Diemerswil, Münchenbuchsee, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3053, Schweiz",
+        "address": {
+            "neighbourhood": "Hüslimoos",
+            "hamlet": "Hole",
+            "village": "Diemerswil",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3053",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0103813",
+            "47.0303813",
+            "7.4267774",
+            "7.4467774"
+        ]
+    }
+]

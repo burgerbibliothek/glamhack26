@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73602732,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684070,
+        "lat": "46.7426337",
+        "lon": "8.8529934",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4554630140469895,
+        "addresstype": "city",
+        "name": "Disentis/Mustér",
+        "display_name": "Disentis/Mustér, Surselva, Graubünden, Schweiz",
+        "address": {
+            "city": "Disentis/Mustér",
+            "county": "Surselva",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6709217",
+            "46.8144215",
+            "8.7715264",
+            "8.9148651"
+        ]
+    }
+]

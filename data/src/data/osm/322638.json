@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 122179605,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 456013759,
+        "lat": "48.3997541",
+        "lon": "9.9943171",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 6.939726863503498e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "3, Kornhausplatz, Innenstadt, Mitte, Ulm, Baden-Württemberg, 89073, Deutschland",
+        "address": {
+            "house_number": "3",
+            "road": "Kornhausplatz",
+            "neighbourhood": "Innenstadt",
+            "suburb": "Mitte",
+            "city": "Ulm",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "89073",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.3997198",
+            "48.3997895",
+            "9.9942203",
+            "9.9944126"
+        ]
+    }
+]

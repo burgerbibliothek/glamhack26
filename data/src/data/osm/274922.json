@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72879617,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1518396136,
+        "lat": "47.0630806",
+        "lon": "8.2751599",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.14673639963378343,
+        "addresstype": "suburb",
+        "name": "Reussbühl",
+        "display_name": "Reussbühl, Littauerboden, Luzern, 6015, Schweiz",
+        "address": {
+            "suburb": "Reussbühl",
+            "village": "Littauerboden",
+            "city": "Luzern",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6015",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0430806",
+            "47.0830806",
+            "8.2551599",
+            "8.2951599"
+        ]
+    }
+]

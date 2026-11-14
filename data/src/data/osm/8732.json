@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92308680,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683431,
+        "lat": "46.8747403",
+        "lon": "7.2761723",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3913944132881851,
+        "addresstype": "village",
+        "name": "Wünnewil-Flamatt",
+        "display_name": "Wünnewil-Flamatt, Sensebezirk, Freiburg, Schweiz",
+        "address": {
+            "village": "Wünnewil-Flamatt",
+            "county": "Sensebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8544861",
+            "46.8938632",
+            "7.2498408",
+            "7.3494149"
+        ]
+    }
+]

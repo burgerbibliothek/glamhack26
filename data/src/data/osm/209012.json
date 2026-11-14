@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 120563378,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6140068899,
+        "lat": "48.5854652",
+        "lon": "7.5757974",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.066731182574197,
+        "addresstype": "locality",
+        "name": "Winterhalte",
+        "display_name": "Winterhalte, Osthofen, Straßburg, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67990, Frankreich",
+        "address": {
+            "locality": "Winterhalte",
+            "village": "Osthofen",
+            "municipality": "Straßburg",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67990",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.5754652",
+            "48.5954652",
+            "7.5657974",
+            "7.5857974"
+        ]
+    }
+]

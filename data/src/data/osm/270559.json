@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91739012,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683401,
+        "lat": "46.6701619",
+        "lon": "7.0612165",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39189118331215606,
+        "addresstype": "village",
+        "name": "Sorens",
+        "display_name": "Sorens, Greyerzbezirk, Freiburg, 1642, Schweiz",
+        "address": {
+            "village": "Sorens",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1642",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6597035",
+            "46.6861345",
+            "7.0124368",
+            "7.0774707"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91970177,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682427,
+        "lat": "46.8752245",
+        "lon": "7.7974921",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4252794075783652,
+        "addresstype": "village",
+        "name": "Eggiwil",
+        "display_name": "Eggiwil, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Eggiwil",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8100292",
+            "46.9208659",
+            "7.7426304",
+            "7.8701174"
+        ]
+    }
+]

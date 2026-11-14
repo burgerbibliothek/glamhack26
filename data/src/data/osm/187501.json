@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92055674,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683333,
+        "lat": "46.8928043",
+        "lon": "7.1757732",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38584692642506985,
+        "addresstype": "village",
+        "name": "Gurmels",
+        "display_name": "Gurmels, Seebezirk, Freiburg, Schweiz",
+        "address": {
+            "village": "Gurmels",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8603981",
+            "46.9399524",
+            "7.1242484",
+            "7.2348250"
+        ]
+    }
+]

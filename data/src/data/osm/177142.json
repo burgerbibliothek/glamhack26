@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 126140888,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 534399,
+        "lat": "49.0532416",
+        "lon": "10.5102437",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.46361956731429915,
+        "addresstype": "village",
+        "name": "Gerolfingen",
+        "display_name": "Gerolfingen, Hesselberg (VGem), Landkreis Ansbach, Bayern, 91726, Deutschland",
+        "address": {
+            "village": "Gerolfingen",
+            "municipality": "Hesselberg (VGem)",
+            "county": "Landkreis Ansbach",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "91726",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.0251296",
+            "49.0708155",
+            "10.4844437",
+            "10.5409919"
+        ]
+    }
+]

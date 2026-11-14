@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 417088389,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 20666624,
+        "lat": "46.2853873",
+        "lon": "7.8462445",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 10,
+        "importance": 0.26671093842984667,
+        "addresstype": "state_district",
+        "name": "Oberwallis",
+        "display_name": "Oberwallis, Wallis, Schweiz",
+        "address": {
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9167499",
+            "46.6540472",
+            "7.5286076",
+            "8.4785187"
+        ]
+    }
+]

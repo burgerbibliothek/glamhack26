@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72923042,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 297245289,
+        "lat": "47.0808947",
+        "lon": "9.4754878",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.22898814784265079,
+        "addresstype": "village",
+        "name": "Azmoos",
+        "display_name": "Azmoos, Wartau, Wahlkreis Werdenberg, St. Gallen, 9478, Schweiz",
+        "address": {
+            "village": "Azmoos",
+            "city": "Wartau",
+            "county": "Wahlkreis Werdenberg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9478",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0608947",
+            "47.1008947",
+            "9.4554878",
+            "9.4954878"
+        ]
+    }
+]

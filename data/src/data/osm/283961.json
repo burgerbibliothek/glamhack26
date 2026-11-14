@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71748880,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684506,
+        "lat": "47.5821126",
+        "lon": "9.1976761",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38475235162867644,
+        "addresstype": "village",
+        "name": "Birwinken",
+        "display_name": "Birwinken, Bezirk Weinfelden, Thurgau, 8585, Schweiz",
+        "address": {
+            "village": "Birwinken",
+            "county": "Bezirk Weinfelden",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8585",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5562492",
+            "47.5954663",
+            "9.1870692",
+            "9.2459243"
+        ]
+    }
+]

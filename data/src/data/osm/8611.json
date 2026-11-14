@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91638375,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683424,
+        "lat": "46.7073022",
+        "lon": "6.9962956",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37419541339491136,
+        "addresstype": "city",
+        "name": "Villorsonnens",
+        "display_name": "Villorsonnens, Glanebezirk, Freiburg, 1694, Schweiz",
+        "address": {
+            "city": "Villorsonnens",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1694",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6774024",
+            "46.7372078",
+            "6.9684501",
+            "7.0406828"
+        ]
+    }
+]

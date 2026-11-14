@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72520692,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240034348,
+        "lat": "47.0447063",
+        "lon": "8.4661769",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.21080589711721126,
+        "addresstype": "hamlet",
+        "name": "Rigi Kaltbad",
+        "display_name": "Rigi Kaltbad, Weggis, Luzern, 6356, Schweiz",
+        "address": {
+            "hamlet": "Rigi Kaltbad",
+            "village": "Weggis",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6356",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0247063",
+            "47.0647063",
+            "8.4461769",
+            "8.4861769"
+        ]
+    }
+]

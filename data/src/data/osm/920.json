@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 117748365,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 55137,
+        "lat": "50.3592938",
+        "lon": "7.6138426",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.3883319602613017,
+        "addresstype": "suburb",
+        "name": "Ehrenbreitstein",
+        "display_name": "Ehrenbreitstein, Koblenz, Rheinland-Pfalz, Deutschland",
+        "address": {
+            "suburb": "Ehrenbreitstein",
+            "city": "Koblenz",
+            "state": "Rheinland-Pfalz",
+            "ISO3166-2-lvl4": "DE-RP",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.3559331",
+            "50.3692432",
+            "7.6065930",
+            "7.6366027"
+        ]
+    }
+]

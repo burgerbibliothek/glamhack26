@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92645230,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5817433,
+        "lat": "47.1545630",
+        "lon": "7.6625354",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4268457730448817,
+        "addresstype": "village",
+        "name": "Seeberg",
+        "display_name": "Seeberg, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Seeberg",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1119975",
+            "47.1688985",
+            "7.6481357",
+            "7.7304775"
+        ]
+    }
+]

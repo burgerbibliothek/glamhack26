@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92306362,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682527,
+        "lat": "46.9033021",
+        "lon": "7.2396420",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.47141288733854275,
+        "addresstype": "village",
+        "name": "Laupen BE",
+        "display_name": "Laupen BE, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3177, Schweiz",
+        "address": {
+            "village": "Laupen BE",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3177",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8978453",
+            "46.9330567",
+            "7.2289142",
+            "7.2580123"
+        ]
+    }
+]

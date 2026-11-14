@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72718319,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 33529328,
+        "lat": "47.4153808",
+        "lon": "8.1636356",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.4143029080783626,
+        "addresstype": "village",
+        "name": "Wildegg",
+        "display_name": "Wildegg, Möriken-Wildegg, Bezirk Lenzburg, Aargau, 5103, Schweiz",
+        "address": {
+            "village": "Wildegg",
+            "county": "Bezirk Lenzburg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5103",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3953808",
+            "47.4353808",
+            "8.1436356",
+            "8.1836356"
+        ]
+    }
+]

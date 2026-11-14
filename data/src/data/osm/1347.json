@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91431513,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 332617,
+        "lat": "46.3613502",
+        "lon": "6.3932470",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.5807141010044568,
+        "addresstype": "lake",
+        "name": "Genfersee",
+        "display_name": "Genfersee, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "lake": "Genfersee",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.2042839",
+            "46.5184341",
+            "6.1480088",
+            "6.9309280"
+        ]
+    }
+]

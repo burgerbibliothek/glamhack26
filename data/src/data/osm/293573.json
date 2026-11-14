@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 138819979,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 4140650,
+        "lat": "50.7678611",
+        "lon": "8.9593868",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.2809844805284867,
+        "addresstype": "village",
+        "name": "Schweinsberg",
+        "display_name": "Schweinsberg, Stadtallendorf, Landkreis Marburg-Biedenkopf, Hessen, Deutschland",
+        "address": {
+            "village": "Schweinsberg",
+            "municipality": "Stadtallendorf",
+            "county": "Landkreis Marburg-Biedenkopf",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.7513925",
+            "50.7893272",
+            "8.9499252",
+            "9.0155870"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91423139,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 222982916,
+        "lat": "46.4991388",
+        "lon": "7.8923108",
+        "category": "tourism",
+        "type": "alpine_hut",
+        "place_rank": 30,
+        "importance": 0.1507975276546128,
+        "addresstype": "tourism",
+        "name": "Schmadrihütte",
+        "display_name": "Schmadrihütte, 1589a, Schmadrihütte, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3824, Schweiz",
+        "address": {
+            "tourism": "Schmadrihütte",
+            "house_number": "1589a",
+            "locality": "Schmadrihütte",
+            "village": "Lauterbrunnen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3824",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4991164",
+            "46.4991847",
+            "7.8922654",
+            "7.8923504"
+        ]
+    }
+]

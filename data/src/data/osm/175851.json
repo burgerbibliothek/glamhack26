@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 153675316,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 6303255,
+        "lat": "54.2649075",
+        "lon": "10.1468960",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.308429648456196,
+        "addresstype": "village",
+        "name": "Moorsee",
+        "display_name": "Moorsee, Schlüsbek, Kiel, Altenholz, Schleswig-Holstein, 24145, Deutschland",
+        "address": {
+            "village": "Moorsee",
+            "city": "Kiel",
+            "municipality": "Altenholz",
+            "state": "Schleswig-Holstein",
+            "ISO3166-2-lvl4": "DE-SH",
+            "postcode": "24145",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "54.2507055",
+            "54.2936791",
+            "10.1235698",
+            "10.1614636"
+        ]
+    }
+]

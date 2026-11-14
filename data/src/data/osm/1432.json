@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91283485,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 983973857,
+        "lat": "46.6500802",
+        "lon": "7.6836892",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 5.000152590214416e-05,
+        "addresstype": "highway",
+        "name": "Emdthal, Bad Heustrich",
+        "display_name": "Emdthal, Bad Heustrich, Heustrichstrasse, Mülenen, Aeschi bei Spiez, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3703, Schweiz",
+        "address": {
+            "highway": "Emdthal, Bad Heustrich",
+            "road": "Heustrichstrasse",
+            "village": "Mülenen",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3703",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6500302",
+            "46.6501302",
+            "7.6836392",
+            "7.6837392"
+        ]
+    }
+]

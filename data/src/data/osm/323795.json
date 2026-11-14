@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 133333012,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 4578009,
+        "lat": "51.0345652",
+        "lon": "13.7299279",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.19283288150311992,
+        "addresstype": "residential",
+        "name": "Reichenbachstraße",
+        "display_name": "Reichenbachstraße, Schweizer Viertel, Südvorstadt-West, Südvorstadt, Plauen, Dresden, Sachsen, 01069, Deutschland",
+        "address": {
+            "road": "Reichenbachstraße",
+            "quarter": "Schweizer Viertel",
+            "neighbourhood": "Südvorstadt-West",
+            "suburb": "Südvorstadt",
+            "city_district": "Plauen",
+            "city": "Dresden",
+            "state": "Sachsen",
+            "ISO3166-2-lvl4": "DE-SN",
+            "postcode": "01069",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.0345333",
+            "51.0345845",
+            "13.7295752",
+            "13.7302810"
+        ]
+    }
+]

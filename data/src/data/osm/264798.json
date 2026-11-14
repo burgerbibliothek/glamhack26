@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 320668002,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 150934068,
+        "lat": "37.4146084",
+        "lon": "-118.6113363",
+        "category": "place",
+        "type": "neighbourhood",
+        "place_rank": 24,
+        "importance": 0.32858433646820545,
+        "addresstype": "neighbourhood",
+        "name": "Rovana",
+        "display_name": "Rovana, Inyo County, Kalifornien, Vereinigte Staaten von Amerika",
+        "address": {
+            "neighbourhood": "Rovana",
+            "county": "Inyo County",
+            "state": "Kalifornien",
+            "ISO3166-2-lvl4": "US-CA",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "37.4046084",
+            "37.4246084",
+            "-118.6213363",
+            "-118.6013363"
+        ]
+    }
+]

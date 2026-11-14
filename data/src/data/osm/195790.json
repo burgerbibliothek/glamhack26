@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 88000886,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 765832395,
+        "lat": "45.9778573",
+        "lon": "7.1209338",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.37222067481901694,
+        "addresstype": "valley",
+        "name": "Val Ferret",
+        "display_name": "Val Ferret, Orsières, Entremont, Unterwallis, Wallis, Schweiz",
+        "address": {
+            "valley": "Val Ferret",
+            "village": "Orsières",
+            "county": "Entremont",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9279908",
+            "46.0219692",
+            "7.0973395",
+            "7.1437740"
+        ]
+    }
+]

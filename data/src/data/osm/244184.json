@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71780880,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682190,
+        "lat": "47.6115934",
+        "lon": "8.5402669",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41705598036976543,
+        "addresstype": "village",
+        "name": "Rafz",
+        "display_name": "Rafz, Bezirk Bülach, Zürich, 8197, Schweiz",
+        "address": {
+            "village": "Rafz",
+            "county": "Bezirk Bülach",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8197",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5922639",
+            "47.6343155",
+            "8.5156619",
+            "8.5745250"
+        ]
+    }
+]

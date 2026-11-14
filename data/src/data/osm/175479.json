@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91685539,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 434826918,
+        "lat": "46.4526502",
+        "lon": "6.8553237",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.13618373728802152,
+        "addresstype": "building",
+        "name": "Château de La Tour-de-Peilz",
+        "display_name": "Château de La Tour-de-Peilz, Rue du Château, Entre-deux-Villes, La Tour-de-Peilz, Bezirk Riviera-Pays-d'Enhaut, Waadt, 1814, Schweiz",
+        "address": {
+            "building": "Château de La Tour-de-Peilz",
+            "road": "Rue du Château",
+            "neighbourhood": "Entre-deux-Villes",
+            "town": "La Tour-de-Peilz",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1814",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4524231",
+            "46.4528852",
+            "6.8547506",
+            "6.8554108"
+        ]
+    }
+]

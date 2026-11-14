@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 137220138,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 281544276,
+        "lat": "50.8683776",
+        "lon": "10.5544250",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338159838254365,
+        "addresstype": "hamlet",
+        "name": "Reinhardsbrunn",
+        "display_name": "Reinhardsbrunn, Friedrichroda, Landkreis Gotha, Thüringen, 99894, Deutschland",
+        "address": {
+            "hamlet": "Reinhardsbrunn",
+            "town": "Friedrichroda",
+            "county": "Landkreis Gotha",
+            "state": "Thüringen",
+            "ISO3166-2-lvl4": "DE-TH",
+            "postcode": "99894",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.8483776",
+            "50.8883776",
+            "10.5344250",
+            "10.5744250"
+        ]
+    }
+]

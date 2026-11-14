@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 96453000,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 24453547,
+        "lat": "46.9482585",
+        "lon": "6.8408829",
+        "category": "tunnel",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 4.7257953765118145e-05,
+        "addresstype": "tunnel",
+        "name": "Chanélaz",
+        "display_name": "Chanélaz, A5, Cortaillod, Région Littoral, Neuenburg, 2016, Schweiz",
+        "address": {
+            "tunnel": "Chanélaz",
+            "road": "A5",
+            "village": "Cortaillod",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2016",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9467584",
+            "46.9506820",
+            "6.8370238",
+            "6.8441917"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73322896,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 37727769,
+        "lat": "46.6600276",
+        "lon": "8.5844892",
+        "category": "natural",
+        "type": "scree",
+        "place_rank": 22,
+        "importance": 0.10670962310215913,
+        "addresstype": "scree",
+        "name": "Schöllenen",
+        "display_name": "Schöllenen, Göschenen, Uri, 6487, Schweiz",
+        "address": {
+            "scree": "Schöllenen",
+            "village": "Göschenen",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6487",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6585646",
+            "46.6608744",
+            "8.5833004",
+            "8.5852568"
+        ]
+    }
+]

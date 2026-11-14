@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91658068,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 663159103,
+        "lat": "46.9487177",
+        "lon": "7.4475630",
+        "category": "place",
+        "type": "square",
+        "place_rank": 25,
+        "importance": 0.31673068536229987,
+        "addresstype": "square",
+        "name": "Kornhausplatz",
+        "display_name": "Kornhausplatz, Gelbes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, Schweiz",
+        "address": {
+            "square": "Kornhausplatz",
+            "quarter": "Gelbes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9479793",
+            "46.9494483",
+            "7.4472482",
+            "7.4479979"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145393317,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 89062190,
+        "lat": "52.5656015",
+        "lon": "13.3987631",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "9, Florastraße, Florakiez, Pankow, Berlin, 13187, Deutschland",
+        "address": {
+            "house_number": "9",
+            "road": "Florastraße",
+            "quarter": "Florakiez",
+            "suburb": "Pankow",
+            "borough": "Pankow",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13187",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5655284",
+            "52.5656721",
+            "13.3986226",
+            "13.3989040"
+        ]
+    }
+]

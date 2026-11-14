@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 182255711,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4368740290,
+        "lat": "50.0643871",
+        "lon": "19.9422728",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 7.936751354233642e-05,
+        "addresstype": "amenity",
+        "name": "Szalone Widelce",
+        "display_name": "Szalone Widelce, 40, Spitalgasse, Altstadt, Stare Miasto, Altstadt, Krakau, Woiwodschaft Kleinpolen, 31-024, Polen",
+        "address": {
+            "amenity": "Szalone Widelce",
+            "house_number": "40",
+            "road": "Spitalgasse",
+            "quarter": "Altstadt",
+            "suburb": "Stare Miasto",
+            "city_district": "Altstadt",
+            "city": "Krakau",
+            "state": "Woiwodschaft Kleinpolen",
+            "ISO3166-2-lvl4": "PL-12",
+            "postcode": "31-024",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "50.0643371",
+            "50.0644371",
+            "19.9422228",
+            "19.9423228"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72991495,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10219488447,
+        "lat": "47.2866572",
+        "lon": "8.4834919",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333780186160067,
+        "addresstype": "hamlet",
+        "name": "Götschihof",
+        "display_name": "Götschihof, Aeugst am Albis, Bezirk Affoltern, Zürich, 8914, Schweiz",
+        "address": {
+            "hamlet": "Götschihof",
+            "village": "Aeugst am Albis",
+            "county": "Bezirk Affoltern",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8914",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2666572",
+            "47.3066572",
+            "8.4634919",
+            "8.5034919"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72670162,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684319,
+        "lat": "47.3592835",
+        "lon": "8.0971009",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40153729776053904,
+        "addresstype": "village",
+        "name": "Gränichen",
+        "display_name": "Gränichen, Bezirk Aarau, Aargau, 5722, Schweiz",
+        "address": {
+            "village": "Gränichen",
+            "county": "Bezirk Aarau",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5722",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3303922",
+            "47.3782725",
+            "8.0706150",
+            "8.1429625"
+        ]
+    }
+]

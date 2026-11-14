@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 122703457,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 28352945,
+        "lat": "48.7745288",
+        "lon": "9.1543201",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.8644235904433e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "44, Elisabethenstraße, Vogelsang, Stuttgart-West, Stuttgart, Baden-Württemberg, 70197, Deutschland",
+        "address": {
+            "house_number": "44",
+            "road": "Elisabethenstraße",
+            "neighbourhood": "Vogelsang",
+            "suburb": "Stuttgart-West",
+            "city": "Stuttgart",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "70197",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.7744564",
+            "48.7745923",
+            "9.1542121",
+            "9.1544281"
+        ]
+    }
+]

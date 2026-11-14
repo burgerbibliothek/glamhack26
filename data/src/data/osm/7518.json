@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73319795,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5817235,
+        "lat": "46.8829097",
+        "lon": "9.8750678",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4577956320282617,
+        "addresstype": "village",
+        "name": "Klosters",
+        "display_name": "Klosters, Prättigau/Davos, Graubünden, Schweiz",
+        "address": {
+            "village": "Klosters",
+            "county": "Prättigau/Davos",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7628322",
+            "46.9365112",
+            "9.7895865",
+            "10.0969252"
+        ]
+    }
+]

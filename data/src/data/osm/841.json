@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 51558903,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 594065767,
+        "lat": "22.3371195",
+        "lon": "31.6257973",
+        "category": "historic",
+        "type": "archaeological_site",
+        "place_rank": 30,
+        "importance": 0.5241664138726163,
+        "addresstype": "historic",
+        "name": "Abu Simbel",
+        "display_name": "Abu Simbel, Al Maabd Street, Stadt Abu Simbel, Assuan, 81525, Ägypten",
+        "address": {
+            "historic": "Abu Simbel",
+            "road": "Al Maabd Street",
+            "city": "Stadt Abu Simbel",
+            "state": "Assuan",
+            "ISO3166-2-lvl4": "EG-ASN",
+            "postcode": "81525",
+            "country": "Ägypten",
+            "country_code": "eg"
+        },
+        "boundingbox": [
+            "22.3355196",
+            "22.3386517",
+            "31.6237284",
+            "31.6280656"
+        ]
+    }
+]

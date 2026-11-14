@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92236168,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684992,
+        "lat": "46.5915221",
+        "lon": "6.4649462",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44439175935963043,
+        "addresstype": "village",
+        "name": "Grancy",
+        "display_name": "Grancy, District de Morges, Waadt, 1117, Schweiz",
+        "address": {
+            "village": "Grancy",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1117",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5807552",
+            "46.6091610",
+            "6.4423161",
+            "6.4784440"
+        ]
+    }
+]

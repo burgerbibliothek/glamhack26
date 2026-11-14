@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91165034,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685541,
+        "lat": "46.2912135",
+        "lon": "6.1565481",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.48526795844975623,
+        "addresstype": "city",
+        "name": "Versoix",
+        "display_name": "Versoix, Genf, 1290, Schweiz",
+        "address": {
+            "city": "Versoix",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "postcode": "1290",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2649713",
+            "46.3174699",
+            "6.1187703",
+            "6.1987427"
+        ]
+    }
+]

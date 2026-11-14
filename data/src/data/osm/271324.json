@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92774701,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683346,
+        "lat": "46.8322096",
+        "lon": "7.1201022",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4021043189142469,
+        "addresstype": "village",
+        "name": "La Sonnaz",
+        "display_name": "La Sonnaz, Saanebezirk, Freiburg, Schweiz",
+        "address": {
+            "village": "La Sonnaz",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8202678",
+            "46.8498505",
+            "7.0944467",
+            "7.1471724"
+        ]
+    }
+]

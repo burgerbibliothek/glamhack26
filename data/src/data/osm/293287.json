@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 419461434,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 20800484,
+        "lat": "46.7216602",
+        "lon": "6.5537847",
+        "category": "boundary",
+        "type": "region",
+        "place_rank": 18,
+        "importance": 0.2507397701059262,
+        "addresstype": "region",
+        "name": "Plaine de l'Orbe",
+        "display_name": "Plaine de l'Orbe, Orbe, District du Jura-Nord vaudois, Waadt, 1350, Schweiz",
+        "address": {
+            "region": "Plaine de l'Orbe",
+            "village": "Orbe",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1350",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6699134",
+            "46.7809404",
+            "6.5317593",
+            "6.6428521"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91850983,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9525279763,
+        "lat": "46.9753032",
+        "lon": "7.4270327",
+        "category": "place",
+        "type": "quarter",
+        "place_rank": 20,
+        "importance": 0.13338628442816813,
+        "addresstype": "quarter",
+        "name": "Stuckishaus",
+        "display_name": "Stuckishaus, Bremgarten bei Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3047, Schweiz",
+        "address": {
+            "quarter": "Stuckishaus",
+            "village": "Bremgarten bei Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3047",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9653032",
+            "46.9853032",
+            "7.4170327",
+            "7.4370327"
+        ]
+    }
+]

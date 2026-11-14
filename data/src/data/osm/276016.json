@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 137469606,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1273260,
+        "lat": "50.5502315",
+        "lon": "10.6328633",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4062073640742894,
+        "addresstype": "village",
+        "name": "Grub",
+        "display_name": "Grub, Feldstein, Landkreis Hildburghausen, Thüringen, Deutschland",
+        "address": {
+            "village": "Grub",
+            "municipality": "Feldstein",
+            "county": "Landkreis Hildburghausen",
+            "state": "Thüringen",
+            "ISO3166-2-lvl4": "DE-TH",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.5384469",
+            "50.5648967",
+            "10.6172175",
+            "10.6587348"
+        ]
+    }
+]

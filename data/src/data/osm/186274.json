@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91768679,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 192586288,
+        "lat": "46.7040418",
+        "lon": "7.2157251",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 3.533607995722923e-05,
+        "addresstype": "building",
+        "name": "Paleschi",
+        "display_name": "Paleschi, Plasselb, Sensebezirk, Freiburg, 1737, Schweiz",
+        "address": {
+            "building": "Paleschi",
+            "road": "Paleschi",
+            "village": "Plasselb",
+            "county": "Sensebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1737",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7039649",
+            "46.7041186",
+            "7.2156214",
+            "7.2158287"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91809548,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685269,
+        "lat": "46.3153094",
+        "lon": "7.8525781",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.36001248335965585,
+        "addresstype": "village",
+        "name": "Ausserberg",
+        "display_name": "Ausserberg, Westlich Raron, Oberwallis, Wallis, 3938, Schweiz",
+        "address": {
+            "village": "Ausserberg",
+            "county": "Westlich Raron",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3938",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3071800",
+            "46.3575267",
+            "7.8189326",
+            "7.8808719"
+        ]
+    }
+]

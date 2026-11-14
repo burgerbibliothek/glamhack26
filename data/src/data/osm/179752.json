@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 90814150,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1244934130,
+        "lat": "46.6078662",
+        "lon": "7.7433027",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1507975276546128,
+        "addresstype": "peak",
+        "name": "Wätterlatte",
+        "display_name": "Wätterlatte, Reichenbach im Kandertal, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "peak": "Wätterlatte",
+            "village": "Reichenbach im Kandertal",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6078162",
+            "46.6079162",
+            "7.7432527",
+            "7.7433527"
+        ]
+    }
+]

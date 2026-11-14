@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92674897,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 896279969,
+        "lat": "46.7962758",
+        "lon": "6.9421211",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333887426565957,
+        "addresstype": "hamlet",
+        "name": "Vers-chez-Perrin",
+        "display_name": "Vers-chez-Perrin, Payerne, District de la Broye-Vully, Waadt, 1551, Schweiz",
+        "address": {
+            "hamlet": "Vers-chez-Perrin",
+            "town": "Payerne",
+            "county": "District de la Broye-Vully",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1551",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7762758",
+            "46.8162758",
+            "6.9221211",
+            "6.9621211"
+        ]
+    }
+]

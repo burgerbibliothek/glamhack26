@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72133869,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 61588577,
+        "lat": "47.3718436",
+        "lon": "8.5540392",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "25, Freiestrasse, Fluntern, Kreis 7, Zürich, Bezirk Zürich, Zürich, 8032, Schweiz",
+        "address": {
+            "house_number": "25",
+            "road": "Freiestrasse",
+            "suburb": "Fluntern",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8032",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3717345",
+            "47.3719525",
+            "8.5538646",
+            "8.5542138"
+        ]
+    }
+]

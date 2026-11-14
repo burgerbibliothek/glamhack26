@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93160780,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682553,
+        "lat": "47.1824376",
+        "lon": "7.8518093",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4291272415115571,
+        "addresstype": "village",
+        "name": "Melchnau",
+        "display_name": "Melchnau, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4917, Schweiz",
+        "address": {
+            "village": "Melchnau",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4917",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1536989",
+            "47.2007198",
+            "7.8285998",
+            "7.8832877"
+        ]
+    }
+]

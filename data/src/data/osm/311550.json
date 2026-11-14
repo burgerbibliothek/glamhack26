@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91575017,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9563432108,
+        "lat": "46.9475398",
+        "lon": "7.4380102",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Lokero Bistro",
+        "display_name": "Lokero Bistro, 10, Bubenbergplatz, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "amenity": "Lokero Bistro",
+            "house_number": "10",
+            "road": "Bubenbergplatz",
+            "quarter": "Rotes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9474898",
+            "46.9475898",
+            "7.4379602",
+            "7.4380602"
+        ]
+    }
+]

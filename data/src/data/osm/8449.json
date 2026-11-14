@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73400694,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684184,
+        "lat": "46.8292948",
+        "lon": "9.4064966",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3891971053939251,
+        "addresstype": "village",
+        "name": "Tamins",
+        "display_name": "Tamins, Imboden, Graubünden, 7015, Schweiz",
+        "address": {
+            "village": "Tamins",
+            "county": "Imboden",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7015",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8214285",
+            "46.8996690",
+            "9.3415852",
+            "9.4556437"
+        ]
+    }
+]

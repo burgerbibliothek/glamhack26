@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 98740146,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 150504,
+        "lat": "49.9530556",
+        "lon": "3.1938889",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5917482205101735,
+        "addresstype": "village",
+        "name": "Villeret",
+        "display_name": "Villeret, Saint-Quentin, Aisne, Nordfrankreich, Metropolitanes Frankreich, 02420, Frankreich",
+        "address": {
+            "village": "Villeret",
+            "municipality": "Saint-Quentin",
+            "county": "Aisne",
+            "ISO3166-2-lvl6": "FR-02",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "02420",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.9384082",
+            "49.9619743",
+            "3.1639962",
+            "3.2080011"
+        ]
+    }
+]

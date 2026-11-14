@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92527117,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 151852,
+        "lat": "47.0903344",
+        "lon": "6.3448893",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.5346048870091361,
+        "addresstype": "city_district",
+        "name": "Nods",
+        "display_name": "Nods, Les Premiers Sapins, Pontarlier, Doubs, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 25580, Frankreich",
+        "address": {
+            "city_district": "Nods",
+            "city": "Les Premiers Sapins",
+            "municipality": "Pontarlier",
+            "county": "Doubs",
+            "ISO3166-2-lvl6": "FR-25",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "25580",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.0653233",
+            "47.1150571",
+            "6.3135798",
+            "6.3979958"
+        ]
+    }
+]

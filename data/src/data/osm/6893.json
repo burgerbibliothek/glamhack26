@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 42148164,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2361304,
+        "lat": "15.6134137",
+        "lon": "19.0156172",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.7149693890072646,
+        "addresstype": "country",
+        "name": "Tschad",
+        "display_name": "Tschad",
+        "address": {
+            "country": "Tschad",
+            "country_code": "td"
+        },
+        "boundingbox": [
+            "7.4410700",
+            "23.4507957",
+            "13.4734800",
+            "24.0000000"
+        ]
+    }
+]

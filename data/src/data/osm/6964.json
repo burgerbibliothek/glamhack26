@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92239770,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685467,
+        "lat": "47.0102772",
+        "lon": "6.8606541",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3629003094109262,
+        "addresstype": "village",
+        "name": "Coffrane",
+        "display_name": "Coffrane, Val-de-Ruz, Val-de-Ruz Region, Neuenburg, 2207, Schweiz",
+        "address": {
+            "village": "Coffrane",
+            "city": "Val-de-Ruz",
+            "county": "Val-de-Ruz Region",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2207",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9955191",
+            "47.0251449",
+            "6.8014813",
+            "6.8836535"
+        ]
+    }
+]

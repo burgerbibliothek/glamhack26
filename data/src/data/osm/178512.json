@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73457678,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685407,
+        "lat": "46.1621804",
+        "lon": "8.1164859",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3692588589939114,
+        "addresstype": "village",
+        "name": "Zwischbergen",
+        "display_name": "Zwischbergen, Brig, Oberwallis, Wallis, 3907, Schweiz",
+        "address": {
+            "village": "Zwischbergen",
+            "county": "Brig",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3907",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0999253",
+            "46.2500735",
+            "8.0160522",
+            "8.1660043"
+        ]
+    }
+]

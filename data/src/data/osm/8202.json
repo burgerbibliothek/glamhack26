@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91747069,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682637,
+        "lat": "46.7712929",
+        "lon": "7.4036704",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.46520035607916294,
+        "addresstype": "village",
+        "name": "Rüschegg",
+        "display_name": "Rüschegg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Rüschegg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6862714",
+            "46.8107849",
+            "7.3561896",
+            "7.4524121"
+        ]
+    }
+]

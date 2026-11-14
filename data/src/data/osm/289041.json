@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 69610945,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 143863540,
+        "lat": "47.3462674",
+        "lon": "13.2063695",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 4.0000762951049326e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "13, Spitalgasse, Salzburg, 5600, Österreich",
+        "address": {
+            "house_number": "13",
+            "road": "Spitalgasse",
+            "state": "Salzburg",
+            "ISO3166-2-lvl4": "AT-5",
+            "postcode": "5600",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.3461891",
+            "47.3463436",
+            "13.2062263",
+            "13.2064658"
+        ]
+    }
+]

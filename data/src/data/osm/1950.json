@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 90747288,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 26865142,
+        "lat": "46.3547531",
+        "lon": "7.3608174",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4512696718632003,
+        "addresstype": "peak",
+        "name": "Wildhorn",
+        "display_name": "Wildhorn, Lauenen, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3782, Schweiz",
+        "address": {
+            "peak": "Wildhorn",
+            "village": "Lauenen",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3782",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3547031",
+            "46.3548031",
+            "7.3607674",
+            "7.3608674"
+        ]
+    }
+]

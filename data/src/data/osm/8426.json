@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71818368,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1508851724,
+        "lat": "47.7509275",
+        "lon": "8.5158746",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338753414206148,
+        "addresstype": "hamlet",
+        "name": "Strickhof",
+        "display_name": "Strickhof, Schleitheim, Bezirk Schleitheim, Schaffhausen, 8226, Schweiz",
+        "address": {
+            "hamlet": "Strickhof",
+            "village": "Schleitheim",
+            "county": "Bezirk Schleitheim",
+            "state": "Schaffhausen",
+            "ISO3166-2-lvl4": "CH-SH",
+            "postcode": "8226",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.7309275",
+            "47.7709275",
+            "8.4958746",
+            "8.5358746"
+        ]
+    }
+]

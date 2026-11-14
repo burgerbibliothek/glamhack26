@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 84792282,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2474205,
+        "lat": "43.1893067",
+        "lon": "0.3267126",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5714062227554058,
+        "addresstype": "village",
+        "name": "Burg",
+        "display_name": "Burg, Tarbes, Hautes Pyrenees, Okzitanien, Metropolitanes Frankreich, 65190, Frankreich",
+        "address": {
+            "village": "Burg",
+            "municipality": "Tarbes",
+            "county": "Hautes Pyrenees",
+            "ISO3166-2-lvl6": "FR-65",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "65190",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.1653632",
+            "43.2111532",
+            "0.2964202",
+            "0.3440212"
+        ]
+    }
+]

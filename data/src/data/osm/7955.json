@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93332833,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682585,
+        "lat": "47.2613485",
+        "lon": "7.6610534",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4220295981021329,
+        "addresstype": "village",
+        "name": "Oberbipp",
+        "display_name": "Oberbipp, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4538, Schweiz",
+        "address": {
+            "village": "Oberbipp",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4538",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2335005",
+            "47.2718148",
+            "7.6444413",
+            "7.7167606"
+        ]
+    }
+]

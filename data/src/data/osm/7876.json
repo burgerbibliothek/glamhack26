@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91642249,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682568,
+        "lat": "46.9124813",
+        "lon": "7.1255085",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.46731997584895757,
+        "addresstype": "village",
+        "name": "Münchenwiler",
+        "display_name": "Münchenwiler, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 1797, Schweiz",
+        "address": {
+            "village": "Münchenwiler",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "1797",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9001966",
+            "46.9193986",
+            "7.1132325",
+            "7.1384430"
+        ]
+    }
+]

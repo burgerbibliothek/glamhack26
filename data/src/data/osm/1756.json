@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91974905,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 222982906,
+        "lat": "46.5078591",
+        "lon": "7.8947712",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 22,
+        "importance": 0.10671010223544668,
+        "addresstype": "stream",
+        "name": "Schmadribach",
+        "display_name": "Schmadribach, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "stream": "Schmadribach",
+            "village": "Lauterbrunnen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4990058",
+            "46.5177928",
+            "7.8839236",
+            "7.8981741"
+        ]
+    }
+]

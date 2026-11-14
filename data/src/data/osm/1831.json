@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 90821485,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 374364519,
+        "lat": "46.4190750",
+        "lon": "7.8398997",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 22,
+        "importance": 0.10671161135271226,
+        "addresstype": "stream",
+        "name": "Stampbach",
+        "display_name": "Stampbach, Eisten, Blatten (Lötschen), Blatten, Westlich Raron, Oberwallis, Wallis, 3919, Schweiz",
+        "address": {
+            "stream": "Stampbach",
+            "hamlet": "Eisten",
+            "village": "Blatten (Lötschen)",
+            "city": "Blatten",
+            "county": "Westlich Raron",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3919",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4135800",
+            "46.4238590",
+            "7.8286317",
+            "7.8509730"
+        ]
+    }
+]

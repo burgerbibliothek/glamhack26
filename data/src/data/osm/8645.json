@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93206175,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682716,
+        "lat": "47.2353036",
+        "lon": "7.6551700",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44476072109127485,
+        "addresstype": "village",
+        "name": "Wangen an der Aare",
+        "display_name": "Wangen an der Aare, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 3380, Schweiz",
+        "address": {
+            "village": "Wangen an der Aare",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3380",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2099006",
+            "47.2395376",
+            "7.6164185",
+            "7.6768573"
+        ]
+    }
+]

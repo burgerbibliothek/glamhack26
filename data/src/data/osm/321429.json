@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 427842721,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1558490997,
+        "lat": "46.9492215",
+        "lon": "7.4495783",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "tertiary",
+        "name": "Brunngasshalde",
+        "display_name": "Brunngasshalde, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3000, Schweiz",
+        "address": {
+            "road": "Brunngasshalde",
+            "quarter": "Altstadt",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9490959",
+            "46.9493107",
+            "7.4488366",
+            "7.4503137"
+        ]
+    }
+]

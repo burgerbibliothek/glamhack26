@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92611457,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6784720177,
+        "lat": "47.0396027",
+        "lon": "7.6156314",
+        "category": "historic",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.07194870560319186,
+        "addresstype": "historic",
+        "name": "Burg Rothöchi",
+        "display_name": "Burg Rothöchi, Vorderrothweg, Oberburg, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3414, Schweiz",
+        "address": {
+            "historic": "Burg Rothöchi",
+            "road": "Vorderrothweg",
+            "village": "Oberburg",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3414",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0395527",
+            "47.0396527",
+            "7.6155814",
+            "7.6156814"
+        ]
+    }
+]

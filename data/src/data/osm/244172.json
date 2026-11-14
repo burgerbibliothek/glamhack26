@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91877873,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 303844800,
+        "lat": "46.9813236",
+        "lon": "7.3166115",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337589608606087,
+        "addresstype": "hamlet",
+        "name": "Murzelen",
+        "display_name": "Murzelen, Innerberg, Wohlen bei Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3034, Schweiz",
+        "address": {
+            "hamlet": "Murzelen",
+            "village": "Innerberg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3034",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9613236",
+            "47.0013236",
+            "7.2966115",
+            "7.3366115"
+        ]
+    }
+]

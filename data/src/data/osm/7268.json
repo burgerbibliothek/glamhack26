@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72609555,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684318,
+        "lat": "47.2724829",
+        "lon": "8.1452923",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3754795826599041,
+        "addresstype": "village",
+        "name": "Gontenschwil",
+        "display_name": "Gontenschwil, Bezirk Kulm, Aargau, 5728, Schweiz",
+        "address": {
+            "village": "Gontenschwil",
+            "county": "Bezirk Kulm",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5728",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2433368",
+            "47.2884667",
+            "8.1183685",
+            "8.1673021"
+        ]
+    }
+]

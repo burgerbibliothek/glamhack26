@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91741315,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 282026358,
+        "lat": "46.5319452",
+        "lon": "7.6732586",
+        "category": "historic",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.3343910964012564,
+        "addresstype": "historic",
+        "name": "Felsenburg",
+        "display_name": "Felsenburg, N6;223, Blausee, Blausee-Mitholz, Kandergrund, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3717, Schweiz",
+        "address": {
+            "historic": "Felsenburg",
+            "road": "N6;223",
+            "hamlet": "Blausee",
+            "village": "Kandergrund",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3717",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5318670",
+            "46.5320233",
+            "7.6731483",
+            "7.6733688"
+        ]
+    }
+]

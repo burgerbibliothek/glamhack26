@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 90637492,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1569284,
+        "lat": "46.4402783",
+        "lon": "5.5967418",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.5467657040675358,
+        "addresstype": "city_district",
+        "name": "Fétigny",
+        "display_name": "Fétigny, Valzin-en-Petite-Montagne, Lons-le-Saunier, Jura, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 39240, Frankreich",
+        "address": {
+            "city_district": "Fétigny",
+            "city": "Valzin-en-Petite-Montagne",
+            "municipality": "Lons-le-Saunier",
+            "county": "Jura",
+            "ISO3166-2-lvl6": "FR-39",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "39240",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.4308899",
+            "46.4496107",
+            "5.5810723",
+            "5.6266651"
+        ]
+    }
+]

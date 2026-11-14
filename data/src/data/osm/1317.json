@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91912662,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 800161777,
+        "lat": "46.6749329",
+        "lon": "7.9993238",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4477805781612468,
+        "addresstype": "peak",
+        "name": "Faulhorn",
+        "display_name": "Faulhorn, Iseltwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3807, Schweiz",
+        "address": {
+            "peak": "Faulhorn",
+            "village": "Iseltwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3807",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6748829",
+            "46.6749829",
+            "7.9992738",
+            "7.9993738"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92108743,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 9973356,
+        "lat": "46.9514566",
+        "lon": "7.4610857",
+        "category": "tourism",
+        "type": "artwork",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "tourism",
+        "name": "Gotthelf-Denkmal",
+        "display_name": "Gotthelf-Denkmal, Alter Aargauerstalden, Campagne Schönberg, Schosshalde, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "tourism": "Gotthelf-Denkmal",
+            "road": "Alter Aargauerstalden",
+            "neighbourhood": "Campagne Schönberg",
+            "quarter": "Schosshalde",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9514531",
+            "46.9514599",
+            "7.4610774",
+            "7.4610873"
+        ]
+    }
+]

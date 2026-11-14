@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91461330,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 219158410,
+        "lat": "46.5686391",
+        "lon": "7.4829267",
+        "category": "tourism",
+        "type": "hotel",
+        "place_rank": 30,
+        "importance": 4.57976653696043e-05,
+        "addresstype": "tourism",
+        "name": "Spillgerten",
+        "display_name": "Spillgerten, 82, Egg, Grimmialp, Diemtigen, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3757, Schweiz",
+        "address": {
+            "tourism": "Spillgerten",
+            "house_number": "82",
+            "road": "Egg",
+            "village": "Grimmialp",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3757",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5684411",
+            "46.5687174",
+            "7.4826602",
+            "7.4831384"
+        ]
+    }
+]

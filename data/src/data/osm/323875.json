@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91348031,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2712115438,
+        "lat": "46.9377800",
+        "lon": "7.4365871",
+        "category": "office",
+        "type": "diplomatic",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "office",
+        "name": "Botschaft des Großherzogtums Luxemburg",
+        "display_name": "Botschaft des Großherzogtums Luxemburg, 38, Sulgenauweg, Weissenbühl, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3007, Schweiz",
+        "address": {
+            "office": "Botschaft des Großherzogtums Luxemburg",
+            "house_number": "38",
+            "road": "Sulgenauweg",
+            "quarter": "Weissenbühl",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3007",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9377300",
+            "46.9378300",
+            "7.4365371",
+            "7.4366371"
+        ]
+    }
+]

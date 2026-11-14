@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 113827079,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1126046711,
+        "lat": "51.8363763",
+        "lon": "6.6049069",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 5.816052491030774e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "28, Spinnereiweg, Weber Quartier, Feldmark, Bocholt, Kreis Borken, Nordrhein-Westfalen, 46395, Deutschland",
+        "address": {
+            "house_number": "28",
+            "road": "Spinnereiweg",
+            "residential": "Weber Quartier",
+            "suburb": "Feldmark",
+            "town": "Bocholt",
+            "county": "Kreis Borken",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "46395",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.8363001",
+            "51.8364368",
+            "6.6047961",
+            "6.6050057"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73924337,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1659901,
+        "lat": "46.6156719",
+        "lon": "8.3314705",
+        "category": "water",
+        "type": "reservoir",
+        "place_rank": 20,
+        "importance": 0.3479646975901272,
+        "addresstype": "reservoir",
+        "name": "Gelmersee",
+        "display_name": "Gelmersee, Guttannen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3864, Schweiz",
+        "address": {
+            "reservoir": "Gelmersee",
+            "city": "Guttannen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3864",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6102901",
+            "46.6210402",
+            "8.3199677",
+            "8.3376880"
+        ]
+    }
+]

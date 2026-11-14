@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 56227843,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 543490,
+        "lat": "37.7243694",
+        "lon": "23.4938109",
+        "category": "place",
+        "type": "island",
+        "place_rank": 17,
+        "importance": 0.560301115014694,
+        "addresstype": "island",
+        "name": "Ägina",
+        "display_name": "Ägina, Kypseli, Municipality of Aegina, Regionalbezirk Inseln, Region Attika, Attika, 180 10, Griechenland",
+        "address": {
+            "island": "Ägina",
+            "village": "Kypseli",
+            "municipality": "Municipality of Aegina",
+            "county": "Regionalbezirk Inseln",
+            "state": "Region Attika",
+            "ISO3166-2-lvl5": "GR-I",
+            "postcode": "180 10",
+            "country": "Griechenland",
+            "country_code": "gr"
+        },
+        "boundingbox": [
+            "37.6735755",
+            "37.7751140",
+            "23.4174315",
+            "23.5652998"
+        ]
+    }
+]

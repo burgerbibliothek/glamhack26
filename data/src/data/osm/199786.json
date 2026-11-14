@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73926127,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 4447274,
+        "lat": "46.6979839",
+        "lon": "10.0943311",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.436622561458167,
+        "addresstype": "village",
+        "name": "Zernez",
+        "display_name": "Zernez, Region Engiadina Bassa/Val Müstair, Graubünden, Schweiz",
+        "address": {
+            "village": "Zernez",
+            "county": "Region Engiadina Bassa/Val Müstair",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6051029",
+            "46.8487910",
+            "9.9329914",
+            "10.2795287"
+        ]
+    }
+]

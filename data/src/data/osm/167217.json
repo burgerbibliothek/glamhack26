@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91535319,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 948687674,
+        "lat": "46.4687644",
+        "lon": "7.1390176",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 19,
+        "importance": 0.14671679179064617,
+        "addresstype": "river",
+        "name": "La Sarine",
+        "display_name": "La Sarine, Château-d'Oex, Bezirk Riviera-Pays-d'Enhaut, Waadt, 1660, Schweiz",
+        "address": {
+            "river": "La Sarine",
+            "village": "Château-d'Oex",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1660",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4683096",
+            "46.4693308",
+            "7.1361496",
+            "7.1420841"
+        ]
+    }
+]

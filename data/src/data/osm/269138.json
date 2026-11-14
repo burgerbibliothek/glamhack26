@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93244721,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685594,
+        "lat": "47.3418687",
+        "lon": "7.3162671",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39038942373343144,
+        "addresstype": "village",
+        "name": "Courtételle",
+        "display_name": "Courtételle, Bezirk Delsberg, Jura, 2852, Schweiz",
+        "address": {
+            "village": "Courtételle",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2852",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3058958",
+            "47.3590587",
+            "7.2960472",
+            "7.3376844"
+        ]
+    }
+]

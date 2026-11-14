@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91432396,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683334,
+        "lat": "46.5210722",
+        "lon": "7.0602291",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.406074657779347,
+        "addresstype": "neighbourhood",
+        "name": "Haut-Intyamon",
+        "display_name": "Haut-Intyamon, Neirivue, Greyerzbezirk, Freiburg, 1669, Schweiz",
+        "address": {
+            "neighbourhood": "Haut-Intyamon",
+            "village": "Neirivue",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1669",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4379090",
+            "46.5460035",
+            "6.9778237",
+            "7.1096618"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93225501,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 76028723,
+        "lat": "47.3626797",
+        "lon": "7.3912883",
+        "category": "landuse",
+        "type": "residential",
+        "place_rank": 24,
+        "importance": 0.08004507133592734,
+        "addresstype": "residential",
+        "name": "Courcelon",
+        "display_name": "Courcelon, Courroux, Bezirk Delsberg, Jura, 2823, Schweiz",
+        "address": {
+            "residential": "Courcelon",
+            "village": "Courroux",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2823",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3592045",
+            "47.3661846",
+            "7.3824786",
+            "7.3993004"
+        ]
+    }
+]

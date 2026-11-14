@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 191096406,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 337546201,
+        "lat": "49.7542530",
+        "lon": "24.4856490",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.4164918895942647,
+        "addresstype": "village",
+        "name": "Unterwalden",
+        "display_name": "Unterwalden, Hlyniany Urban Hromada, Rajon Lwiw, Oblast Lemberg, 80726, Ukraine",
+        "address": {
+            "village": "Unterwalden",
+            "municipality": "Hlyniany Urban Hromada",
+            "district": "Rajon Lwiw",
+            "state": "Oblast Lemberg",
+            "ISO3166-2-lvl4": "UA-46",
+            "postcode": "80726",
+            "country": "Ukraine",
+            "country_code": "ua"
+        },
+        "boundingbox": [
+            "49.7342530",
+            "49.7742530",
+            "24.4656490",
+            "24.5056490"
+        ]
+    }
+]

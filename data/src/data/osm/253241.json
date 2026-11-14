@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 418112853,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240083079,
+        "lat": "46.7871217",
+        "lon": "10.2825111",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.23992860907835414,
+        "addresstype": "hamlet",
+        "name": "Vulpera",
+        "display_name": "Vulpera, Tarasp, Scuol, Region Engiadina Bassa/Val Müstair, Graubünden, 7553, Schweiz",
+        "address": {
+            "hamlet": "Vulpera",
+            "village": "Tarasp",
+            "county": "Region Engiadina Bassa/Val Müstair",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7553",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7671217",
+            "46.8071217",
+            "10.2625111",
+            "10.3025111"
+        ]
+    }
+]

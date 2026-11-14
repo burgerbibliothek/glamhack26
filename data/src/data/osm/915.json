@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 89267737,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3559071817,
+        "lat": "45.8425807",
+        "lon": "6.8434727",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.41761525391502413,
+        "addresstype": "peak",
+        "name": "Dôme du Goûter",
+        "display_name": "Dôme du Goûter, Courmayeur, Aostatal, Italien",
+        "address": {
+            "peak": "Dôme du Goûter",
+            "city": "Courmayeur",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8425307",
+            "45.8426307",
+            "6.8434227",
+            "6.8435227"
+        ]
+    }
+]

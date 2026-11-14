@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 186401959,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 12512007,
+        "lat": "48.2110816",
+        "lon": "16.3639852",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.14389741120638372,
+        "addresstype": "building",
+        "name": "Palais Trauttmansdorff",
+        "display_name": "Palais Trauttmansdorff, 21, Herrengasse, Schottenviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich",
+        "address": {
+            "building": "Palais Trauttmansdorff",
+            "house_number": "21",
+            "road": "Herrengasse",
+            "neighbourhood": "Schottenviertel",
+            "suburb": "Innere Stadt",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1010",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2107907",
+            "48.2113586",
+            "16.3636572",
+            "16.3646700"
+        ]
+    }
+]

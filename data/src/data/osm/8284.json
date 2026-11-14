@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73878606,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682921,
+        "lat": "46.9517174",
+        "lon": "8.0179530",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3930358659837339,
+        "addresstype": "village",
+        "name": "Schüpfheim",
+        "display_name": "Schüpfheim, Luzern, 6170, Schweiz",
+        "address": {
+            "village": "Schüpfheim",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6170",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9095703",
+            "46.9804448",
+            "7.9468322",
+            "8.0705417"
+        ]
+    }
+]

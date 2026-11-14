@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73714751,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683095,
+        "lat": "46.5988457",
+        "lon": "8.5020509",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41958999249091855,
+        "addresstype": "village",
+        "name": "Realp",
+        "display_name": "Realp, Korporation Ursern, Uri, 6491, Schweiz",
+        "address": {
+            "village": "Realp",
+            "county": "Korporation Ursern",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6491",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5276141",
+            "46.6272623",
+            "8.4061444",
+            "8.5392589"
+        ]
+    }
+]

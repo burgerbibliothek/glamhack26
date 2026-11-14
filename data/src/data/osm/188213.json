@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92084936,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2701064649,
+        "lat": "46.9487525",
+        "lon": "7.4289738",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Azzurro",
+        "display_name": "Azzurro, 5, Lindenrain, Stadtbach, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "amenity": "Azzurro",
+            "house_number": "5",
+            "road": "Lindenrain",
+            "quarter": "Stadtbach",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9487025",
+            "46.9488025",
+            "7.4289238",
+            "7.4290238"
+        ]
+    }
+]

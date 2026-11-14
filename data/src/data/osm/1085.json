@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 209919492,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 184840,
+        "lat": "34.6401861",
+        "lon": "39.0494106",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.8008455060457236,
+        "addresstype": "country",
+        "name": "Syrien",
+        "display_name": "Syrien",
+        "address": {
+            "country": "Syrien",
+            "country_code": "sy"
+        },
+        "boundingbox": [
+            "32.3117576",
+            "37.3186819",
+            "35.4714427",
+            "42.3745894"
+        ]
+    }
+]

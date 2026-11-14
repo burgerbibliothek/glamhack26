@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91486391,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685353,
+        "lat": "46.1002792",
+        "lon": "7.7824120",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41359616883692174,
+        "addresstype": "village",
+        "name": "Randa",
+        "display_name": "Randa, Visp, Oberwallis, Wallis, 3928, Schweiz",
+        "address": {
+            "village": "Randa",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3928",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0648171",
+            "46.1259945",
+            "7.6894199",
+            "7.8686311"
+        ]
+    }
+]

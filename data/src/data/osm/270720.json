@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92122847,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683266,
+        "lat": "46.5110996",
+        "lon": "6.8489696",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.35699141996923245,
+        "addresstype": "village",
+        "name": "Attalens",
+        "display_name": "Attalens, Vivisbachbezirk, Freiburg, 1616, Schweiz",
+        "address": {
+            "village": "Attalens",
+            "county": "Vivisbachbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1616",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4930553",
+            "46.5404754",
+            "6.8303393",
+            "6.8816724"
+        ]
+    }
+]

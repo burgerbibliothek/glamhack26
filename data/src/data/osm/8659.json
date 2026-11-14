@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92332227,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682718,
+        "lat": "46.7691764",
+        "lon": "7.5076613",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4181697918103512,
+        "addresstype": "village",
+        "name": "Wattenwil",
+        "display_name": "Wattenwil, Verwaltungskreis Thun, Oberland administrative region, Bern, 3665, Schweiz",
+        "address": {
+            "village": "Wattenwil",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3665",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7334755",
+            "46.7842474",
+            "7.4597331",
+            "7.5207208"
+        ]
+    }
+]

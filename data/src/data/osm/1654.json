@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92597081,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 788616665,
+        "lat": "47.2795289",
+        "lon": "7.2292047",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 22,
+        "importance": 0.12743869505990896,
+        "addresstype": "stream",
+        "name": "Pichoux",
+        "display_name": "Pichoux, Semplain, Sornetan, Petit-Val, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2716, Schweiz",
+        "address": {
+            "stream": "Pichoux",
+            "hamlet": "Semplain",
+            "village": "Sornetan",
+            "city": "Petit-Val",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2716",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2793951",
+            "47.2796626",
+            "7.2289647",
+            "7.2294448"
+        ]
+    }
+]

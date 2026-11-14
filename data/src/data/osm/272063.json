@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92181367,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1425180906,
+        "lat": "46.9639680",
+        "lon": "7.0939610",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.3095991533582804,
+        "addresstype": "peak",
+        "name": "Mont Vully",
+        "display_name": "Mont Vully, Wistenlach, Seebezirk, Freiburg, 1788, Schweiz",
+        "address": {
+            "peak": "Mont Vully",
+            "city": "Wistenlach",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1788",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9639180",
+            "46.9640180",
+            "7.0939110",
+            "7.0940110"
+        ]
+    }
+]

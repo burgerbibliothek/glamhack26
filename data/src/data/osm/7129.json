@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 112279685,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1590371652,
+        "lat": "51.2344961",
+        "lon": "6.7900699",
+        "category": "shop",
+        "type": "deli",
+        "place_rank": 30,
+        "importance": 7.726176852059232e-05,
+        "addresstype": "shop",
+        "name": "Ergül",
+        "display_name": "Ergül, 74, Derendorfer Straße, Pempelfort, Stadtbezirk 1, Düsseldorf, Nordrhein-Westfalen, 40479, Deutschland",
+        "address": {
+            "shop": "Ergül",
+            "house_number": "74",
+            "road": "Derendorfer Straße",
+            "suburb": "Pempelfort",
+            "city_district": "Stadtbezirk 1",
+            "city": "Düsseldorf",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "40479",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.2344461",
+            "51.2345461",
+            "6.7900199",
+            "6.7901199"
+        ]
+    }
+]

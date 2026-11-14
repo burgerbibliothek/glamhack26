@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92128459,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683338,
+        "lat": "46.8259771",
+        "lon": "7.3027277",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.36107739355702545,
+        "addresstype": "village",
+        "name": "Heitenried",
+        "display_name": "Heitenried, Sensebezirk, Freiburg, 1714, Schweiz",
+        "address": {
+            "village": "Heitenried",
+            "county": "Sensebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1714",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8181620",
+            "46.8537019",
+            "7.2758081",
+            "7.3312261"
+        ]
+    }
+]

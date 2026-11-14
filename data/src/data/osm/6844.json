@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92688857,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7297130027,
+        "lat": "47.1052449",
+        "lon": "7.7724826",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337106660563056,
+        "addresstype": "hamlet",
+        "name": "Brestenberg",
+        "display_name": "Brestenberg, Walterswil (BE), Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4942, Schweiz",
+        "address": {
+            "hamlet": "Brestenberg",
+            "village": "Walterswil (BE)",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4942",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0852449",
+            "47.1252449",
+            "7.7524826",
+            "7.7924826"
+        ]
+    }
+]

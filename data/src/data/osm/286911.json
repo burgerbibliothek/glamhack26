@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 6737295,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 7292367,
+        "lat": "-24.9228204",
+        "lon": "-50.1414285",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.14672199359121077,
+        "addresstype": "suburb",
+        "name": "Pilatus",
+        "display_name": "Pilatus, Carambeí, Paraná, Süden, Brasilien",
+        "address": {
+            "suburb": "Pilatus",
+            "town": "Carambeí",
+            "state": "Paraná",
+            "ISO3166-2-lvl4": "BR-PR",
+            "region": "Süden",
+            "country": "Brasilien",
+            "country_code": "br"
+        },
+        "boundingbox": [
+            "-24.9351428",
+            "-24.9104094",
+            "-50.1562421",
+            "-50.1351399"
+        ]
+    }
+]

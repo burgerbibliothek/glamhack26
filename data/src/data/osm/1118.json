@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 376716469,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 17993210,
+        "lat": "49.8370591",
+        "lon": "-119.6388985",
+        "category": "place",
+        "type": "neighbourhood",
+        "place_rank": 24,
+        "importance": 0.14671180056458377,
+        "addresstype": "suburb",
+        "name": "Westbank",
+        "display_name": "Westbank, West Kelowna, Westbank First Nation #9, Regional District of Central Okanagan, Britisch-Kolumbien, Kanada",
+        "address": {
+            "suburb": "Westbank",
+            "city": "West Kelowna",
+            "municipality": "Westbank First Nation #9",
+            "county": "Regional District of Central Okanagan",
+            "state": "Britisch-Kolumbien",
+            "ISO3166-2-lvl4": "CA-BC",
+            "country": "Kanada",
+            "country_code": "ca"
+        },
+        "boundingbox": [
+            "49.8184933",
+            "49.8476271",
+            "-119.6613811",
+            "-119.6220042"
+        ]
+    }
+]

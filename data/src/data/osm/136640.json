@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 123090515,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 108047180,
+        "lat": "48.8034849",
+        "lon": "9.2115783",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.8644235904433e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "8, Seilerstraße, Cannstatt-Mitte, Bad Cannstatt, Stuttgart, Baden-Württemberg, 70372, Deutschland",
+        "address": {
+            "house_number": "8",
+            "road": "Seilerstraße",
+            "neighbourhood": "Cannstatt-Mitte",
+            "suburb": "Bad Cannstatt",
+            "city": "Stuttgart",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "70372",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.8034363",
+            "48.8035439",
+            "9.2115162",
+            "9.2116411"
+        ]
+    }
+]

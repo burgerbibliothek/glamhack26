@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 90995944,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11435845192,
+        "lat": "46.4598006",
+        "lon": "6.9591229",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1600641344319829,
+        "addresstype": "peak",
+        "name": "Les Mosses",
+        "display_name": "Les Mosses, Montreux, Bezirk Riviera-Pays-d'Enhaut, Waadt, 1833, Schweiz",
+        "address": {
+            "peak": "Les Mosses",
+            "town": "Montreux",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1833",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4597506",
+            "46.4598506",
+            "6.9590729",
+            "6.9591729"
+        ]
+    }
+]

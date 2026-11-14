@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 70883863,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 308075587,
+        "lat": "47.7430119",
+        "lon": "10.2701945",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.3002719692158251,
+        "addresstype": "hamlet",
+        "name": "Öschberg",
+        "display_name": "Öschberg, Hinterbach, Kempten (Allgäu), Bayern, 87439, Deutschland",
+        "address": {
+            "hamlet": "Öschberg",
+            "village": "Hinterbach",
+            "town": "Kempten (Allgäu)",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "87439",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.7230119",
+            "47.7630119",
+            "10.2501945",
+            "10.2901945"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93122526,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 850722287,
+        "lat": "47.2455994",
+        "lon": "7.9591150",
+        "category": "highway",
+        "type": "platform",
+        "place_rank": 30,
+        "importance": 3.9243915464973186e-05,
+        "addresstype": "highway",
+        "name": "Mehlsecken",
+        "display_name": "Mehlsecken, Pfaffnauerstrasse, Langnau b. Reiden, Reiden, Luzern, 6260, Schweiz",
+        "address": {
+            "highway": "Mehlsecken",
+            "road": "Pfaffnauerstrasse",
+            "village": "Langnau b. Reiden",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6260",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2455399",
+            "47.2456479",
+            "7.9590102",
+            "7.9592255"
+        ]
+    }
+]

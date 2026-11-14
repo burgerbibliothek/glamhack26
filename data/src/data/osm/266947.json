@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 105112827,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2078288,
+        "lat": "50.9732145",
+        "lon": "5.7606819",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 14,
+        "importance": 0.4638398889153479,
+        "addresstype": "municipality",
+        "name": "Stein",
+        "display_name": "Stein, Limburg, Niederlande",
+        "address": {
+            "municipality": "Stein",
+            "state": "Limburg",
+            "ISO3166-2-lvl4": "NL-LI",
+            "country": "Niederlande",
+            "country_code": "nl"
+        },
+        "boundingbox": [
+            "50.9279279",
+            "51.0191665",
+            "5.7196304",
+            "5.7892472"
+        ]
+    }
+]

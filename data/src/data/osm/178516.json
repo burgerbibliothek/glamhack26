@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92842329,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1951250295,
+        "lat": "47.0650103",
+        "lon": "7.6402882",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 5.681620508120878e-05,
+        "addresstype": "information",
+        "name": "Summerhus",
+        "display_name": "Summerhus, Kaltacker-Lueg-Strasse, Inneres Sommerhaus, Burgdorf, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3401, Schweiz",
+        "address": {
+            "information": "Summerhus",
+            "road": "Kaltacker-Lueg-Strasse",
+            "neighbourhood": "Inneres Sommerhaus",
+            "town": "Burgdorf",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3401",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0649603",
+            "47.0650603",
+            "7.6402382",
+            "7.6403382"
+        ]
+    }
+]

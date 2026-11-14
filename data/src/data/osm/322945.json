@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 143867620,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 556233800,
+        "lat": "52.5219940",
+        "lon": "13.3811443",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "28, Marienstraße, Friedrich-Wilhelm-Stadt, Mitte, Berlin, 10117, Deutschland",
+        "address": {
+            "house_number": "28",
+            "road": "Marienstraße",
+            "quarter": "Friedrich-Wilhelm-Stadt",
+            "suburb": "Mitte",
+            "borough": "Mitte",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10117",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5219238",
+            "52.5220668",
+            "13.3809984",
+            "13.3812893"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91830349,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 219381989,
+        "lat": "46.6749111",
+        "lon": "7.6353250",
+        "category": "highway",
+        "type": "unclassified",
+        "place_rank": 26,
+        "importance": 0.053380547035934964,
+        "addresstype": "unclassified",
+        "name": "Simmenfluhstrasse",
+        "display_name": "Simmenfluhstrasse, Wimmis, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3752, Schweiz",
+        "address": {
+            "road": "Simmenfluhstrasse",
+            "village": "Wimmis",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3752",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6745385",
+            "46.6752342",
+            "7.6348908",
+            "7.6357041"
+        ]
+    }
+]

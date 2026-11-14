@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71777047,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682137,
+        "lat": "47.5467745",
+        "lon": "8.7095144",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3957352519202844,
+        "addresstype": "village",
+        "name": "Hettlingen",
+        "display_name": "Hettlingen, Bezirk Winterthur, Zürich, 8442, Schweiz",
+        "address": {
+            "village": "Hettlingen",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8442",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5327975",
+            "47.5637082",
+            "8.6873270",
+            "8.7297106"
+        ]
+    }
+]

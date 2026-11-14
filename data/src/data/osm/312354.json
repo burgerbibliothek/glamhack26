@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91486875,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1226408275,
+        "lat": "46.5538391",
+        "lon": "7.0136731",
+        "category": "landuse",
+        "type": "winter_sports",
+        "place_rank": 24,
+        "importance": 0.08005022430762185,
+        "addresstype": "winter_sports",
+        "name": "Le Moléson",
+        "display_name": "Le Moléson, Moléson-sur-Gruyères, Gruyères, Greyerzbezirk, Freiburg, 1663, Schweiz",
+        "address": {
+            "winter_sports": "Le Moléson",
+            "village": "Moléson-sur-Gruyères",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1663",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5466053",
+            "46.5608447",
+            "7.0039825",
+            "7.0398597"
+        ]
+    }
+]

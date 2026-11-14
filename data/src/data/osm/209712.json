@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73878892,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 286930137,
+        "lat": "46.6126214",
+        "lon": "8.4169572",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44721600109457404,
+        "addresstype": "peak",
+        "name": "Galenstock",
+        "display_name": "Galenstock, Obergoms, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "peak": "Galenstock",
+            "city": "Obergoms",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6125714",
+            "46.6126714",
+            "8.4169072",
+            "8.4170072"
+        ]
+    }
+]

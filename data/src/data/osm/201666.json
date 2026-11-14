@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 209787750,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3586518225,
+        "lat": "36.5835700",
+        "lon": "38.2994556",
+        "category": "place",
+        "type": "town",
+        "place_rank": 18,
+        "importance": 0.16004000076295108,
+        "addresstype": "town",
+        "name": "Sarin",
+        "display_name": "Sarin, Unterdistrikt Sarin, Distrikt Ein al-Arab, Gouvernement Aleppo, Syrien",
+        "address": {
+            "town": "Sarin",
+            "subdistrict": "Unterdistrikt Sarin",
+            "state_district": "Distrikt Ein al-Arab",
+            "state": "Gouvernement Aleppo",
+            "ISO3166-2-lvl4": "SY-HL",
+            "country": "Syrien",
+            "country_code": "sy"
+        },
+        "boundingbox": [
+            "36.5435700",
+            "36.6235700",
+            "38.2594556",
+            "38.3394556"
+        ]
+    }
+]

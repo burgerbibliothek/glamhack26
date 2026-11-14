@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91480477,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 272856213,
+        "lat": "46.5852463",
+        "lon": "7.9613132",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.4162648857824267,
+        "addresstype": "mountain_pass",
+        "name": "Kleine Scheidegg",
+        "display_name": "Kleine Scheidegg, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3823, Schweiz",
+        "address": {
+            "mountain_pass": "Kleine Scheidegg",
+            "village": "Lauterbrunnen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3823",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5851963",
+            "46.5852963",
+            "7.9612632",
+            "7.9613632"
+        ]
+    }
+]

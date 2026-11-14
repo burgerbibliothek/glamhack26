@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91981615,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684974,
+        "lat": "46.8280744",
+        "lon": "6.6240029",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4493771408372394,
+        "addresstype": "village",
+        "name": "Fiez",
+        "display_name": "Fiez, District du Jura-Nord vaudois, Waadt, 1420, Schweiz",
+        "address": {
+            "village": "Fiez",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1420",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8209588",
+            "46.8755284",
+            "6.5275354",
+            "6.6423667"
+        ]
+    }
+]

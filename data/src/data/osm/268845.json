@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92468848,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685620,
+        "lat": "47.2460070",
+        "lon": "6.9794762",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3687910674753876,
+        "addresstype": "village",
+        "name": "Muriaux",
+        "display_name": "Muriaux, Freiberge, Jura, 2338, Schweiz",
+        "address": {
+            "village": "Muriaux",
+            "county": "Freiberge",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2338",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1741373",
+            "47.2540077",
+            "6.9514545",
+            "7.0207854"
+        ]
+    }
+]

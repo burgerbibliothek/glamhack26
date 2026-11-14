@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92133039,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1868689,
+        "lat": "46.7247192",
+        "lon": "6.8919532",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4093142170089203,
+        "addresstype": "city",
+        "name": "Valbroye",
+        "display_name": "Valbroye, District de la Broye-Vully, Waadt, Schweiz",
+        "address": {
+            "city": "Valbroye",
+            "county": "District de la Broye-Vully",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7084381",
+            "46.7880030",
+            "6.7833153",
+            "6.9225852"
+        ]
+    }
+]

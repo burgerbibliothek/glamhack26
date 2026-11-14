@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91369446,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1686705,
+        "lat": "46.2777370",
+        "lon": "7.6680225",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.45725063137282856,
+        "addresstype": "county",
+        "name": "Leuk",
+        "display_name": "Leuk, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "county": "Leuk",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1107496",
+            "46.4450853",
+            "7.5286076",
+            "7.7624760"
+        ]
+    }
+]

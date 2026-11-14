@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93342228,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240091548,
+        "lat": "47.4122573",
+        "lon": "7.1981669",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.31243468429384014,
+        "addresstype": "village",
+        "name": "Fregiécourt",
+        "display_name": "Fregiécourt, La Baroche, Bezirk Porrentruy, Jura, 2953, Schweiz",
+        "address": {
+            "village": "Fregiécourt",
+            "city": "La Baroche",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2953",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3922573",
+            "47.4322573",
+            "7.1781669",
+            "7.2181669"
+        ]
+    }
+]

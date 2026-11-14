@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 140473428,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 634128292,
+        "lat": "52.3692967",
+        "lon": "9.7459792",
+        "category": "building",
+        "type": "hotel",
+        "place_rank": 30,
+        "importance": 7.639047837029095e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "9,11, Marienstraße, Mitte, Hannover, Region Hannover, Niedersachsen, 30171, Deutschland",
+        "address": {
+            "house_number": "9,11",
+            "road": "Marienstraße",
+            "suburb": "Mitte",
+            "city_district": "Mitte",
+            "city": "Hannover",
+            "county": "Region Hannover",
+            "state": "Niedersachsen",
+            "ISO3166-2-lvl4": "DE-NI",
+            "postcode": "30171",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.3691315",
+            "52.3694761",
+            "9.7452802",
+            "9.7462479"
+        ]
+    }
+]

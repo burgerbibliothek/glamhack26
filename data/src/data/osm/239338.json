@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73402888,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 42742413,
+        "lat": "46.5026826",
+        "lon": "8.0369944",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.23822746059912708,
+        "addresstype": "glacier",
+        "name": "Konkordiaplatz",
+        "display_name": "Konkordiaplatz, Fieschertal, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "glacier": "Konkordiaplatz",
+            "village": "Fieschertal",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4917141",
+            "46.5103026",
+            "8.0236559",
+            "8.0499200"
+        ]
+    }
+]

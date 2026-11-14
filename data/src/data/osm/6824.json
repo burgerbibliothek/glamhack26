@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91560318,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 370171011,
+        "lat": "46.7995366",
+        "lon": "7.1752652",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333989204242008,
+        "addresstype": "hamlet",
+        "name": "Bürglen",
+        "display_name": "Bürglen, Freiburg, Saanebezirk, Freiburg, 1722, Schweiz",
+        "address": {
+            "hamlet": "Bürglen",
+            "town": "Freiburg",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1722",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7795366",
+            "46.8195366",
+            "7.1552652",
+            "7.1952652"
+        ]
+    }
+]

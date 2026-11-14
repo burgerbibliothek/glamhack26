@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91872282,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4913359248,
+        "lat": "46.9482493",
+        "lon": "7.7483460",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1467056374456397,
+        "addresstype": "village",
+        "name": "Emmenmatt",
+        "display_name": "Emmenmatt, Lauperswil, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3543, Schweiz",
+        "address": {
+            "village": "Emmenmatt",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3543",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9282493",
+            "46.9682493",
+            "7.7283460",
+            "7.7683460"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 138934096,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2978842674,
+        "lat": "50.5154305",
+        "lon": "8.7073431",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005147096971084,
+        "addresstype": "peak",
+        "name": "Obersteinberg",
+        "display_name": "Obersteinberg, Leihgestern, Linden, Landkreis Gießen, Hessen, 35440, Deutschland",
+        "address": {
+            "peak": "Obersteinberg",
+            "village": "Leihgestern",
+            "municipality": "Linden",
+            "county": "Landkreis Gießen",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "35440",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.5153805",
+            "50.5154805",
+            "8.7072931",
+            "8.7073931"
+        ]
+    }
+]

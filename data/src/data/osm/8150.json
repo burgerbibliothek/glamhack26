@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 73027836,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1687101,
+        "lat": "47.3776131",
+        "lon": "9.5867937",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.44097408650972797,
+        "addresstype": "county",
+        "name": "Wahlkreis Rheintal",
+        "display_name": "Wahlkreis Rheintal, St. Gallen, Schweiz",
+        "address": {
+            "county": "Wahlkreis Rheintal",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2689268",
+            "47.4864500",
+            "9.4839504",
+            "9.6741399"
+        ]
+    }
+]

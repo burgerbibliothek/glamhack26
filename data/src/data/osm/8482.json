@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92943391,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682685,
+        "lat": "47.1733314",
+        "lon": "7.7287365",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4196979736104267,
+        "addresstype": "village",
+        "name": "Thörigen",
+        "display_name": "Thörigen, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 3367, Schweiz",
+        "address": {
+            "village": "Thörigen",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3367",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1556568",
+            "47.1929389",
+            "7.7158298",
+            "7.7492148"
+        ]
+    }
+]

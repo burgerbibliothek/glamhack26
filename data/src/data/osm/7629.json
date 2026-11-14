@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72521252,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684351,
+        "lat": "47.3873136",
+        "lon": "8.1821873",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4821420033835039,
+        "addresstype": "town",
+        "name": "Lenzburg",
+        "display_name": "Lenzburg, Bezirk Lenzburg, Aargau, 5600, Schweiz",
+        "address": {
+            "town": "Lenzburg",
+            "county": "Bezirk Lenzburg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5600",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3625136",
+            "47.4087048",
+            "8.1448943",
+            "8.2042044"
+        ]
+    }
+]

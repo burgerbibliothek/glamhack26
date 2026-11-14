@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91410824,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9084199059,
+        "lat": "46.9476988",
+        "lon": "7.4541127",
+        "category": "information",
+        "type": "board",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "information",
+        "name": "Junkerngasse 43",
+        "display_name": "Junkerngasse 43, Junkerngasse, Weisses Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3000, Schweiz",
+        "address": {
+            "information": "Junkerngasse 43",
+            "road": "Junkerngasse",
+            "quarter": "Weisses Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9476488",
+            "46.9477488",
+            "7.4540627",
+            "7.4541627"
+        ]
+    }
+]

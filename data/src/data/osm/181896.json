@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91376464,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 506243886,
+        "lat": "46.5220948",
+        "lon": "7.9806810",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4434976767478008,
+        "addresstype": "peak",
+        "name": "Kranzberg",
+        "display_name": "Kranzberg, Fieschertal, Goms, Oberwallis, Wallis, 3801, Schweiz",
+        "address": {
+            "peak": "Kranzberg",
+            "village": "Fieschertal",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3801",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5220448",
+            "46.5221448",
+            "7.9806310",
+            "7.9807310"
+        ]
+    }
+]

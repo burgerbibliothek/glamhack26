@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91757547,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5817647,
+        "lat": "46.8216259",
+        "lon": "7.1068684",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4077792123453851,
+        "addresstype": "village",
+        "name": "Belfaux",
+        "display_name": "Belfaux, Saanebezirk, Freiburg, 1782, Schweiz",
+        "address": {
+            "village": "Belfaux",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1782",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8078059",
+            "46.8489645",
+            "7.0616015",
+            "7.1200577"
+        ]
+    }
+]

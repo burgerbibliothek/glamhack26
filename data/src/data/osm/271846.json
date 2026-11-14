@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92264555,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 383176866,
+        "lat": "46.6932324",
+        "lon": "6.9529101",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2909516038077344,
+        "addresstype": "village",
+        "name": "Berlens",
+        "display_name": "Berlens, Mézières (FR), Glanebezirk, Freiburg, 1680, Schweiz",
+        "address": {
+            "village": "Berlens",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1680",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6732324",
+            "46.7132324",
+            "6.9329101",
+            "6.9729101"
+        ]
+    }
+]

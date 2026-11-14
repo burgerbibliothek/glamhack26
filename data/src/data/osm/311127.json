@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 273453932,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7924233982,
+        "lat": "54.8305769",
+        "lon": "-6.6048685",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671755016403443,
+        "addresstype": "village",
+        "name": "Lavey",
+        "display_name": "Lavey, Mid-Ulster District, County Londonderry, Nordirland, Vereinigtes Königreich",
+        "address": {
+            "village": "Lavey",
+            "municipality": "Mid-Ulster District",
+            "ISO3166-2-lvl7": "GB-MUL",
+            "county": "County Londonderry",
+            "state": "Nordirland",
+            "ISO3166-2-lvl4": "GB-NIR",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "54.8105769",
+            "54.8505769",
+            "-6.6248685",
+            "-6.5848685"
+        ]
+    }
+]

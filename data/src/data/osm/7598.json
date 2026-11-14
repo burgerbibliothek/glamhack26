@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71703129,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682159,
+        "lat": "47.6735069",
+        "lon": "8.6222366",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4105664642266795,
+        "addresstype": "municipality",
+        "name": "Laufen-Uhwiesen",
+        "display_name": "Laufen-Uhwiesen, Bezirk Andelfingen, Zürich, 8248, Schweiz",
+        "address": {
+            "municipality": "Laufen-Uhwiesen",
+            "county": "Bezirk Andelfingen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8248",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.6598248",
+            "47.6788265",
+            "8.6061420",
+            "8.6790694"
+        ]
+    }
+]

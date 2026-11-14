@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91992806,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685487,
+        "lat": "46.2644177",
+        "lon": "6.1570636",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4512696718632003,
+        "addresstype": "village",
+        "name": "Genthod",
+        "display_name": "Genthod, Genf, 1294, Schweiz",
+        "address": {
+            "village": "Genthod",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "postcode": "1294",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2516820",
+            "46.2754570",
+            "6.1411404",
+            "6.1840094"
+        ]
+    }
+]

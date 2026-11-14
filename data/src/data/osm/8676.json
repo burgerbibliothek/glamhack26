@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92936818,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13787485900,
+        "lat": "47.0846750",
+        "lon": "7.4026774",
+        "category": "shop",
+        "type": "farm",
+        "place_rank": 30,
+        "importance": 4.521629663534016e-05,
+        "addresstype": "shop",
+        "name": "Hofladen Wengi Chinzi Hof",
+        "display_name": "Hofladen Wengi Chinzi Hof, 4a, Hauptstrasse, Zimlisberg-Hole, Wengi, Seeland administrative district, Seeland administrative region, Bern, 3251, Schweiz",
+        "address": {
+            "shop": "Hofladen Wengi Chinzi Hof",
+            "house_number": "4a",
+            "road": "Hauptstrasse",
+            "hamlet": "Zimlisberg-Hole",
+            "village": "Wengi",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3251",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0846250",
+            "47.0847250",
+            "7.4026274",
+            "7.4027274"
+        ]
+    }
+]

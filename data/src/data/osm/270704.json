@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93260773,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240026764,
+        "lat": "46.7389221",
+        "lon": "6.9613203",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.30093685344584264,
+        "addresstype": "village",
+        "name": "Villarimboud",
+        "display_name": "Villarimboud, Villaz, Glanebezirk, Freiburg, 1691, Schweiz",
+        "address": {
+            "village": "Villarimboud",
+            "city": "Villaz",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1691",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7189221",
+            "46.7589221",
+            "6.9413203",
+            "6.9813203"
+        ]
+    }
+]

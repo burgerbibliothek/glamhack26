@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92441346,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683363,
+        "lat": "46.8584348",
+        "lon": "7.0843884",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3834517876427295,
+        "addresstype": "city",
+        "name": "Misery-Courtion",
+        "display_name": "Misery-Courtion, Seebezirk, Freiburg, 1721, Schweiz",
+        "address": {
+            "city": "Misery-Courtion",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1721",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8416695",
+            "46.8751750",
+            "7.0492158",
+            "7.1170277"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72964618,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1475352806,
+        "lat": "47.3608479",
+        "lon": "9.4948877",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.36134093730963446,
+        "addresstype": "mountain_pass",
+        "name": "Stoss",
+        "display_name": "Stoss, Gais, Mittelland, Appenzell Ausserrhoden, 9056, Schweiz",
+        "address": {
+            "mountain_pass": "Stoss",
+            "village": "Gais",
+            "county": "Mittelland",
+            "state": "Appenzell Ausserrhoden",
+            "ISO3166-2-lvl4": "CH-AR",
+            "postcode": "9056",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3607979",
+            "47.3608979",
+            "9.4948377",
+            "9.4949377"
+        ]
+    }
+]

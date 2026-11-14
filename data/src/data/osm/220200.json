@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91703701,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5456433796,
+        "lat": "46.9383618",
+        "lon": "7.4323796",
+        "category": "shop",
+        "type": "clothes",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "shop",
+        "name": "La Folie des Grandeurs",
+        "display_name": "La Folie des Grandeurs, 23, Seftigenstrasse, Weissenbühl, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3007, Schweiz",
+        "address": {
+            "shop": "La Folie des Grandeurs",
+            "house_number": "23",
+            "road": "Seftigenstrasse",
+            "quarter": "Weissenbühl",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3007",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9383118",
+            "46.9384118",
+            "7.4323296",
+            "7.4324296"
+        ]
+    }
+]

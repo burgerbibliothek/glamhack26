@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 122558747,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 42719601,
+        "lat": "48.7281253",
+        "lon": "9.1251567",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.8644235904433e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "59, Jurastraße, Höhenrand, Vaihingen, Stuttgart, Baden-Württemberg, 70565, Deutschland",
+        "address": {
+            "house_number": "59",
+            "road": "Jurastraße",
+            "neighbourhood": "Höhenrand",
+            "suburb": "Vaihingen",
+            "city": "Stuttgart",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "70565",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.7280766",
+            "48.7281739",
+            "9.1250555",
+            "9.1252579"
+        ]
+    }
+]

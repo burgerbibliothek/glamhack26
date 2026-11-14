@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93016016,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682435,
+        "lat": "47.2754884",
+        "lon": "7.3982726",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4183902988676434,
+        "addresstype": "village",
+        "name": "Eschert",
+        "display_name": "Eschert, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2743, Schweiz",
+        "address": {
+            "village": "Eschert",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2743",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2515496",
+            "47.2824880",
+            "7.3893701",
+            "7.4348883"
+        ]
+    }
+]

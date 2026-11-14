@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 127736817,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 935169,
+        "lat": "48.1890811",
+        "lon": "10.8220308",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4479910460471933,
+        "addresstype": "village",
+        "name": "Graben",
+        "display_name": "Graben, Landkreis Augsburg, Bayern, Deutschland",
+        "address": {
+            "village": "Graben",
+            "county": "Landkreis Augsburg",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1778410",
+            "48.2068551",
+            "10.7968254",
+            "10.8772629"
+        ]
+    }
+]

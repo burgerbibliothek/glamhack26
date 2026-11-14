@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93301325,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683492,
+        "lat": "47.3915791",
+        "lon": "7.5405238",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.36517188513067234,
+        "addresstype": "village",
+        "name": "Büsserach",
+        "display_name": "Büsserach, Bezirk Thierstein, Amtei Dorneck-Thierstein, Solothurn, 4227, Schweiz",
+        "address": {
+            "village": "Büsserach",
+            "municipality": "Bezirk Thierstein",
+            "county": "Amtei Dorneck-Thierstein",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4227",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3788325",
+            "47.4009921",
+            "7.5172300",
+            "7.5780228"
+        ]
+    }
+]

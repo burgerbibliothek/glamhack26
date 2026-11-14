@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 70065781,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8929023012,
+        "lat": "47.7308713",
+        "lon": "13.2667195",
+        "category": "place",
+        "type": "farm",
+        "place_rank": 22,
+        "importance": 0.10671489509422444,
+        "addresstype": "farm",
+        "name": "Gotthard",
+        "display_name": "Gotthard, Oberasch, Hintersee, Bezirk Salzburg-Umgebung, Salzburg, 5324, Österreich",
+        "address": {
+            "farm": "Gotthard",
+            "hamlet": "Oberasch",
+            "village": "Hintersee",
+            "county": "Bezirk Salzburg-Umgebung",
+            "state": "Salzburg",
+            "ISO3166-2-lvl4": "AT-5",
+            "postcode": "5324",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.7208713",
+            "47.7408713",
+            "13.2567195",
+            "13.2767195"
+        ]
+    }
+]

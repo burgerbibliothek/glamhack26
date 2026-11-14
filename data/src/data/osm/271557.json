@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91502837,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2132952,
+        "lat": "46.6651365",
+        "lon": "7.2806440",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.3343910964012564,
+        "addresstype": "lake",
+        "name": "Schwarzsee",
+        "display_name": "Schwarzsee, Charmey, Jaun, Greyerzbezirk, Freiburg, 1656, Schweiz",
+        "address": {
+            "lake": "Schwarzsee",
+            "city_district": "Charmey",
+            "village": "Jaun",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1656",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6596897",
+            "46.6705619",
+            "7.2761049",
+            "7.2875235"
+        ]
+    }
+]

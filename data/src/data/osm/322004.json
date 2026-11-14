@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 128536749,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2978098950,
+        "lat": "48.1145465",
+        "lon": "11.6613946",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "46, Eigerstraße, Straßtrudering, Neutrudering, Trudering-Riem, München, Bayern, 81825, Deutschland",
+        "address": {
+            "house_number": "46",
+            "road": "Eigerstraße",
+            "quarter": "Straßtrudering",
+            "suburb": "Trudering-Riem",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "81825",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1144965",
+            "48.1145965",
+            "11.6613446",
+            "11.6614446"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 187481434,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8513034633,
+        "lat": "48.2352251",
+        "lon": "16.3063316",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "18, Vereinsweg, KLG Brunnstube, Katastralgemeinde Pötzleinsdorf, Währing, Wien, 1180, Österreich",
+        "address": {
+            "house_number": "18",
+            "road": "Vereinsweg",
+            "allotments": "KLG Brunnstube",
+            "suburb": "Katastralgemeinde Pötzleinsdorf",
+            "city_district": "Währing",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1180",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2351751",
+            "48.2352751",
+            "16.3062816",
+            "16.3063816"
+        ]
+    }
+]

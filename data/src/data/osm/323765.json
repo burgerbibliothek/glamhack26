@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 126733618,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 395749576,
+        "lat": "48.5154407",
+        "lon": "10.1686454",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 5.583810177763054e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "37, Rathausgasse, Rammingen, GVV Langenau, Alb-Donau-Kreis, Baden-Württemberg, 89192, Deutschland",
+        "address": {
+            "house_number": "37",
+            "road": "Rathausgasse",
+            "village": "Rammingen",
+            "municipality": "GVV Langenau",
+            "county": "Alb-Donau-Kreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "89192",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.5153918",
+            "48.5154895",
+            "10.1685639",
+            "10.1687269"
+        ]
+    }
+]

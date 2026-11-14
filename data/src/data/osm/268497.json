@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72093268,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 925637613,
+        "lat": "47.2575984",
+        "lon": "8.5373809",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4436475407357258,
+        "addresstype": "peak",
+        "name": "Bürglen",
+        "display_name": "Bürglen, Hausen am Albis, Bezirk Affoltern, Zürich, 8915, Schweiz",
+        "address": {
+            "peak": "Bürglen",
+            "village": "Hausen am Albis",
+            "county": "Bezirk Affoltern",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8915",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2575484",
+            "47.2576484",
+            "8.5373309",
+            "8.5374309"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91341874,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1062206629,
+        "lat": "46.9496262",
+        "lon": "7.4541003",
+        "category": "highway",
+        "type": "living_street",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "living_street",
+        "name": "Langmauerweg",
+        "display_name": "Langmauerweg, Weisses Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3000, Schweiz",
+        "address": {
+            "road": "Langmauerweg",
+            "quarter": "Weisses Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9494948",
+            "46.9498113",
+            "7.4525411",
+            "7.4556538"
+        ]
+    }
+]

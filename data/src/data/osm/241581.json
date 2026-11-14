@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91401177,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 357516321,
+        "lat": "46.3292513",
+        "lon": "7.2214548",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.2647815871063118,
+        "addresstype": "peak",
+        "name": "Oldenhorn",
+        "display_name": "Oldenhorn, Ormont-Dessus, Aigle District, Waadt, Schweiz",
+        "address": {
+            "peak": "Oldenhorn",
+            "city": "Ormont-Dessus",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3292013",
+            "46.3293013",
+            "7.2214048",
+            "7.2215048"
+        ]
+    }
+]

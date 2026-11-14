@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73383516,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2418263093,
+        "lat": "46.5009323",
+        "lon": "8.0596701",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16004483787289234,
+        "addresstype": "peak",
+        "name": "Fülbärg",
+        "display_name": "Fülbärg, Fieschertal, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "peak": "Fülbärg",
+            "village": "Fieschertal",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5008823",
+            "46.5009823",
+            "8.0596201",
+            "8.0597201"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92115400,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 32714618,
+        "lat": "46.8894589",
+        "lon": "7.3110208",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.3913944132881851,
+        "addresstype": "suburb",
+        "name": "Flamatt",
+        "display_name": "Flamatt, Chrummatt, Wünnewil-Flamatt, Sensebezirk, Freiburg, 3175, Schweiz",
+        "address": {
+            "suburb": "Flamatt",
+            "village": "Chrummatt",
+            "county": "Sensebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "3175",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8694589",
+            "46.9094589",
+            "7.2910208",
+            "7.3310208"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 93573135,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 570588124,
+        "lat": "47.5554359",
+        "lon": "7.5915201",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.607461661702933e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "12, Münsterplatz, Altstadt Grossbasel, Grossbasel, Basel, Basel-Stadt, 4051, Schweiz",
+        "address": {
+            "house_number": "12",
+            "road": "Münsterplatz",
+            "suburb": "Altstadt Grossbasel",
+            "borough": "Grossbasel",
+            "city": "Basel",
+            "state": "Basel-Stadt",
+            "ISO3166-2-lvl4": "CH-BS",
+            "postcode": "4051",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5553859",
+            "47.5554859",
+            "7.5914701",
+            "7.5915701"
+        ]
+    }
+]

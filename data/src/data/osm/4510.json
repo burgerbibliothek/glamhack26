@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 121873645,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11964639027,
+        "lat": "48.7275101",
+        "lon": "7.1772883",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16006553368429083,
+        "addresstype": "peak",
+        "name": "Rebberg",
+        "display_name": "Rebberg, Arzweiler, Sarrebourg-Château-Salins, Moselle, Groß-Osten, Metropolitanes Frankreich, 57405, Frankreich",
+        "address": {
+            "peak": "Rebberg",
+            "village": "Arzweiler",
+            "municipality": "Sarrebourg-Château-Salins",
+            "county": "Moselle",
+            "ISO3166-2-lvl6": "FR-57",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "57405",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.7274601",
+            "48.7275601",
+            "7.1772383",
+            "7.1773383"
+        ]
+    }
+]

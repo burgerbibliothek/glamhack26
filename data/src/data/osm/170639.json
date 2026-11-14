@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91606061,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3442709895,
+        "lat": "46.6643134",
+        "lon": "7.5774105",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671289311055158,
+        "addresstype": "village",
+        "name": "Latterbach",
+        "display_name": "Latterbach, Erlenbach im Simmental, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3762, Schweiz",
+        "address": {
+            "village": "Latterbach",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3762",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6443134",
+            "46.6843134",
+            "7.5574105",
+            "7.5974105"
+        ]
+    }
+]

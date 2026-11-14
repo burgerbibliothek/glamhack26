@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92286373,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 617989996,
+        "lat": "46.9632257",
+        "lon": "7.4505638",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "43, Wylerringstrasse, Wyler, Breitenrain, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3014, Schweiz",
+        "address": {
+            "house_number": "43",
+            "road": "Wylerringstrasse",
+            "quarter": "Wyler",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3014",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9631757",
+            "46.9632757",
+            "7.4505138",
+            "7.4506138"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 126682139,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 91015792,
+        "lat": "49.3347703",
+        "lon": "11.0160855",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 6.126420996409578e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "2, Berchtoldstraße, Eichwasen, Schwabach, Bayern, 91126, Deutschland",
+        "address": {
+            "house_number": "2",
+            "road": "Berchtoldstraße",
+            "suburb": "Eichwasen",
+            "town": "Schwabach",
+            "county": "Schwabach",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "91126",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.3347157",
+            "49.3348249",
+            "11.0160013",
+            "11.0161697"
+        ]
+    }
+]

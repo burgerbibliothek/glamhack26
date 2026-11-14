@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72222445,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 340671613,
+        "lat": "47.3682672",
+        "lon": "8.5216788",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "22, Erlachstrasse, Alt-Wiedikon, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8003, Schweiz",
+        "address": {
+            "house_number": "22",
+            "road": "Erlachstrasse",
+            "quarter": "Alt-Wiedikon",
+            "suburb": "Kreis 3",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8003",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3681883",
+            "47.3683004",
+            "8.5215772",
+            "8.5217713"
+        ]
+    }
+]

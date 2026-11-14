@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72264163,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682122,
+        "lat": "47.3333136",
+        "lon": "8.9225988",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40196302320864,
+        "addresstype": "village",
+        "name": "Fischenthal",
+        "display_name": "Fischenthal, Bezirk Hinwil, Zürich, Schweiz",
+        "address": {
+            "village": "Fischenthal",
+            "county": "Bezirk Hinwil",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3071191",
+            "47.3758423",
+            "8.8884837",
+            "8.9849510"
+        ]
+    }
+]

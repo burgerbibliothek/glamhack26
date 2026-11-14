@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92807346,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 653771284,
+        "lat": "47.1209738",
+        "lon": "7.2779289",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 3.806744487673789e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "15, Neubrückstrasse, Brügg, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2555, Schweiz",
+        "address": {
+            "house_number": "15",
+            "road": "Neubrückstrasse",
+            "village": "Brügg",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2555",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1209012",
+            "47.1210464",
+            "7.2778229",
+            "7.2780349"
+        ]
+    }
+]

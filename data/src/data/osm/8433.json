@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91711014,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1423962016,
+        "lat": "46.9617498",
+        "lon": "7.1126452",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671117189288163,
+        "addresstype": "village",
+        "name": "Sugiez",
+        "display_name": "Sugiez, Wistenlach, Seebezirk, Freiburg, 1786, Schweiz",
+        "address": {
+            "village": "Sugiez",
+            "city": "Wistenlach",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1786",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9417498",
+            "46.9817498",
+            "7.0926452",
+            "7.1326452"
+        ]
+    }
+]

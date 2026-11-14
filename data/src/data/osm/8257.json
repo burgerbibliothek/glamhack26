@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73184839,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684145,
+        "lat": "46.6125028",
+        "lon": "9.9855019",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41523351747267634,
+        "addresstype": "village",
+        "name": "S-chanf",
+        "display_name": "S-chanf, Maloja, Graubünden, Schweiz",
+        "address": {
+            "village": "S-chanf",
+            "county": "Maloja",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5438564",
+            "46.6962469",
+            "9.8644034",
+            "10.1023535"
+        ]
+    }
+]

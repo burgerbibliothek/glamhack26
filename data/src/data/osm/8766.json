@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73417025,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684213,
+        "lat": "46.6012885",
+        "lon": "9.9608039",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.435952575725974,
+        "addresstype": "village",
+        "name": "Zuoz",
+        "display_name": "Zuoz, Maloja, Graubünden, 7524, Schweiz",
+        "address": {
+            "village": "Zuoz",
+            "county": "Maloja",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7524",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4754495",
+            "46.6293321",
+            "9.8628839",
+            "10.0539918"
+        ]
+    }
+]

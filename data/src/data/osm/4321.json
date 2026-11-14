@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91590804,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 9379289,
+        "lat": "46.9557523",
+        "lon": "7.4608845",
+        "category": "amenity",
+        "type": "parking",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "BSM 13A",
+        "display_name": "BSM 13A, Papiermühlestrasse, Spitalacker, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3013, Schweiz",
+        "address": {
+            "amenity": "BSM 13A",
+            "road": "Papiermühlestrasse",
+            "quarter": "Spitalacker",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3013",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9549213",
+            "46.9558025",
+            "7.4602956",
+            "7.4609855"
+        ]
+    }
+]

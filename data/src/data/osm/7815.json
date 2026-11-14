@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73551158,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3015401963,
+        "lat": "46.6672129",
+        "lon": "9.5611430",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337776989394978,
+        "addresstype": "hamlet",
+        "name": "Mistail",
+        "display_name": "Mistail, Alvaschein, Albula, Graubünden, 7451, Schweiz",
+        "address": {
+            "hamlet": "Mistail",
+            "village": "Alvaschein",
+            "city": "Albula",
+            "county": "Albula",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7451",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6472129",
+            "46.6872129",
+            "9.5411430",
+            "9.5811430"
+        ]
+    }
+]

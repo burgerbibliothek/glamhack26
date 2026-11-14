@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92739340,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1480933383,
+        "lat": "47.3852139",
+        "lon": "7.2196353",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333791676203555,
+        "addresstype": "hamlet",
+        "name": "Les Rangiers",
+        "display_name": "Les Rangiers, Asuel, La Baroche, Bezirk Porrentruy, Jura, 2954, Schweiz",
+        "address": {
+            "hamlet": "Les Rangiers",
+            "village": "Asuel",
+            "city": "La Baroche",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2954",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3652139",
+            "47.4052139",
+            "7.1996353",
+            "7.2396353"
+        ]
+    }
+]

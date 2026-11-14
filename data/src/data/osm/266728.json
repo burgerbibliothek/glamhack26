@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91652647,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 403161206,
+        "lat": "46.4868274",
+        "lon": "7.6448824",
+        "category": "tourism",
+        "type": "viewpoint",
+        "place_rank": 30,
+        "importance": 4.4248874647089605e-05,
+        "addresstype": "tourism",
+        "name": "Alpschelenhubel",
+        "display_name": "Alpschelenhubel, Allmenalp, Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3718, Schweiz",
+        "address": {
+            "tourism": "Alpschelenhubel",
+            "road": "Allmenalp",
+            "village": "Kandersteg",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3718",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4867774",
+            "46.4868774",
+            "7.6448324",
+            "7.6449324"
+        ]
+    }
+]

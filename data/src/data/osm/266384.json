@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92151489,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1348637324,
+        "lat": "47.0250163",
+        "lon": "7.7388188",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671691844052792,
+        "addresstype": "village",
+        "name": "Grünen",
+        "display_name": "Grünen, Sumiswald, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3455, Schweiz",
+        "address": {
+            "village": "Grünen",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3455",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0050163",
+            "47.0450163",
+            "7.7188188",
+            "7.7588188"
+        ]
+    }
+]

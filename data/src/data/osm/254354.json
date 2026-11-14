@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71602177,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 102607099,
+        "lat": "47.5825032",
+        "lon": "8.6912556",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.37978567549726355,
+        "addresstype": "village",
+        "name": "Adlikon",
+        "display_name": "Adlikon, Andelfingen, Bezirk Andelfingen, Zürich, 8452, Schweiz",
+        "address": {
+            "village": "Adlikon",
+            "county": "Bezirk Andelfingen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8452",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5625032",
+            "47.6025032",
+            "8.6712556",
+            "8.7112556"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93412632,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12176435326,
+        "lat": "47.3779623",
+        "lon": "7.7438478",
+        "category": "place",
+        "type": "neighbourhood",
+        "place_rank": 24,
+        "importance": 0.08004659571221481,
+        "addresstype": "neighbourhood",
+        "name": "Blümlisalp",
+        "display_name": "Blümlisalp, Waldenburg, Bezirk Waldenburg, Basel-Landschaft, 4437, Schweiz",
+        "address": {
+            "neighbourhood": "Blümlisalp",
+            "village": "Waldenburg",
+            "county": "Bezirk Waldenburg",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4437",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3679623",
+            "47.3879623",
+            "7.7338478",
+            "7.7538478"
+        ]
+    }
+]

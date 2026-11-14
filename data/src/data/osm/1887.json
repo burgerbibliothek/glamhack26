@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91216613,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 4817955,
+        "lat": "46.7338055",
+        "lon": "7.5646751",
+        "category": "natural",
+        "type": "water",
+        "place_rank": 22,
+        "importance": 0.25352702198722055,
+        "addresstype": "water",
+        "name": "Übeschisee",
+        "display_name": "Übeschisee, Höfen, Stocken-Höfen, Verwaltungskreis Thun, Oberland administrative region, Bern, 3631, Schweiz",
+        "address": {
+            "water": "Übeschisee",
+            "village": "Höfen",
+            "city": "Stocken-Höfen",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3631",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7318747",
+            "46.7361348",
+            "7.5618530",
+            "7.5674935"
+        ]
+    }
+]

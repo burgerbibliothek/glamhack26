@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 138907266,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 333094703,
+        "lat": "50.8345632",
+        "lon": "8.7578834",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 6.758449683370744e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "10, Oberweg, Biegenhausen, Wehrda, Marburg, Landkreis Marburg-Biedenkopf, Hessen, 35041, Deutschland",
+        "address": {
+            "house_number": "10",
+            "road": "Oberweg",
+            "neighbourhood": "Biegenhausen",
+            "village": "Wehrda",
+            "town": "Marburg",
+            "county": "Landkreis Marburg-Biedenkopf",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "35041",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.8345147",
+            "50.8346764",
+            "8.7577868",
+            "8.7579947"
+        ]
+    }
+]

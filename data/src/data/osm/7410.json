@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73633756,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683081,
+        "lat": "46.6189452",
+        "lon": "8.5685985",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40554112705548934,
+        "addresstype": "village",
+        "name": "Hospental",
+        "display_name": "Hospental, Korporation Ursern, Uri, 6493, Schweiz",
+        "address": {
+            "village": "Hospental",
+            "county": "Korporation Ursern",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6493",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5734049",
+            "46.6394313",
+            "8.5018528",
+            "8.6149633"
+        ]
+    }
+]

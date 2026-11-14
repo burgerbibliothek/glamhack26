@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91658525,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685345,
+        "lat": "46.3242941",
+        "lon": "7.9884278",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42213363392090547,
+        "addresstype": "village",
+        "name": "Naters",
+        "display_name": "Naters, Brig, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "village": "Naters",
+            "county": "Brig",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3027583",
+            "46.4691668",
+            "7.8843534",
+            "8.0687293"
+        ]
+    }
+]

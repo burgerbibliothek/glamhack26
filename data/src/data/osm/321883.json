@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 116060384,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 23567942,
+        "lat": "50.9349067",
+        "lon": "6.9499361",
+        "category": "amenity",
+        "type": "school",
+        "place_rank": 30,
+        "importance": 0.23094323434513592,
+        "addresstype": "amenity",
+        "name": "VHS-Studienhaus",
+        "display_name": "VHS-Studienhaus, 35, Cäcilienstraße, Cäcilienviertel, Altstadt-Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50667, Deutschland",
+        "address": {
+            "amenity": "VHS-Studienhaus",
+            "house_number": "35",
+            "road": "Cäcilienstraße",
+            "neighbourhood": "Cäcilienviertel",
+            "suburb": "Altstadt-Süd",
+            "city_district": "Innenstadt",
+            "city": "Köln",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "50667",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9346078",
+            "50.9352353",
+            "6.9497356",
+            "6.9500729"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 52560722,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 299617915,
+        "lat": "36.7729333",
+        "lon": "3.0588445",
+        "category": "place",
+        "type": "city",
+        "place_rank": 15,
+        "importance": 0.7039782435616084,
+        "addresstype": "city",
+        "name": "Algier",
+        "display_name": "Algier, Kreis Sidi Mohammed, Provinz Algier, 16000, Algerien",
+        "address": {
+            "city": "Algier",
+            "county": "Kreis Sidi Mohammed",
+            "state": "Provinz Algier",
+            "ISO3166-2-lvl4": "DZ-16",
+            "postcode": "16000",
+            "country": "Algerien",
+            "country_code": "dz"
+        },
+        "boundingbox": [
+            "36.6129333",
+            "36.9329333",
+            "2.8988445",
+            "3.2188445"
+        ]
+    }
+]

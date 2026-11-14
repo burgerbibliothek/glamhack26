@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 419343622,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 20781690,
+        "lat": "47.5122713",
+        "lon": "8.0024427",
+        "category": "place",
+        "type": "region",
+        "place_rank": 18,
+        "importance": 0.16004761196307316,
+        "addresstype": "region",
+        "name": "Fricktal",
+        "display_name": "Fricktal, Bezirk Laufenburg, Aargau, Schweiz",
+        "address": {
+            "region": "Fricktal",
+            "county": "Bezirk Laufenburg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4284624",
+            "47.5960189",
+            "7.7135285",
+            "8.1810984"
+        ]
+    }
+]

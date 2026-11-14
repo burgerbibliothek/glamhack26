@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93923145,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682458,
+        "lat": "47.0667831",
+        "lon": "7.3608919",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4263602961431367,
+        "addresstype": "village",
+        "name": "Grossaffoltern",
+        "display_name": "Grossaffoltern, Seeland administrative district, Seeland administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Grossaffoltern",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0459476",
+            "47.0931282",
+            "7.3266658",
+            "7.3878617"
+        ]
+    }
+]

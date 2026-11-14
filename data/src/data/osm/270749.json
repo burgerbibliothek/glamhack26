@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92037950,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2431440025,
+        "lat": "46.5837774",
+        "lon": "6.9104378",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337592660410466,
+        "addresstype": "hamlet",
+        "name": "Progens",
+        "display_name": "Progens, La Verrerie, Vivisbachbezirk, Freiburg, 1624, Schweiz",
+        "address": {
+            "hamlet": "Progens",
+            "village": "La Verrerie",
+            "county": "Vivisbachbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1624",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5637774",
+            "46.6037774",
+            "6.8904378",
+            "6.9304378"
+        ]
+    }
+]

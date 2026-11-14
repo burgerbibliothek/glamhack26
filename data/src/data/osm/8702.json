@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 93135658,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682932,
+        "lat": "47.1215184",
+        "lon": "7.9965900",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.43720322864280375,
+        "addresstype": "village",
+        "name": "Willisau",
+        "display_name": "Willisau, Luzern, 6130, Schweiz",
+        "address": {
+            "village": "Willisau",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6130",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0437813",
+            "47.1502229",
+            "7.9208860",
+            "8.0384816"
+        ]
+    }
+]

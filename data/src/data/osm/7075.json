@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92680846,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682426,
+        "lat": "47.0902206",
+        "lon": "7.7895896",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42397855970078896,
+        "addresstype": "village",
+        "name": "Dürrenroth",
+        "display_name": "Dürrenroth, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3465, Schweiz",
+        "address": {
+            "village": "Dürrenroth",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3465",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0610380",
+            "47.0998121",
+            "7.7364772",
+            "7.8109522"
+        ]
+    }
+]

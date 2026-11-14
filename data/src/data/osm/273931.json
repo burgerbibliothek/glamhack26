@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 118751609,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11981634932,
+        "lat": "49.2236891",
+        "lon": "6.5218106",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16006499961852444,
+        "addresstype": "peak",
+        "name": "Girsberg",
+        "display_name": "Girsberg, Ottendorf, Forbach-Bolchen, Moselle, Groß-Osten, Metropolitanes Frankreich, 57220, Frankreich",
+        "address": {
+            "peak": "Girsberg",
+            "village": "Ottendorf",
+            "municipality": "Forbach-Bolchen",
+            "county": "Moselle",
+            "ISO3166-2-lvl6": "FR-57",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "57220",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.2236391",
+            "49.2237391",
+            "6.5217606",
+            "6.5218606"
+        ]
+    }
+]

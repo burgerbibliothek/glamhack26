@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92490971,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685458,
+        "lat": "46.9683186",
+        "lon": "6.8369587",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.35810617938020467,
+        "addresstype": "village",
+        "name": "Bôle",
+        "display_name": "Bôle, Milvignes, Région Littoral, Neuenburg, 2014, Schweiz",
+        "address": {
+            "village": "Bôle",
+            "city": "Milvignes",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2014",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9586993",
+            "46.9780022",
+            "6.8208398",
+            "6.8507467"
+        ]
+    }
+]

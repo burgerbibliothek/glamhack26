@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92190031,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685483,
+        "lat": "47.0287368",
+        "lon": "6.9275573",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3629003094109262,
+        "addresstype": "village",
+        "name": "Fenin-Vilars-Saules",
+        "display_name": "Fenin-Vilars-Saules, Val-de-Ruz, Val-de-Ruz Region, Neuenburg, 2063, Schweiz",
+        "address": {
+            "village": "Fenin-Vilars-Saules",
+            "city": "Val-de-Ruz",
+            "county": "Val-de-Ruz Region",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2063",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0093642",
+            "47.0455913",
+            "6.9090870",
+            "6.9589758"
+        ]
+    }
+]

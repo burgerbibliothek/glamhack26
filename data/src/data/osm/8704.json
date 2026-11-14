@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92295344,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682727,
+        "lat": "46.6734323",
+        "lon": "7.6368102",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4127618832342703,
+        "addresstype": "village",
+        "name": "Wimmis",
+        "display_name": "Wimmis, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3752, Schweiz",
+        "address": {
+            "village": "Wimmis",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3752",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6326449",
+            "46.6906436",
+            "7.6066049",
+            "7.6832556"
+        ]
+    }
+]

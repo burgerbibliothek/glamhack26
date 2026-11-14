@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 293895941,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13361077676,
+        "lat": "38.9900727",
+        "lon": "-1.8556569",
+        "category": "shop",
+        "type": "stationery",
+        "place_rank": 30,
+        "importance": 6.564965285720635e-05,
+        "addresstype": "shop",
+        "name": "Sarraz",
+        "display_name": "Sarraz, 29, Calle Teodoro Camino, Carretas-Huerta Marzo, Distrito 1, Albacete, Kastilien-La Mancha, 02002, Spanien",
+        "address": {
+            "shop": "Sarraz",
+            "house_number": "29",
+            "road": "Calle Teodoro Camino",
+            "suburb": "Carretas-Huerta Marzo",
+            "district": "Distrito 1",
+            "city": "Albacete",
+            "state_district": "Albacete",
+            "ISO3166-2-lvl6": "ES-AB",
+            "state": "Kastilien-La Mancha",
+            "ISO3166-2-lvl4": "ES-CM",
+            "postcode": "02002",
+            "country": "Spanien",
+            "country_code": "es"
+        },
+        "boundingbox": [
+            "38.9900227",
+            "38.9901227",
+            "-1.8557069",
+            "-1.8556069"
+        ]
+    }
+]

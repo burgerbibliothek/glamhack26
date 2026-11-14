@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 141564652,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 634120654,
+        "lat": "52.3693940",
+        "lon": "9.7485594",
+        "category": "building",
+        "type": "hospital",
+        "place_rank": 30,
+        "importance": 7.639047837029095e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "37, Marienstraße, Mitte, Hannover, Region Hannover, Niedersachsen, 30171, Deutschland",
+        "address": {
+            "house_number": "37",
+            "road": "Marienstraße",
+            "suburb": "Mitte",
+            "city_district": "Mitte",
+            "city": "Hannover",
+            "county": "Region Hannover",
+            "state": "Niedersachsen",
+            "ISO3166-2-lvl4": "DE-NI",
+            "postcode": "30171",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.3692699",
+            "52.3695167",
+            "9.7482607",
+            "9.7488647"
+        ]
+    }
+]

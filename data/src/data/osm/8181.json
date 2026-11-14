@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 89580153,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 190278008,
+        "lat": "45.2173877",
+        "lon": "4.8311987",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05339449683375292,
+        "addresstype": "residential",
+        "name": "Rue des Rossinières",
+        "display_name": "Rue des Rossinières, Le Village, La Blache, Beausemblant, Valence, Drôme, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 26240, Frankreich",
+        "address": {
+            "road": "Rue des Rossinières",
+            "neighbourhood": "Le Village",
+            "hamlet": "La Blache",
+            "village": "Beausemblant",
+            "municipality": "Valence",
+            "county": "Drôme",
+            "ISO3166-2-lvl6": "FR-26",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "26240",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.2173282",
+            "45.2174219",
+            "4.8310671",
+            "4.8313208"
+        ]
+    }
+]

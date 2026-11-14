@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 301936640,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 299354,
+        "lat": "18.0814066",
+        "lon": "-63.0467131",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6046473148826452,
+        "addresstype": "state",
+        "name": "Saint Martin",
+        "display_name": "Saint Martin, 97150, Frankreich",
+        "address": {
+            "state": "Saint Martin",
+            "ISO3166-2-lvl8": "FR-MF",
+            "ISO3166-2-lvl3": "FR-MF",
+            "postcode": "97150",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "18.0458890",
+            "18.1252028",
+            "-63.1533384",
+            "-62.9703379"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 66416435,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 735221987,
+        "lat": "47.5009367",
+        "lon": "19.0325622",
+        "category": "amenity",
+        "type": "cafe",
+        "place_rank": 30,
+        "importance": 8.408560311279495e-05,
+        "addresstype": "amenity",
+        "name": "Ramazuri",
+        "display_name": "Ramazuri, 30, Herrengasse, Burgviertel, I. Bezirk, Budapest, 1014, Ungarn",
+        "address": {
+            "amenity": "Ramazuri",
+            "house_number": "30",
+            "road": "Herrengasse",
+            "suburb": "Burgviertel",
+            "borough": "I. Bezirk",
+            "city": "Budapest",
+            "ISO3166-2-lvl8": "HU-BU",
+            "region": "Budapest",
+            "ISO3166-2-lvl6": "HU-BU",
+            "postcode": "1014",
+            "country": "Ungarn",
+            "country_code": "hu"
+        },
+        "boundingbox": [
+            "47.5008867",
+            "47.5009867",
+            "19.0325122",
+            "19.0326122"
+        ]
+    }
+]

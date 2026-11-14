@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92462559,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682856,
+        "lat": "47.0844337",
+        "lon": "7.9575516",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3920559394597916,
+        "addresstype": "village",
+        "name": "Hergiswil bei Willisau",
+        "display_name": "Hergiswil bei Willisau, Luzern, 6133, Schweiz",
+        "address": {
+            "village": "Hergiswil bei Willisau",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6133",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0053314",
+            "47.1004366",
+            "7.9239270",
+            "7.9890576"
+        ]
+    }
+]

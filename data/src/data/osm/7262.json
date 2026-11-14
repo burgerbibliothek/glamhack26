@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 419598509,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 264212702,
+        "lat": "47.1819935",
+        "lon": "24.1335334",
+        "category": "shop",
+        "type": "gold_buyer",
+        "place_rank": 30,
+        "importance": 0.422548132356114,
+        "addresstype": "shop",
+        "name": "Goldau",
+        "display_name": "Goldau, DN17, Bethlen, Bistrița-Năsăud, 425101, Rumänien",
+        "address": {
+            "shop": "Goldau",
+            "road": "DN17",
+            "town": "Bethlen",
+            "county": "Bistrița-Năsăud",
+            "ISO3166-2-lvl4": "RO-BN",
+            "postcode": "425101",
+            "country": "Rumänien",
+            "country_code": "ro"
+        },
+        "boundingbox": [
+            "47.1819435",
+            "47.1820435",
+            "24.1334834",
+            "24.1335834"
+        ]
+    }
+]

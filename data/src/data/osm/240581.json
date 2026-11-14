@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73077031,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682933,
+        "lat": "47.0580138",
+        "lon": "8.0725617",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41359616883692174,
+        "addresstype": "village",
+        "name": "Wolhusen",
+        "display_name": "Wolhusen, Luzern, 6110, Schweiz",
+        "address": {
+            "village": "Wolhusen",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6110",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0287879",
+            "47.0822534",
+            "8.0157907",
+            "8.0899770"
+        ]
+    }
+]

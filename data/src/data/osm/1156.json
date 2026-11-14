@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91846928,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 413493885,
+        "lat": "46.4289269",
+        "lon": "7.6784642",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4458552958876683,
+        "addresstype": "peak",
+        "name": "Altels",
+        "display_name": "Altels, Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3718, Schweiz",
+        "address": {
+            "peak": "Altels",
+            "village": "Kandersteg",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3718",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4288769",
+            "46.4289769",
+            "7.6784142",
+            "7.6785142"
+        ]
+    }
+]

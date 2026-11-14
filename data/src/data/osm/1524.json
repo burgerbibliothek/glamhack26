@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91876660,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1482218507,
+        "lat": "46.9308247",
+        "lon": "7.4360429",
+        "category": "highway",
+        "type": "platform",
+        "place_rank": 30,
+        "importance": 4.6578927290715154e-05,
+        "addresstype": "highway",
+        "name": "Lerbermatt",
+        "display_name": "Lerbermatt, Kirchstrasse, Liebefeld, Köniz, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3095, Schweiz",
+        "address": {
+            "highway": "Lerbermatt",
+            "road": "Kirchstrasse",
+            "suburb": "Liebefeld",
+            "town": "Köniz",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3095",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9308166",
+            "46.9308327",
+            "7.4359421",
+            "7.4361437"
+        ]
+    }
+]

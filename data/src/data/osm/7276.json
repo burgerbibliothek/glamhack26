@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92566494,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3493045287,
+        "lat": "47.1379746",
+        "lon": "7.3126822",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 3.806744487673789e-05,
+        "addresstype": "highway",
+        "name": "Gottstatt",
+        "display_name": "Gottstatt, Gottstattstrasse, Orpund, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2552, Schweiz",
+        "address": {
+            "highway": "Gottstatt",
+            "road": "Gottstattstrasse",
+            "village": "Orpund",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2552",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1379246",
+            "47.1380246",
+            "7.3126322",
+            "7.3127322"
+        ]
+    }
+]

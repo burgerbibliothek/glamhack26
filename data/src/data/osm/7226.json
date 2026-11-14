@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72817777,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683074,
+        "lat": "47.1815904",
+        "lon": "8.8742411",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.36054710293380643,
+        "addresstype": "village",
+        "name": "Galgenen",
+        "display_name": "Galgenen, March, Schwyz, 8854, Schweiz",
+        "address": {
+            "village": "Galgenen",
+            "county": "March",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "8854",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1438202",
+            "47.1915524",
+            "8.8468471",
+            "8.8995849"
+        ]
+    }
+]

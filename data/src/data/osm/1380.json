@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 119342145,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1499392287,
+        "lat": "49.8948620",
+        "lon": "6.9010236",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 22,
+        "importance": 0.10672205615320056,
+        "addresstype": "stream",
+        "name": "Grönbach",
+        "display_name": "Grönbach, Piesport, Bernkastel-Kues, Landkreis Bernkastel-Wittlich, Rheinland-Pfalz, Deutschland",
+        "address": {
+            "stream": "Grönbach",
+            "village": "Piesport",
+            "municipality": "Bernkastel-Kues",
+            "county": "Landkreis Bernkastel-Wittlich",
+            "state": "Rheinland-Pfalz",
+            "ISO3166-2-lvl4": "DE-RP",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.8946321",
+            "49.8952933",
+            "6.8974633",
+            "6.9045930"
+        ]
+    }
+]

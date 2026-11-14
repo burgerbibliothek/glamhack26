@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91308414,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3959285443,
+        "lat": "46.2207242",
+        "lon": "6.1478340",
+        "category": "place",
+        "type": "neighbourhood",
+        "place_rank": 24,
+        "importance": 0.3397246672409687,
+        "addresstype": "neighbourhood",
+        "name": "Sécheron",
+        "display_name": "Sécheron, Pâquis, Genf, 1202, Schweiz",
+        "address": {
+            "neighbourhood": "Sécheron",
+            "suburb": "Pâquis",
+            "city": "Genf",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "postcode": "1202",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2107242",
+            "46.2307242",
+            "6.1378340",
+            "6.1578340"
+        ]
+    }
+]

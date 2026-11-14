@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 146100459,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 510513416,
+        "lat": "52.5624452",
+        "lon": "13.5507742",
+        "category": "amenity",
+        "type": "car_wash",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "amenity",
+        "name": "IMO Car Wash",
+        "display_name": "IMO Car Wash, 4, Nordring, Marzahn-Mitte, Marzahn, Marzahn-Hellersdorf, Berlin, 12681, Deutschland",
+        "address": {
+            "amenity": "IMO Car Wash",
+            "house_number": "4",
+            "road": "Nordring",
+            "quarter": "Marzahn-Mitte",
+            "suburb": "Marzahn",
+            "borough": "Marzahn-Hellersdorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12681",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5619665",
+            "52.5628132",
+            "13.5500448",
+            "13.5514048"
+        ]
+    }
+]

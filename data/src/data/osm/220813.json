@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 189659700,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5471715240,
+        "lat": "48.1532303",
+        "lon": "16.4567398",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1507975276546128,
+        "addresstype": "peak",
+        "name": "Leberberg",
+        "display_name": "Leberberg, Wien, 1110, Österreich",
+        "address": {
+            "peak": "Leberberg",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1110",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.1531803",
+            "48.1532803",
+            "16.4566898",
+            "16.4567898"
+        ]
+    }
+]

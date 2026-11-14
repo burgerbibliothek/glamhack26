@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92719298,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1190000676,
+        "lat": "46.8639897",
+        "lon": "7.3610748",
+        "category": "man_made",
+        "type": "bridge",
+        "place_rank": 30,
+        "importance": 4.6578927290715154e-05,
+        "addresstype": "man_made",
+        "name": "Schwarzwasserbrücke",
+        "display_name": "Schwarzwasserbrücke, Mittelhäusern, Aekenmatt, Schwarzenburg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3147, Schweiz",
+        "address": {
+            "man_made": "Schwarzwasserbrücke",
+            "bridge": "Schwarzwasserbrücke",
+            "suburb": "Mittelhäusern",
+            "village": "Aekenmatt",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3147",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8632173",
+            "46.8644740",
+            "7.3604578",
+            "7.3620477"
+        ]
+    }
+]

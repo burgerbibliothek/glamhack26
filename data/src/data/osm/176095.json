@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92431809,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 15084089,
+        "lat": "46.6944563",
+        "lon": "6.4608598",
+        "category": "landuse",
+        "type": "residential",
+        "place_rank": 24,
+        "importance": 0.4547719804167702,
+        "addresstype": "residential",
+        "name": "Romainmôtier",
+        "display_name": "Romainmôtier, Romainmôtier-Envy, Romainmôtier, District du Jura-Nord vaudois, Waadt, 1323, Schweiz",
+        "address": {
+            "residential": "Romainmôtier",
+            "hamlet": "Romainmôtier-Envy",
+            "village": "Romainmôtier",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1323",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6925036",
+            "46.6964421",
+            "6.4554177",
+            "6.4630707"
+        ]
+    }
+]

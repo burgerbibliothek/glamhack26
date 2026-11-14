@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 22506403,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 413591726,
+        "lat": "-37.8164968",
+        "lon": "144.9839031",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.37898700054830464,
+        "addresstype": "railway",
+        "name": "Jolimont",
+        "display_name": "Jolimont, Wellington Parade, Jolimont, East Melbourne, Melbourne, Victoria, 3002, Australien",
+        "address": {
+            "railway": "Jolimont",
+            "road": "Wellington Parade",
+            "neighbourhood": "Jolimont",
+            "suburb": "East Melbourne",
+            "city": "Melbourne",
+            "state": "Victoria",
+            "ISO3166-2-lvl4": "AU-VIC",
+            "postcode": "3002",
+            "country": "Australien",
+            "country_code": "au"
+        },
+        "boundingbox": [
+            "-37.8166665",
+            "-37.8163242",
+            "144.9830011",
+            "144.9846783"
+        ]
+    }
+]

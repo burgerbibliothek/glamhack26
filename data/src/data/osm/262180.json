@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71282135,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240062688,
+        "lat": "47.5573067",
+        "lon": "9.2687693",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2574973608523206,
+        "addresstype": "village",
+        "name": "Oberaach",
+        "display_name": "Oberaach, Amriswil, Bezirk Arbon, Thurgau, 8587, Schweiz",
+        "address": {
+            "village": "Oberaach",
+            "town": "Amriswil",
+            "county": "Bezirk Arbon",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8587",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5373067",
+            "47.5773067",
+            "9.2487693",
+            "9.2887693"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91915790,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683354,
+        "lat": "46.8099868",
+        "lon": "6.8495326",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38584692642506985,
+        "addresstype": "city",
+        "name": "Les Montets",
+        "display_name": "Les Montets, Broyebezirk, Freiburg, Schweiz",
+        "address": {
+            "city": "Les Montets",
+            "county": "Broyebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7844065",
+            "46.8356367",
+            "6.8311477",
+            "6.8823814"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92367359,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3790744334,
+        "lat": "47.0888126",
+        "lon": "6.8045708",
+        "category": "place",
+        "type": "neighbourhood",
+        "place_rank": 24,
+        "importance": 0.31353539144981896,
+        "addresstype": "neighbourhood",
+        "name": "Les Éplatures",
+        "display_name": "Les Éplatures, La Chaux-de-Fonds, Région Montagnes, Neuenburg, 2301, Schweiz",
+        "address": {
+            "neighbourhood": "Les Éplatures",
+            "town": "La Chaux-de-Fonds",
+            "region": "Région Montagnes",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2301",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0788126",
+            "47.0988126",
+            "6.7945708",
+            "6.8145708"
+        ]
+    }
+]

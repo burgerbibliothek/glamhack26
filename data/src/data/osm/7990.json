@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92935236,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682598,
+        "lat": "47.1501818",
+        "lon": "7.7357217",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42397855970078896,
+        "addresstype": "village",
+        "name": "Ochlenberg",
+        "display_name": "Ochlenberg, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 3367, Schweiz",
+        "address": {
+            "village": "Ochlenberg",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3367",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1133608",
+            "47.1680806",
+            "7.7008257",
+            "7.7579173"
+        ]
+    }
+]

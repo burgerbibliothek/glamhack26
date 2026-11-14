@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73456841,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240118213,
+        "lat": "46.7198508",
+        "lon": "8.0366206",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.24158668584662718,
+        "addresstype": "village",
+        "name": "Axalp",
+        "display_name": "Axalp, Brienz BE, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Axalp",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6998508",
+            "46.7398508",
+            "8.0166206",
+            "8.0566206"
+        ]
+    }
+]

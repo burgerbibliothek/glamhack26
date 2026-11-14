@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 430117711,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1565290132,
+        "lat": "46.8990176",
+        "lon": "7.1132175",
+        "category": "landuse",
+        "type": "forest",
+        "place_rank": 24,
+        "importance": 0.08005537422751198,
+        "addresstype": "forest",
+        "name": "Grauholz",
+        "display_name": "Grauholz, Chemin du Boulate, Courlevon, Gurwolf, Seebezirk, Bernese Mittelland administrative region, Freiburg, 1796, Schweiz",
+        "address": {
+            "forest": "Grauholz",
+            "hamlet": "Chemin du Boulate",
+            "village": "Courlevon",
+            "county": "Seebezirk",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1796",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8929531",
+            "46.9049345",
+            "7.1100388",
+            "7.1190549"
+        ]
+    }
+]

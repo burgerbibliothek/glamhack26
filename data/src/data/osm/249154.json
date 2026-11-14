@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92450639,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682428,
+        "lat": "47.0690300",
+        "lon": "7.2198025",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41958999249091855,
+        "addresstype": "village",
+        "name": "Epsach",
+        "display_name": "Epsach, Seeland administrative district, Seeland administrative region, Bern, 3272, Schweiz",
+        "address": {
+            "village": "Epsach",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3272",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0603170",
+            "47.0811190",
+            "7.2036097",
+            "7.2379776"
+        ]
+    }
+]

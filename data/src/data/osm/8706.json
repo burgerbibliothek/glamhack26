@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72384363,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684461,
+        "lat": "47.4793472",
+        "lon": "8.2179918",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4495825478037806,
+        "addresstype": "village",
+        "name": "Windisch",
+        "display_name": "Windisch, Bezirk Brugg, Aargau, 5210, Schweiz",
+        "address": {
+            "village": "Windisch",
+            "county": "Bezirk Brugg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5210",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4599126",
+            "47.4924179",
+            "8.2002241",
+            "8.2403534"
+        ]
+    }
+]

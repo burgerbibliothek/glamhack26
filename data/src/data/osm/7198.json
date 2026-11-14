@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72181695,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684522,
+        "lat": "47.5561915",
+        "lon": "8.8963347",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5370592378661272,
+        "addresstype": "town",
+        "name": "Frauenfeld",
+        "display_name": "Frauenfeld, Bezirk Frauenfeld, Thurgau, Schweiz",
+        "address": {
+            "town": "Frauenfeld",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5270273",
+            "47.5865588",
+            "8.8377416",
+            "8.9458286"
+        ]
+    }
+]

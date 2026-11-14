@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73021302,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682820,
+        "lat": "47.1139601",
+        "lon": "8.0935047",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3883319602613017,
+        "addresstype": "village",
+        "name": "Buttisholz",
+        "display_name": "Buttisholz, Luzern, 6018, Schweiz",
+        "address": {
+            "village": "Buttisholz",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6018",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0863053",
+            "47.1405675",
+            "8.0543792",
+            "8.1296568"
+        ]
+    }
+]

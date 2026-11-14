@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92954905,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3237738820,
+        "lat": "47.5579123",
+        "lon": "7.6022127",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.607461661702933e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "10, Fischerweg, Wettstein, Kleinbasel, Basel, Basel-Stadt, 4058, Schweiz",
+        "address": {
+            "house_number": "10",
+            "road": "Fischerweg",
+            "suburb": "Wettstein",
+            "borough": "Kleinbasel",
+            "city": "Basel",
+            "state": "Basel-Stadt",
+            "ISO3166-2-lvl4": "CH-BS",
+            "postcode": "4058",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5578623",
+            "47.5579623",
+            "7.6021627",
+            "7.6022627"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91523990,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 304749541,
+        "lat": "46.9182163",
+        "lon": "7.5822762",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1467104196231021,
+        "addresstype": "village",
+        "name": "Richigen",
+        "display_name": "Richigen, Worb, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3078, Schweiz",
+        "address": {
+            "village": "Richigen",
+            "town": "Worb",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3078",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8982163",
+            "46.9382163",
+            "7.5622762",
+            "7.6022762"
+        ]
+    }
+]

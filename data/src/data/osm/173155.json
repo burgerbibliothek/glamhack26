@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92803423,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683537,
+        "lat": "47.1430093",
+        "lon": "7.5130123",
+        "category": "boundary",
+        "type": "historic",
+        "place_rank": 25,
+        "importance": 0.34293738116529454,
+        "addresstype": "historic",
+        "name": "Kyburg-Buchegg",
+        "display_name": "Kyburg-Buchegg, Buchegg, Bezirk Bucheggberg, Amtei Bucheggberg-Wasseramt, Solothurn, 4586, Schweiz",
+        "address": {
+            "historic": "Kyburg-Buchegg",
+            "village": "Kyburg-Buchegg",
+            "city": "Buchegg",
+            "municipality": "Bezirk Bucheggberg",
+            "county": "Amtei Bucheggberg-Wasseramt",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4586",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1350083",
+            "47.1508762",
+            "7.5017658",
+            "7.5297549"
+        ]
+    }
+]

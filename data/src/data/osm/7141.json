@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71110660,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240082976,
+        "lat": "47.5801158",
+        "lon": "9.0049501",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333791126878767,
+        "addresstype": "hamlet",
+        "name": "Eschikofen",
+        "display_name": "Eschikofen, Hüttlingen, Bezirk Frauenfeld, Thurgau, 8553, Schweiz",
+        "address": {
+            "hamlet": "Eschikofen",
+            "village": "Hüttlingen",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8553",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5601158",
+            "47.6001158",
+            "8.9849501",
+            "9.0249501"
+        ]
+    }
+]

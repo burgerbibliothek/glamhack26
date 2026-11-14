@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 206820882,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 16004350,
+        "lat": "41.0982652",
+        "lon": "37.6742042",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.26244239079806453,
+        "addresstype": "village",
+        "name": "Kovanlı Mahallesi",
+        "display_name": "Kovanlı Mahallesi, Perşembe, Ordu, Schwarzmeerregion, Türkei",
+        "address": {
+            "village": "Kovanlı Mahallesi",
+            "town": "Perşembe",
+            "province": "Ordu",
+            "ISO3166-2-lvl4": "TR-52",
+            "region": "Schwarzmeerregion",
+            "country": "Türkei",
+            "country_code": "tr"
+        },
+        "boundingbox": [
+            "41.0724836",
+            "41.1187653",
+            "37.6514758",
+            "37.6970411"
+        ]
+    }
+]

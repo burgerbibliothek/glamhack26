@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73076408,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11237616852,
+        "lat": "47.1853925",
+        "lon": "9.4400609",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.066716114290074,
+        "addresstype": "locality",
+        "name": "Maturt",
+        "display_name": "Maturt, Forst, Grabserberg, Grabs, Wahlkreis Werdenberg, St. Gallen, 9472, Schweiz",
+        "address": {
+            "locality": "Maturt",
+            "hamlet": "Forst",
+            "village": "Grabserberg",
+            "county": "Wahlkreis Werdenberg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9472",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1753925",
+            "47.1953925",
+            "9.4300609",
+            "9.4500609"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73609623,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684641,
+        "lat": "46.1509953",
+        "lon": "8.9458762",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38936877137464093,
+        "addresstype": "village",
+        "name": "Cadenazzo",
+        "display_name": "Cadenazzo, Kreis Sant’Antonino, Bezirk Bellinzona, Tessin, Schweiz",
+        "address": {
+            "village": "Cadenazzo",
+            "municipality": "Kreis Sant’Antonino",
+            "county": "Bezirk Bellinzona",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1306990",
+            "46.1642958",
+            "8.9191241",
+            "8.9804828"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 125777225,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1607053842,
+        "lat": "49.0215406",
+        "lon": "9.5871423",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10671666819256884,
+        "addresstype": "isolated_dwelling",
+        "name": "Sommerhaus",
+        "display_name": "Sommerhaus, Braunbühl, Murrhardt, Rems-Murr-Kreis, Baden-Württemberg, 71540, Deutschland",
+        "address": {
+            "isolated_dwelling": "Sommerhaus",
+            "hamlet": "Braunbühl",
+            "town": "Murrhardt",
+            "county": "Rems-Murr-Kreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "71540",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.0214906",
+            "49.0215906",
+            "9.5870923",
+            "9.5871923"
+        ]
+    }
+]

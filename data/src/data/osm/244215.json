@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73800910,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684118,
+        "lat": "46.3921730",
+        "lon": "9.2325189",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4263602961431367,
+        "addresstype": "village",
+        "name": "Misox",
+        "display_name": "Misox, Moesa, Graubünden, Schweiz",
+        "address": {
+            "village": "Misox",
+            "county": "Moesa",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3598335",
+            "46.5232166",
+            "9.0786037",
+            "9.2843771"
+        ]
+    }
+]

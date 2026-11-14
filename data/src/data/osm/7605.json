@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92097735,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685021,
+        "lat": "46.6046637",
+        "lon": "6.2337695",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.46932258647151875,
+        "addresstype": "village",
+        "name": "Le Chenit",
+        "display_name": "Le Chenit, District du Jura-Nord vaudois, Waadt, Schweiz",
+        "address": {
+            "village": "Le Chenit",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5234635",
+            "46.6450874",
+            "6.1104724",
+            "6.2988612"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73407042,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 568532124,
+        "lat": "46.5195714",
+        "lon": "9.8678801",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.38307540422660474,
+        "addresstype": "valley",
+        "name": "Oberengadin",
+        "display_name": "Oberengadin, Maloja, Graubünden, Schweiz",
+        "address": {
+            "valley": "Oberengadin",
+            "county": "Maloja",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4039981",
+            "46.6496081",
+            "9.6971726",
+            "10.0293848"
+        ]
+    }
+]

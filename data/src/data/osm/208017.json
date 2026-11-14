@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 78888544,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1600494900,
+        "lat": "45.4276143",
+        "lon": "13.9099709",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.4536894676029406,
+        "addresstype": "hamlet",
+        "name": "Salež",
+        "display_name": "Salež, Pinquent, Gespanschaft Istrien, Kroatien",
+        "address": {
+            "hamlet": "Salež",
+            "city_district": "Salež",
+            "town": "Pinquent",
+            "county": "Gespanschaft Istrien",
+            "ISO3166-2-lvl4": "HR-18",
+            "country": "Kroatien",
+            "country_code": "hr"
+        },
+        "boundingbox": [
+            "45.4076143",
+            "45.4476143",
+            "13.8899709",
+            "13.9299709"
+        ]
+    }
+]

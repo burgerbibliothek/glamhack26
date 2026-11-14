@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 120256473,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4545478194,
+        "lat": "49.4475167",
+        "lon": "7.5554676",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.14672057297627217,
+        "addresstype": "suburb",
+        "name": "Ramstein",
+        "display_name": "Ramstein, Ramstein-Miesenbach, Landkreis Kaiserslautern, Rheinland-Pfalz, 66877, Deutschland",
+        "address": {
+            "suburb": "Ramstein",
+            "town": "Ramstein-Miesenbach",
+            "municipality": "Ramstein-Miesenbach",
+            "county": "Landkreis Kaiserslautern",
+            "state": "Rheinland-Pfalz",
+            "ISO3166-2-lvl4": "DE-RP",
+            "postcode": "66877",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.4275167",
+            "49.4675167",
+            "7.5354676",
+            "7.5754676"
+        ]
+    }
+]

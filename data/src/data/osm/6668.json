@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92712023,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682367,
+        "lat": "47.2492334",
+        "lon": "7.6133081",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4263602961431367,
+        "addresstype": "village",
+        "name": "Attiswil",
+        "display_name": "Attiswil, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4536, Schweiz",
+        "address": {
+            "village": "Attiswil",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4536",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2338665",
+            "47.2750265",
+            "7.5843729",
+            "7.6316248"
+        ]
+    }
+]

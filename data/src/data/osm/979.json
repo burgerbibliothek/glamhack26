@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 75365955,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 541757,
+        "lat": "45.9917589",
+        "lon": "9.2648810",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.5647951180044847,
+        "addresstype": "lake",
+        "name": "Comer See",
+        "display_name": "Comer See, Como, Lombardei, Italien",
+        "address": {
+            "lake": "Comer See",
+            "county": "Como",
+            "ISO3166-2-lvl6": "IT-CO",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8131208",
+            "46.1703598",
+            "9.0667345",
+            "9.3889697"
+        ]
+    }
+]

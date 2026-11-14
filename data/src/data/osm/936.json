@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 340781225,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 161957,
+        "lat": "32.3293809",
+        "lon": "-83.1137366",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.7748242886610429,
+        "addresstype": "state",
+        "name": "Georgia",
+        "display_name": "Georgia, Vereinigte Staaten von Amerika",
+        "address": {
+            "state": "Georgia",
+            "ISO3166-2-lvl4": "US-GA",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "30.3556558",
+            "35.0006769",
+            "-85.6051650",
+            "-80.7514290"
+        ]
+    }
+]

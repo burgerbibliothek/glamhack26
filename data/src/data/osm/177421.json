@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73219190,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 525331998,
+        "lat": "46.4289312",
+        "lon": "9.7633826",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.244781979759108,
+        "addresstype": "hamlet",
+        "name": "Sils Maria",
+        "display_name": "Sils Maria, Sils im Engadin, Maloja, Graubünden, 7514, Schweiz",
+        "address": {
+            "hamlet": "Sils Maria",
+            "village": "Sils im Engadin",
+            "county": "Maloja",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7514",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4089312",
+            "46.4489312",
+            "9.7433826",
+            "9.7833826"
+        ]
+    }
+]

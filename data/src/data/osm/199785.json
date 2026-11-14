@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 417020892,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1691224,
+        "lat": "47.4030581",
+        "lon": "8.7956599",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.4563320955002238,
+        "addresstype": "county",
+        "name": "Bezirk Pfäffikon",
+        "display_name": "Bezirk Pfäffikon, Zürich, Schweiz",
+        "address": {
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3373524",
+            "47.4688031",
+            "8.6556464",
+            "8.9437158"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 421852844,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 302309381,
+        "lat": "47.5228923",
+        "lon": "8.1605956",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1600438811322194,
+        "addresstype": "peak",
+        "name": "Bützberg",
+        "display_name": "Bützberg, Remigen, Bezirk Brugg, Aargau, 5236, Schweiz",
+        "address": {
+            "peak": "Bützberg",
+            "village": "Remigen",
+            "county": "Bezirk Brugg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5236",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5228423",
+            "47.5229423",
+            "8.1605456",
+            "8.1606456"
+        ]
+    }
+]

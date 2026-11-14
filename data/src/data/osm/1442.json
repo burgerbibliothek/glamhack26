@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91412661,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11427742980,
+        "lat": "46.9224519",
+        "lon": "7.5179824",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671855725947966,
+        "addresstype": "locality",
+        "name": "Hüenliwald",
+        "display_name": "Hüenliwald, Allmendingen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3112, Schweiz",
+        "address": {
+            "locality": "Hüenliwald",
+            "village": "Allmendingen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3112",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9124519",
+            "46.9324519",
+            "7.5079824",
+            "7.5279824"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 86590404,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 7050923,
+        "lat": "45.9291958",
+        "lon": "1.0598444",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.435952575725974,
+        "addresstype": "river",
+        "name": "La Glane",
+        "display_name": "La Glane, Haute-Vienne, Neu-Aquitanien, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "river": "La Glane",
+            "county": "Haute-Vienne",
+            "ISO3166-2-lvl6": "FR-87",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.8873758",
+            "45.9724286",
+            "0.8853710",
+            "1.2306200"
+        ]
+    }
+]

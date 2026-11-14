@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 128942736,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1227667885,
+        "lat": "48.2802515",
+        "lon": "12.0139467",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.2432038182346074,
+        "addresstype": "hamlet",
+        "name": "Biberg",
+        "display_name": "Biberg, Obergeislbach, Lengdorf, Landkreis Erding, Bayern, 84435, Deutschland",
+        "address": {
+            "hamlet": "Biberg",
+            "village": "Obergeislbach",
+            "county": "Landkreis Erding",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "84435",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.2602515",
+            "48.3002515",
+            "11.9939467",
+            "12.0339467"
+        ]
+    }
+]

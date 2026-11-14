@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 45230224,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1192695373,
+        "lat": "21.4865419",
+        "lon": "39.1840388",
+        "category": "historic",
+        "type": "district",
+        "place_rank": 30,
+        "importance": 0.43712059073386417,
+        "addresstype": "historic",
+        "name": "Historisch Jeddah",
+        "display_name": "Historisch Jeddah, المدارس, Al Baghdadiyah Al Gharbiyah, Dschidda, Gouvernement Dschidda, Provinz Mekka, 22232, Saudi-Arabien",
+        "address": {
+            "historic": "Historisch Jeddah",
+            "road": "المدارس",
+            "neighbourhood": "Al Baghdadiyah Al Gharbiyah",
+            "city": "Dschidda",
+            "county": "Gouvernement Dschidda",
+            "state": "Provinz Mekka",
+            "ISO3166-2-lvl4": "SA-02",
+            "postcode": "22232",
+            "country": "Saudi-Arabien",
+            "country_code": "sa"
+        },
+        "boundingbox": [
+            "21.4772046",
+            "21.4958391",
+            "39.1759786",
+            "39.1931278"
+        ]
+    }
+]

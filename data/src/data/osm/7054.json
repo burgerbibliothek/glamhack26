@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92496701,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685480,
+        "lat": "47.0711321",
+        "lon": "6.9565125",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.36615672375168384,
+        "addresstype": "village",
+        "name": "Dombresson",
+        "display_name": "Dombresson, Val-de-Ruz, Val-de-Ruz Region, Neuenburg, 2056, Schweiz",
+        "address": {
+            "village": "Dombresson",
+            "city": "Val-de-Ruz",
+            "county": "Val-de-Ruz Region",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2056",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0580358",
+            "47.1149648",
+            "6.9244643",
+            "6.9780972"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 88020056,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2102989422,
+        "lat": "44.5103806",
+        "lon": "6.5378207",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339108644235903,
+        "addresstype": "hamlet",
+        "name": "Les Sagnettes",
+        "display_name": "Les Sagnettes, Les Orres, Gap, Hochalpen, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 05200, Frankreich",
+        "address": {
+            "hamlet": "Les Sagnettes",
+            "village": "Les Orres",
+            "municipality": "Gap",
+            "county": "Hochalpen",
+            "ISO3166-2-lvl6": "FR-05",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "05200",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.4903806",
+            "44.5303806",
+            "6.5178207",
+            "6.5578207"
+        ]
+    }
+]

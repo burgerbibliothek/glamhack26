@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 71861345,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684515,
+        "lat": "47.5268518",
+        "lon": "9.3650469",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4191562787591165,
+        "addresstype": "city",
+        "name": "Egnach",
+        "display_name": "Egnach, Bezirk Arbon, Thurgau, Schweiz",
+        "address": {
+            "city": "Egnach",
+            "county": "Bezirk Arbon",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5007759",
+            "47.5524961",
+            "9.3214694",
+            "9.4055827"
+        ]
+    }
+]

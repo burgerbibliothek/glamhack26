@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 94030589,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 114935,
+        "lat": "47.6608862",
+        "lon": "6.9348989",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.47170612902614156,
+        "addresstype": "village",
+        "name": "Pfeffingen",
+        "display_name": "Pfeffingen, Belfort, Territoire-de-Belfort, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 90150, Frankreich",
+        "address": {
+            "village": "Pfeffingen",
+            "municipality": "Belfort",
+            "county": "Territoire-de-Belfort",
+            "ISO3166-2-lvl6": "FR-90",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "90150",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.6506207",
+            "47.6682504",
+            "6.9240561",
+            "6.9713201"
+        ]
+    }
+]

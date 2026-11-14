@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73901978,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1416143854,
+        "lat": "46.7718193",
+        "lon": "8.7455739",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.10671457465476461,
+        "addresstype": "valley",
+        "name": "Maderanertal",
+        "display_name": "Maderanertal, Silenen, Uri, Schweiz",
+        "address": {
+            "valley": "Maderanertal",
+            "village": "Silenen",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7667814",
+            "46.8020063",
+            "8.6759588",
+            "8.8079470"
+        ]
+    }
+]

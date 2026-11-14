@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 93318483,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683619,
+        "lat": "47.5581077",
+        "lon": "7.5878261",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.7219062134993088,
+        "addresstype": "city",
+        "name": "Basel",
+        "display_name": "Basel, Basel-Stadt, Schweiz",
+        "address": {
+            "city": "Basel",
+            "state": "Basel-Stadt",
+            "ISO3166-2-lvl4": "CH-BS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5192971",
+            "47.5899018",
+            "7.5546595",
+            "7.6341484"
+        ]
+    }
+]

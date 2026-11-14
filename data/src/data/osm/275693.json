@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 76767537,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 43027,
+        "lat": "44.3114282",
+        "lon": "10.1459316",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.45426479078291876,
+        "addresstype": "city",
+        "name": "Comano",
+        "display_name": "Comano, Unione di comuni Montana Lunigiana, Massa-Carrara, Toskana, 54015, Italien",
+        "address": {
+            "city": "Comano",
+            "municipality": "Unione di comuni Montana Lunigiana",
+            "province": "Massa-Carrara",
+            "ISO3166-2-lvl6": "IT-MS",
+            "state": "Toskana",
+            "ISO3166-2-lvl4": "IT-52",
+            "postcode": "54015",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.2686946",
+            "44.3541715",
+            "10.0741189",
+            "10.2034512"
+        ]
+    }
+]

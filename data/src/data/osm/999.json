@@ -1,0 +1,28 @@
+[
+    {
+        "place_id": 54290705,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 127163329,
+        "lat": "35.9033152",
+        "lon": "14.5019463",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 14,
+        "importance": 0.36366628930239936,
+        "addresstype": "municipality",
+        "name": "Manoel Island",
+        "display_name": "Manoel Island, Malta",
+        "address": {
+            "municipality": "Manoel Island",
+            "country": "Malta",
+            "country_code": "mt"
+        },
+        "boundingbox": [
+            "35.9012111",
+            "35.9055015",
+            "14.4962116",
+            "14.5083174"
+        ]
+    }
+]

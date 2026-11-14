@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72398007,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3402024690,
+        "lat": "47.3456637",
+        "lon": "8.5993998",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.29823583006172555,
+        "addresstype": "suburb",
+        "name": "Zollikerberg",
+        "display_name": "Zollikerberg, Zollikon, Bezirk Meilen, Zürich, 8702, Schweiz",
+        "address": {
+            "suburb": "Zollikerberg",
+            "town": "Zollikon",
+            "county": "Bezirk Meilen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8702",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3256637",
+            "47.3656637",
+            "8.5793998",
+            "8.6193998"
+        ]
+    }
+]

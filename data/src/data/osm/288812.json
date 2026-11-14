@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91931480,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1227291705,
+        "lat": "46.8739583",
+        "lon": "7.7209354",
+        "category": "landuse",
+        "type": "winter_sports",
+        "place_rank": 24,
+        "importance": 0.08005000152590216,
+        "addresstype": "winter_sports",
+        "name": "Chuderhüsi",
+        "display_name": "Chuderhüsi, Gauchern, Röthenbach im Emmental, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3538, Schweiz",
+        "address": {
+            "winter_sports": "Chuderhüsi",
+            "hamlet": "Gauchern",
+            "village": "Röthenbach im Emmental",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3538",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8729462",
+            "46.8760046",
+            "7.7192696",
+            "7.7219948"
+        ]
+    }
+]

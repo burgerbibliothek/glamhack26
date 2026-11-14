@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72840447,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683893,
+        "lat": "47.3004656",
+        "lon": "9.1756588",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.3678453393566702,
+        "addresstype": "village",
+        "name": "Hemberg",
+        "display_name": "Hemberg, Bächli, Neckertal, Wahlkreis Toggenburg, St. Gallen, 9633, Schweiz",
+        "address": {
+            "village": "Hemberg",
+            "city": "Neckertal",
+            "county": "Wahlkreis Toggenburg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9633",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2760372",
+            "47.3208986",
+            "9.1445494",
+            "9.2243229"
+        ]
+    }
+]

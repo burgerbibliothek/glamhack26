@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92172544,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 13007817,
+        "lat": "46.6724364",
+        "lon": "6.3224691",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.35411856752696674,
+        "addresstype": "lake",
+        "name": "Lac Brenet",
+        "display_name": "Lac Brenet, Les Charbonnières, Le Lieu, District du Jura-Nord vaudois, Waadt, Schweiz",
+        "address": {
+            "lake": "Lac Brenet",
+            "village": "Les Charbonnières",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6655358",
+            "46.6793330",
+            "6.3169924",
+            "6.3312512"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91747362,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682528,
+        "lat": "46.9644914",
+        "lon": "7.7418169",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42508095126242484,
+        "addresstype": "village",
+        "name": "Lauperswil",
+        "display_name": "Lauperswil, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Lauperswil",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9322783",
+            "46.9948381",
+            "7.6974471",
+            "7.7983515"
+        ]
+    }
+]

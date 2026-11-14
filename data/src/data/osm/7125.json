@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93001529,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240048178,
+        "lat": "47.3285359",
+        "lon": "7.0565300",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.306026056337308,
+        "addresstype": "village",
+        "name": "Epiquerez",
+        "display_name": "Epiquerez, Clos du Doubs, Bezirk Porrentruy, Jura, 2886, Schweiz",
+        "address": {
+            "village": "Epiquerez",
+            "city": "Clos du Doubs",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2886",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3085359",
+            "47.3485359",
+            "7.0365300",
+            "7.0765300"
+        ]
+    }
+]

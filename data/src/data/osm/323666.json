@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92021751,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 600910946,
+        "lat": "46.9592920",
+        "lon": "7.4629912",
+        "category": "amenity",
+        "type": "library",
+        "place_rank": 30,
+        "importance": 0.22274623325780465,
+        "addresstype": "amenity",
+        "name": "Bibliothek am Guisanplatz BiG",
+        "display_name": "Bibliothek am Guisanplatz BiG, 21a, Papiermühlestrasse, Spitalacker, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3014, Schweiz",
+        "address": {
+            "amenity": "Bibliothek am Guisanplatz BiG",
+            "house_number": "21a",
+            "road": "Papiermühlestrasse",
+            "quarter": "Spitalacker",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3014",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9592420",
+            "46.9593420",
+            "7.4629412",
+            "7.4630412"
+        ]
+    }
+]

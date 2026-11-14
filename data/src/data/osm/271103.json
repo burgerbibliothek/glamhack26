@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 86018459,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3149032781,
+        "lat": "43.9589000",
+        "lon": "0.7275894",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.1067290798809796,
+        "addresstype": "isolated_dwelling",
+        "name": "Lussy",
+        "display_name": "Lussy, Plieux, Condom, Gers, Okzitanien, Metropolitanes Frankreich, 32340, Frankreich",
+        "address": {
+            "isolated_dwelling": "Lussy",
+            "village": "Plieux",
+            "municipality": "Condom",
+            "county": "Gers",
+            "ISO3166-2-lvl6": "FR-32",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "32340",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.9588500",
+            "43.9589500",
+            "0.7275394",
+            "0.7276394"
+        ]
+    }
+]

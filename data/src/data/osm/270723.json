@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92589760,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2431440022,
+        "lat": "46.6206651",
+        "lon": "6.9102229",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337907454032194,
+        "addresstype": "hamlet",
+        "name": "Les Ecasseys",
+        "display_name": "Les Ecasseys, Sommentier, Vuisternens-devant-Romont, Glanebezirk, Freiburg, 1611, Schweiz",
+        "address": {
+            "hamlet": "Les Ecasseys",
+            "village": "Sommentier",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1611",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6006651",
+            "46.6406651",
+            "6.8902229",
+            "6.9302229"
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 72620642,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682879,
+        "lat": "47.0185008",
+        "lon": "8.3107797",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4363721193397938,
+        "addresstype": "town",
+        "name": "Horw",
+        "display_name": "Horw, Luzern, Schweiz",
+        "address": {
+            "town": "Horw",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9890098",
+            "47.0369339",
+            "8.2581429",
+            "8.3685140"
+        ]
+    }
+]

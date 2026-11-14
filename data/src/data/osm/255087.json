@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91392883,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 974661645,
+        "lat": "46.4536817",
+        "lon": "6.9437580",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3436304091577327,
+        "addresstype": "village",
+        "name": "Les Avants",
+        "display_name": "Les Avants, Montreux, Bezirk Riviera-Pays-d'Enhaut, Waadt, 1833, Schweiz",
+        "address": {
+            "village": "Les Avants",
+            "town": "Montreux",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1833",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4336817",
+            "46.4736817",
+            "6.9237580",
+            "6.9637580"
+        ]
+    }
+]

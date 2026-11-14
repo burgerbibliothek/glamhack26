@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 138763154,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 134434129,
+        "lat": "50.1056595",
+        "lon": "8.6883322",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.941481651021618e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "45, Elisabethenstraße, Sachsenhausen Nord, Sachsenhausen, Süd, Frankfurt am Main, Hessen, 60594, Deutschland",
+        "address": {
+            "house_number": "45",
+            "road": "Elisabethenstraße",
+            "quarter": "Sachsenhausen Nord",
+            "suburb": "Sachsenhausen",
+            "city_district": "Süd",
+            "city": "Frankfurt am Main",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "60594",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.1056019",
+            "50.1057172",
+            "8.6882607",
+            "8.6884072"
+        ]
+    }
+]

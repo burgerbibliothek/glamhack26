@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 62623427,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 447918448,
+        "lat": "47.0025755",
+        "lon": "24.3197911",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3897107592752421,
+        "addresstype": "village",
+        "name": "Wermesch",
+        "display_name": "Wermesch, Lechnitz, Bistrița-Năsăud, 427112, Rumänien",
+        "address": {
+            "village": "Wermesch",
+            "county": "Bistrița-Năsăud",
+            "ISO3166-2-lvl4": "RO-BN",
+            "postcode": "427112",
+            "country": "Rumänien",
+            "country_code": "ro"
+        },
+        "boundingbox": [
+            "46.9825755",
+            "47.0225755",
+            "24.2997911",
+            "24.3397911"
+        ]
+    }
+]

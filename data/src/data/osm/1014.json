@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 168947184,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1617869,
+        "lat": "60.7330202",
+        "lon": "28.7251630",
+        "category": "leisure",
+        "type": "park",
+        "place_rank": 24,
+        "importance": 0.3552828743550627,
+        "addresstype": "park",
+        "name": "Monrepos",
+        "display_name": "Monrepos, Петровский микрорайон, Wyborg, Выборгское городское поселение, Rajon Wyborg, Oblast Leningrad, Föderationskreis Nordwest, Russland",
+        "address": {
+            "park": "Monrepos",
+            "suburb": "Петровский микрорайон",
+            "city": "Wyborg",
+            "municipality": "Выборгское городское поселение",
+            "county": "Rajon Wyborg",
+            "state": "Oblast Leningrad",
+            "ISO3166-2-lvl4": "RU-LEN",
+            "region": "Föderationskreis Nordwest",
+            "country": "Russland",
+            "country_code": "ru"
+        },
+        "boundingbox": [
+            "60.7287069",
+            "60.7373279",
+            "28.7191042",
+            "28.7381341"
+        ]
+    }
+]

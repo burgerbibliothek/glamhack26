@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73575808,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682391,
+        "lat": "46.7560001",
+        "lon": "8.0303006",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4555878768763193,
+        "addresstype": "village",
+        "name": "Brienz BE",
+        "display_name": "Brienz BE, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Brienz BE",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6710230",
+            "46.7902499",
+            "7.9703343",
+            "8.0924976"
+        ]
+    }
+]

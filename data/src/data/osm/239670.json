@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91567082,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1296522435,
+        "lat": "46.9472577",
+        "lon": "7.4429150",
+        "category": "amenity",
+        "type": "pharmacy",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Apotheke Dr. Noyer",
+        "display_name": "Apotheke Dr. Noyer, 7, Schauplatzgasse, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "amenity": "Apotheke Dr. Noyer",
+            "house_number": "7",
+            "road": "Schauplatzgasse",
+            "quarter": "Rotes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9472077",
+            "46.9473077",
+            "7.4428650",
+            "7.4429650"
+        ]
+    }
+]

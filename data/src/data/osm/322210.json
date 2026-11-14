@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145067879,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 238018634,
+        "lat": "52.4032460",
+        "lon": "13.5748424",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "6, Gartenstraße, Bohnsdorf, Treptow-Köpenick, Berlin, Schenkendorf-Krummensee, 12526, Deutschland",
+        "address": {
+            "house_number": "6",
+            "road": "Gartenstraße",
+            "suburb": "Bohnsdorf",
+            "borough": "Treptow-Köpenick",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "municipality": "Schenkendorf-Krummensee",
+            "postcode": "12526",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4032066",
+            "52.4032969",
+            "13.5747504",
+            "13.5749264"
+        ]
+    }
+]

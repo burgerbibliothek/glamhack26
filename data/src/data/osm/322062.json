@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91450166,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10855805442,
+        "lat": "46.9582263",
+        "lon": "7.4403766",
+        "category": "office",
+        "type": "company",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "office",
+        "name": "PostAuto AG",
+        "display_name": "PostAuto AG, 39, Engehaldenstrasse, Engeried, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3001, Schweiz",
+        "address": {
+            "office": "PostAuto AG",
+            "house_number": "39",
+            "road": "Engehaldenstrasse",
+            "quarter": "Engeried",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9581763",
+            "46.9582763",
+            "7.4403266",
+            "7.4404266"
+        ]
+    }
+]

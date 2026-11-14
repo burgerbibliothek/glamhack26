@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92783621,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683494,
+        "lat": "47.1944967",
+        "lon": "7.5865899",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3951100392087533,
+        "addresstype": "village",
+        "name": "Derendingen",
+        "display_name": "Derendingen, Bezirk Wasseramt, Amtei Bucheggberg-Wasseramt, Solothurn, 4552, Schweiz",
+        "address": {
+            "village": "Derendingen",
+            "municipality": "Bezirk Wasseramt",
+            "county": "Amtei Bucheggberg-Wasseramt",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4552",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1741431",
+            "47.2131558",
+            "7.5748869",
+            "7.6056589"
+        ]
+    }
+]

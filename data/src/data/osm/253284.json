@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92179763,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 322835544,
+        "lat": "46.8149977",
+        "lon": "7.1983281",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338278095674067,
+        "addresstype": "hamlet",
+        "name": "Menziswil",
+        "display_name": "Menziswil, Tafers, Sensebezirk, Freiburg, 1712, Schweiz",
+        "address": {
+            "hamlet": "Menziswil",
+            "village": "Tafers",
+            "county": "Sensebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1712",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7949977",
+            "46.8349977",
+            "7.1783281",
+            "7.2183281"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 122531482,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 311042169,
+        "lat": "48.9039407",
+        "lon": "9.6802227",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1773516541617975,
+        "addresstype": "hamlet",
+        "name": "Schadberg",
+        "display_name": "Schadberg, Kaisersbach, VVG der Stadt Welzheim, Rems-Murr-Kreis, Baden-Württemberg, 73667, Deutschland",
+        "address": {
+            "hamlet": "Schadberg",
+            "village": "Kaisersbach",
+            "municipality": "VVG der Stadt Welzheim",
+            "county": "Rems-Murr-Kreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "73667",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.8839407",
+            "48.9239407",
+            "9.6602227",
+            "9.7002227"
+        ]
+    }
+]

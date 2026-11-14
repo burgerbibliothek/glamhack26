@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92134377,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 192239780,
+        "lat": "46.8364637",
+        "lon": "7.2007049",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338278095674067,
+        "addresstype": "hamlet",
+        "name": "Jetschwil",
+        "display_name": "Jetschwil, Düdingen, Sensebezirk, Freiburg, 3186, Schweiz",
+        "address": {
+            "hamlet": "Jetschwil",
+            "village": "Düdingen",
+            "county": "Sensebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "3186",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8164637",
+            "46.8564637",
+            "7.1807049",
+            "7.2207049"
+        ]
+    }
+]

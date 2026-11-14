@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 93147352,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683382,
+        "lat": "46.8171689",
+        "lon": "7.0467258",
+        "category": "boundary",
+        "type": "historic",
+        "place_rank": 25,
+        "importance": 0.38057472762224825,
+        "addresstype": "historic",
+        "name": "Ponthaux",
+        "display_name": "Ponthaux, Nierlet-les-Bois, Grolley-Ponthaux, Saanebezirk, Freiburg, 1772, Schweiz",
+        "address": {
+            "historic": "Ponthaux",
+            "village": "Nierlet-les-Bois",
+            "city": "Grolley-Ponthaux",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1772",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8052414",
+            "46.8292369",
+            "7.0230825",
+            "7.0692312"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73035316,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4172909635,
+        "lat": "47.1010941",
+        "lon": "8.3231274",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333847966735332,
+        "addresstype": "hamlet",
+        "name": "Waltwil",
+        "display_name": "Waltwil, Emmen, Luzern, 6033, Schweiz",
+        "address": {
+            "hamlet": "Waltwil",
+            "town": "Emmen",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6033",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0810941",
+            "47.1210941",
+            "8.3031274",
+            "8.3431274"
+        ]
+    }
+]

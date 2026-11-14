@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 70946795,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 160768071,
+        "lat": "47.7320932",
+        "lon": "10.7752805",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338444724193177,
+        "addresstype": "hamlet",
+        "name": "Egghof",
+        "display_name": "Egghof, Bernbeuren, Bernbeuren (VGem), Landkreis Weilheim-Schongau, Bayern, Deutschland",
+        "address": {
+            "hamlet": "Egghof",
+            "village": "Bernbeuren",
+            "municipality": "Bernbeuren (VGem)",
+            "county": "Landkreis Weilheim-Schongau",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.7314967",
+            "47.7326698",
+            "10.7742240",
+            "10.7760915"
+        ]
+    }
+]

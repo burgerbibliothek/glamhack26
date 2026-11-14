@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92179337,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1308540511,
+        "lat": "46.9302271",
+        "lon": "7.2218956",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 4.6295109483436595e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "36b, Murtenstrasse, Wallenbuch, Ulmiz, Gurmels, Seebezirk, Freiburg, 3206, Schweiz",
+        "address": {
+            "house_number": "36b",
+            "road": "Murtenstrasse",
+            "hamlet": "Wallenbuch",
+            "village": "Ulmiz",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "3206",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9301278",
+            "46.9303084",
+            "7.2217474",
+            "7.2220476"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91907885,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682396,
+        "lat": "46.8194278",
+        "lon": "7.6855438",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41252155072916463,
+        "addresstype": "city",
+        "name": "Buchholterberg",
+        "display_name": "Buchholterberg, Verwaltungskreis Thun, Oberland administrative region, Bern, 3615, Schweiz",
+        "address": {
+            "city": "Buchholterberg",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3615",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8022132",
+            "46.8366125",
+            "7.6424403",
+            "7.7362834"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92794676,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682578,
+        "lat": "47.0056578",
+        "lon": "7.2256316",
+        "category": "boundary",
+        "type": "old_administrative",
+        "place_rank": 25,
+        "importance": 0.3656661556590361,
+        "addresstype": "old_administrative",
+        "name": "Niederried bei Kallnach",
+        "display_name": "Niederried bei Kallnach, Golaten, Kallnach, Seeland administrative district, Seeland administrative region, Bern, 3207, Schweiz",
+        "address": {
+            "old_administrative": "Niederried bei Kallnach",
+            "village": "Golaten",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3207",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9906814",
+            "47.0207258",
+            "7.1969373",
+            "7.2586695"
+        ]
+    }
+]

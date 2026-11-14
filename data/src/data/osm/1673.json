@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73686267,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2903487307,
+        "lat": "46.7132933",
+        "lon": "8.1824429",
+        "category": "waterway",
+        "type": "waterfall",
+        "place_rank": 20,
+        "importance": 0.4163784860435994,
+        "addresstype": "waterfall",
+        "name": "Reichenbach Falls",
+        "display_name": "Reichenbach Falls, Geissholz, Schattenhalb, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3860, Schweiz",
+        "address": {
+            "waterfall": "Reichenbach Falls",
+            "village": "Geissholz",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3860",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7132433",
+            "46.7133433",
+            "8.1823929",
+            "8.1824929"
+        ]
+    }
+]

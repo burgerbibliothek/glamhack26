@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 115249845,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 194540049,
+        "lat": "51.4700075",
+        "lon": "7.0131848",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.236362249175276e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "5, Altenbergstraße, Eltingviertel, Segeroth, Nordviertel, Stadtbezirk I, Essen, Nordrhein-Westfalen, 45141, Deutschland",
+        "address": {
+            "house_number": "5",
+            "road": "Altenbergstraße",
+            "neighbourhood": "Eltingviertel",
+            "quarter": "Segeroth",
+            "suburb": "Nordviertel",
+            "city_district": "Stadtbezirk I",
+            "city": "Essen",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "45141",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.4699304",
+            "51.4700586",
+            "7.0130778",
+            "7.0132922"
+        ]
+    }
+]

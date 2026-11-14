@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72215700,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 309838449,
+        "lat": "47.4303307",
+        "lon": "8.6709808",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1467167277027542,
+        "addresstype": "village",
+        "name": "Tagelswangen",
+        "display_name": "Tagelswangen, Lindau, Bezirk Pfäffikon, Zürich, 8317, Schweiz",
+        "address": {
+            "village": "Tagelswangen",
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8317",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4103307",
+            "47.4503307",
+            "8.6509808",
+            "8.6909808"
+        ]
+    }
+]

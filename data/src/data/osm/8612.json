@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92281437,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682708,
+        "lat": "47.0328313",
+        "lon": "7.1104574",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42034214799233083,
+        "addresstype": "village",
+        "name": "Vinelz",
+        "display_name": "Vinelz, Seeland administrative district, Seeland administrative region, Bern, 3234, Schweiz",
+        "address": {
+            "village": "Vinelz",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3234",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0205477",
+            "47.0442363",
+            "7.0954483",
+            "7.1464801"
+        ]
+    }
+]

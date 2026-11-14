@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 210452633,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1387273,
+        "lat": "32.7938522",
+        "lon": "35.5328566",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6365552258268128,
+        "addresstype": "town",
+        "name": "Tiberias",
+        "display_name": "Tiberias, Unterbezirk Kinneret, Nordbezirk, Israel",
+        "address": {
+            "town": "Tiberias",
+            "state_district": "Unterbezirk Kinneret",
+            "state": "Nordbezirk",
+            "ISO3166-2-lvl4": "IL-Z",
+            "country": "Israel",
+            "country_code": "il"
+        },
+        "boundingbox": [
+            "32.7540239",
+            "32.8121535",
+            "35.4952814",
+            "35.5629787"
+        ]
+    }
+]

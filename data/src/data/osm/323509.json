@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91432665,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11153138778,
+        "lat": "46.9489753",
+        "lon": "7.4415160",
+        "category": "amenity",
+        "type": "pharmacy",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Dropa Apotheke Bern",
+        "display_name": "Dropa Apotheke Bern, 41, Neuengasse, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "amenity": "Dropa Apotheke Bern",
+            "house_number": "41",
+            "road": "Neuengasse",
+            "quarter": "Rotes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9489253",
+            "46.9490253",
+            "7.4414660",
+            "7.4415660"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92882724,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683566,
+        "lat": "47.3496571",
+        "lon": "7.9037870",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5273908860142033,
+        "addresstype": "town",
+        "name": "Olten",
+        "display_name": "Olten, Bezirk Olten, Amtei Olten-Gösgen, Solothurn, 4600, Schweiz",
+        "address": {
+            "town": "Olten",
+            "municipality": "Bezirk Olten",
+            "county": "Amtei Olten-Gösgen",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4600",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3110275",
+            "47.3689238",
+            "7.8748577",
+            "7.9290851"
+        ]
+    }
+]

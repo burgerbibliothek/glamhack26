@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 128024621,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 240100763,
+        "lat": "48.0838877",
+        "lon": "11.5066445",
+        "category": "building",
+        "type": "semidetached_house",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "40, Weltistraße, Neu-Solln, Parkstadt Solln, Forstenried, Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln, München, Bayern, 81477, Deutschland",
+        "address": {
+            "house_number": "40",
+            "road": "Weltistraße",
+            "neighbourhood": "Neu-Solln",
+            "quarter": "Parkstadt Solln",
+            "suburb": "Forstenried",
+            "city_district": "Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "81477",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.0838365",
+            "48.0839388",
+            "11.5065888",
+            "11.5067002"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91519855,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 173833063,
+        "lat": "46.7254458",
+        "lon": "7.6201429",
+        "category": "building",
+        "type": "train_station",
+        "place_rank": 30,
+        "importance": 0.07194870560319186,
+        "addresstype": "building",
+        "name": "Gwatt",
+        "display_name": "Gwatt, 56, Eisenbahnstrasse, Thun, Verwaltungskreis Thun, Oberland administrative region, Bern, 3645, Schweiz",
+        "address": {
+            "building": "Gwatt",
+            "house_number": "56",
+            "road": "Eisenbahnstrasse",
+            "town": "Thun",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3645",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7253712",
+            "46.7255016",
+            "7.6200846",
+            "7.6202095"
+        ]
+    }
+]

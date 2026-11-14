@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 71704975,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 82719510,
+        "lat": "47.6993685",
+        "lon": "8.3418383",
+        "category": "highway",
+        "type": "unclassified",
+        "place_rank": 26,
+        "importance": 0.053383334859235486,
+        "addresstype": "unclassified",
+        "name": "Muhren",
+        "display_name": "Muhren, Talhöfe, Untermettingen, Ühlingen-Birkendorf, GVV Oberes Schlüchttal, Landkreis Waldshut, Baden-Württemberg, 79777, Deutschland",
+        "address": {
+            "road": "Muhren",
+            "hamlet": "Talhöfe",
+            "village": "Untermettingen",
+            "municipality": "Ühlingen-Birkendorf",
+            "county": "Landkreis Waldshut",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "79777",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.6987724",
+            "47.6998575",
+            "8.3407607",
+            "8.3435784"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91814405,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 558639570,
+        "lat": "46.9649272",
+        "lon": "7.4847639",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 4.3543907835462234e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "129, Bolligenstrasse, Burgfeld, Beundenfeld, Stadtteil IV, Ostermundigen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3072, Schweiz",
+        "address": {
+            "house_number": "129",
+            "road": "Bolligenstrasse",
+            "quarter": "Burgfeld",
+            "city_district": "Stadtteil IV",
+            "town": "Ostermundigen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3072",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9648772",
+            "46.9649772",
+            "7.4847139",
+            "7.4848139"
+        ]
+    }
+]

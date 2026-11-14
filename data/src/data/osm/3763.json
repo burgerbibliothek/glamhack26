@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91655249,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 251236204,
+        "lat": "46.9481468",
+        "lon": "7.4439439",
+        "category": "tourism",
+        "type": "attraction",
+        "place_rank": 30,
+        "importance": 0.31620884567581686,
+        "addresstype": "tourism",
+        "name": "Käfigturm",
+        "display_name": "Käfigturm, 67, Marktgasse, Gelbes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "tourism": "Käfigturm",
+            "house_number": "67",
+            "road": "Marktgasse",
+            "quarter": "Gelbes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9480669",
+            "46.9482299",
+            "7.4438620",
+            "7.4441059"
+        ]
+    }
+]

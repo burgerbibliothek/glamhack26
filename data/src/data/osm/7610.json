@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92165878,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685506,
+        "lat": "47.0555907",
+        "lon": "6.7454540",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5102980478439053,
+        "addresstype": "town",
+        "name": "Le Locle",
+        "display_name": "Le Locle, Région Montagnes, Neuenburg, 2400, Schweiz",
+        "address": {
+            "town": "Le Locle",
+            "region": "Région Montagnes",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2400",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0231106",
+            "47.0919898",
+            "6.6915070",
+            "6.7868571"
+        ]
+    }
+]

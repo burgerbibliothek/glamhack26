@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92079437,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1353711246,
+        "lat": "46.6101178",
+        "lon": "6.2458973",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.4006774534510699,
+        "addresstype": "valley",
+        "name": "Vallée de Joux",
+        "display_name": "Vallée de Joux, Le Chenit, District du Jura-Nord vaudois, Waadt, Schweiz",
+        "address": {
+            "valley": "Vallée de Joux",
+            "village": "Le Chenit",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5533362",
+            "46.6668993",
+            "6.1632110",
+            "6.3285835"
+        ]
+    }
+]

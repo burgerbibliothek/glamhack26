@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 187215523,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2793405842,
+        "lat": "48.2104409",
+        "lon": "16.3650509",
+        "category": "shop",
+        "type": "clothes",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "shop",
+        "name": "Zirkus",
+        "display_name": "Zirkus, 15, Herrengasse, Schottenviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich",
+        "address": {
+            "shop": "Zirkus",
+            "house_number": "15",
+            "road": "Herrengasse",
+            "neighbourhood": "Schottenviertel",
+            "suburb": "Innere Stadt",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1010",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2103909",
+            "48.2104909",
+            "16.3650009",
+            "16.3651009"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73408256,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3411942,
+        "lat": "46.7659517",
+        "lon": "9.2281123",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39877480132620163,
+        "addresstype": "city",
+        "name": "Ilanz/Glion",
+        "display_name": "Ilanz/Glion, Surselva, Graubünden, Schweiz",
+        "address": {
+            "city": "Ilanz/Glion",
+            "county": "Surselva",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6564979",
+            "46.8753895",
+            "9.0655456",
+            "9.2962592"
+        ]
+    }
+]

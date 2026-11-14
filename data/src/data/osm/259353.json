@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 122473195,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2792060,
+        "lat": "48.7888674",
+        "lon": "9.9345819",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4698263622952075,
+        "addresstype": "town",
+        "name": "Heubach",
+        "display_name": "Heubach, GVV Rosenstein, Ostalbkreis, Baden-Württemberg, 73540, Deutschland",
+        "address": {
+            "town": "Heubach",
+            "municipality": "GVV Rosenstein",
+            "county": "Ostalbkreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "73540",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.7541865",
+            "48.8197573",
+            "9.8938998",
+            "9.9965794"
+        ]
+    }
+]

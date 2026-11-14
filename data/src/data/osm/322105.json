@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 145259990,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2947849842,
+        "lat": "52.5849334",
+        "lon": "13.2282315",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "6, Falkenplatz, Konradshöhe, Reinickendorf, Berlin, 13505, Deutschland",
+        "address": {
+            "house_number": "6",
+            "road": "Falkenplatz",
+            "suburb": "Konradshöhe",
+            "borough": "Reinickendorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13505",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5848834",
+            "52.5849834",
+            "13.2281815",
+            "13.2282815"
+        ]
+    }
+]

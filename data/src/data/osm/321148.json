@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 123221396,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 33059023,
+        "lat": "48.5950043",
+        "lon": "8.8717532",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 5.596017395280411e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "42, Spitalgasse, Herrenberg (Stadt), Herrenberg, VVG der Stadt Herrenberg, Landkreis Böblingen, Baden-Württemberg, 71083, Deutschland",
+        "address": {
+            "house_number": "42",
+            "road": "Spitalgasse",
+            "town": "Herrenberg (Stadt)",
+            "municipality": "VVG der Stadt Herrenberg",
+            "county": "Landkreis Böblingen",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "71083",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.5949500",
+            "48.5950758",
+            "8.8716606",
+            "8.8718624"
+        ]
+    }
+]

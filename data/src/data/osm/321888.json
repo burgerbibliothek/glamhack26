@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 116592659,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 145035079,
+        "lat": "50.9355994",
+        "lon": "6.9521063",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 8.006485084301545e-05,
+        "addresstype": "amenity",
+        "name": "Bei d'r Tant",
+        "display_name": "Bei d'r Tant, 28, Cäcilienstraße, Cäcilienviertel, Altstadt-Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50667, Deutschland",
+        "address": {
+            "amenity": "Bei d'r Tant",
+            "house_number": "28",
+            "road": "Cäcilienstraße",
+            "neighbourhood": "Cäcilienviertel",
+            "suburb": "Altstadt-Süd",
+            "city_district": "Innenstadt",
+            "city": "Köln",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "50667",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9355605",
+            "50.9356603",
+            "6.9520414",
+            "6.9521749"
+        ]
+    }
+]

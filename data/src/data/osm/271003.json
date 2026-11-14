@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92958663,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1968172446,
+        "lat": "46.8188828",
+        "lon": "6.9763906",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671434729533833,
+        "addresstype": "village",
+        "name": "Cousset",
+        "display_name": "Cousset, Montagny (FR), Broyebezirk, Freiburg, 1774, Schweiz",
+        "address": {
+            "village": "Cousset",
+            "city": "Montagny (FR)",
+            "county": "Broyebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1774",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7988828",
+            "46.8388828",
+            "6.9563906",
+            "6.9963906"
+        ]
+    }
+]

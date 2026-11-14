@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92436811,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682739,
+        "lat": "46.5532610",
+        "lon": "7.3738058",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42234121106503436,
+        "addresstype": "village",
+        "name": "Zweisimmen",
+        "display_name": "Zweisimmen, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3770, Schweiz",
+        "address": {
+            "village": "Zweisimmen",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3770",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4906794",
+            "46.5989283",
+            "7.2762875",
+            "7.4620423"
+        ]
+    }
+]

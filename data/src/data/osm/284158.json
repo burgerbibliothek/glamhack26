@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71571697,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 461780868,
+        "lat": "47.5132762",
+        "lon": "9.2165455",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337819256885633,
+        "addresstype": "hamlet",
+        "name": "Oetlishausen",
+        "display_name": "Oetlishausen, Hohentannen, Bezirk Weinfelden, Thurgau, 9216, Schweiz",
+        "address": {
+            "hamlet": "Oetlishausen",
+            "village": "Hohentannen",
+            "county": "Bezirk Weinfelden",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "9216",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4932762",
+            "47.5332762",
+            "9.1965455",
+            "9.2365455"
+        ]
+    }
+]

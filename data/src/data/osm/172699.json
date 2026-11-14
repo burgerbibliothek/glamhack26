@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 119992354,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6326537758,
+        "lat": "49.1072907",
+        "lon": "5.9870167",
+        "category": "historic",
+        "type": "monument",
+        "place_rank": 30,
+        "importance": 6.410696574345032e-05,
+        "addresstype": "historic",
+        "name": "Denkmal der Kavallerie-Brigade \"Bredow\"",
+        "display_name": "Denkmal der Kavallerie-Brigade \"Bredow\", Rue de Villers, Rezonville, Rezonville-Vionville, Metz, Moselle, Groß-Osten, Metropolitanes Frankreich, 57130, Frankreich",
+        "address": {
+            "historic": "Denkmal der Kavallerie-Brigade \"Bredow\"",
+            "road": "Rue de Villers",
+            "city_district": "Rezonville",
+            "city": "Rezonville-Vionville",
+            "municipality": "Metz",
+            "county": "Moselle",
+            "ISO3166-2-lvl6": "FR-57",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "57130",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.1072407",
+            "49.1073407",
+            "5.9869667",
+            "5.9870667"
+        ]
+    }
+]

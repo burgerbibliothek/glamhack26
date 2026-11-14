@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 128094464,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11872238659,
+        "lat": "48.1468493",
+        "lon": "11.4631473",
+        "category": "office",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "office",
+        "name": "Büro-Service Eisela Lakatos Epites",
+        "display_name": "Büro-Service Eisela Lakatos Epites, 5, Rathausgasse, Neupasing, Pasing, Pasing-Obermenzing, München, Bayern, 81241, Deutschland",
+        "address": {
+            "office": "Büro-Service Eisela Lakatos Epites",
+            "house_number": "5",
+            "road": "Rathausgasse",
+            "quarter": "Neupasing",
+            "suburb": "Pasing",
+            "city_district": "Pasing-Obermenzing",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "81241",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1467993",
+            "48.1468993",
+            "11.4630973",
+            "11.4631973"
+        ]
+    }
+]

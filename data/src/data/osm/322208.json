@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 145320281,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 105735655,
+        "lat": "52.5308423",
+        "lon": "13.3913437",
+        "category": "building",
+        "type": "school",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "10, Gartenstraße, Oranienburger Vorstadt, Mitte, Berlin, 10115, Deutschland",
+        "address": {
+            "house_number": "10",
+            "road": "Gartenstraße",
+            "quarter": "Oranienburger Vorstadt",
+            "suburb": "Mitte",
+            "borough": "Mitte",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10115",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5305118",
+            "52.5310296",
+            "13.3910809",
+            "13.3917885"
+        ]
+    }
+]

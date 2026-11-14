@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 93052242,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 233037268,
+        "lat": "47.1370692",
+        "lon": "7.2426378",
+        "category": "amenity",
+        "type": "school",
+        "place_rank": 30,
+        "importance": 6.320210574497623e-05,
+        "addresstype": "amenity",
+        "name": "Tagesschule Plänke",
+        "display_name": "Tagesschule Plänke, 10, Neuengasse, Neustadt, Biel, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2502, Schweiz",
+        "address": {
+            "amenity": "Tagesschule Plänke",
+            "house_number": "10",
+            "road": "Neuengasse",
+            "suburb": "Neustadt",
+            "city": "Biel",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2502",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1369539",
+            "47.1372160",
+            "7.2424386",
+            "7.2429089"
+        ]
+    }
+]

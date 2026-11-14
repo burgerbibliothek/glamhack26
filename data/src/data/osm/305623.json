@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91665476,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 41484487,
+        "lat": "46.9419131",
+        "lon": "7.4679780",
+        "category": "highway",
+        "type": "living_street",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "living_street",
+        "name": "Burgernzielweg",
+        "display_name": "Burgernzielweg, Wittigkofen, Murifeld, Schloss Wittigkofen, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "road": "Burgernzielweg",
+            "quarter": "Wittigkofen",
+            "hamlet": "Schloss Wittigkofen",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9415741",
+            "46.9422560",
+            "7.4669781",
+            "7.4689770"
+        ]
+    }
+]

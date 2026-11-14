@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92066268,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684970,
+        "lat": "46.9057923",
+        "lon": "7.0740011",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4122803330194641,
+        "addresstype": "village",
+        "name": "Pfauen",
+        "display_name": "Pfauen, District de la Broye-Vully, Waadt, 1595, Schweiz",
+        "address": {
+            "village": "Pfauen",
+            "county": "District de la Broye-Vully",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1595",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8940500",
+            "46.9247089",
+            "7.0541998",
+            "7.0934092"
+        ]
+    }
+]

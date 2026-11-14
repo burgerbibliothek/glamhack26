@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92229027,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 91109658,
+        "lat": "46.9581487",
+        "lon": "7.4278730",
+        "category": "amenity",
+        "type": "hospital",
+        "place_rank": 30,
+        "importance": 0.1773516541617975,
+        "addresstype": "amenity",
+        "name": "Lindenhofspital",
+        "display_name": "Lindenhofspital, 117, Bremgartenstrasse, Neufeld, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "amenity": "Lindenhofspital",
+            "house_number": "117",
+            "road": "Bremgartenstrasse",
+            "quarter": "Neufeld",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9570263",
+            "46.9593215",
+            "7.4261226",
+            "7.4296274"
+        ]
+    }
+]

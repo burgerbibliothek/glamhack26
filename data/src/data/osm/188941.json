@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91800166,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 900369307,
+        "lat": "46.9466081",
+        "lon": "7.4564149",
+        "category": "building",
+        "type": "commercial",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "building",
+        "name": "Wellnesskultur AG",
+        "display_name": "Wellnesskultur AG, 20, Wasserwerkgasse, Matte, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "building": "Wellnesskultur AG",
+            "house_number": "20",
+            "road": "Wasserwerkgasse",
+            "quarter": "Matte",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9465198",
+            "46.9466950",
+            "7.4562380",
+            "7.4565912"
+        ]
+    }
+]

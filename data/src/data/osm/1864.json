@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 88763468,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 295875967,
+        "lat": "45.9440555",
+        "lon": "7.7085051",
+        "category": "tourism",
+        "type": "alpine_hut",
+        "place_rank": 30,
+        "importance": 0.22898814784265079,
+        "addresstype": "tourism",
+        "name": "Theodulhütte",
+        "display_name": "Theodulhütte, Galleria Funivia Furggen, Valtournenche, Aostatal, 11021, Italien",
+        "address": {
+            "tourism": "Theodulhütte",
+            "road": "Galleria Funivia Furggen",
+            "city": "Valtournenche",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "postcode": "11021",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.9439710",
+            "45.9441442",
+            "7.7083355",
+            "7.7086680"
+        ]
+    }
+]

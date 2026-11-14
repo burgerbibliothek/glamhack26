@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91885937,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 253692542,
+        "lat": "46.9510509",
+        "lon": "7.4389317",
+        "category": "amenity",
+        "type": "university",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Institute Exakte Wissenschaften",
+        "display_name": "Institute Exakte Wissenschaften, 5, Sidlerstrasse, Länggasse, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "amenity": "Institute Exakte Wissenschaften",
+            "house_number": "5",
+            "road": "Sidlerstrasse",
+            "quarter": "Länggasse",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9504775",
+            "46.9515776",
+            "7.4381462",
+            "7.4397621"
+        ]
+    }
+]

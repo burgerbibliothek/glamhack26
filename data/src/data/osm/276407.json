@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73734978,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684148,
+        "lat": "46.7918682",
+        "lon": "9.2577578",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.406074657779347,
+        "addresstype": "village",
+        "name": "Sagens",
+        "display_name": "Sagens, Surselva, Graubünden, 7152, Schweiz",
+        "address": {
+            "village": "Sagens",
+            "county": "Surselva",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7152",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7821860",
+            "46.8154210",
+            "9.2417972",
+            "9.3075748"
+        ]
+    }
+]

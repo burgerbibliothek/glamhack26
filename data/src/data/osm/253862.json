@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73095338,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240110461,
+        "lat": "46.9926252",
+        "lon": "9.7391746",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.26244239079806453,
+        "addresstype": "village",
+        "name": "Schuders",
+        "display_name": "Schuders, Schiers, Prättigau/Davos, Graubünden, 7228, Schweiz",
+        "address": {
+            "village": "Schuders",
+            "county": "Prättigau/Davos",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7228",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9726252",
+            "47.0126252",
+            "9.7191746",
+            "9.7591746"
+        ]
+    }
+]

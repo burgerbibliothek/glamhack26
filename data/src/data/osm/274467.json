@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93291080,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1811496783,
+        "lat": "47.4919700",
+        "lon": "7.8724760",
+        "category": "place",
+        "type": "farm",
+        "place_rank": 22,
+        "importance": 0.10671294499122604,
+        "addresstype": "farm",
+        "name": "Farnsburg",
+        "display_name": "Farnsburg, Ormalingen, Bezirk Sissach, Basel-Landschaft, 4466, Schweiz",
+        "address": {
+            "farm": "Farnsburg",
+            "village": "Ormalingen",
+            "county": "Bezirk Sissach",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4466",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4819700",
+            "47.5019700",
+            "7.8624760",
+            "7.8824760"
+        ]
+    }
+]

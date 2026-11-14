@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 71989850,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 75804761,
+        "lat": "47.3709418",
+        "lon": "8.5464402",
+        "category": "building",
+        "type": "office",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "building",
+        "name": "zum Damhirschli",
+        "display_name": "zum Damhirschli, 7, Hirschengraben, Hochschulen, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz",
+        "address": {
+            "building": "zum Damhirschli",
+            "house_number": "7",
+            "road": "Hirschengraben",
+            "quarter": "Hochschulen",
+            "suburb": "Altstadt",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3708230",
+            "47.3710242",
+            "8.5462879",
+            "8.5465890"
+        ]
+    }
+]

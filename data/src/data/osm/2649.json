@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 128462063,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 764543401,
+        "lat": "48.0807508",
+        "lon": "11.6685656",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "19, Elfenstraße, Waldperlach, Ramersdorf-Perlach, München, Bayern, 81739, Deutschland",
+        "address": {
+            "house_number": "19",
+            "road": "Elfenstraße",
+            "suburb": "Waldperlach",
+            "city_district": "Ramersdorf-Perlach",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "81739",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.0807008",
+            "48.0808008",
+            "11.6685156",
+            "11.6686156"
+        ]
+    }
+]

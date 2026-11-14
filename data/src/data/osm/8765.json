@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71870825,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682247,
+        "lat": "47.3324061",
+        "lon": "8.6238228",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4091876652127391,
+        "addresstype": "village",
+        "name": "Zumikon",
+        "display_name": "Zumikon, Bezirk Meilen, Zürich, 8126, Schweiz",
+        "address": {
+            "village": "Zumikon",
+            "county": "Bezirk Meilen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8126",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3217347",
+            "47.3500189",
+            "8.6027959",
+            "8.6462420"
+        ]
+    }
+]

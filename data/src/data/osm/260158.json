@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71925809,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240041367,
+        "lat": "47.4258230",
+        "lon": "8.9472055",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337977950713356,
+        "addresstype": "hamlet",
+        "name": "Tannegg",
+        "display_name": "Tannegg, Dussnang, Fischingen, Bezirk Münchwilen, Thurgau, 8374, Schweiz",
+        "address": {
+            "hamlet": "Tannegg",
+            "village": "Dussnang",
+            "county": "Bezirk Münchwilen",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8374",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4058230",
+            "47.4458230",
+            "8.9272055",
+            "8.9672055"
+        ]
+    }
+]

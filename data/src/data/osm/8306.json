@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 72536974,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1688583,
+        "lat": "47.0571976",
+        "lon": "8.7222073",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.5889192461612066,
+        "addresstype": "state",
+        "name": "Schwyz",
+        "display_name": "Schwyz, Schweiz",
+        "address": {
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8852832",
+            "47.2225628",
+            "8.3887515",
+            "9.0047250"
+        ]
+    }
+]

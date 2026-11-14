@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 137870948,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 335387626,
+        "lat": "50.0874706",
+        "lon": "8.2208461",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 7.142519264510594e-05,
+        "addresstype": "amenity",
+        "name": "Ristorante Calabria",
+        "display_name": "Ristorante Calabria, 30, Aarstraße, Nordost, Wiesbaden, Hessen, 65195, Deutschland",
+        "address": {
+            "amenity": "Ristorante Calabria",
+            "house_number": "30",
+            "road": "Aarstraße",
+            "suburb": "Nordost",
+            "city": "Wiesbaden",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "65195",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.0873508",
+            "50.0875105",
+            "8.2207252",
+            "8.2209747"
+        ]
+    }
+]

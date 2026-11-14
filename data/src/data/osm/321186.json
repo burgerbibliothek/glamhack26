@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 120878108,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 294777289,
+        "lat": "48.1265206",
+        "lon": "8.3330419",
+        "category": "amenity",
+        "type": "pub",
+        "place_rank": 30,
+        "importance": 5.254367895013378e-05,
+        "addresstype": "amenity",
+        "name": "Ramazotti Bar",
+        "display_name": "Ramazotti Bar, 15, Bärenplatz, Winterberg, St. Georgen-Stadt, St. Georgen im Schwarzwald, Schwarzwald-Baar-Kreis, Baden-Württemberg, 78112, Deutschland",
+        "address": {
+            "amenity": "Ramazotti Bar",
+            "house_number": "15",
+            "road": "Bärenplatz",
+            "quarter": "Winterberg",
+            "suburb": "St. Georgen-Stadt",
+            "town": "St. Georgen im Schwarzwald",
+            "county": "Schwarzwald-Baar-Kreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "78112",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1264706",
+            "48.1265706",
+            "8.3329919",
+            "8.3330919"
+        ]
+    }
+]

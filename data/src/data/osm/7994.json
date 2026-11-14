@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72423993,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1702265,
+        "lat": "47.4104211",
+        "lon": "8.5445851",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.41203822356019554,
+        "addresstype": "suburb",
+        "name": "Oerlikon",
+        "display_name": "Oerlikon, Kreis 11, Zürich, Bezirk Zürich, Zürich, 8050, Schweiz",
+        "address": {
+            "suburb": "Oerlikon",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8050",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3991502",
+            "47.4171175",
+            "8.5260623",
+            "8.5587967"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73064463,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 148826655,
+        "lat": "47.3878076",
+        "lon": "9.3480223",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.18554865524912875,
+        "addresstype": "secondary",
+        "name": "Gmündertobelbrücke",
+        "display_name": "Gmündertobelbrücke, Stein AR, Stein (AR), Hinterland, Appenzell Ausserrhoden, 9063, Schweiz",
+        "address": {
+            "road": "Gmündertobelbrücke",
+            "village": "Stein AR",
+            "city": "Stein (AR)",
+            "county": "Hinterland",
+            "state": "Appenzell Ausserrhoden",
+            "ISO3166-2-lvl4": "CH-AR",
+            "postcode": "9063",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3877979",
+            "47.3878360",
+            "9.3467645",
+            "9.3492795"
+        ]
+    }
+]

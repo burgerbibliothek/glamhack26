@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92332428,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 642847708,
+        "lat": "46.5836472",
+        "lon": "7.7269443",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.2791651820367976,
+        "addresstype": "valley",
+        "name": "Kiental",
+        "display_name": "Kiental, Reichenbach im Kandertal, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "valley": "Kiental",
+            "village": "Reichenbach im Kandertal",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5470265",
+            "46.6173232",
+            "7.6844427",
+            "7.7623911"
+        ]
+    }
+]

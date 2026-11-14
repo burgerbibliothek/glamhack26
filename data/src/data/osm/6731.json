@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92078121,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 286108056,
+        "lat": "46.9087228",
+        "lon": "7.5575481",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337495002670327,
+        "addresstype": "hamlet",
+        "name": "Beitenwil",
+        "display_name": "Beitenwil, Rubigen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3113, Schweiz",
+        "address": {
+            "hamlet": "Beitenwil",
+            "village": "Rubigen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3113",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8887228",
+            "46.9287228",
+            "7.5375481",
+            "7.5775481"
+        ]
+    }
+]

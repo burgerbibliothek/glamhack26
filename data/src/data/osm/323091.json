@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 145547994,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7981237444,
+        "lat": "52.5179403",
+        "lon": "13.3844268",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "amenity",
+        "name": "1687 RESTAURANT & CAFÉ",
+        "display_name": "1687 RESTAURANT & CAFÉ, 30, Mittelstraße, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "address": {
+            "amenity": "1687 RESTAURANT & CAFÉ",
+            "house_number": "30",
+            "road": "Mittelstraße",
+            "quarter": "Dorotheenstadt",
+            "suburb": "Mitte",
+            "borough": "Mitte",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10117",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5178903",
+            "52.5179903",
+            "13.3843768",
+            "13.3844768"
+        ]
+    }
+]

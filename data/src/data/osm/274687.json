@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92956322,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683540,
+        "lat": "47.3137417",
+        "lon": "7.6528853",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.34731627116286135,
+        "addresstype": "village",
+        "name": "Laupersdorf",
+        "display_name": "Laupersdorf, Bezirk Thal, Amtei Thal-Gäu, Solothurn, 4712, Schweiz",
+        "address": {
+            "village": "Laupersdorf",
+            "municipality": "Bezirk Thal",
+            "county": "Amtei Thal-Gäu",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4712",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2828976",
+            "47.3367801",
+            "7.6241927",
+            "7.6791032"
+        ]
+    }
+]

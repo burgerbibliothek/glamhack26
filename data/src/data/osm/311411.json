@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92388002,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 286395254,
+        "lat": "46.9589636",
+        "lon": "7.4673380",
+        "category": "landuse",
+        "type": "commercial",
+        "place_rank": 24,
+        "importance": 0.08007734264133666,
+        "addresstype": "commercial",
+        "name": "BernExpo",
+        "display_name": "BernExpo, Beundenfeld, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, Schweiz",
+        "address": {
+            "commercial": "BernExpo",
+            "quarter": "Beundenfeld",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9565949",
+            "46.9613833",
+            "7.4641506",
+            "7.4700408"
+        ]
+    }
+]

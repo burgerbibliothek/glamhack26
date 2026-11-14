@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92289330,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683392,
+        "lat": "46.8593178",
+        "lon": "6.9163554",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.36366628930239936,
+        "addresstype": "village",
+        "name": "Rueyres-les-Prés",
+        "display_name": "Rueyres-les-Prés, Estavayer, Broyebezirk, Freiburg, 1542, Schweiz",
+        "address": {
+            "village": "Rueyres-les-Prés",
+            "city": "Estavayer",
+            "county": "Broyebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1542",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8471084",
+            "46.8659561",
+            "6.8873224",
+            "6.9306249"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 135421193,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 300496333,
+        "lat": "51.6302087",
+        "lon": "12.9834791",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.17283327415591612,
+        "addresstype": "hamlet",
+        "name": "Last",
+        "display_name": "Last, Großtreben-Zwethau, Beilrode, Nordsachsen, Sachsen, 04886, Deutschland",
+        "address": {
+            "hamlet": "Last",
+            "city_district": "Großtreben-Zwethau",
+            "city": "Beilrode",
+            "municipality": "Beilrode",
+            "county": "Nordsachsen",
+            "state": "Sachsen",
+            "ISO3166-2-lvl4": "DE-SN",
+            "postcode": "04886",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.6102087",
+            "51.6502087",
+            "12.9634791",
+            "13.0034791"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91790984,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 508491851,
+        "lat": "46.7915195",
+        "lon": "6.9391563",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333887426565957,
+        "addresstype": "hamlet",
+        "name": "Etrabloz",
+        "display_name": "Etrabloz, Payerne, District de la Broye-Vully, Waadt, 1551, Schweiz",
+        "address": {
+            "hamlet": "Etrabloz",
+            "town": "Payerne",
+            "county": "District de la Broye-Vully",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1551",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7715195",
+            "46.8115195",
+            "6.9191563",
+            "6.9591563"
+        ]
+    }
+]

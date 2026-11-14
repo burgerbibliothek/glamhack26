@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 289478107,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 117888,
+        "lat": "45.9366592",
+        "lon": "-0.9616399",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6029670634068635,
+        "addresstype": "town",
+        "name": "Rochefort",
+        "display_name": "Rochefort, Charente-Maritime, Neu-Aquitanien, Metropolitanes Frankreich, 17300, Frankreich",
+        "address": {
+            "town": "Rochefort",
+            "municipality": "Rochefort",
+            "county": "Charente-Maritime",
+            "ISO3166-2-lvl6": "FR-17",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "17300",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.9152870",
+            "45.9761549",
+            "-1.0077350",
+            "-0.9399516"
+        ]
+    }
+]

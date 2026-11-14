@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 56057367,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1735530431,
+        "lat": "37.0997598",
+        "lon": "22.0054652",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.47654556555064176,
+        "addresstype": "village",
+        "name": "Aris",
+        "display_name": "Aris, Gemeinde Kalamata, Regionalbezirk Messenien, Region Peloponnes, Peloponnes, Westgriechenland und Ionische Inseln, 240 12, Griechenland",
+        "address": {
+            "village": "Aris",
+            "municipality": "Gemeinde Kalamata",
+            "county": "Regionalbezirk Messenien",
+            "state": "Region Peloponnes",
+            "ISO3166-2-lvl5": "GR-J",
+            "postcode": "240 12",
+            "country": "Griechenland",
+            "country_code": "gr"
+        },
+        "boundingbox": [
+            "37.0797598",
+            "37.1197598",
+            "21.9854652",
+            "22.0254652"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92235630,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4373201291,
+        "lat": "46.6500664",
+        "lon": "7.6845819",
+        "category": "shop",
+        "type": "gift",
+        "place_rank": 30,
+        "importance": 5.000152590214416e-05,
+        "addresstype": "shop",
+        "name": "Stiftung Bad Heustrich",
+        "display_name": "Stiftung Bad Heustrich, 2, Heustrichstrasse, Mülenen, Aeschi bei Spiez, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3711, Schweiz",
+        "address": {
+            "shop": "Stiftung Bad Heustrich",
+            "house_number": "2",
+            "road": "Heustrichstrasse",
+            "village": "Mülenen",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3711",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6500164",
+            "46.6501164",
+            "7.6845319",
+            "7.6846319"
+        ]
+    }
+]

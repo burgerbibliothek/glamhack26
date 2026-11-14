@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91655487,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4663250336,
+        "lat": "46.9536224",
+        "lon": "7.4320732",
+        "category": "shop",
+        "type": "hairdresser",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "shop",
+        "name": "Coiffure Mario",
+        "display_name": "Coiffure Mario, 34a, Länggassstrasse, Neufeld, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "shop": "Coiffure Mario",
+            "house_number": "34a",
+            "road": "Länggassstrasse",
+            "quarter": "Neufeld",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9535724",
+            "46.9536724",
+            "7.4320232",
+            "7.4321232"
+        ]
+    }
+]

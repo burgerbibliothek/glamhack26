@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72198006,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1701471,
+        "lat": "47.3583100",
+        "lon": "8.5906280",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.35892997054582615,
+        "addresstype": "suburb",
+        "name": "Witikon",
+        "display_name": "Witikon, Kreis 7, Zürich, Bezirk Zürich, Zürich, 8053, Schweiz",
+        "address": {
+            "suburb": "Witikon",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8053",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3507028",
+            "47.3719186",
+            "8.5752394",
+            "8.6254529"
+        ]
+    }
+]

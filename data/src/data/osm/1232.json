@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73434481,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 26862632,
+        "lat": "46.7870960",
+        "lon": "8.0468683",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4591681490368309,
+        "addresstype": "peak",
+        "name": "Brienzer Rothorn",
+        "display_name": "Brienzer Rothorn, Brienz BE, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "peak": "Brienzer Rothorn",
+            "village": "Brienz BE",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7870460",
+            "46.7871460",
+            "8.0468183",
+            "8.0469183"
+        ]
+    }
+]

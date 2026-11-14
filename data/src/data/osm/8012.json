@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92107070,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1425581087,
+        "lat": "46.7813013",
+        "lon": "7.6302609",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.053383334859235486,
+        "addresstype": "residential",
+        "name": "Ortbühlweg",
+        "display_name": "Ortbühlweg, Steffisburg, Verwaltungskreis Thun, Oberland administrative region, Bern, 3612, Schweiz",
+        "address": {
+            "road": "Ortbühlweg",
+            "town": "Steffisburg",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3612",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7804513",
+            "46.7813791",
+            "7.6283728",
+            "7.6317481"
+        ]
+    }
+]

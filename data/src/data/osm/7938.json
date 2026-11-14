@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91673357,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682579,
+        "lat": "46.7072968",
+        "lon": "7.5859080",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3567097398182398,
+        "addresstype": "village",
+        "name": "Niederstocken",
+        "display_name": "Niederstocken, Stocken-Höfen, Horrenbach-Buchen, Verwaltungskreis Thun, Oberland administrative region, Bern, 3632, Schweiz",
+        "address": {
+            "village": "Niederstocken",
+            "city": "Stocken-Höfen",
+            "municipality": "Horrenbach-Buchen",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3632",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6887688",
+            "46.7157974",
+            "7.5517081",
+            "7.5936346"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93036058,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682604,
+        "lat": "47.2753454",
+        "lon": "7.3428312",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42119130781949454,
+        "addresstype": "village",
+        "name": "Perrefitte",
+        "display_name": "Perrefitte, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2742, Schweiz",
+        "address": {
+            "village": "Perrefitte",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2742",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2680552",
+            "47.2888835",
+            "7.2799438",
+            "7.3542699"
+        ]
+    }
+]

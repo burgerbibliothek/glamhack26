@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 69519152,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 47313,
+        "lat": "46.7287488",
+        "lon": "12.1723150",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5358984779908704,
+        "addresstype": "city",
+        "name": "Niederdorf",
+        "display_name": "Niederdorf, Pustertal, Bozen, Trentino-Südtirol, 39039, Italien",
+        "address": {
+            "city": "Niederdorf",
+            "municipality": "Pustertal",
+            "county": "Bozen",
+            "ISO3166-2-lvl6": "IT-BZ",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "postcode": "39039",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.6982120",
+            "46.7592597",
+            "12.1266498",
+            "12.1972027"
+        ]
+    }
+]

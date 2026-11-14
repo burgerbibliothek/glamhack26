@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92528305,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682731,
+        "lat": "47.1006360",
+        "lon": "7.2963500",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41871967358108847,
+        "addresstype": "village",
+        "name": "Worben",
+        "display_name": "Worben, Seeland administrative district, Seeland administrative region, Bern, 3252, Schweiz",
+        "address": {
+            "village": "Worben",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3252",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0915316",
+            "47.1091207",
+            "7.2791165",
+            "7.3128596"
+        ]
+    }
+]

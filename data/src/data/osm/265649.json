@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92808575,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4619269245,
+        "lat": "47.0495787",
+        "lon": "7.8369809",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333835851071946,
+        "addresstype": "hamlet",
+        "name": "Fritzenhaus",
+        "display_name": "Fritzenhaus, Sumiswald, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3457, Schweiz",
+        "address": {
+            "hamlet": "Fritzenhaus",
+            "village": "Sumiswald",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3457",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0295787",
+            "47.0695787",
+            "7.8169809",
+            "7.8569809"
+        ]
+    }
+]

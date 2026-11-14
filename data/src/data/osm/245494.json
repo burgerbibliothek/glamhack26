@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92405047,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 305486452,
+        "lat": "47.0396776",
+        "lon": "7.3490042",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337257724879834,
+        "addresstype": "hamlet",
+        "name": "Ziegelried",
+        "display_name": "Ziegelried, Schüpfen, Seeland administrative district, Seeland administrative region, Bern, 3054, Schweiz",
+        "address": {
+            "hamlet": "Ziegelried",
+            "village": "Schüpfen",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3054",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0196776",
+            "47.0596776",
+            "7.3290042",
+            "7.3690042"
+        ]
+    }
+]

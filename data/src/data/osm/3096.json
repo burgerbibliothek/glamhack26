@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 128418819,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 885230258,
+        "lat": "48.1625855",
+        "lon": "11.5821986",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "26, Herzogstraße, Viktoriaviertel, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80803, Deutschland",
+        "address": {
+            "house_number": "26",
+            "road": "Herzogstraße",
+            "neighbourhood": "Viktoriaviertel",
+            "quarter": "Alt-Schwabing",
+            "suburb": "Schwabing",
+            "city_district": "Schwabing-Freimann",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "80803",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1625355",
+            "48.1626355",
+            "11.5821486",
+            "11.5822486"
+        ]
+    }
+]

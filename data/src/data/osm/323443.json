@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91635789,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 785582820,
+        "lat": "46.9169900",
+        "lon": "7.1236303",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.254367895013378e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "30, Murtenstrasse, Münchenwiler, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 1797, Schweiz",
+        "address": {
+            "house_number": "30",
+            "road": "Murtenstrasse",
+            "village": "Münchenwiler",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "1797",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9168233",
+            "46.9171154",
+            "7.1234786",
+            "7.1238058"
+        ]
+    }
+]

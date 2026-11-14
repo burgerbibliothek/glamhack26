@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 187746569,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 75070252,
+        "lat": "48.1484749",
+        "lon": "17.1162409",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.727397573810967e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "2200/43, Spitalgasse, Dunajská štvrť, Oblasť Dunajská, Bratislava, Okres Bratislava I, Bratislava, Bratislavský kraj, 811 08, Slowakei",
+        "address": {
+            "house_number": "2200/43",
+            "road": "Spitalgasse",
+            "neighbourhood": "Dunajská štvrť",
+            "suburb": "Bratislava",
+            "city_district": "Okres Bratislava I",
+            "city": "Bratislava",
+            "region": "Bratislavský kraj",
+            "ISO3166-2-lvl4": "SK-BL",
+            "postcode": "811 08",
+            "country": "Slowakei",
+            "country_code": "sk"
+        },
+        "boundingbox": [
+            "48.1483874",
+            "48.1485618",
+            "17.1161261",
+            "17.1163526"
+        ]
+    }
+]

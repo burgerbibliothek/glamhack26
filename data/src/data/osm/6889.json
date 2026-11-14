@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 90917987,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684872,
+        "lat": "46.4384230",
+        "lon": "6.3053467",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.43899537001090305,
+        "addresstype": "village",
+        "name": "Bursinel",
+        "display_name": "Bursinel, District de Nyon, Waadt, 1195, Schweiz",
+        "address": {
+            "village": "Bursinel",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1195",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4037162",
+            "46.4478797",
+            "6.2988538",
+            "6.3536604"
+        ]
+    }
+]

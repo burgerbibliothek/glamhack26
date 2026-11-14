@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 91643903,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4076643423,
+        "lat": "46.9470946",
+        "lon": "7.4364988",
+        "category": "office",
+        "type": "association",
+        "place_rank": 30,
+        "importance": 0.3793875555226289,
+        "addresstype": "office",
+        "name": "Akademie der Naturwissenschaften Schweiz",
+        "display_name": "Akademie der Naturwissenschaften Schweiz, 7, Laupenstrasse, Villette, Monbijou, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3008, Schweiz",
+        "address": {
+            "office": "Akademie der Naturwissenschaften Schweiz",
+            "house_number": "7",
+            "road": "Laupenstrasse",
+            "neighbourhood": "Villette",
+            "quarter": "Monbijou",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3008",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9470446",
+            "46.9471446",
+            "7.4364488",
+            "7.4365488"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73512936,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6038984981,
+        "lat": "46.5056163",
+        "lon": "9.3303355",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.4661095900223319,
+        "addresstype": "mountain_pass",
+        "name": "Splügenpass",
+        "display_name": "Splügenpass, Rheinwald, Region Viamala, Graubünden, Schweiz",
+        "address": {
+            "mountain_pass": "Splügenpass",
+            "city": "Rheinwald",
+            "county": "Region Viamala",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5055663",
+            "46.5056663",
+            "9.3302855",
+            "9.3303855"
+        ]
+    }
+]

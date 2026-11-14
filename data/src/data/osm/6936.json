@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93180455,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682409,
+        "lat": "47.2722989",
+        "lon": "7.1944964",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3618648643770844,
+        "addresstype": "village",
+        "name": "Châtelat",
+        "display_name": "Châtelat, Petit-Val, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, Schweiz",
+        "address": {
+            "village": "Châtelat",
+            "city": "Petit-Val",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2549550",
+            "47.2841617",
+            "7.1678806",
+            "7.2013490"
+        ]
+    }
+]

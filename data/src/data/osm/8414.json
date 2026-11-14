@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71722667,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240126548,
+        "lat": "47.5150754",
+        "lon": "8.2315106",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3002719692158251,
+        "addresstype": "village",
+        "name": "Stilli",
+        "display_name": "Stilli, Villigen, Bezirk Brugg, Aargau, 5233, Schweiz",
+        "address": {
+            "village": "Stilli",
+            "county": "Bezirk Brugg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5233",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4950754",
+            "47.5350754",
+            "8.2115106",
+            "8.2515106"
+        ]
+    }
+]

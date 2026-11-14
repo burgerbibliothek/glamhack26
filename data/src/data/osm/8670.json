@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72165168,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682234,
+        "lat": "47.4199708",
+        "lon": "8.4366271",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39072613673296697,
+        "addresstype": "village",
+        "name": "Weiningen",
+        "display_name": "Weiningen, Bezirk Dietikon, Zürich, Schweiz",
+        "address": {
+            "village": "Weiningen",
+            "county": "Bezirk Dietikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4051484",
+            "47.4342593",
+            "8.4091826",
+            "8.4534776"
+        ]
+    }
+]

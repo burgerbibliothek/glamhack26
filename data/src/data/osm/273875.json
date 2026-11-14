@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72439453,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682166,
+        "lat": "47.2434880",
+        "lon": "8.4636702",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40308494416412793,
+        "addresstype": "village",
+        "name": "Mettmenstetten",
+        "display_name": "Mettmenstetten, Bezirk Affoltern, Zürich, 8932, Schweiz",
+        "address": {
+            "village": "Mettmenstetten",
+            "county": "Bezirk Affoltern",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8932",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2183716",
+            "47.2683169",
+            "8.4320868",
+            "8.5006781"
+        ]
+    }
+]

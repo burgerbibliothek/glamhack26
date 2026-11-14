@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 135489528,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 388814019,
+        "lat": "51.9096363",
+        "lon": "12.6216771",
+        "category": "tourism",
+        "type": "guest_house",
+        "place_rank": 30,
+        "importance": 6.632562752723e-05,
+        "addresstype": "tourism",
+        "name": "Hotel Tannenspitze",
+        "display_name": "Hotel Tannenspitze, 41, Mochauer Weg, Dobien, Reinsdorf, Wittenberg, Sachsen-Anhalt, 06889, Deutschland",
+        "address": {
+            "tourism": "Hotel Tannenspitze",
+            "house_number": "41",
+            "road": "Mochauer Weg",
+            "suburb": "Dobien",
+            "city_district": "Reinsdorf",
+            "town": "Wittenberg",
+            "county": "Wittenberg",
+            "state": "Sachsen-Anhalt",
+            "ISO3166-2-lvl4": "DE-ST",
+            "postcode": "06889",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.9095481",
+            "51.9097244",
+            "12.6215161",
+            "12.6218380"
+        ]
+    }
+]

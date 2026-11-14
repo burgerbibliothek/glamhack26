@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 302145316,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 9000722,
+        "lat": "31.5728088",
+        "lon": "-82.1461754",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.0533433333333333,
+        "addresstype": "residential",
+        "name": "Mullis",
+        "display_name": "Mullis, Appling County, Georgia, 31555, Vereinigte Staaten von Amerika",
+        "address": {
+            "road": "Mullis",
+            "county": "Appling County",
+            "state": "Georgia",
+            "ISO3166-2-lvl4": "US-GA",
+            "postcode": "31555",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "31.5691608",
+            "31.5762613",
+            "-82.1471941",
+            "-82.1445460"
+        ]
+    }
+]

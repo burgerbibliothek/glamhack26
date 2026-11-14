@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 91735703,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685502,
+        "lat": "46.1842526",
+        "lon": "6.1200831",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.49930838444658104,
+        "addresstype": "town",
+        "name": "Lancy",
+        "display_name": "Lancy, Genf, Schweiz",
+        "address": {
+            "town": "Lancy",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1673515",
+            "46.2028174",
+            "6.1028119",
+            "6.1403676"
+        ]
+    }
+]

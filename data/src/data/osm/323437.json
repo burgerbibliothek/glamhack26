@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92184162,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 707411973,
+        "lat": "46.9048942",
+        "lon": "7.2365980",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 5.2751201647928854e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "16a, Murtenstrasse, Laupen BE, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3177, Schweiz",
+        "address": {
+            "house_number": "16a",
+            "road": "Murtenstrasse",
+            "village": "Laupen BE",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3177",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9048002",
+            "46.9049881",
+            "7.2364202",
+            "7.2367758"
+        ]
+    }
+]

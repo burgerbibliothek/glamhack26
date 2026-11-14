@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 73266038,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1686660,
+        "lat": "47.4327014",
+        "lon": "9.5059434",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.2909516038077344,
+        "addresstype": "county",
+        "name": "Vorderland",
+        "display_name": "Vorderland, Appenzell Ausserrhoden, Schweiz",
+        "address": {
+            "county": "Vorderland",
+            "state": "Appenzell Ausserrhoden",
+            "ISO3166-2-lvl4": "CH-AR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3963396",
+            "47.4690406",
+            "9.4519223",
+            "9.6309674"
+        ]
+    }
+]

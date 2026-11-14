@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91324109,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 259025159,
+        "lat": "46.9500345",
+        "lon": "7.4589913",
+        "category": "tourism",
+        "type": "hotel",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "tourism",
+        "name": "Pêle-Mêle",
+        "display_name": "Pêle-Mêle, 4, Altenbergstrasse, Altenberg, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3013, Schweiz",
+        "address": {
+            "tourism": "Pêle-Mêle",
+            "house_number": "4",
+            "road": "Altenbergstrasse",
+            "quarter": "Altenberg",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3013",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9499845",
+            "46.9500845",
+            "7.4589413",
+            "7.4590413"
+        ]
+    }
+]

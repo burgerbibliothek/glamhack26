@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91792383,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 71714850,
+        "lat": "46.9759347",
+        "lon": "7.4524439",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "116b, Tiefenaustrasse, Tiefenau, Felsenau, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3004, Schweiz",
+        "address": {
+            "house_number": "116b",
+            "road": "Tiefenaustrasse",
+            "quarter": "Tiefenau",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3004",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9758470",
+            "46.9760223",
+            "7.4523396",
+            "7.4525482"
+        ]
+    }
+]

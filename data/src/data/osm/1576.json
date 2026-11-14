@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92990682,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 4734794,
+        "lat": "47.0221539",
+        "lon": "7.4805259",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.3268260957230098,
+        "addresstype": "lake",
+        "name": "Moossee",
+        "display_name": "Moossee, Schönbühl, Urtenen-Schönbühl, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3322, Schweiz",
+        "address": {
+            "lake": "Moossee",
+            "village": "Schönbühl",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3322",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0186847",
+            "47.0255705",
+            "7.4741391",
+            "7.4865554"
+        ]
+    }
+]

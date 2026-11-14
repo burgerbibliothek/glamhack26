@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 72122651,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684260,
+        "lat": "47.5898333",
+        "lon": "8.2858793",
+        "category": "boundary",
+        "type": "old_administrative",
+        "place_rank": 25,
+        "importance": 0.4216117942344225,
+        "addresstype": "old_administrative",
+        "name": "Bad Zurzach",
+        "display_name": "Bad Zurzach, Zurzach, Bezirk Zurzach, Aargau, 5330, Schweiz",
+        "address": {
+            "old_administrative": "Bad Zurzach",
+            "village": "Bad Zurzach",
+            "city": "Zurzach",
+            "county": "Bezirk Zurzach",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5330",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5694901",
+            "47.6101658",
+            "8.2725720",
+            "8.3166300"
+        ]
+    }
+]

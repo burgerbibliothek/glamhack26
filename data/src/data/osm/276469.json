@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72645329,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8807165485,
+        "lat": "47.1248124",
+        "lon": "8.9981412",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338168535896847,
+        "addresstype": "hamlet",
+        "name": "Mettmen",
+        "display_name": "Mettmen, Glarus Nord, Glarus, 8865, Schweiz",
+        "address": {
+            "hamlet": "Mettmen",
+            "city": "Glarus Nord",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "postcode": "8865",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1048124",
+            "47.1448124",
+            "8.9781412",
+            "9.0181412"
+        ]
+    }
+]

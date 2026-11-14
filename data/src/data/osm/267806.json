@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 285977379,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1652625349,
+        "lat": "40.4245452",
+        "lon": "-8.4560786",
+        "category": "railway",
+        "type": "stop",
+        "place_rank": 30,
+        "importance": 0.34223694096820295,
+        "addresstype": "railway",
+        "name": "Curia",
+        "display_name": "Curia, EM 1-9, Curia, Tamengos, Aguim e Óis do Bairro, Anadia, Aveiro, 3780-547, Portugal",
+        "address": {
+            "railway": "Curia",
+            "road": "EM 1-9",
+            "hamlet": "Curia",
+            "city_district": "Tamengos, Aguim e Óis do Bairro",
+            "city": "Anadia",
+            "county": "Aveiro",
+            "ISO3166-2-lvl6": "PT-01",
+            "postcode": "3780-547",
+            "country": "Portugal",
+            "country_code": "pt"
+        },
+        "boundingbox": [
+            "40.4244952",
+            "40.4245952",
+            "-8.4561286",
+            "-8.4560286"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92107621,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685603,
+        "lat": "47.3865160",
+        "lon": "6.9832901",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3890249882537399,
+        "addresstype": "city",
+        "name": "Haute-Ajoie",
+        "display_name": "Haute-Ajoie, Bezirk Porrentruy, Jura, Schweiz",
+        "address": {
+            "city": "Haute-Ajoie",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3524120",
+            "47.4205870",
+            "6.8790568",
+            "7.0293232"
+        ]
+    }
+]

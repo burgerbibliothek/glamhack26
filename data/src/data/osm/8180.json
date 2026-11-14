@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91556585,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683390,
+        "lat": "46.7204051",
+        "lon": "7.1031610",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.38250674189122186,
+        "addresstype": "village",
+        "name": "Rossens (FR)",
+        "display_name": "Rossens (FR), Gibloux, Saanebezirk, Freiburg, 1728, Schweiz",
+        "address": {
+            "village": "Rossens (FR)",
+            "city": "Gibloux",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1728",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7075157",
+            "46.7408777",
+            "7.0841256",
+            "7.1149964"
+        ]
+    }
+]

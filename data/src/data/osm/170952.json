@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91383113,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685463,
+        "lat": "46.2231863",
+        "lon": "6.2242767",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4397146143447338,
+        "addresstype": "village",
+        "name": "Choulex",
+        "display_name": "Choulex, Genf, 1244, Schweiz",
+        "address": {
+            "village": "Choulex",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "postcode": "1244",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2104206",
+            "46.2371898",
+            "6.2017011",
+            "6.2432232"
+        ]
+    }
+]

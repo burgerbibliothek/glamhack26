@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73619542,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 502925545,
+        "lat": "46.6831781",
+        "lon": "8.1728265",
+        "category": "tourism",
+        "type": "alpine_hut",
+        "place_rank": 30,
+        "importance": 0.1507975276546128,
+        "addresstype": "tourism",
+        "name": "Engelhornhütte",
+        "display_name": "Engelhornhütte, Scheideggstrasse, Schattenhalb, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "tourism": "Engelhornhütte",
+            "road": "Scheideggstrasse",
+            "village": "Schattenhalb",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6831281",
+            "46.6832281",
+            "8.1727765",
+            "8.1728765"
+        ]
+    }
+]

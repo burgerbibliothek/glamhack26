@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72150888,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682204,
+        "lat": "47.3965147",
+        "lon": "8.4444861",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4540735774087027,
+        "addresstype": "town",
+        "name": "Schlieren",
+        "display_name": "Schlieren, Bezirk Dietikon, Zürich, 8952, Schweiz",
+        "address": {
+            "town": "Schlieren",
+            "county": "Bezirk Dietikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8952",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3802474",
+            "47.4088836",
+            "8.4257877",
+            "8.4734996"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 74547906,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 61725707,
+        "lat": "46.6136381",
+        "lon": "8.3079706",
+        "category": "highway",
+        "type": "path",
+        "place_rank": 27,
+        "importance": 0.0400483886472877,
+        "addresstype": "road",
+        "name": "Handeckfallbrücke",
+        "display_name": "Handeckfallbrücke, Guttannen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3864, Schweiz",
+        "address": {
+            "road": "Handeckfallbrücke",
+            "city": "Guttannen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3864",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6136094",
+            "46.6136668",
+            "8.3075541",
+            "8.3083870"
+        ]
+    }
+]

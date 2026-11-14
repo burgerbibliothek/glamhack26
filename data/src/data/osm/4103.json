@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92207527,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 226732344,
+        "lat": "46.9417623",
+        "lon": "7.4683202",
+        "category": "office",
+        "type": "diplomatic",
+        "place_rank": 30,
+        "importance": 0.09078915819201436,
+        "addresstype": "office",
+        "name": "Embassy Czech Republic",
+        "display_name": "Embassy Czech Republic, 53, Muristrasse, Murifeld, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "office": "Embassy Czech Republic",
+            "house_number": "53",
+            "road": "Muristrasse",
+            "quarter": "Murifeld",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9416438",
+            "46.9418817",
+            "7.4680638",
+            "7.4685443"
+        ]
+    }
+]

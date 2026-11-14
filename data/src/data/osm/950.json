@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 88997523,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1108773922,
+        "lat": "45.9864791",
+        "lon": "5.9968033",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339272068360417,
+        "addresstype": "hamlet",
+        "name": "Hautecombe",
+        "display_name": "Hautecombe, Mésigny, Annecy, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74330, Frankreich",
+        "address": {
+            "hamlet": "Hautecombe",
+            "village": "Mésigny",
+            "municipality": "Annecy",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74330",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.9664791",
+            "46.0064791",
+            "5.9768033",
+            "6.0168033"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72235425,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684321,
+        "lat": "47.3294496",
+        "lon": "8.1750030",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3841981265934431,
+        "addresstype": "village",
+        "name": "Hallwil",
+        "display_name": "Hallwil, Bezirk Lenzburg, Aargau, 5705, Schweiz",
+        "address": {
+            "village": "Hallwil",
+            "county": "Bezirk Lenzburg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5705",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3158126",
+            "47.3365205",
+            "8.1644738",
+            "8.1887264"
+        ]
+    }
+]

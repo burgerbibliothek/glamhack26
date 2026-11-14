@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92239374,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4482991094,
+        "lat": "46.8771976",
+        "lon": "6.8944124",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.0667112848096437,
+        "addresstype": "locality",
+        "name": "Les Montets",
+        "display_name": "Les Montets, Les Planches, Vernay, Estavayer, Broyebezirk, Freiburg, 1475, Schweiz",
+        "address": {
+            "locality": "Les Montets",
+            "hamlet": "Les Planches",
+            "village": "Vernay",
+            "city": "Estavayer",
+            "county": "Broyebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1475",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8671976",
+            "46.8871976",
+            "6.8844124",
+            "6.9044124"
+        ]
+    }
+]

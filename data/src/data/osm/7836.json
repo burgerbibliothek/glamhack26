@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92200217,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685054,
+        "lat": "46.6455460",
+        "lon": "6.4077926",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4468606527775902,
+        "addresstype": "village",
+        "name": "Mont-la-Ville",
+        "display_name": "Mont-la-Ville, District de Morges, Waadt, 1148, Schweiz",
+        "address": {
+            "village": "Mont-la-Ville",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1148",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6344033",
+            "46.6721420",
+            "6.3464959",
+            "6.4346737"
+        ]
+    }
+]

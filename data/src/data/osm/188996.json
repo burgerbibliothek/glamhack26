@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 68434030,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 184735547,
+        "lat": "47.1011637",
+        "lon": "15.4126242",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.381322957193893e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "9, Wasserwerkgasse, Katastralgemeinde Andritz, Andritz, Graz, Steiermark, 8045, Österreich",
+        "address": {
+            "house_number": "9",
+            "road": "Wasserwerkgasse",
+            "neighbourhood": "Katastralgemeinde Andritz",
+            "suburb": "Andritz",
+            "city": "Graz",
+            "state": "Steiermark",
+            "ISO3166-2-lvl4": "AT-6",
+            "postcode": "8045",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.1010665",
+            "47.1012608",
+            "15.4124818",
+            "15.4127666"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92444139,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1808682279,
+        "lat": "46.7573413",
+        "lon": "7.8339681",
+        "category": "natural",
+        "type": "cave_entrance",
+        "place_rank": 30,
+        "importance": 5.000152590214416e-05,
+        "addresstype": "natural",
+        "name": "Tropfloch",
+        "display_name": "Tropfloch, Schluuchhole, Eriz, Horrenbach-Buchen, Verwaltungskreis Thun, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "natural": "Tropfloch",
+            "road": "Schluuchhole",
+            "village": "Eriz",
+            "municipality": "Horrenbach-Buchen",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7572913",
+            "46.7573913",
+            "7.8339181",
+            "7.8340181"
+        ]
+    }
+]

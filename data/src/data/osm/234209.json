@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 146710489,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1427901,
+        "lat": "53.6530029",
+        "lon": "13.1232854",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.48941528627810044,
+        "addresstype": "village",
+        "name": "Wildberg",
+        "display_name": "Wildberg, Treptower Tollensewinkel, Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, 17091, Deutschland",
+        "address": {
+            "village": "Wildberg",
+            "municipality": "Treptower Tollensewinkel",
+            "county": "Mecklenburgische Seenplatte",
+            "state": "Mecklenburg-Vorpommern",
+            "ISO3166-2-lvl4": "DE-MV",
+            "postcode": "17091",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "53.6296009",
+            "53.6774096",
+            "13.0850129",
+            "13.1930566"
+        ]
+    }
+]

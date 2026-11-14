@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91706549,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682692,
+        "lat": "46.9228891",
+        "lon": "7.8466832",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42407954743729187,
+        "addresstype": "village",
+        "name": "Trubschachen",
+        "display_name": "Trubschachen, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3555, Schweiz",
+        "address": {
+            "village": "Trubschachen",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3555",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8835502",
+            "46.9361579",
+            "7.8055979",
+            "7.8659292"
+        ]
+    }
+]

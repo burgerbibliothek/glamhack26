@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 146157863,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 294455901,
+        "lat": "52.5738906",
+        "lon": "13.4002300",
+        "category": "building",
+        "type": "detached",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "39, Majakowskiring, Niederschönhausen, Pankow, Berlin, 13156, Deutschland",
+        "address": {
+            "house_number": "39",
+            "road": "Majakowskiring",
+            "neighbourhood": "Majakowskiring",
+            "suburb": "Niederschönhausen",
+            "borough": "Pankow",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13156",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5738269",
+            "52.5739540",
+            "13.4001252",
+            "13.4003348"
+        ]
+    }
+]

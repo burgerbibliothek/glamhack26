@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92768417,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 927362567,
+        "lat": "47.1318911",
+        "lon": "7.2475939",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 6.320210574497623e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "11, Freiburgstrasse, Mühlefeld, Neustadt, Biel, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2503, Schweiz",
+        "address": {
+            "house_number": "11",
+            "road": "Freiburgstrasse",
+            "neighbourhood": "Mühlefeld",
+            "suburb": "Neustadt",
+            "city": "Biel",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2503",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1318309",
+            "47.1319510",
+            "7.2475063",
+            "7.2476813"
+        ]
+    }
+]

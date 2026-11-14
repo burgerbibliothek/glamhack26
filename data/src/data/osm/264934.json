@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91789553,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6753681894,
+        "lat": "46.4162535",
+        "lon": "7.7167206",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.3323758440386415,
+        "addresstype": "mountain_pass",
+        "name": "Lötschenpass",
+        "display_name": "Lötschenpass, Ferden, Westlich Raron, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "mountain_pass": "Lötschenpass",
+            "village": "Ferden",
+            "county": "Westlich Raron",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4162035",
+            "46.4163035",
+            "7.7166706",
+            "7.7167706"
+        ]
+    }
+]

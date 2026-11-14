@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91701233,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683277,
+        "lat": "46.6179671",
+        "lon": "7.1123024",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38475235162867644,
+        "addresstype": "village",
+        "name": "Botterens",
+        "display_name": "Botterens, Greyerzbezirk, Freiburg, 1652, Schweiz",
+        "address": {
+            "village": "Botterens",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1652",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6090511",
+            "46.6358708",
+            "7.0988652",
+            "7.1350212"
+        ]
+    }
+]

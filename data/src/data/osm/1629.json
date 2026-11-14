@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92242826,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 37738854,
+        "lat": "46.5035860",
+        "lon": "7.8732184",
+        "category": "natural",
+        "type": "water",
+        "place_rank": 22,
+        "importance": 0.10671010223544668,
+        "addresstype": "water",
+        "name": "Oberhornsee",
+        "display_name": "Oberhornsee, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "water": "Oberhornsee",
+            "village": "Lauterbrunnen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5033795",
+            "46.5038122",
+            "7.8729050",
+            "7.8734958"
+        ]
+    }
+]

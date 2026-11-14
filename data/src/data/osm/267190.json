@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92160559,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2521699413,
+        "lat": "46.5527909",
+        "lon": "6.2502869",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.37310569550553185,
+        "addresstype": "mountain_pass",
+        "name": "Col du Marchairuz",
+        "display_name": "Col du Marchairuz, Le Chenit, District du Jura-Nord vaudois, Waadt, Schweiz",
+        "address": {
+            "mountain_pass": "Col du Marchairuz",
+            "village": "Le Chenit",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5527409",
+            "46.5528409",
+            "6.2502369",
+            "6.2503369"
+        ]
+    }
+]

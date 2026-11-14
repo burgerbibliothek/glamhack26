@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92065907,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 205822089,
+        "lat": "46.9317358",
+        "lon": "7.5963560",
+        "category": "landuse",
+        "type": "residential",
+        "place_rank": 24,
+        "importance": 0.08004375295643547,
+        "addresstype": "residential",
+        "name": "Enggistein",
+        "display_name": "Enggistein, Gutshof, Richigen, Worb, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, Schweiz",
+        "address": {
+            "residential": "Enggistein",
+            "hamlet": "Gutshof",
+            "village": "Richigen",
+            "town": "Worb",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9300994",
+            "46.9333303",
+            "7.5933308",
+            "7.5987516"
+        ]
+    }
+]

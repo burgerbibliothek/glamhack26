@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91398672,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682505,
+        "lat": "46.9101275",
+        "lon": "7.4709596",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4649305141887719,
+        "addresstype": "village",
+        "name": "Kehrsatz",
+        "display_name": "Kehrsatz, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3122, Schweiz",
+        "address": {
+            "village": "Kehrsatz",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3122",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8978191",
+            "46.9257175",
+            "7.4485785",
+            "7.4867459"
+        ]
+    }
+]

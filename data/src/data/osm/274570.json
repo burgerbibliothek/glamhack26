@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 68269140,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1433380838,
+        "lat": "47.6876261",
+        "lon": "15.1588107",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333887701228351,
+        "addresstype": "hamlet",
+        "name": "Rotmoos",
+        "display_name": "Rotmoos, Katastralgemeinde Weichselboden, Mariazell, Bezirk Bruck-Mürzzuschlag, Steiermark, 8632, Österreich",
+        "address": {
+            "hamlet": "Rotmoos",
+            "city": "Mariazell",
+            "county": "Bezirk Bruck-Mürzzuschlag",
+            "state": "Steiermark",
+            "ISO3166-2-lvl4": "AT-6",
+            "postcode": "8632",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.6676261",
+            "47.7076261",
+            "15.1388107",
+            "15.1788107"
+        ]
+    }
+]

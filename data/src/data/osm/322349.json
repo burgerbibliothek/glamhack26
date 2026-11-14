@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 146380233,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4316892751,
+        "lat": "52.4452875",
+        "lon": "13.5699655",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "3, Gutenbergstraße, Spindlersfeld, Köllnische Vorstadt, Köpenick, Treptow-Köpenick, Berlin, 12557, Deutschland",
+        "address": {
+            "house_number": "3",
+            "road": "Gutenbergstraße",
+            "neighbourhood": "Spindlersfeld",
+            "quarter": "Köllnische Vorstadt",
+            "suburb": "Köpenick",
+            "borough": "Treptow-Köpenick",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12557",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4452375",
+            "52.4453375",
+            "13.5699155",
+            "13.5700155"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92267869,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4362816181,
+        "lat": "47.1530963",
+        "lon": "7.6988492",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3767390548248983,
+        "addresstype": "village",
+        "name": "Hermiswil",
+        "display_name": "Hermiswil, Seeberg, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 3475, Schweiz",
+        "address": {
+            "village": "Hermiswil",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3475",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1330963",
+            "47.1730963",
+            "7.6788492",
+            "7.7188492"
+        ]
+    }
+]

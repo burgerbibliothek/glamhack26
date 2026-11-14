@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92809460,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 53641913,
+        "lat": "47.3557995",
+        "lon": "7.8986126",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 5.849774929422473e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "3, Fluhweg, Olten, Bezirk Olten, Amtei Olten-Gösgen, Solothurn, 4600, Schweiz",
+        "address": {
+            "house_number": "3",
+            "road": "Fluhweg",
+            "town": "Olten",
+            "municipality": "Bezirk Olten",
+            "county": "Amtei Olten-Gösgen",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4600",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3557524",
+            "47.3558557",
+            "7.8985475",
+            "7.8986778"
+        ]
+    }
+]

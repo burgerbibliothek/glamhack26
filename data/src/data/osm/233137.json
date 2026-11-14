@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 86005422,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 161112,
+        "lat": "43.1571229",
+        "lon": "1.0602138",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5810731054640247,
+        "addresstype": "village",
+        "name": "Plagne",
+        "display_name": "Plagne, Muret, Haute-Garonne, Okzitanien, Metropolitanes Frankreich, 31220, Frankreich",
+        "address": {
+            "village": "Plagne",
+            "municipality": "Muret",
+            "county": "Haute-Garonne",
+            "ISO3166-2-lvl6": "FR-31",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "31220",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.1463040",
+            "43.1714809",
+            "1.0430839",
+            "1.0737342"
+        ]
+    }
+]

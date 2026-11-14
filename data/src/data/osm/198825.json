@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91760037,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6101894556,
+        "lat": "46.5275755",
+        "lon": "7.9035687",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10671724193179215,
+        "addresstype": "isolated_dwelling",
+        "name": "Trachsellauenen",
+        "display_name": "Trachsellauenen, Stechelberg, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3824, Schweiz",
+        "address": {
+            "isolated_dwelling": "Trachsellauenen",
+            "village": "Stechelberg",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3824",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5275255",
+            "46.5276255",
+            "7.9035187",
+            "7.9036187"
+        ]
+    }
+]

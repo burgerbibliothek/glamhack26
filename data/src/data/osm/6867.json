@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71643334,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682097,
+        "lat": "47.5493803",
+        "lon": "8.6205644",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40153729776053904,
+        "addresstype": "village",
+        "name": "Buch am Irchel",
+        "display_name": "Buch am Irchel, Bezirk Andelfingen, Zürich, 8414, Schweiz",
+        "address": {
+            "village": "Buch am Irchel",
+            "county": "Bezirk Andelfingen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8414",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5270398",
+            "47.5668032",
+            "8.5969298",
+            "8.6530811"
+        ]
+    }
+]

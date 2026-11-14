@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73242816,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 333221728,
+        "lat": "47.0855346",
+        "lon": "9.8879147",
+        "category": "railway",
+        "type": "halt",
+        "place_rank": 30,
+        "importance": 0.13618373728802152,
+        "addresstype": "railway",
+        "name": "Kaltenbrunnen",
+        "display_name": "Kaltenbrunnen, Illuferweg, Schruns, Bezirk Bludenz, Vorarlberg, 6781, Österreich",
+        "address": {
+            "railway": "Kaltenbrunnen",
+            "road": "Illuferweg",
+            "village": "Schruns",
+            "county": "Bezirk Bludenz",
+            "state": "Vorarlberg",
+            "ISO3166-2-lvl4": "AT-8",
+            "postcode": "6781",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.0854846",
+            "47.0855846",
+            "9.8878647",
+            "9.8879647"
+        ]
+    }
+]

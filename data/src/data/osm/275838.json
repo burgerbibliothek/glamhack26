@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 164138448,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2073720232,
+        "lat": "56.6951964",
+        "lon": "23.4271858",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10670416800183105,
+        "addresstype": "isolated_dwelling",
+        "name": "Rūteņi",
+        "display_name": "Rūteņi, Bērzes pagasts, Dobeles novads, LV-3732, Lettland",
+        "address": {
+            "isolated_dwelling": "Rūteņi",
+            "civil_parish": "Bērzes pagasts",
+            "municipality": "Dobeles novads",
+            "ISO3166-2-lvl5": "LV-026",
+            "postcode": "LV-3732",
+            "country": "Lettland",
+            "country_code": "lv"
+        },
+        "boundingbox": [
+            "56.6951464",
+            "56.6952464",
+            "23.4271358",
+            "23.4272358"
+        ]
+    }
+]

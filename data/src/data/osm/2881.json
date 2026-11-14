@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 72073220,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5370210514,
+        "lat": "47.3696574",
+        "lon": "8.5314521",
+        "category": "amenity",
+        "type": "college",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "amenity",
+        "name": "Schreiner Ausbildungszentrum Zürich",
+        "display_name": "Schreiner Ausbildungszentrum Zürich, 12, Gerechtigkeitsgasse, City, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz",
+        "address": {
+            "amenity": "Schreiner Ausbildungszentrum Zürich",
+            "house_number": "12",
+            "road": "Gerechtigkeitsgasse",
+            "quarter": "City",
+            "suburb": "Altstadt",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3696074",
+            "47.3697074",
+            "8.5314021",
+            "8.5315021"
+        ]
+    }
+]

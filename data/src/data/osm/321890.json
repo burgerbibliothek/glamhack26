@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 142864581,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 133454563,
+        "lat": "53.5865587",
+        "lon": "10.0039938",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.255359731436664e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "11, Cäcilienstraße, Winterhude, Hamburg-Nord, Hamburg, 22301, Deutschland",
+        "address": {
+            "house_number": "11",
+            "road": "Cäcilienstraße",
+            "suburb": "Winterhude",
+            "city_district": "Hamburg-Nord",
+            "city": "Hamburg",
+            "ISO3166-2-lvl4": "DE-HH",
+            "postcode": "22301",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "53.5864929",
+            "53.5866183",
+            "10.0038396",
+            "10.0041458"
+        ]
+    }
+]

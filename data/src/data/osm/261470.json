@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 430404593,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1563679072,
+        "lat": "48.7611067",
+        "lon": "9.1569902",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.8644235904433e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "8, Taubenstraße, Heslach, Stuttgart-Süd, Stuttgart, Baden-Württemberg, 70199, Deutschland",
+        "address": {
+            "house_number": "8",
+            "road": "Taubenstraße",
+            "neighbourhood": "Heslach",
+            "suburb": "Stuttgart-Süd",
+            "city": "Stuttgart",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "70199",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.7610567",
+            "48.7611567",
+            "9.1569402",
+            "9.1570402"
+        ]
+    }
+]

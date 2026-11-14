@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92099520,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5005364446,
+        "lat": "46.9570269",
+        "lon": "7.4332182",
+        "category": "amenity",
+        "type": "social_facility",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Das B",
+        "display_name": "Das B, 95, Neufeldstrasse, Neufeld, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "amenity": "Das B",
+            "house_number": "95",
+            "road": "Neufeldstrasse",
+            "quarter": "Neufeld",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9569769",
+            "46.9570769",
+            "7.4331682",
+            "7.4332682"
+        ]
+    }
+]

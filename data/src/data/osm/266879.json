@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 69944260,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4123086041,
+        "lat": "47.6109131",
+        "lon": "13.2122264",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1507975276546128,
+        "addresstype": "hamlet",
+        "name": "Moosegg",
+        "display_name": "Moosegg, Scheffau am Tennengebirge, Bezirk Hallein, Salzburg, 5440, Österreich",
+        "address": {
+            "hamlet": "Moosegg",
+            "village": "Scheffau am Tennengebirge",
+            "county": "Bezirk Hallein",
+            "state": "Salzburg",
+            "ISO3166-2-lvl4": "AT-5",
+            "postcode": "5440",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.5909131",
+            "47.6309131",
+            "13.1922264",
+            "13.2322264"
+        ]
+    }
+]

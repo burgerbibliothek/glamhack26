@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92070813,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685092,
+        "lat": "46.5806506",
+        "lon": "6.4284521",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.39877480132620163,
+        "addresstype": "village",
+        "name": "Pampigny",
+        "display_name": "Pampigny, Hautemorges, District de Morges, Waadt, 1142, Schweiz",
+        "address": {
+            "village": "Pampigny",
+            "city": "Hautemorges",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1142",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5663927",
+            "46.6086202",
+            "6.3869562",
+            "6.4460992"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91732017,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682526,
+        "lat": "46.4247066",
+        "lon": "7.3223985",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3694915076724792,
+        "addresstype": "village",
+        "name": "Lauenen",
+        "display_name": "Lauenen, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3782, Schweiz",
+        "address": {
+            "village": "Lauenen",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3782",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3437898",
+            "46.4513609",
+            "7.2926672",
+            "7.3915781"
+        ]
+    }
+]

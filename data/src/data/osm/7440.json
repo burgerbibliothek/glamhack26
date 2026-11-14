@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91605475,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682495,
+        "lat": "46.7104598",
+        "lon": "7.9634571",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4127618832342703,
+        "addresstype": "village",
+        "name": "Iseltwald",
+        "display_name": "Iseltwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3807, Schweiz",
+        "address": {
+            "village": "Iseltwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3807",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6699654",
+            "46.7317826",
+            "7.9401739",
+            "8.0275508"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72519365,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684282,
+        "lat": "47.4192416",
+        "lon": "8.2163700",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3771535532601069,
+        "addresstype": "village",
+        "name": "Brunegg",
+        "display_name": "Brunegg, Bezirk Lenzburg, Aargau, 5505, Schweiz",
+        "address": {
+            "village": "Brunegg",
+            "county": "Bezirk Lenzburg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5505",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4126936",
+            "47.4294486",
+            "8.2075700",
+            "8.2365210"
+        ]
+    }
+]

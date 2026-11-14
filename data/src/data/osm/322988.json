@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 72320591,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 232998385,
+        "lat": "47.4993355",
+        "lon": "8.7271089",
+        "category": "building",
+        "type": "office",
+        "place_rank": 30,
+        "importance": 0.11734328469919902,
+        "addresstype": "building",
+        "name": "Altes Stadthaus",
+        "display_name": "Altes Stadthaus, 53, Marktgasse, Wildbach, Neuwiesen, Stadt, Winterthur, Bezirk Winterthur, Zürich, 8400, Schweiz",
+        "address": {
+            "building": "Altes Stadthaus",
+            "house_number": "53",
+            "road": "Marktgasse",
+            "neighbourhood": "Wildbach",
+            "quarter": "Neuwiesen",
+            "suburb": "Stadt",
+            "city": "Winterthur",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8400",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4992402",
+            "47.4994239",
+            "8.7269883",
+            "8.7272395"
+        ]
+    }
+]

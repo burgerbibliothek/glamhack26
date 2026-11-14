@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 427606397,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2868126956,
+        "lat": "46.7144104",
+        "lon": "8.2781499",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333828511482414,
+        "addresstype": "hamlet",
+        "name": "Hopflauenen",
+        "display_name": "Hopflauenen, Gadmen, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3863, Schweiz",
+        "address": {
+            "hamlet": "Hopflauenen",
+            "city_district": "Gadmen",
+            "village": "Innertkirchen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3863",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6944104",
+            "46.7344104",
+            "8.2581499",
+            "8.2981499"
+        ]
+    }
+]

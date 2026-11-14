@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92276070,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 164232806,
+        "lat": "46.9654062",
+        "lon": "7.4685126",
+        "category": "highway",
+        "type": "primary",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "primary",
+        "name": "Papiermühlestrasse",
+        "display_name": "Papiermühlestrasse, Breitfeld, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3014, Schweiz",
+        "address": {
+            "road": "Papiermühlestrasse",
+            "quarter": "Breitfeld",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3014",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9650696",
+            "46.9657434",
+            "7.4682529",
+            "7.4687716"
+        ]
+    }
+]

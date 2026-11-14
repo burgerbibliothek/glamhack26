@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91791823,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2367298889,
+        "lat": "46.4631368",
+        "lon": "7.2109082",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4434976767478008,
+        "addresstype": "peak",
+        "name": "Le Rubli",
+        "display_name": "Le Rubli, Rougemont, Bezirk Riviera-Pays-d'Enhaut, Waadt, 1659, Schweiz",
+        "address": {
+            "peak": "Le Rubli",
+            "village": "Rougemont",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1659",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4630868",
+            "46.4631868",
+            "7.2108582",
+            "7.2109582"
+        ]
+    }
+]

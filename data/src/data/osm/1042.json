@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 90180661,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 272128312,
+        "lat": "45.7495422",
+        "lon": "4.8269990",
+        "category": "railway",
+        "type": "platform",
+        "place_rank": 30,
+        "importance": 0.4959609451885724,
+        "addresstype": "railway",
+        "name": "Perrache",
+        "display_name": "Perrache, Trémie n°3, Perrache, 2nd Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 69002, Frankreich",
+        "address": {
+            "railway": "Perrache",
+            "road": "Trémie n°3",
+            "suburb": "Perrache",
+            "city": "Lyon",
+            "municipality": "Lyon",
+            "county": "Métropole de Lyon",
+            "ISO3166-2-lvl6": "FR-69M",
+            "state_district": "Rhône",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "69002",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.7494587",
+            "45.7496242",
+            "4.8269450",
+            "4.8270552"
+        ]
+    }
+]

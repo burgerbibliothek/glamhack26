@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73729914,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 843300286,
+        "lat": "46.6453777",
+        "lon": "8.5908567",
+        "category": "highway",
+        "type": "primary",
+        "place_rank": 26,
+        "importance": 0.2885983973306146,
+        "addresstype": "primary",
+        "name": "Gotthardstrasse",
+        "display_name": "Gotthardstrasse, Andermatt, Korporation Ursern, Uri, 6490, Schweiz",
+        "address": {
+            "road": "Gotthardstrasse",
+            "village": "Andermatt",
+            "county": "Korporation Ursern",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6490",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6451588",
+            "46.6455642",
+            "8.5905210",
+            "8.5911718"
+        ]
+    }
+]

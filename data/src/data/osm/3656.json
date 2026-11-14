@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 125309196,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3034732265,
+        "lat": "49.8763711",
+        "lon": "9.1564740",
+        "category": "amenity",
+        "type": "post_box",
+        "place_rank": 30,
+        "importance": 5.063477531085706e-05,
+        "addresstype": "amenity",
+        "name": "Marienstraße 8",
+        "display_name": "Marienstraße 8, Marienstraße, Großwallstadt, Landkreis Miltenberg, Bayern, 63868, Deutschland",
+        "address": {
+            "amenity": "Marienstraße 8",
+            "road": "Marienstraße",
+            "village": "Großwallstadt",
+            "county": "Landkreis Miltenberg",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "63868",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.8763211",
+            "49.8764211",
+            "9.1564240",
+            "9.1565240"
+        ]
+    }
+]

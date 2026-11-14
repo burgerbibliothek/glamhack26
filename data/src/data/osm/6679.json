@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 66005061,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 575119,
+        "lat": "46.0518140",
+        "lon": "18.7172495",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5233957985952767,
+        "addresstype": "village",
+        "name": "Baar",
+        "display_name": "Baar, Mohácsi járás, Komitat Baranya, Transdanubien, 7711, Ungarn",
+        "address": {
+            "village": "Baar",
+            "municipality": "Mohácsi járás",
+            "county": "Komitat Baranya",
+            "ISO3166-2-lvl6": "HU-BA",
+            "region": "Transdanubien",
+            "postcode": "7711",
+            "country": "Ungarn",
+            "country_code": "hu"
+        },
+        "boundingbox": [
+            "46.0335566",
+            "46.0769860",
+            "18.6886490",
+            "18.7373897"
+        ]
+    }
+]

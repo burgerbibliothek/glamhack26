@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73916358,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 806507892,
+        "lat": "46.1793970",
+        "lon": "8.8504309",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.42023522464752683,
+        "addresstype": "village",
+        "name": "Tenero",
+        "display_name": "Tenero, Tenero-Contra, Kreis Navegna, Bezirk Locarno, Tessin, 6598, Schweiz",
+        "address": {
+            "village": "Tenero",
+            "municipality": "Kreis Navegna",
+            "county": "Bezirk Locarno",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6598",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1593970",
+            "46.1993970",
+            "8.8304309",
+            "8.8704309"
+        ]
+    }
+]

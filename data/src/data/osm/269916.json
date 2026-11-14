@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92892548,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3389508515,
+        "lat": "47.0776361",
+        "lon": "6.7850487",
+        "category": "railway",
+        "type": "halt",
+        "place_rank": 30,
+        "importance": 0.2024340213354661,
+        "addresstype": "railway",
+        "name": "Le Crêt-du-Locle",
+        "display_name": "Le Crêt-du-Locle, Boulevard des Eplatures, Le Crêt-du-Locle, La Chaux-de-Fonds, Région Montagnes, Neuenburg, 2322, Schweiz",
+        "address": {
+            "railway": "Le Crêt-du-Locle",
+            "road": "Boulevard des Eplatures",
+            "neighbourhood": "Le Crêt-du-Locle",
+            "town": "La Chaux-de-Fonds",
+            "region": "Région Montagnes",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2322",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0775861",
+            "47.0776861",
+            "6.7849987",
+            "6.7850987"
+        ]
+    }
+]

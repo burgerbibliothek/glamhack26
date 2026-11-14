@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93515238,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6190805059,
+        "lat": "47.3787222",
+        "lon": "7.2111949",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333791676203555,
+        "addresstype": "hamlet",
+        "name": "La Caquerelle",
+        "display_name": "La Caquerelle, La Baroche, Bezirk Porrentruy, Jura, 2954, Schweiz",
+        "address": {
+            "hamlet": "La Caquerelle",
+            "city": "La Baroche",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2954",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3587222",
+            "47.3987222",
+            "7.1911949",
+            "7.2311949"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92309741,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1703085059,
+        "lat": "46.8739845",
+        "lon": "7.8981625",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333833348592355,
+        "addresstype": "hamlet",
+        "name": "Rütti",
+        "display_name": "Rütti, Escholzmatt-Marbach, Luzern, 6196, Schweiz",
+        "address": {
+            "hamlet": "Rütti",
+            "city": "Escholzmatt-Marbach",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6196",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8539845",
+            "46.8939845",
+            "7.8781625",
+            "7.9181625"
+        ]
+    }
+]

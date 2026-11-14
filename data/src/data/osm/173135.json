@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 98915547,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 940508513,
+        "lat": "49.2388507",
+        "lon": "1.4973750",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333985206378271,
+        "addresstype": "hamlet",
+        "name": "Verrières",
+        "display_name": "Verrières, Harquency, Les Andelys, Eure, Normandie, Metropolitanes Frankreich, 27700, Frankreich",
+        "address": {
+            "hamlet": "Verrières",
+            "village": "Harquency",
+            "municipality": "Les Andelys",
+            "county": "Eure",
+            "ISO3166-2-lvl6": "FR-27",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "27700",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.2188507",
+            "49.2588507",
+            "1.4773750",
+            "1.5173750"
+        ]
+    }
+]

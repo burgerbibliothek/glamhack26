@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92742379,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682516,
+        "lat": "47.0080399",
+        "lon": "7.5669873",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42448194829866204,
+        "addresstype": "village",
+        "name": "Krauchthal",
+        "display_name": "Krauchthal, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Krauchthal",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9769713",
+            "47.0410864",
+            "7.5293101",
+            "7.5996352"
+        ]
+    }
+]

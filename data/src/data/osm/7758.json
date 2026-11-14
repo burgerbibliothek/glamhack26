@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72960564,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12341079445,
+        "lat": "46.9554326",
+        "lon": "9.5835021",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333811360341802,
+        "addresstype": "hamlet",
+        "name": "Marschlins",
+        "display_name": "Marschlins, Igis, Landquart, Graubünden, 7206, Schweiz",
+        "address": {
+            "hamlet": "Marschlins",
+            "village": "Igis",
+            "county": "Landquart",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7206",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9354326",
+            "46.9754326",
+            "9.5635021",
+            "9.6035021"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92544506,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1668976720,
+        "lat": "46.7680947",
+        "lon": "6.9491864",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2946949388609965,
+        "addresstype": "village",
+        "name": "Middes",
+        "display_name": "Middes, Torny, Glanebezirk, Freiburg, 1749, Schweiz",
+        "address": {
+            "village": "Middes",
+            "county": "Glanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1749",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7480947",
+            "46.7880947",
+            "6.9291864",
+            "6.9691864"
+        ]
+    }
+]

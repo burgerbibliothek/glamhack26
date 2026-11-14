@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 65604171,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 10744476,
+        "lat": "47.5004276",
+        "lon": "23.4709709",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.48292732055544385,
+        "addresstype": "town",
+        "name": "Großhorn",
+        "display_name": "Großhorn, Maramureș, Rumänien",
+        "address": {
+            "town": "Großhorn",
+            "county": "Maramureș",
+            "ISO3166-2-lvl4": "RO-MM",
+            "country": "Rumänien",
+            "country_code": "ro"
+        },
+        "boundingbox": [
+            "47.4291310",
+            "47.5559789",
+            "23.3970098",
+            "23.6346266"
+        ]
+    }
+]

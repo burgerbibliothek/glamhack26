@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91835122,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 255312741,
+        "lat": "46.9529642",
+        "lon": "7.4406876",
+        "category": "amenity",
+        "type": "community_centre",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Kulturzentrum Reitschule",
+        "display_name": "Kulturzentrum Reitschule, 8, Neubrückstrasse, Engeried, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "amenity": "Kulturzentrum Reitschule",
+            "house_number": "8",
+            "road": "Neubrückstrasse",
+            "quarter": "Engeried",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9526027",
+            "46.9533266",
+            "7.4399944",
+            "7.4412360"
+        ]
+    }
+]

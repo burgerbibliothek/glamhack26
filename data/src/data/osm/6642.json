@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 72745875,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1686649,
+        "lat": "47.3960076",
+        "lon": "9.3705839",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.5612646885504464,
+        "addresstype": "state",
+        "name": "Appenzell Ausserrhoden",
+        "display_name": "Appenzell Ausserrhoden, Schweiz",
+        "address": {
+            "state": "Appenzell Ausserrhoden",
+            "ISO3166-2-lvl4": "CH-AR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2470218",
+            "47.4690406",
+            "9.1910984",
+            "9.6309674"
+        ]
+    }
+]

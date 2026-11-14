@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91712235,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 30479045,
+        "lat": "46.9151841",
+        "lon": "7.3588045",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.05337991226062406,
+        "addresstype": "tertiary",
+        "name": "Wangenhubelstrasse",
+        "display_name": "Wangenhubelstrasse, Oberwangen, Köniz, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3173, Schweiz",
+        "address": {
+            "road": "Wangenhubelstrasse",
+            "suburb": "Oberwangen",
+            "town": "Köniz",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3173",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9149915",
+            "46.9152655",
+            "7.3577488",
+            "7.3598601"
+        ]
+    }
+]

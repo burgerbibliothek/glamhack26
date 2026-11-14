@@ -1,0 +1,41 @@
+[
+    {
+        "place_id": 121060109,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2837204032,
+        "lat": "48.5788675",
+        "lon": "7.7400944",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.748149843590475e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "1, Schwanengasse, Klein-Frankreich, Centre, Straßburg, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67000, Frankreich",
+        "address": {
+            "house_number": "1",
+            "road": "Schwanengasse",
+            "neighbourhood": "Klein-Frankreich",
+            "suburb": "Centre",
+            "city": "Straßburg",
+            "municipality": "Straßburg",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.5788175",
+            "48.5789175",
+            "7.7400444",
+            "7.7401444"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 74847935,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1435564474,
+        "lat": "46.1501252",
+        "lon": "11.7350873",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.4441693804222088,
+        "addresstype": "hamlet",
+        "name": "Lausen",
+        "display_name": "Lausen, Canal San Bovo, Comunità di Primiero, Autonome Provinz Trient, Trentino-Südtirol, 38054, Italien",
+        "address": {
+            "hamlet": "Lausen",
+            "village": "Canal San Bovo",
+            "city": "Canal San Bovo",
+            "municipality": "Comunità di Primiero",
+            "county": "Autonome Provinz Trient",
+            "ISO3166-2-lvl6": "IT-TN",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "postcode": "38054",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.1301252",
+            "46.1701252",
+            "11.7150873",
+            "11.7550873"
+        ]
+    }
+]

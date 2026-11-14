@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92035242,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 637256040,
+        "lat": "46.8109439",
+        "lon": "7.4600733",
+        "category": "building",
+        "type": "barn",
+        "place_rank": 30,
+        "importance": 5.2494850080064354e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "28, Muristrasse, Riggisberg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3132, Schweiz",
+        "address": {
+            "house_number": "28",
+            "road": "Muristrasse",
+            "village": "Riggisberg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3132",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8108973",
+            "46.8109906",
+            "7.4599948",
+            "7.4601519"
+        ]
+    }
+]

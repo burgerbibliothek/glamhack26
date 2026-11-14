@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 118603880,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 123363,
+        "lat": "49.0861241",
+        "lon": "7.1747258",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5846284898894449,
+        "addresstype": "village",
+        "name": "Wölflingen bei Bliesbrücken",
+        "display_name": "Wölflingen bei Bliesbrücken, Sarreguemines, Moselle, Groß-Osten, Metropolitanes Frankreich, 57200, Frankreich",
+        "address": {
+            "village": "Wölflingen bei Bliesbrücken",
+            "municipality": "Sarreguemines",
+            "county": "Moselle",
+            "ISO3166-2-lvl6": "FR-57",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "57200",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.0662525",
+            "49.1007698",
+            "7.1571382",
+            "7.2033660"
+        ]
+    }
+]

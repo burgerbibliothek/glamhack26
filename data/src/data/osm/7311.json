@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91532117,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682460,
+        "lat": "46.3855821",
+        "lon": "7.2673253",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37777042313464865,
+        "addresstype": "village",
+        "name": "Gsteig",
+        "display_name": "Gsteig, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Gsteig",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3264712",
+            "46.4282726",
+            "7.1937159",
+            "7.3102847"
+        ]
+    }
+]

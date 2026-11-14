@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 74148011,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2315416394,
+        "lat": "46.4597014",
+        "lon": "11.3340953",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.23992860907835414,
+        "addresstype": "village",
+        "name": "St. Jakob",
+        "display_name": "St. Jakob, Leifers, Überetsch-Unterland, Bozen, Trentino-Südtirol, 39055, Italien",
+        "address": {
+            "village": "St. Jakob",
+            "town": "Leifers",
+            "municipality": "Überetsch-Unterland",
+            "county": "Bozen",
+            "ISO3166-2-lvl6": "IT-BZ",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "postcode": "39055",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.4397014",
+            "46.4797014",
+            "11.3140953",
+            "11.3540953"
+        ]
+    }
+]

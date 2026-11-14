@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92960514,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683553,
+        "lat": "47.3454976",
+        "lon": "7.6581300",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37064251329451636,
+        "addresstype": "village",
+        "name": "Mümliswil-Ramiswil",
+        "display_name": "Mümliswil-Ramiswil, Bezirk Thal, Amtei Thal-Gäu, Solothurn, Schweiz",
+        "address": {
+            "village": "Mümliswil-Ramiswil",
+            "municipality": "Bezirk Thal",
+            "county": "Amtei Thal-Gäu",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3257192",
+            "47.3724498",
+            "7.5768077",
+            "7.7515254"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 187324154,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 38145225,
+        "lat": "48.1411367",
+        "lon": "17.1056922",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 0.04539457909600718,
+        "addresstype": "building",
+        "name": "Maldeghemov palác",
+        "display_name": "Maldeghemov palác, 170/13, Hviezdoslav-Platz, Príboj, Historischer Kern, Bratislava, Okres Bratislava I, Bratislava, Bratislavský kraj, 811 02, Slowakei",
+        "address": {
+            "building": "Maldeghemov palác",
+            "house_number": "170/13",
+            "pedestrian": "Hviezdoslav-Platz",
+            "neighbourhood": "Príboj",
+            "suburb": "Bratislava",
+            "city_district": "Okres Bratislava I",
+            "city": "Bratislava",
+            "region": "Bratislavský kraj",
+            "ISO3166-2-lvl4": "SK-BL",
+            "postcode": "811 02",
+            "country": "Slowakei",
+            "country_code": "sk"
+        },
+        "boundingbox": [
+            "48.1409788",
+            "48.1412637",
+            "17.1054814",
+            "17.1059062"
+        ]
+    }
+]

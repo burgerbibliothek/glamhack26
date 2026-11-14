@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 188285415,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 11101,
+        "lat": "48.2108257",
+        "lon": "16.3565728",
+        "category": "amenity",
+        "type": "townhall",
+        "place_rank": 30,
+        "importance": 0.44228625660441245,
+        "addresstype": "amenity",
+        "name": "Rathaus",
+        "display_name": "Rathaus, 1, Rathausplatz, Regierungsviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich",
+        "address": {
+            "amenity": "Rathaus",
+            "house_number": "1",
+            "road": "Rathausplatz",
+            "neighbourhood": "Regierungsviertel",
+            "suburb": "Innere Stadt",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1010",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2100496",
+            "48.2116341",
+            "16.3562862",
+            "16.3583535"
+        ]
+    }
+]

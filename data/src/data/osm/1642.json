@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 115026655,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 26178658,
+        "lat": "51.4253463",
+        "lon": "7.4908641",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05340697108415347,
+        "addresstype": "residential",
+        "name": "Ortli",
+        "display_name": "Ortli, Buchholz, Syburg, Hörde, Dortmund, Nordrhein-Westfalen, 44265, Deutschland",
+        "address": {
+            "road": "Ortli",
+            "quarter": "Buchholz",
+            "suburb": "Syburg",
+            "city_district": "Hörde",
+            "city": "Dortmund",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "44265",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.4253178",
+            "51.4269610",
+            "7.4873638",
+            "7.4951334"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 87427478,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3082514765,
+        "lat": "44.6249729",
+        "lon": "2.6944656",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10672698786907757,
+        "addresstype": "isolated_dwelling",
+        "name": "Mousses",
+        "display_name": "Mousses, Le Nayrac, Rodez, Aveyron, Okzitanien, Metropolitanes Frankreich, 12190, Frankreich",
+        "address": {
+            "isolated_dwelling": "Mousses",
+            "village": "Le Nayrac",
+            "municipality": "Rodez",
+            "county": "Aveyron",
+            "ISO3166-2-lvl6": "FR-12",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "12190",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.6249229",
+            "44.6250229",
+            "2.6944156",
+            "2.6945156"
+        ]
+    }
+]

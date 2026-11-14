@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92329329,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2302886421,
+        "lat": "46.9010932",
+        "lon": "7.4211143",
+        "category": "historic",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.04539457909600718,
+        "addresstype": "historic",
+        "name": "Burgruine Neu-Bubenberg",
+        "display_name": "Burgruine Neu-Bubenberg, Bubenbergweg, Schwanden, Schliern, Köniz, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3144, Schweiz",
+        "address": {
+            "historic": "Burgruine Neu-Bubenberg",
+            "road": "Bubenbergweg",
+            "hamlet": "Schwanden",
+            "suburb": "Schliern",
+            "town": "Köniz",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3144",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9010432",
+            "46.9011432",
+            "7.4210643",
+            "7.4211643"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92928451,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9249094203,
+        "lat": "47.1899930",
+        "lon": "7.2474635",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 4.581597619588033e-05,
+        "addresstype": "information",
+        "name": "Reuchenette",
+        "display_name": "Reuchenette, Rue de La Reuchenette, Péry, Péry-La Heutte, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2603, Schweiz",
+        "address": {
+            "information": "Reuchenette",
+            "road": "Rue de La Reuchenette",
+            "village": "Péry",
+            "city": "Péry-La Heutte",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2603",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1899430",
+            "47.1900430",
+            "7.2474135",
+            "7.2475135"
+        ]
+    }
+]

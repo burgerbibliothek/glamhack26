@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92552829,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683592,
+        "lat": "47.2037591",
+        "lon": "7.5594101",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4320505958492865,
+        "addresstype": "village",
+        "name": "Zuchwil",
+        "display_name": "Zuchwil, Bezirk Wasseramt, Amtei Bucheggberg-Wasseramt, Solothurn, 4528, Schweiz",
+        "address": {
+            "village": "Zuchwil",
+            "municipality": "Bezirk Wasseramt",
+            "county": "Amtei Bucheggberg-Wasseramt",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4528",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1932292",
+            "47.2191280",
+            "7.5449551",
+            "7.5800540"
+        ]
+    }
+]

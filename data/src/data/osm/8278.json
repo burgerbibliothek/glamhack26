@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71118545,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 936750,
+        "lat": "47.8118973",
+        "lon": "10.8972133",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.48296839332828273,
+        "addresstype": "town",
+        "name": "Schongau",
+        "display_name": "Schongau, Landkreis Weilheim-Schongau, Bayern, 86956, Deutschland",
+        "address": {
+            "town": "Schongau",
+            "county": "Landkreis Weilheim-Schongau",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "86956",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.7838366",
+            "47.8411661",
+            "10.8557693",
+            "10.9322544"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73276104,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 188216289,
+        "lat": "46.7640240",
+        "lon": "8.0845572",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 22,
+        "importance": 0.10671334172579536,
+        "addresstype": "stream",
+        "name": "Eistlenbach",
+        "display_name": "Eistlenbach, Schried, Hofstetten bei Brienz, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3858, Schweiz",
+        "address": {
+            "stream": "Eistlenbach",
+            "hamlet": "Schried",
+            "village": "Hofstetten bei Brienz",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3858",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7527503",
+            "46.7747048",
+            "8.0839365",
+            "8.0889396"
+        ]
+    }
+]

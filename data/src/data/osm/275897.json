@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91901022,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 288753678,
+        "lat": "46.7739067",
+        "lon": "7.3142865",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671895094224455,
+        "addresstype": "village",
+        "name": "Kalchstätten",
+        "display_name": "Kalchstätten, Guggisberg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3158, Schweiz",
+        "address": {
+            "village": "Kalchstätten",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3158",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7539067",
+            "46.7939067",
+            "7.2942865",
+            "7.3342865"
+        ]
+    }
+]

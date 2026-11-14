@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91519362,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1614050068,
+        "lat": "46.8177941",
+        "lon": "7.7559071",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333833348592355,
+        "addresstype": "hamlet",
+        "name": "Süderen",
+        "display_name": "Süderen, Wachseldorn, Verwaltungskreis Thun, Oberland administrative region, Bern, 3618, Schweiz",
+        "address": {
+            "hamlet": "Süderen",
+            "village": "Wachseldorn",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3618",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7977941",
+            "46.8377941",
+            "7.7359071",
+            "7.7759071"
+        ]
+    }
+]

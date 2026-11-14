@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 93482810,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1701228,
+        "lat": "47.4761927",
+        "lon": "7.4873722",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.399806169635952,
+        "addresstype": "municipality",
+        "name": "Bezirk Dorneck",
+        "display_name": "Bezirk Dorneck, Amtei Dorneck-Thierstein, Solothurn, Schweiz",
+        "address": {
+            "municipality": "Bezirk Dorneck",
+            "county": "Amtei Dorneck-Thierstein",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4090787",
+            "47.5027007",
+            "7.4208212",
+            "7.7098806"
+        ]
+    }
+]

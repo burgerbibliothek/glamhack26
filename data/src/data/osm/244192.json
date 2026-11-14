@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71287832,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 959426,
+        "lat": "47.5728668",
+        "lon": "9.6961919",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5628114909685057,
+        "addresstype": "city",
+        "name": "Lindau (Bodensee)",
+        "display_name": "Lindau (Bodensee), Landkreis Lindau, Bayern, 88131, Deutschland",
+        "address": {
+            "city": "Lindau (Bodensee)",
+            "county": "Landkreis Lindau",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "88131",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.5336565",
+            "47.6120659",
+            "9.6362276",
+            "9.7408416"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72277975,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 55752529,
+        "lat": "47.3677104",
+        "lon": "8.5153883",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "16, Bühlstrasse, Alt-Wiedikon, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8055, Schweiz",
+        "address": {
+            "house_number": "16",
+            "road": "Bühlstrasse",
+            "quarter": "Alt-Wiedikon",
+            "suburb": "Kreis 3",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8055",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3676078",
+            "47.3678070",
+            "8.5152439",
+            "8.5155326"
+        ]
+    }
+]

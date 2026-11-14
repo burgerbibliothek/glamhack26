@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91172219,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684949,
+        "lat": "46.4097312",
+        "lon": "6.2354510",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4376968782224089,
+        "addresstype": "village",
+        "name": "Duillier",
+        "display_name": "Duillier, District de Nyon, Waadt, 1266, Schweiz",
+        "address": {
+            "village": "Duillier",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1266",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3967168",
+            "46.4215699",
+            "6.2130994",
+            "6.2471619"
+        ]
+    }
+]

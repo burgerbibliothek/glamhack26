@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73357313,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3442403409,
+        "lat": "46.6801611",
+        "lon": "8.1533715",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10670416800183105,
+        "addresstype": "isolated_dwelling",
+        "name": "Rosenlaui",
+        "display_name": "Rosenlaui, Schattenhalb, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "isolated_dwelling": "Rosenlaui",
+            "village": "Schattenhalb",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6801111",
+            "46.6802111",
+            "8.1533215",
+            "8.1534215"
+        ]
+    }
+]

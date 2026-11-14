@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91639192,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1349850052,
+        "lat": "46.9487667",
+        "lon": "7.4561726",
+        "category": "highway",
+        "type": "living_street",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "living_street",
+        "name": "Nydeggstalden",
+        "display_name": "Nydeggstalden, Weisses Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3000, Schweiz",
+        "address": {
+            "road": "Nydeggstalden",
+            "quarter": "Weisses Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9487347",
+            "46.9488301",
+            "7.4557695",
+            "7.4565724"
+        ]
+    }
+]

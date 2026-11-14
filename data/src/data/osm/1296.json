@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91780966,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12640805338,
+        "lat": "46.7106982",
+        "lon": "7.6465956",
+        "category": "place",
+        "type": "neighbourhood",
+        "place_rank": 24,
+        "importance": 0.08005312352178222,
+        "addresstype": "neighbourhood",
+        "name": "Einigen",
+        "display_name": "Einigen, Thunersee, Amtsbezirk Niedersimmental, Oberland administrative region, Bern, 3646, Schweiz",
+        "address": {
+            "neighbourhood": "Einigen",
+            "city": "Thunersee",
+            "county": "Amtsbezirk Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3646",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7006982",
+            "46.7206982",
+            "7.6365956",
+            "7.6565956"
+        ]
+    }
+]

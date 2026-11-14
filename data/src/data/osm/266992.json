@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73313899,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 414188986,
+        "lat": "47.2836205",
+        "lon": "9.4852538",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4499234675436917,
+        "addresstype": "peak",
+        "name": "Hoher Kasten",
+        "display_name": "Hoher Kasten, Altstätten, Wahlkreis Rheintal, St. Gallen, 9466, Schweiz",
+        "address": {
+            "peak": "Hoher Kasten",
+            "town": "Altstätten",
+            "county": "Wahlkreis Rheintal",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9466",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2835705",
+            "47.2836705",
+            "9.4852038",
+            "9.4853038"
+        ]
+    }
+]

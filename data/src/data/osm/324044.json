@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 187627900,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4565552061,
+        "lat": "48.2213524",
+        "lon": "16.3526047",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "amenity",
+        "name": "Shouko",
+        "display_name": "Shouko, 31, Spitalgasse, Michelbeuern, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich",
+        "address": {
+            "amenity": "Shouko",
+            "house_number": "31",
+            "road": "Spitalgasse",
+            "quarter": "Michelbeuern",
+            "neighbourhood": "Katastralgemeinde Alsergrund",
+            "suburb": "Alsergrund",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1090",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2213024",
+            "48.2214024",
+            "16.3525547",
+            "16.3526547"
+        ]
+    }
+]

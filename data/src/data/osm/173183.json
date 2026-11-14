@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73804535,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684763,
+        "lat": "46.1841146",
+        "lon": "8.8453084",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42023522464752683,
+        "addresstype": "village",
+        "name": "Tenero-Contra",
+        "display_name": "Tenero-Contra, Kreis Navegna, Bezirk Locarno, Tessin, Schweiz",
+        "address": {
+            "village": "Tenero-Contra",
+            "municipality": "Kreis Navegna",
+            "county": "Bezirk Locarno",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1588277",
+            "46.2000705",
+            "8.8251006",
+            "8.8604645"
+        ]
+    }
+]

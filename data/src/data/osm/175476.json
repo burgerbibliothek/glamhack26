@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 95673558,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7824002445,
+        "lat": "46.1858918",
+        "lon": "0.0157499",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339286869611655,
+        "addresstype": "hamlet",
+        "name": "Coudre",
+        "display_name": "Coudre, Clussais-la-Pommeraie, Niort, Deux-Sèvres, Neu-Aquitanien, Metropolitanes Frankreich, 79190, Frankreich",
+        "address": {
+            "hamlet": "Coudre",
+            "city": "Clussais-la-Pommeraie",
+            "municipality": "Niort",
+            "county": "Deux-Sèvres",
+            "ISO3166-2-lvl6": "FR-79",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "79190",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.1658918",
+            "46.2058918",
+            "-0.0042501",
+            "0.0357499"
+        ]
+    }
+]

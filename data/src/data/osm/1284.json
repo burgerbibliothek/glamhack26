@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73405906,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1244935290,
+        "lat": "46.6486860",
+        "lon": "8.1631260",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44372234432369284,
+        "addresstype": "peak",
+        "name": "Dossen",
+        "display_name": "Dossen, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3862, Schweiz",
+        "address": {
+            "peak": "Dossen",
+            "village": "Innertkirchen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3862",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6486360",
+            "46.6487360",
+            "8.1630760",
+            "8.1631760"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91869220,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 370783225,
+        "lat": "46.9624094",
+        "lon": "7.4120039",
+        "category": "amenity",
+        "type": "fountain",
+        "place_rank": 30,
+        "importance": 0.21822785325192331,
+        "addresstype": "amenity",
+        "name": "Glasbrunnen",
+        "display_name": "Glasbrunnen, Wohlenstrasse, Neufeld, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "amenity": "Glasbrunnen",
+            "road": "Wohlenstrasse",
+            "quarter": "Neufeld",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9623594",
+            "46.9624594",
+            "7.4119539",
+            "7.4120539"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 84526289,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1826996,
+        "lat": "43.0547547",
+        "lon": "1.9970557",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5679545303783382,
+        "addresstype": "village",
+        "name": "Corbières",
+        "display_name": "Corbières, Limoux, Aude, Okzitanien, Metropolitanes Frankreich, 11230, Frankreich",
+        "address": {
+            "village": "Corbières",
+            "municipality": "Limoux",
+            "county": "Aude",
+            "ISO3166-2-lvl6": "FR-11",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "11230",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.0246812",
+            "43.0715700",
+            "1.9752718",
+            "2.0276011"
+        ]
+    }
+]

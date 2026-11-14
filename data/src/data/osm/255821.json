@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92926985,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3411230,
+        "lat": "47.1878135",
+        "lon": "7.2870570",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4026664728735604,
+        "addresstype": "city",
+        "name": "Sauge",
+        "display_name": "Sauge, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, Schweiz",
+        "address": {
+            "city": "Sauge",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1668395",
+            "47.2085971",
+            "7.2523834",
+            "7.3243363"
+        ]
+    }
+]

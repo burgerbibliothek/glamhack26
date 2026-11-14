@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91675458,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 27690526,
+        "lat": "46.9654275",
+        "lon": "7.3807676",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.21822785325192331,
+        "addresstype": "secondary",
+        "name": "Kappelenbrücke",
+        "display_name": "Kappelenbrücke, Eymatt, Bethlehem, Stadtteil VI, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3032, Schweiz",
+        "address": {
+            "road": "Kappelenbrücke",
+            "quarter": "Eymatt",
+            "city_district": "Stadtteil VI",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3032",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9648435",
+            "46.9660118",
+            "7.3799675",
+            "7.3815679"
+        ]
+    }
+]

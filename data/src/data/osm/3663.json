@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 141097400,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 186620447,
+        "lat": "52.3694718",
+        "lon": "9.7481344",
+        "category": "building",
+        "type": "office",
+        "place_rank": 30,
+        "importance": 7.639047837029095e-05,
+        "addresstype": "building",
+        "name": "Gemeindehaus St. Marien",
+        "display_name": "Gemeindehaus St. Marien, 35, Marienstraße, Mitte, Hannover, Region Hannover, Niedersachsen, 30171, Deutschland",
+        "address": {
+            "building": "Gemeindehaus St. Marien",
+            "house_number": "35",
+            "road": "Marienstraße",
+            "suburb": "Mitte",
+            "city_district": "Mitte",
+            "city": "Hannover",
+            "county": "Region Hannover",
+            "state": "Niedersachsen",
+            "ISO3166-2-lvl4": "DE-NI",
+            "postcode": "30171",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.3693663",
+            "52.3695816",
+            "9.7478937",
+            "9.7482657"
+        ]
+    }
+]

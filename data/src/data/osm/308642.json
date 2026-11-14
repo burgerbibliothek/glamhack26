@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73505108,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1372222002,
+        "lat": "46.5865780",
+        "lon": "8.2394900",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44446571818640085,
+        "addresstype": "peak",
+        "name": "Bächlistock",
+        "display_name": "Bächlistock, Guttannen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3864, Schweiz",
+        "address": {
+            "peak": "Bächlistock",
+            "city": "Guttannen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3864",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5865280",
+            "46.5866280",
+            "8.2394400",
+            "8.2395400"
+        ]
+    }
+]

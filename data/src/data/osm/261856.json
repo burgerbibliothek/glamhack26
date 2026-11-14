@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73275722,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683066,
+        "lat": "46.9565663",
+        "lon": "8.5128414",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3737616996631093,
+        "addresstype": "village",
+        "name": "Emmetten",
+        "display_name": "Emmetten, Nidwalden, 6376, Schweiz",
+        "address": {
+            "village": "Emmetten",
+            "state": "Nidwalden",
+            "ISO3166-2-lvl4": "CH-NW",
+            "postcode": "6376",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9144257",
+            "46.9901551",
+            "8.4841065",
+            "8.5749545"
+        ]
+    }
+]

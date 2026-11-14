@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 137801868,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 14292857,
+        "lat": "50.4613710",
+        "lon": "8.7295350",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.27236747457604304,
+        "addresstype": "village",
+        "name": "Gambach",
+        "display_name": "Gambach, Münzenberg, Wetteraukreis, Hessen, Deutschland",
+        "address": {
+            "village": "Gambach",
+            "municipality": "Münzenberg",
+            "county": "Wetteraukreis",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.4413999",
+            "50.4870022",
+            "8.6669294",
+            "8.7490472"
+        ]
+    }
+]

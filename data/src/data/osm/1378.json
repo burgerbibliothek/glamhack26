@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 423719855,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 14041889016,
+        "lat": "46.5952006",
+        "lon": "8.0570192",
+        "category": "tourism",
+        "type": "attraction",
+        "place_rank": 30,
+        "importance": 4.934386205839654e-05,
+        "addresstype": "tourism",
+        "name": "Unterer Grindelwaldgletscher (ehem.)",
+        "display_name": "Unterer Grindelwaldgletscher (ehem.), Alter Stiereggpfad, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3818, Schweiz",
+        "address": {
+            "tourism": "Unterer Grindelwaldgletscher (ehem.)",
+            "road": "Alter Stiereggpfad",
+            "village": "Grindelwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3818",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5951506",
+            "46.5952506",
+            "8.0569692",
+            "8.0570692"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 134741253,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 497978414,
+        "lat": "51.3266409",
+        "lon": "12.3706017",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.936293583576742e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "23, Dufourstraße, Zentrum-Süd, Mitte, Leipzig, Sachsen, 04107, Deutschland",
+        "address": {
+            "house_number": "23",
+            "road": "Dufourstraße",
+            "suburb": "Zentrum-Süd",
+            "city_district": "Mitte",
+            "city": "Leipzig",
+            "state": "Sachsen",
+            "ISO3166-2-lvl4": "DE-SN",
+            "postcode": "04107",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.3265909",
+            "51.3266909",
+            "12.3705517",
+            "12.3706517"
+        ]
+    }
+]

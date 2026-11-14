@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 90935473,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6434539470,
+        "lat": "46.2727432",
+        "lon": "6.4792514",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005925001907376,
+        "addresstype": "peak",
+        "name": "Les Bévieux",
+        "display_name": "Les Bévieux, Habère-Poche, Thonon-les-Bains, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74420, Frankreich",
+        "address": {
+            "peak": "Les Bévieux",
+            "village": "Habère-Poche",
+            "municipality": "Thonon-les-Bains",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74420",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.2726932",
+            "46.2727932",
+            "6.4792014",
+            "6.4793014"
+        ]
+    }
+]

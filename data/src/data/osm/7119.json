@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91731893,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4226744258,
+        "lat": "46.5661044",
+        "lon": "7.0839416",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2853231881743613,
+        "addresstype": "village",
+        "name": "Enney",
+        "display_name": "Enney, Bas-Intyamon, Greyerzbezirk, Freiburg, 1667, Schweiz",
+        "address": {
+            "village": "Enney",
+            "city": "Bas-Intyamon",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1667",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5461044",
+            "46.5861044",
+            "7.0639416",
+            "7.1039416"
+        ]
+    }
+]

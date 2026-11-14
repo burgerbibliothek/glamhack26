@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 73229317,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 281136196,
+        "lat": "46.8543467",
+        "lon": "9.5159577",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 6.421072709234787e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "17, Felsenaustrasse, Industriezone Industriestrasse, Pulvermühle, Altstadt, Araschgen, Chur, Plessur, Graubünden, 7000, Schweiz",
+        "address": {
+            "house_number": "17",
+            "road": "Felsenaustrasse",
+            "industrial": "Industriezone Industriestrasse",
+            "quarter": "Pulvermühle",
+            "suburb": "Altstadt",
+            "village": "Araschgen",
+            "town": "Chur",
+            "county": "Plessur",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7000",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8542168",
+            "46.8544209",
+            "9.5157994",
+            "9.5161007"
+        ]
+    }
+]

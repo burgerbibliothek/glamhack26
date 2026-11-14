@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91437947,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 26864467,
+        "lat": "46.4318192",
+        "lon": "6.9760510",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.45502410982979663,
+        "addresstype": "peak",
+        "name": "Rochers de Naye",
+        "display_name": "Rochers de Naye, Veytaux, Bezirk Riviera-Pays-d'Enhaut, Waadt, 1820, Schweiz",
+        "address": {
+            "peak": "Rochers de Naye",
+            "village": "Veytaux",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1820",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4317692",
+            "46.4318692",
+            "6.9760010",
+            "6.9761010"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 67835236,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 288969922,
+        "lat": "47.9503229",
+        "lon": "16.7299539",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 4.932249942774117e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "5, Spitalgasse, Katastralgemeinde Breitenbrunn am Neusiedler See, Breitenbrunn am Neusiedler See, Bezirk Eisenstadt-Umgebung, Burgenland, 7091, Österreich",
+        "address": {
+            "house_number": "5",
+            "road": "Spitalgasse",
+            "suburb": "Katastralgemeinde Breitenbrunn am Neusiedler See",
+            "village": "Breitenbrunn am Neusiedler See",
+            "county": "Bezirk Eisenstadt-Umgebung",
+            "state": "Burgenland",
+            "ISO3166-2-lvl4": "AT-1",
+            "postcode": "7091",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.9502465",
+            "47.9503910",
+            "16.7298231",
+            "16.7300521"
+        ]
+    }
+]

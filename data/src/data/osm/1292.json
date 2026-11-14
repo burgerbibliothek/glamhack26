@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71814000,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1319239853,
+        "lat": "47.6323011",
+        "lon": "8.7268068",
+        "category": "place",
+        "type": "farm",
+        "place_rank": 22,
+        "importance": 0.10671666819256884,
+        "addresstype": "farm",
+        "name": "Eichi",
+        "display_name": "Eichi, Truttikon, Bezirk Andelfingen, Zürich, 8467, Schweiz",
+        "address": {
+            "farm": "Eichi",
+            "village": "Truttikon",
+            "county": "Bezirk Andelfingen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8467",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.6320190",
+            "47.6325540",
+            "8.7261619",
+            "8.7274417"
+        ]
+    }
+]

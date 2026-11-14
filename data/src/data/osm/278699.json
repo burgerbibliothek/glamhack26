@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91644809,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 512696415,
+        "lat": "46.0628767",
+        "lon": "7.8638549",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.46957495878438793,
+        "addresstype": "peak",
+        "name": "Alphubel",
+        "display_name": "Alphubel, Täsch, Visp, Oberwallis, Wallis, 3929, Schweiz",
+        "address": {
+            "peak": "Alphubel",
+            "village": "Täsch",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3929",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0628267",
+            "46.0629267",
+            "7.8638049",
+            "7.8639049"
+        ]
+    }
+]

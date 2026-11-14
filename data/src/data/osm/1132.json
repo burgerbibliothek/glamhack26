@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72849028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1992217474,
+        "lat": "46.6985100",
+        "lon": "8.2370401",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671618448157472,
+        "addresstype": "locality",
+        "name": "Achistein",
+        "display_name": "Achistein, Unterstock, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3862, Schweiz",
+        "address": {
+            "locality": "Achistein",
+            "hamlet": "Unterstock",
+            "city_district": "Innertkirchen",
+            "village": "Innertkirchen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3862",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6885100",
+            "46.7085100",
+            "8.2270401",
+            "8.2470401"
+        ]
+    }
+]

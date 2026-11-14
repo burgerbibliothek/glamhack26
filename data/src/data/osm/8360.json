@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 93178206,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682669,
+        "lat": "47.2751230",
+        "lon": "7.2171688",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.37310569550553185,
+        "addresstype": "village",
+        "name": "Sornetan",
+        "display_name": "Sornetan, Petit-Val, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2716, Schweiz",
+        "address": {
+            "village": "Sornetan",
+            "city": "Petit-Val",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2716",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2558235",
+            "47.2899752",
+            "7.1960410",
+            "7.2352135"
+        ]
+    }
+]

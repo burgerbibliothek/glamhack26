@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 125817782,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 10761749,
+        "lat": "49.3766030",
+        "lon": "9.9470407",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.2521482229732802,
+        "addresstype": "village",
+        "name": "Oberstetten",
+        "display_name": "Oberstetten, Niederstetten, Main-Tauber-Kreis, Baden-Württemberg, Deutschland",
+        "address": {
+            "village": "Oberstetten",
+            "town": "Niederstetten",
+            "county": "Main-Tauber-Kreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.3516043",
+            "49.3898668",
+            "9.9162482",
+            "9.9787131"
+        ]
+    }
+]

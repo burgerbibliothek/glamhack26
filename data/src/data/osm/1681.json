@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 88340521,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1075117,
+        "lat": "45.6113382",
+        "lon": "5.6322327",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.6372090599350269,
+        "addresstype": "river",
+        "name": "Rhone",
+        "display_name": "Rhone, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "river": "Rhone",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.3341489",
+            "46.5790581",
+            "4.5983970",
+            "8.3836637"
+        ]
+    }
+]

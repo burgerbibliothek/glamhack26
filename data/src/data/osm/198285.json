@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91525961,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 459849992,
+        "lat": "46.4449527",
+        "lon": "6.9747987",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44882621826855235,
+        "addresstype": "peak",
+        "name": "Dent de Jaman",
+        "display_name": "Dent de Jaman, Montreux, Bezirk Riviera-Pays-d'Enhaut, Waadt, 1824, Schweiz",
+        "address": {
+            "peak": "Dent de Jaman",
+            "town": "Montreux",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1824",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4449027",
+            "46.4450027",
+            "6.9747487",
+            "6.9748487"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93128008,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683651,
+        "lat": "47.4411563",
+        "lon": "7.5876358",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37526729549138227,
+        "addresstype": "village",
+        "name": "Grellingen",
+        "display_name": "Grellingen, Bezirk Laufen, Basel-Landschaft, 4203, Schweiz",
+        "address": {
+            "village": "Grellingen",
+            "county": "Bezirk Laufen",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4203",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4286275",
+            "47.4498169",
+            "7.5686061",
+            "7.6089374"
+        ]
+    }
+]

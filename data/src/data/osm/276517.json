@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73584381,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9493913968,
+        "lat": "46.7599218",
+        "lon": "8.2056919",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.1067080605783169,
+        "addresstype": "isolated_dwelling",
+        "name": "Balisalp",
+        "display_name": "Balisalp, Hasliberg Wasserwendi, Hasliberg, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 6084, Schweiz",
+        "address": {
+            "isolated_dwelling": "Balisalp",
+            "village": "Hasliberg Wasserwendi",
+            "municipality": "Hasliberg",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "6084",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7598718",
+            "46.7599718",
+            "8.2056419",
+            "8.2057419"
+        ]
+    }
+]

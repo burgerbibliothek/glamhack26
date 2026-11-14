@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 76784350,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10819564342,
+        "lat": "47.2826271",
+        "lon": "9.4240527",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.0667116678110933,
+        "addresstype": "locality",
+        "name": "Blüemlisalp",
+        "display_name": "Blüemlisalp, Wasserauen, Schwende-Rüte, Appenzell Innerrhoden, 9057, Schweiz",
+        "address": {
+            "locality": "Blüemlisalp",
+            "hamlet": "Wasserauen",
+            "city": "Schwende-Rüte",
+            "state": "Appenzell Innerrhoden",
+            "ISO3166-2-lvl4": "CH-AI",
+            "postcode": "9057",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2726271",
+            "47.2926271",
+            "9.4140527",
+            "9.4340527"
+        ]
+    }
+]

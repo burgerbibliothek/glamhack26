@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91885284,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9525279764,
+        "lat": "46.9706552",
+        "lon": "7.4369064",
+        "category": "place",
+        "type": "quarter",
+        "place_rank": 20,
+        "importance": 0.13338628442816813,
+        "addresstype": "quarter",
+        "name": "Seftau",
+        "display_name": "Seftau, Bremgarten bei Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3047, Schweiz",
+        "address": {
+            "quarter": "Seftau",
+            "village": "Bremgarten bei Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3047",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9606552",
+            "46.9806552",
+            "7.4269064",
+            "7.4469064"
+        ]
+    }
+]

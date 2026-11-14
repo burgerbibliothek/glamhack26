@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 48323208,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1473946,
+        "lat": "30.8124247",
+        "lon": "34.8594762",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.8513271287749382,
+        "addresstype": "country",
+        "name": "Israel",
+        "display_name": "Israel",
+        "address": {
+            "country": "Israel",
+            "country_code": "il"
+        },
+        "boundingbox": [
+            "29.4533796",
+            "33.3356317",
+            "34.2674994",
+            "35.8950234"
+        ]
+    }
+]

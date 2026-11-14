@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91364461,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682641,
+        "lat": "46.4897560",
+        "lon": "7.2615837",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4391558861063203,
+        "addresstype": "village",
+        "name": "Saanen",
+        "display_name": "Saanen, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Saanen",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4161590",
+            "46.5841108",
+            "7.1925415",
+            "7.3877196"
+        ]
+    }
+]

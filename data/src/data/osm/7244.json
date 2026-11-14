@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 426522086,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683508,
+        "lat": "47.1693420",
+        "lon": "7.5720820",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3993661419952677,
+        "addresstype": "village",
+        "name": "Gerlafingen",
+        "display_name": "Gerlafingen, Bezirk Wasseramt, Amtei Bucheggberg-Wasseramt, Solothurn, 4563, Schweiz",
+        "address": {
+            "village": "Gerlafingen",
+            "municipality": "Bezirk Wasseramt",
+            "county": "Amtei Bucheggberg-Wasseramt",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4563",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1624507",
+            "47.1777817",
+            "7.5589014",
+            "7.5867078"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 72168097,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 369066205,
+        "lat": "47.3697084",
+        "lon": "8.5322799",
+        "category": "amenity",
+        "type": "social_facility",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "amenity",
+        "name": "Suneboge Wohn- und Arbeitsgemeinschaft",
+        "display_name": "Suneboge Wohn- und Arbeitsgemeinschaft, 5, Gerechtigkeitsgasse, City, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz",
+        "address": {
+            "amenity": "Suneboge Wohn- und Arbeitsgemeinschaft",
+            "house_number": "5",
+            "road": "Gerechtigkeitsgasse",
+            "quarter": "City",
+            "suburb": "Altstadt",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3695657",
+            "47.3698348",
+            "8.5320276",
+            "8.5324522"
+        ]
+    }
+]

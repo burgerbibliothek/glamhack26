@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92676178,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682701,
+        "lat": "47.1369017",
+        "lon": "7.7711734",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41592289788182557,
+        "addresstype": "village",
+        "name": "Ursenbach",
+        "display_name": "Ursenbach, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4937, Schweiz",
+        "address": {
+            "village": "Ursenbach",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4937",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1084447",
+            "47.1491709",
+            "7.7341178",
+            "7.7916966"
+        ]
+    }
+]

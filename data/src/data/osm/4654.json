@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72149290,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 105785244,
+        "lat": "47.3843719",
+        "lon": "8.5587300",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "29, Schlösslistrasse, Fluntern, Kreis 7, Zürich, Bezirk Zürich, Zürich, 8044, Schweiz",
+        "address": {
+            "house_number": "29",
+            "road": "Schlösslistrasse",
+            "suburb": "Fluntern",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8044",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3842866",
+            "47.3844451",
+            "8.5586354",
+            "8.5589111"
+        ]
+    }
+]

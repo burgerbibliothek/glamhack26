@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 72851477,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3080695734,
+        "lat": "47.1856852",
+        "lon": "8.2801699",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.21584611680957558,
+        "addresstype": "railway",
+        "name": "Baldegg",
+        "display_name": "Baldegg, 2, Stationsstrasse, Baldegg, Hochdorf, Luzern, 6283, Schweiz",
+        "address": {
+            "railway": "Baldegg",
+            "house_number": "2",
+            "road": "Stationsstrasse",
+            "village": "Baldegg",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6283",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1806852",
+            "47.1906852",
+            "8.2751699",
+            "8.2851699"
+        ]
+    }
+]

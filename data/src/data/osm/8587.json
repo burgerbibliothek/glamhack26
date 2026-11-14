@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 90803890,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2981073308,
+        "lat": "46.4383039",
+        "lon": "6.9065367",
+        "category": "place",
+        "type": "neighbourhood",
+        "place_rank": 24,
+        "importance": 0.08006413443198288,
+        "addresstype": "neighbourhood",
+        "name": "Vernex",
+        "display_name": "Vernex, Pallens, Chernex, Montreux, Bezirk Riviera-Pays-d'Enhaut, Waadt, 1822, Schweiz",
+        "address": {
+            "neighbourhood": "Vernex",
+            "hamlet": "Pallens",
+            "village": "Chernex",
+            "town": "Montreux",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1822",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4283039",
+            "46.4483039",
+            "6.8965367",
+            "6.9165367"
+        ]
+    }
+]

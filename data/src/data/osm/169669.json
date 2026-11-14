@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92540932,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 268562187,
+        "lat": "47.0016995",
+        "lon": "7.5659089",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05337165407797357,
+        "addresstype": "residential",
+        "name": "Thorberg",
+        "display_name": "Thorberg, Krauchthal, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3326, Schweiz",
+        "address": {
+            "road": "Thorberg",
+            "village": "Krauchthal",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3326",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0015419",
+            "47.0019073",
+            "7.5647855",
+            "7.5671339"
+        ]
+    }
+]

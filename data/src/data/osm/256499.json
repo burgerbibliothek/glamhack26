@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 93780780,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 27768,
+        "lat": "47.2780873",
+        "lon": "4.2224863",
+        "category": "boundary",
+        "type": "historic",
+        "place_rank": 25,
+        "importance": 0.6834359027859139,
+        "addresstype": "historic",
+        "name": "Burgund",
+        "display_name": "Burgund, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "historic": "Burgund",
+            "ISO3166-2-lvl15": "FR-D",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.1560119",
+            "48.4000592",
+            "2.8444817",
+            "5.5188651"
+        ]
+    }
+]

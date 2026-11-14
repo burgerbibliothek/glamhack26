@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93384118,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683548,
+        "lat": "47.3065778",
+        "lon": "7.6291948",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.34223694096820295,
+        "addresstype": "village",
+        "name": "Matzendorf",
+        "display_name": "Matzendorf, Bezirk Thal, Amtei Thal-Gäu, Solothurn, 4713, Schweiz",
+        "address": {
+            "village": "Matzendorf",
+            "municipality": "Bezirk Thal",
+            "county": "Amtei Thal-Gäu",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4713",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2809967",
+            "47.3347623",
+            "7.6062747",
+            "7.6512785"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73569889,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 653902561,
+        "lat": "46.5373468",
+        "lon": "8.1261135",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.5020956363278755,
+        "addresstype": "peak",
+        "name": "Finsteraarhorn",
+        "display_name": "Finsteraarhorn, Fieschertal, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "peak": "Finsteraarhorn",
+            "village": "Fieschertal",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5372968",
+            "46.5373968",
+            "8.1260635",
+            "8.1261635"
+        ]
+    }
+]

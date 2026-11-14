@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 99122805,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3359662,
+        "lat": "49.6764900",
+        "lon": "2.6524400",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5832223052365514,
+        "addresstype": "village",
+        "name": "Lignières",
+        "display_name": "Lignières, Montdidier, Somme, Nordfrankreich, Metropolitanes Frankreich, 80500, Frankreich",
+        "address": {
+            "village": "Lignières",
+            "municipality": "Montdidier",
+            "county": "Somme",
+            "ISO3166-2-lvl6": "FR-80",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "80500",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.6531770",
+            "49.6863984",
+            "2.6283964",
+            "2.6706761"
+        ]
+    }
+]

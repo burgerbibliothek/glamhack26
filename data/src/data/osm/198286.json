@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 90952136,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 11678113,
+        "lat": "46.2679799",
+        "lon": "4.0696016",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 21,
+        "importance": 0.1200640383001449,
+        "addresstype": "stream",
+        "name": "Le Merdasson",
+        "display_name": "Le Merdasson, Semur-en-Brionnais, Charolles, Saône-et-Loire, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 71110, Frankreich",
+        "address": {
+            "stream": "Le Merdasson",
+            "village": "Semur-en-Brionnais",
+            "municipality": "Charolles",
+            "county": "Saône-et-Loire",
+            "ISO3166-2-lvl6": "FR-71",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "71110",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.2585774",
+            "46.2902699",
+            "4.0193009",
+            "4.1308950"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71991889,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682124,
+        "lat": "47.6860764",
+        "lon": "8.6272354",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4022453104308014,
+        "addresstype": "village",
+        "name": "Flurlingen",
+        "display_name": "Flurlingen, Bezirk Andelfingen, Zürich, 8247, Schweiz",
+        "address": {
+            "village": "Flurlingen",
+            "county": "Bezirk Andelfingen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8247",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.6750031",
+            "47.6923313",
+            "8.6239695",
+            "8.6602021"
+        ]
+    }
+]

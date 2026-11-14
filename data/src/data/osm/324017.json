@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 184206914,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3852717567,
+        "lat": "50.0627229",
+        "lon": "19.9410624",
+        "category": "amenity",
+        "type": "school",
+        "place_rank": 30,
+        "importance": 7.936751354233642e-05,
+        "addresstype": "amenity",
+        "name": "Publiczne Liceum Ogólnokształcące i Internat Sióstr Prezentek",
+        "display_name": "Publiczne Liceum Ogólnokształcące i Internat Sióstr Prezentek, 18, Spitalgasse, Altstadt, Stare Miasto, Altstadt, Krakau, Woiwodschaft Kleinpolen, 31-024, Polen",
+        "address": {
+            "amenity": "Publiczne Liceum Ogólnokształcące i Internat Sióstr Prezentek",
+            "house_number": "18",
+            "road": "Spitalgasse",
+            "quarter": "Altstadt",
+            "suburb": "Stare Miasto",
+            "city_district": "Altstadt",
+            "city": "Krakau",
+            "state": "Woiwodschaft Kleinpolen",
+            "ISO3166-2-lvl4": "PL-12",
+            "postcode": "31-024",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "50.0626729",
+            "50.0627729",
+            "19.9410124",
+            "19.9411124"
+        ]
+    }
+]

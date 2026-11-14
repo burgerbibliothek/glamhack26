@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91853522,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 188566545,
+        "lat": "46.4765304",
+        "lon": "7.3251380",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333831578545815,
+        "addresstype": "hamlet",
+        "name": "Turbach",
+        "display_name": "Turbach, Saanen, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3781, Schweiz",
+        "address": {
+            "hamlet": "Turbach",
+            "village": "Saanen",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3781",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4565304",
+            "46.4965304",
+            "7.3051380",
+            "7.3451380"
+        ]
+    }
+]

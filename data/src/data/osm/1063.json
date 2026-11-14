@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 52118858,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9412354612,
+        "lat": "22.2500000",
+        "lon": "9.8000000",
+        "category": "natural",
+        "type": "desert",
+        "place_rank": 18,
+        "importance": 0.6588977280015149,
+        "addresstype": "region",
+        "name": "Sahara",
+        "display_name": "Sahara, Tazrouk, Tazrouk District, Provinz Tamanrasat, Algerien",
+        "address": {
+            "region": "Sahara",
+            "village": "Tazrouk",
+            "county": "Tazrouk District",
+            "state": "Provinz Tamanrasat",
+            "ISO3166-2-lvl4": "DZ-11",
+            "country": "Algerien",
+            "country_code": "dz"
+        },
+        "boundingbox": [
+            "22.2499500",
+            "22.2500500",
+            "9.7999500",
+            "9.8000500"
+        ]
+    }
+]

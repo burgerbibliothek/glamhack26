@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 303115106,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 537967,
+        "lat": "17.8967693",
+        "lon": "-62.8255980",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 6,
+        "importance": 0.6160732406483145,
+        "addresstype": "state",
+        "name": "Sankt Bartholomäus",
+        "display_name": "Sankt Bartholomäus, 97133, Frankreich",
+        "address": {
+            "state": "Sankt Bartholomäus",
+            "ISO3166-2-lvl3": "FR-BL",
+            "postcode": "97133",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "17.6709310",
+            "18.1375569",
+            "-63.0663900",
+            "-62.5844019"
+        ]
+    }
+]

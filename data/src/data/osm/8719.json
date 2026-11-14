@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 73707959,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683122,
+        "lat": "46.9080603",
+        "lon": "8.3954757",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39817807251303894,
+        "addresstype": "village",
+        "name": "Wolfenschiessen",
+        "display_name": "Wolfenschiessen, Nidwalden, Schweiz",
+        "address": {
+            "village": "Wolfenschiessen",
+            "state": "Nidwalden",
+            "ISO3166-2-lvl4": "CH-NW",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7715140",
+            "46.9309085",
+            "8.3220088",
+            "8.4790987"
+        ]
+    }
+]

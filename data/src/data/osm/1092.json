@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 425780363,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 23148607,
+        "lat": "51.6970661",
+        "lon": "-2.6766949",
+        "category": "tourism",
+        "type": "attraction",
+        "place_rank": 30,
+        "importance": 0.36736730413826313,
+        "addresstype": "tourism",
+        "name": "Tintern Abbey",
+        "display_name": "Tintern Abbey, A466, Tintern Parva, Wye Valley, Tintern, Monmouthshire, Wales, NP16 6TE, Vereinigtes Königreich",
+        "address": {
+            "tourism": "Tintern Abbey",
+            "road": "A466",
+            "hamlet": "Tintern Parva",
+            "suburb": "Wye Valley",
+            "village": "Tintern",
+            "county": "Monmouthshire",
+            "ISO3166-2-lvl6": "GB-MON",
+            "state": "Wales",
+            "ISO3166-2-lvl4": "GB-WLS",
+            "postcode": "NP16 6TE",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.6964447",
+            "51.6977830",
+            "-2.6780011",
+            "-2.6755799"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 94267978,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 544364,
+        "lat": "47.2635000",
+        "lon": "5.5963800",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5679208735720411,
+        "addresstype": "village",
+        "name": "Malans",
+        "display_name": "Malans, Vesoul, Haute-Saône, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 70140, Frankreich",
+        "address": {
+            "village": "Malans",
+            "municipality": "Vesoul",
+            "county": "Haute-Saône",
+            "ISO3166-2-lvl6": "FR-70",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "70140",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.2525815",
+            "47.2845897",
+            "5.5721541",
+            "5.6187293"
+        ]
+    }
+]

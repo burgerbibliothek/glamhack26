@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 123966446,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1726075465,
+        "lat": "49.9582015",
+        "lon": "9.1655676",
+        "category": "amenity",
+        "type": "post_box",
+        "place_rank": 30,
+        "importance": 6.64354924848862e-05,
+        "addresstype": "amenity",
+        "name": "Marienstraße 11",
+        "display_name": "Marienstraße 11, Marienstraße, Schweinheim, Aschaffenburg, Bayern, 63743, Deutschland",
+        "address": {
+            "amenity": "Marienstraße 11",
+            "road": "Marienstraße",
+            "suburb": "Schweinheim",
+            "town": "Aschaffenburg",
+            "county": "Aschaffenburg",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "63743",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.9581515",
+            "49.9582515",
+            "9.1655176",
+            "9.1656176"
+        ]
+    }
+]

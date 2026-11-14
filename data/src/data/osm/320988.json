@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 138646525,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 169358404,
+        "lat": "50.0863161",
+        "lon": "8.2228014",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.142519264510594e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "12, Aarstraße, Nordost, Wiesbaden, Hessen, 65195, Deutschland",
+        "address": {
+            "house_number": "12",
+            "road": "Aarstraße",
+            "suburb": "Nordost",
+            "city": "Wiesbaden",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "65195",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.0862153",
+            "50.0863512",
+            "8.2226964",
+            "8.2229325"
+        ]
+    }
+]

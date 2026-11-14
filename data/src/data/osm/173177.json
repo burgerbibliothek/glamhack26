@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 74742727,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2888450,
+        "lat": "45.8709661",
+        "lon": "8.9875293",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5134405065413532,
+        "addresstype": "town",
+        "name": "Mendrisio",
+        "display_name": "Mendrisio, Kreis Mendrisio, Bezirk Mendrisio, Tessin, Schweiz",
+        "address": {
+            "town": "Mendrisio",
+            "municipality": "Kreis Mendrisio",
+            "county": "Bezirk Mendrisio",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.8415958",
+            "45.9202695",
+            "8.9202502",
+            "9.0169720"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91636091,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 631794934,
+        "lat": "46.9328059",
+        "lon": "7.4457489",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 4.6578927290715154e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "93, Sandrainstrasse, Marzili, Sandrain, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3007, Schweiz",
+        "address": {
+            "house_number": "93",
+            "road": "Sandrainstrasse",
+            "quarter": "Marzili",
+            "suburb": "Sandrain",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3007",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9327559",
+            "46.9328559",
+            "7.4456989",
+            "7.4457989"
+        ]
+    }
+]

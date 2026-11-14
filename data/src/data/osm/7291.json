@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72260940,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682130,
+        "lat": "47.3662476",
+        "lon": "8.6786693",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4114290048959136,
+        "addresstype": "village",
+        "name": "Greifensee",
+        "display_name": "Greifensee, Bezirk Uster, Zürich, Schweiz",
+        "address": {
+            "village": "Greifensee",
+            "county": "Bezirk Uster",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3529910",
+            "47.3793932",
+            "8.6653261",
+            "8.6960098"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 88698819,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 281399025,
+        "lat": "45.8327056",
+        "lon": "6.8651706",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 30,
+        "importance": 0.5833554251431047,
+        "addresstype": "natural",
+        "name": "Mont Blanc / Monte Bianco",
+        "display_name": "Mont Blanc / Monte Bianco, Les Bosses, Saint-Gervais-les-Bains, Bonneville, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74400, Frankreich",
+        "address": {
+            "natural": "Mont Blanc / Monte Bianco",
+            "road": "Les Bosses",
+            "village": "Saint-Gervais-les-Bains",
+            "municipality": "Bonneville",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.8326556",
+            "45.8327556",
+            "6.8651206",
+            "6.8652206"
+        ]
+    }
+]

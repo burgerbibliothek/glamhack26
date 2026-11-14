@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 158141607,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 192737,
+        "lat": "52.0799838",
+        "lon": "4.3113461",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.7375442638260601,
+        "addresstype": "city",
+        "name": "Den Haag",
+        "display_name": "Den Haag, Südholland, Niederlande",
+        "address": {
+            "city": "Den Haag",
+            "municipality": "Den Haag",
+            "state": "Südholland",
+            "ISO3166-2-lvl4": "NL-ZH",
+            "country": "Niederlande",
+            "country_code": "nl"
+        },
+        "boundingbox": [
+            "52.0148485",
+            "52.1350362",
+            "4.1849984",
+            "4.4224897"
+        ]
+    }
+]

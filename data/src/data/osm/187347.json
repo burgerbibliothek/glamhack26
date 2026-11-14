@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92418533,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685056,
+        "lat": "46.7914576",
+        "lon": "6.6117904",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4531737914413923,
+        "addresstype": "village",
+        "name": "Montagny-près-Yverdon",
+        "display_name": "Montagny-près-Yverdon, District du Jura-Nord vaudois, Waadt, 1442, Schweiz",
+        "address": {
+            "village": "Montagny-près-Yverdon",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1442",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7806853",
+            "46.7982171",
+            "6.5907172",
+            "6.6362058"
+        ]
+    }
+]

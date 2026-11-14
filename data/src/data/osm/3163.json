@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 140366324,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 368323674,
+        "lat": "51.2700037",
+        "lon": "9.4501488",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.236820019832177e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "2, Hügelweg, Oberzwehren, Kassel, Hessen, 34132, Deutschland",
+        "address": {
+            "house_number": "2",
+            "road": "Hügelweg",
+            "suburb": "Oberzwehren",
+            "city": "Kassel",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "34132",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.2699422",
+            "51.2700652",
+            "9.4500431",
+            "9.4502546"
+        ]
+    }
+]

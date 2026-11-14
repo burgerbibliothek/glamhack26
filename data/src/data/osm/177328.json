@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91808404,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 99785042,
+        "lat": "46.9916024",
+        "lon": "7.4126234",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 0.09078915819201436,
+        "addresstype": "building",
+        "name": "Schlössli Heimehus",
+        "display_name": "Schlössli Heimehus, Heimenhausstrasse, Niederlindach, Herrenschwanden, Kirchlindach, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3038, Schweiz",
+        "address": {
+            "building": "Schlössli Heimehus",
+            "road": "Heimenhausstrasse",
+            "hamlet": "Niederlindach",
+            "village": "Herrenschwanden",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3038",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9914966",
+            "46.9917277",
+            "7.4124315",
+            "7.4128004"
+        ]
+    }
+]

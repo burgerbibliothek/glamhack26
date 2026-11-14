@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 88180765,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 7664847,
+        "lat": "44.5257214",
+        "lon": "6.1767435",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 21,
+        "importance": 0.4351905570353818,
+        "addresstype": "stream",
+        "name": "L'Avance",
+        "display_name": "L'Avance, Avançon, Gap, Hochalpen, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 05230, Frankreich",
+        "address": {
+            "stream": "L'Avance",
+            "village": "Avançon",
+            "municipality": "Gap",
+            "county": "Hochalpen",
+            "ISO3166-2-lvl6": "FR-05",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "05230",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.4756299",
+            "44.5566349",
+            "6.0974125",
+            "6.2706989"
+        ]
+    }
+]

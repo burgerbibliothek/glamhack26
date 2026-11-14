@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 90750155,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 603144930,
+        "lat": "46.3012904",
+        "lon": "7.0425766",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671519874876016,
+        "addresstype": "village",
+        "name": "Chesières",
+        "display_name": "Chesières, Ollon, Aigle District, Waadt, 1885, Schweiz",
+        "address": {
+            "village": "Chesières",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1885",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2812904",
+            "46.3212904",
+            "7.0225766",
+            "7.0625766"
+        ]
+    }
+]

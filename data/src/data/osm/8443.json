@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92901398,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682678,
+        "lat": "47.0988060",
+        "lon": "7.2149985",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39122798236215983,
+        "addresstype": "village",
+        "name": "Sutz-Lattrigen",
+        "display_name": "Sutz-Lattrigen, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2572, Schweiz",
+        "address": {
+            "village": "Sutz-Lattrigen",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2572",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0829817",
+            "47.1157022",
+            "7.2029295",
+            "7.2332201"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91600604,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685398,
+        "lat": "46.2913113",
+        "lon": "7.8811918",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.48193376621554884,
+        "addresstype": "town",
+        "name": "Visp",
+        "display_name": "Visp, Oberwallis, Wallis, 3930, Schweiz",
+        "address": {
+            "town": "Visp",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3930",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2709176",
+            "46.3031294",
+            "7.8299897",
+            "7.9315357"
+        ]
+    }
+]

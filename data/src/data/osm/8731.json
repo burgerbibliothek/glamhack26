@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71668487,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 9600032,
+        "lat": "47.5106870",
+        "lon": "8.6941608",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.35699141996923245,
+        "addresstype": "suburb",
+        "name": "Wülflingen",
+        "display_name": "Wülflingen, Winterthur, Bezirk Winterthur, Zürich, 8408, Schweiz",
+        "address": {
+            "suburb": "Wülflingen",
+            "city": "Winterthur",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8408",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4820423",
+            "47.5331138",
+            "8.6566078",
+            "8.7104727"
+        ]
+    }
+]

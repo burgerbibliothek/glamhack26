@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91294650,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 970749640,
+        "lat": "46.4689725",
+        "lon": "6.3789051",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 22,
+        "importance": 0.09078915819201436,
+        "addresstype": "stream",
+        "name": "L'Eau Noire de Gordanne",
+        "display_name": "L'Eau Noire de Gordanne, Féchy, District de Morges, Waadt, 1173, Schweiz",
+        "address": {
+            "stream": "L'Eau Noire de Gordanne",
+            "village": "Féchy",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1173",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4665368",
+            "46.4706707",
+            "6.3778128",
+            "6.3809170"
+        ]
+    }
+]

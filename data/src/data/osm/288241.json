@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91978087,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5835082566,
+        "lat": "46.9457281",
+        "lon": "7.4239632",
+        "category": "amenity",
+        "type": "clinic",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Universitätsklinik für Frauenheilkunde",
+        "display_name": "Universitätsklinik für Frauenheilkunde, 102, Effingerstrasse, Mattenhof, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3010, Schweiz",
+        "address": {
+            "amenity": "Universitätsklinik für Frauenheilkunde",
+            "house_number": "102",
+            "road": "Effingerstrasse",
+            "quarter": "Mattenhof",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3010",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9456781",
+            "46.9457781",
+            "7.4239132",
+            "7.4240132"
+        ]
+    }
+]

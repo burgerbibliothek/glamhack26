@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 183705589,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7913718188,
+        "lat": "50.0630285",
+        "lon": "19.9412887",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.21337448257116948,
+        "addresstype": "amenity",
+        "name": "Cerkiew Zaśnięcia Najświętszej Marii Panny",
+        "display_name": "Cerkiew Zaśnięcia Najświętszej Marii Panny, 24, Spitalgasse, Altstadt, Stare Miasto, Altstadt, Krakau, Woiwodschaft Kleinpolen, 31-024, Polen",
+        "address": {
+            "amenity": "Cerkiew Zaśnięcia Najświętszej Marii Panny",
+            "house_number": "24",
+            "road": "Spitalgasse",
+            "quarter": "Altstadt",
+            "suburb": "Stare Miasto",
+            "city_district": "Altstadt",
+            "city": "Krakau",
+            "state": "Woiwodschaft Kleinpolen",
+            "ISO3166-2-lvl4": "PL-12",
+            "postcode": "31-024",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "50.0629785",
+            "50.0630785",
+            "19.9412387",
+            "19.9413387"
+        ]
+    }
+]

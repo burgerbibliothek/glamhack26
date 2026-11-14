@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 90843326,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 147919,
+        "lat": "46.7167595",
+        "lon": "5.5957054",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5641801788934904,
+        "addresstype": "village",
+        "name": "Lavigny",
+        "display_name": "Lavigny, Lons-le-Saunier, Jura, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 39210, Frankreich",
+        "address": {
+            "village": "Lavigny",
+            "municipality": "Lons-le-Saunier",
+            "county": "Jura",
+            "ISO3166-2-lvl6": "FR-39",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "39210",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.7067172",
+            "46.7281284",
+            "5.5856102",
+            "5.6253819"
+        ]
+    }
+]

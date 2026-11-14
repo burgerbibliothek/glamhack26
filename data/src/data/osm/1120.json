@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 123046242,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 13371824,
+        "lat": "48.8058540",
+        "lon": "9.2046739",
+        "category": "tourism",
+        "type": "zoo",
+        "place_rank": 30,
+        "importance": 0.39620027541832803,
+        "addresstype": "tourism",
+        "name": "Wilhelma",
+        "display_name": "Wilhelma, 13, Wilhelma, Neckarvorstadt, Bad Cannstatt, Stuttgart, Baden-Württemberg, 70376, Deutschland",
+        "address": {
+            "tourism": "Wilhelma",
+            "house_number": "13",
+            "road": "Wilhelma",
+            "neighbourhood": "Neckarvorstadt",
+            "suburb": "Bad Cannstatt",
+            "city": "Stuttgart",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "70376",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.8037592",
+            "48.8079575",
+            "9.1954154",
+            "9.2099518"
+        ]
+    }
+]

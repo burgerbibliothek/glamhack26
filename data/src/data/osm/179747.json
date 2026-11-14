@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 119193062,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 29080993,
+        "lat": "49.3721891",
+        "lon": "6.9960030",
+        "category": "landuse",
+        "type": "industrial",
+        "place_rank": 24,
+        "importance": 0.08004748683909359,
+        "addresstype": "industrial",
+        "name": "Gewerbegebiet A1 interkommunal",
+        "display_name": "Gewerbegebiet A1 interkommunal, Wiesbach, Eppelborn, Landkreis Neunkirchen, Saarland, Deutschland",
+        "address": {
+            "industrial": "Gewerbegebiet A1 interkommunal",
+            "city_district": "Wiesbach",
+            "village": "Eppelborn",
+            "county": "Landkreis Neunkirchen",
+            "state": "Saarland",
+            "ISO3166-2-lvl4": "DE-SL",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.3704452",
+            "49.3739683",
+            "6.9907285",
+            "7.0006822"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92711882,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682448,
+        "lat": "47.0270607",
+        "lon": "7.0486252",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4245821633666411,
+        "addresstype": "village",
+        "name": "Gals",
+        "display_name": "Gals, Seeland administrative district, Seeland administrative region, Bern, 3238, Schweiz",
+        "address": {
+            "village": "Gals",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3238",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0183442",
+            "47.0518071",
+            "7.0330911",
+            "7.0909147"
+        ]
+    }
+]

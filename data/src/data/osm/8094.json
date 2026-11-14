@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92337087,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12833030069,
+        "lat": "47.0049686",
+        "lon": "7.0099470",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671259250782025,
+        "addresstype": "locality",
+        "name": "Préfargier",
+        "display_name": "Préfargier, Marin-Epagnier, Laténa, Région Littoral, Neuenburg, 2074, Schweiz",
+        "address": {
+            "locality": "Préfargier",
+            "village": "Marin-Epagnier",
+            "city": "Laténa",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2074",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9949686",
+            "47.0149686",
+            "6.9999470",
+            "7.0199470"
+        ]
+    }
+]

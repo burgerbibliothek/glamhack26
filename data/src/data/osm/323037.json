@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 126188622,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4286646729,
+        "lat": "49.4558840",
+        "lon": "11.0838659",
+        "category": "office",
+        "type": "government",
+        "place_rank": 30,
+        "importance": 7.61417563133748e-05,
+        "addresstype": "office",
+        "name": "Ordnungsamt",
+        "display_name": "Ordnungsamt, 3, Innerer Laufer Platz, Altstadt, St. Sebald, Altstadt und engere Innenstadt, Nürnberg, Bayern, 90403, Deutschland",
+        "address": {
+            "office": "Ordnungsamt",
+            "house_number": "3",
+            "road": "Innerer Laufer Platz",
+            "neighbourhood": "Altstadt, St. Sebald",
+            "suburb": "Altstadt und engere Innenstadt",
+            "city": "Nürnberg",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "90403",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.4558340",
+            "49.4559340",
+            "11.0838159",
+            "11.0839159"
+        ]
+    }
+]

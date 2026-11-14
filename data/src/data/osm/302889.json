@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91584396,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 77412018,
+        "lat": "46.2235586",
+        "lon": "7.6737177",
+        "category": "natural",
+        "type": "water",
+        "place_rank": 22,
+        "importance": 0.10670416800183105,
+        "addresstype": "water",
+        "name": "Meidsee",
+        "display_name": "Meidsee, Oberems, Leuk, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "water": "Meidsee",
+            "village": "Oberems",
+            "county": "Leuk",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2225816",
+            "46.2246108",
+            "7.6722802",
+            "7.6751166"
+        ]
+    }
+]

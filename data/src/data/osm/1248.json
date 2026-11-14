@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 93465118,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 972701274,
+        "lat": "47.4462810",
+        "lon": "7.9819387",
+        "category": "tourism",
+        "type": "viewpoint",
+        "place_rank": 30,
+        "importance": 4.417715724417513e-05,
+        "addresstype": "tourism",
+        "name": "Burgfluh",
+        "display_name": "Burgfluh, Unterburg, Kienberg, Bezirk Gösgen, Amtei Olten-Gösgen, Solothurn, 4468, Schweiz",
+        "address": {
+            "tourism": "Burgfluh",
+            "road": "Unterburg",
+            "village": "Kienberg",
+            "municipality": "Bezirk Gösgen",
+            "county": "Amtei Olten-Gösgen",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4468",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4462310",
+            "47.4463310",
+            "7.9818887",
+            "7.9819887"
+        ]
+    }
+]

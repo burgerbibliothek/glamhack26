@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93378469,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685576,
+        "lat": "47.3966596",
+        "lon": "7.2450260",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37958691803318917,
+        "addresstype": "village",
+        "name": "Bourrignon",
+        "display_name": "Bourrignon, Bezirk Delsberg, Jura, 2803, Schweiz",
+        "address": {
+            "village": "Bourrignon",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2803",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3769028",
+            "47.4112817",
+            "7.2229134",
+            "7.2983175"
+        ]
+    }
+]

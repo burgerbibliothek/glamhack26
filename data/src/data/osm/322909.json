@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91923700,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 682904088,
+        "lat": "46.8937367",
+        "lon": "7.4935544",
+        "category": "building",
+        "type": "garage",
+        "place_rank": 30,
+        "importance": 5.447394522006588e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "1a, Lindenrain, Belp, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3123, Schweiz",
+        "address": {
+            "house_number": "1a",
+            "road": "Lindenrain",
+            "city_district": "Belp",
+            "town": "Belp",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3123",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8937083",
+            "46.8937650",
+            "7.4935002",
+            "7.4936086"
+        ]
+    }
+]

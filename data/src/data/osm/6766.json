@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92124551,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685452,
+        "lat": "46.9302818",
+        "lon": "6.8145906",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.37958691803318917,
+        "addresstype": "village",
+        "name": "Bevaix",
+        "display_name": "Bevaix, La Grande-Béroche, Région Littoral, Neuenburg, 2022, Schweiz",
+        "address": {
+            "village": "Bevaix",
+            "city": "La Grande-Béroche",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2022",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9152939",
+            "46.9500833",
+            "6.7722542",
+            "6.8396374"
+        ]
+    }
+]

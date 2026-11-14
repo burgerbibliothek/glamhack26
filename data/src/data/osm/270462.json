@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 85319155,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1982548,
+        "lat": "43.0361187",
+        "lon": "1.3662951",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5451334567352691,
+        "addresstype": "village",
+        "name": "Allières",
+        "display_name": "Allières, Saint-Girons, Ariège, Okzitanien, Metropolitanes Frankreich, 09240, Frankreich",
+        "address": {
+            "village": "Allières",
+            "municipality": "Saint-Girons",
+            "county": "Ariège",
+            "ISO3166-2-lvl6": "FR-09",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "09240",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.0251167",
+            "43.0531122",
+            "1.3349152",
+            "1.3907046"
+        ]
+    }
+]

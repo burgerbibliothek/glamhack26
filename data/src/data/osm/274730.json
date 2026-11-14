@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71870279,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684263,
+        "lat": "47.2302283",
+        "lon": "8.3422897",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3876315200642101,
+        "addresstype": "village",
+        "name": "Beinwil (Freiamt)",
+        "display_name": "Beinwil (Freiamt), Bezirk Muri, Aargau, 5637, Schweiz",
+        "address": {
+            "village": "Beinwil (Freiamt)",
+            "county": "Bezirk Muri",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5637",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2083690",
+            "47.2461575",
+            "8.3139265",
+            "8.3739715"
+        ]
+    }
+]

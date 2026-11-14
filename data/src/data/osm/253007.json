@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72635766,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 301555241,
+        "lat": "47.4355382",
+        "lon": "8.7167583",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.17283327415591612,
+        "addresstype": "village",
+        "name": "Ottikon",
+        "display_name": "Ottikon, Illnau-Effretikon, Bezirk Pfäffikon, Zürich, 8307, Schweiz",
+        "address": {
+            "village": "Ottikon",
+            "city": "Illnau-Effretikon",
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8307",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4155382",
+            "47.4555382",
+            "8.6967583",
+            "8.7367583"
+        ]
+    }
+]

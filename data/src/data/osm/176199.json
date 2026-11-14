@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 122724650,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 16552472,
+        "lat": "48.8786806",
+        "lon": "9.4328470",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.1773516541617975,
+        "addresstype": "village",
+        "name": "Baach",
+        "display_name": "Baach, Winnenden, GVV Winnenden, Rems-Murr-Kreis, Baden-Württemberg, Deutschland",
+        "address": {
+            "village": "Baach",
+            "town": "Winnenden",
+            "municipality": "GVV Winnenden",
+            "county": "Rems-Murr-Kreis",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.8741162",
+            "48.8874157",
+            "9.4251421",
+            "9.4399918"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92539412,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685584,
+        "lat": "47.4541550",
+        "lon": "7.0975919",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3761123463663757,
+        "addresstype": "village",
+        "name": "Cœuve",
+        "display_name": "Cœuve, Bezirk Porrentruy, Jura, 2932, Schweiz",
+        "address": {
+            "village": "Cœuve",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2932",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4338448",
+            "47.4676059",
+            "7.0685707",
+            "7.1237306"
+        ]
+    }
+]

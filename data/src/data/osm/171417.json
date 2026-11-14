@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92506563,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 696181984,
+        "lat": "47.0078225",
+        "lon": "6.8344779",
+        "category": "amenity",
+        "type": "community_centre",
+        "place_rank": 30,
+        "importance": 4.9249256122637024e-05,
+        "addresstype": "amenity",
+        "name": "Le Louverain",
+        "display_name": "Le Louverain, 1, Centre du Louverain, Les Geneveys-sur-Coffrane, Val-de-Ruz, Val-de-Ruz Region, Neuenburg, 2206, Schweiz",
+        "address": {
+            "amenity": "Le Louverain",
+            "house_number": "1",
+            "locality": "Centre du Louverain",
+            "village": "Les Geneveys-sur-Coffrane",
+            "city": "Val-de-Ruz",
+            "county": "Val-de-Ruz Region",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2206",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0075131",
+            "47.0081353",
+            "6.8337784",
+            "6.8347913"
+        ]
+    }
+]

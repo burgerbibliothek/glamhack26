@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92219121,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682723,
+        "lat": "46.6633947",
+        "lon": "7.8629948",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4261650932142823,
+        "addresstype": "village",
+        "name": "Wilderswil",
+        "display_name": "Wilderswil, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3812, Schweiz",
+        "address": {
+            "village": "Wilderswil",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3812",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6123772",
+            "46.6746691",
+            "7.8306606",
+            "7.9045295"
+        ]
+    }
+]

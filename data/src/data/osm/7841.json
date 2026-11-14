@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92599837,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685061,
+        "lat": "46.5813390",
+        "lon": "6.7407990",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37858398060478177,
+        "addresstype": "village",
+        "name": "Montpreveyres",
+        "display_name": "Montpreveyres, District de Lavaux-Oron, Waadt, 1081, Schweiz",
+        "address": {
+            "village": "Montpreveyres",
+            "county": "District de Lavaux-Oron",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1081",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5698109",
+            "46.5941090",
+            "6.7064104",
+            "6.7509454"
+        ]
+    }
+]

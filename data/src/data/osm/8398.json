@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 73345928,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683113,
+        "lat": "46.9797410",
+        "lon": "8.3373667",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4041879687077734,
+        "addresstype": "village",
+        "name": "Stansstad",
+        "display_name": "Stansstad, Nidwalden, Schweiz",
+        "address": {
+            "village": "Stansstad",
+            "state": "Nidwalden",
+            "ISO3166-2-lvl4": "CH-NW",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9634247",
+            "47.0199538",
+            "8.3069043",
+            "8.3887804"
+        ]
+    }
+]

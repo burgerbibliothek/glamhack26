@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73230914,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11389584881,
+        "lat": "46.9666878",
+        "lon": "8.3313193",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671346990157931,
+        "addresstype": "locality",
+        "name": "Rotzloch",
+        "display_name": "Rotzloch, Oeli, Stansstad, Nidwalden, 6362, Schweiz",
+        "address": {
+            "locality": "Rotzloch",
+            "hamlet": "Oeli",
+            "village": "Stansstad",
+            "state": "Nidwalden",
+            "ISO3166-2-lvl4": "CH-NW",
+            "postcode": "6362",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9566878",
+            "46.9766878",
+            "8.3213193",
+            "8.3413193"
+        ]
+    }
+]

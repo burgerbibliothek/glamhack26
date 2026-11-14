@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92163020,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685063,
+        "lat": "46.6001762",
+        "lon": "6.3758220",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.45033024235544056,
+        "addresstype": "village",
+        "name": "Montricher",
+        "display_name": "Montricher, District de Morges, Waadt, 1147, Schweiz",
+        "address": {
+            "village": "Montricher",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1147",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5799625",
+            "46.6262362",
+            "6.2970371",
+            "6.4091413"
+        ]
+    }
+]

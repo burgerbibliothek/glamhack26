@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 68284832,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240052697,
+        "lat": "47.3331997",
+        "lon": "15.9615941",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.23822746059912708,
+        "addresstype": "village",
+        "name": "Stambach",
+        "display_name": "Stambach, Grafendorf bei Hartberg, Bezirk Hartberg-Fürstenfeld, Steiermark, 8232, Österreich",
+        "address": {
+            "village": "Stambach",
+            "county": "Bezirk Hartberg-Fürstenfeld",
+            "state": "Steiermark",
+            "ISO3166-2-lvl4": "AT-6",
+            "postcode": "8232",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.3131997",
+            "47.3531997",
+            "15.9415941",
+            "15.9815941"
+        ]
+    }
+]

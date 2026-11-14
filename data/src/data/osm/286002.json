@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91546683,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1340348104,
+        "lat": "46.5474943",
+        "lon": "7.7620596",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337099794003202,
+        "addresstype": "hamlet",
+        "name": "Griesalp",
+        "display_name": "Griesalp, Reichenbach im Kandertal, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "hamlet": "Griesalp",
+            "village": "Reichenbach im Kandertal",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5274943",
+            "46.5674943",
+            "7.7420596",
+            "7.7820596"
+        ]
+    }
+]

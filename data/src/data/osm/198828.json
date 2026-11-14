@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 427837118,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 14177375897,
+        "lat": "46.0289794",
+        "lon": "10.7269041",
+        "category": "information",
+        "type": "board",
+        "place_rank": 30,
+        "importance": 5.954757000071744e-05,
+        "addresstype": "information",
+        "name": "La produzione idroelettrica",
+        "display_name": "La produzione idroelettrica, Via Baita, Brevine, Tione di Trento, Comunità delle Giudicarie, Autonome Provinz Trient, Trentino-Südtirol, 38079, Italien",
+        "address": {
+            "information": "La produzione idroelettrica",
+            "road": "Via Baita",
+            "hamlet": "Brevine",
+            "village": "Tione di Trento",
+            "city": "Tione di Trento",
+            "municipality": "Comunità delle Giudicarie",
+            "county": "Autonome Provinz Trient",
+            "ISO3166-2-lvl6": "IT-TN",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "postcode": "38079",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.0289294",
+            "46.0290294",
+            "10.7268541",
+            "10.7269541"
+        ]
+    }
+]

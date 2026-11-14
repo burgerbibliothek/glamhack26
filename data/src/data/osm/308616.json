@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73817669,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1372216613,
+        "lat": "46.5267879",
+        "lon": "8.2370902",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1679799034751623,
+        "addresstype": "peak",
+        "name": "Löffelhorn",
+        "display_name": "Löffelhorn, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "peak": "Löffelhorn",
+            "city": "Goms",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5267379",
+            "46.5268379",
+            "8.2370402",
+            "8.2371402"
+        ]
+    }
+]

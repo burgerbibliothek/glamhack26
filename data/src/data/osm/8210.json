@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92396408,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240034808,
+        "lat": "46.7827662",
+        "lon": "7.4505117",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.37526729549138227,
+        "addresstype": "village",
+        "name": "Rüti bei Riggisberg",
+        "display_name": "Rüti bei Riggisberg, Riggisberg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3099, Schweiz",
+        "address": {
+            "village": "Rüti bei Riggisberg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3099",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7627662",
+            "46.8027662",
+            "7.4305117",
+            "7.4705117"
+        ]
+    }
+]

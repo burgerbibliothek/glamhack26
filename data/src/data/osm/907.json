@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 56379534,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2482323248,
+        "lat": "37.9495601",
+        "lon": "23.7372326",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.35049604782988514,
+        "addresstype": "railway",
+        "name": "Dafni",
+        "display_name": "Dafni, Παπαναστασίου, Dafni, Municipal Unit of Dafni, Municipality of Agios Dimitrios, Regionalbezirk Athen-Süd, Region Attika, Attika, 172 01, Griechenland",
+        "address": {
+            "railway": "Dafni",
+            "road": "Παπαναστασίου",
+            "suburb": "Dafni",
+            "city": "Municipal Unit of Dafni",
+            "municipality": "Municipality of Agios Dimitrios",
+            "county": "Regionalbezirk Athen-Süd",
+            "state": "Region Attika",
+            "ISO3166-2-lvl5": "GR-I",
+            "postcode": "172 01",
+            "country": "Griechenland",
+            "country_code": "gr"
+        },
+        "boundingbox": [
+            "37.9445601",
+            "37.9545601",
+            "23.7322326",
+            "23.7422326"
+        ]
+    }
+]

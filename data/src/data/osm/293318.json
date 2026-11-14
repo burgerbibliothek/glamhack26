@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91929350,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240025784,
+        "lat": "46.1220633",
+        "lon": "7.1347402",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.31353539144981896,
+        "addresstype": "village",
+        "name": "Charrat",
+        "display_name": "Charrat, Martigny, Martinach, Unterwallis, Wallis, 1906, Schweiz",
+        "address": {
+            "village": "Charrat",
+            "town": "Martigny",
+            "county": "Martinach",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1906",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1020633",
+            "46.1420633",
+            "7.1147402",
+            "7.1547402"
+        ]
+    }
+]

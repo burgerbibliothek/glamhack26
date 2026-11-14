@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92734728,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 22951698,
+        "lat": "47.1452648",
+        "lon": "7.2804056",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05339653543907832,
+        "addresstype": "residential",
+        "name": "Meinisbergweg",
+        "display_name": "Meinisbergweg, Mett, Biel, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2504, Schweiz",
+        "address": {
+            "road": "Meinisbergweg",
+            "suburb": "Mett",
+            "city": "Biel",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2504",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1452464",
+            "47.1456254",
+            "7.2794368",
+            "7.2814882"
+        ]
+    }
+]

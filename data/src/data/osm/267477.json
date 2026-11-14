@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 95483190,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3782754425,
+        "lat": "47.1713706",
+        "lon": "1.9774355",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339306095979245,
+        "addresstype": "hamlet",
+        "name": "Le Fuet",
+        "display_name": "Le Fuet, Massay, Vierzon, Cher, Zentrum-Loiretal, Metropolitanes Frankreich, 18120, Frankreich",
+        "address": {
+            "hamlet": "Le Fuet",
+            "village": "Massay",
+            "municipality": "Vierzon",
+            "county": "Cher",
+            "ISO3166-2-lvl6": "FR-18",
+            "state": "Zentrum-Loiretal",
+            "ISO3166-2-lvl4": "FR-CVL",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "18120",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.1513706",
+            "47.1913706",
+            "1.9574355",
+            "1.9974355"
+        ]
+    }
+]

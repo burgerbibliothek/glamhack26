@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91562981,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682646,
+        "lat": "46.6370243",
+        "lon": "7.8327586",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40540706245566294,
+        "addresstype": "village",
+        "name": "Saxeten",
+        "display_name": "Saxeten, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3813, Schweiz",
+        "address": {
+            "village": "Saxeten",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3813",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5966165",
+            "46.6533498",
+            "7.7935674",
+            "7.8588145"
+        ]
+    }
+]

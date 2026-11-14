@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91626909,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7016926238,
+        "lat": "46.9353711",
+        "lon": "7.4969450",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.14672192339971005,
+        "addresstype": "suburb",
+        "name": "Melchenbühl",
+        "display_name": "Melchenbühl, Gümligen, Muri bei Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3073, Schweiz",
+        "address": {
+            "suburb": "Melchenbühl",
+            "village": "Gümligen",
+            "town": "Muri bei Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3073",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9153711",
+            "46.9553711",
+            "7.4769450",
+            "7.5169450"
+        ]
+    }
+]

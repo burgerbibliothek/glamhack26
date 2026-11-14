@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72583926,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2731758276,
+        "lat": "47.0664161",
+        "lon": "8.2283811",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06673639963378347,
+        "addresstype": "locality",
+        "name": "Spitzfluh",
+        "display_name": "Spitzfluh, Luzern, 6016, Schweiz",
+        "address": {
+            "locality": "Spitzfluh",
+            "city": "Luzern",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6016",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0564161",
+            "47.0764161",
+            "8.2183811",
+            "8.2383811"
+        ]
+    }
+]

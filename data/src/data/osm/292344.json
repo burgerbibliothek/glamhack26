@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 114768497,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 56695917,
+        "lat": "51.4797027",
+        "lon": "7.5620111",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.363775082012691e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "11, Tunnelweg, Aplerbecker Mark, Aplerbeck, Dortmund, Nordrhein-Westfalen, 44287, Deutschland",
+        "address": {
+            "house_number": "11",
+            "road": "Tunnelweg",
+            "suburb": "Aplerbecker Mark",
+            "city_district": "Aplerbeck",
+            "city": "Dortmund",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "44287",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.4796345",
+            "51.4797409",
+            "7.5619652",
+            "7.5620586"
+        ]
+    }
+]

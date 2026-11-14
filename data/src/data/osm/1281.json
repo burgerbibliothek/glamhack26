@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91780474,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 26175475,
+        "lat": "46.7561312",
+        "lon": "7.5334735",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.25352702198722055,
+        "addresstype": "lake",
+        "name": "Dittligsee",
+        "display_name": "Dittligsee, Bim Wald, Längenbühl, Forst-Längenbühl, Verwaltungskreis Thun, Oberland administrative region, Bern, 3636, Schweiz",
+        "address": {
+            "lake": "Dittligsee",
+            "hamlet": "Bim Wald",
+            "village": "Längenbühl",
+            "city": "Forst-Längenbühl",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3636",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7548442",
+            "46.7573469",
+            "7.5309511",
+            "7.5363388"
+        ]
+    }
+]

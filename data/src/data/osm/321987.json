@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 71851393,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 41710721,
+        "lat": "47.3534674",
+        "lon": "8.5266820",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.053411847867551654,
+        "addresstype": "residential",
+        "name": "Effingerstrasse",
+        "display_name": "Effingerstrasse, Enge, Kreis 2, Zürich, Bezirk Zürich, Zürich, 8002, Schweiz",
+        "address": {
+            "road": "Effingerstrasse",
+            "suburb": "Enge",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8002",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3534429",
+            "47.3534917",
+            "8.5263329",
+            "8.5270311"
+        ]
+    }
+]

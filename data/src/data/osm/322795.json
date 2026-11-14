@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91866694,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11284523440,
+        "lat": "46.9539438",
+        "lon": "7.4304060",
+        "category": "amenity",
+        "type": "library",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Bibliothek Slavische Sprachen und Literaturen",
+        "display_name": "Bibliothek Slavische Sprachen und Literaturen, 49, Länggassstrasse, Muesmatt, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "amenity": "Bibliothek Slavische Sprachen und Literaturen",
+            "house_number": "49",
+            "road": "Länggassstrasse",
+            "quarter": "Muesmatt",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9538938",
+            "46.9539938",
+            "7.4303560",
+            "7.4304560"
+        ]
+    }
+]

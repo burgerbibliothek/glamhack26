@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91952231,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685361,
+        "lat": "46.1540205",
+        "lon": "7.9281921",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3891971053939251,
+        "addresstype": "village",
+        "name": "Saas-Balen",
+        "display_name": "Saas-Balen, Visp, Oberwallis, Wallis, 3908, Schweiz",
+        "address": {
+            "village": "Saas-Balen",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3908",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1181253",
+            "46.1819210",
+            "7.8788082",
+            "8.0032230"
+        ]
+    }
+]

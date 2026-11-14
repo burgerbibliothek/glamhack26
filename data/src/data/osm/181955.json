@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91886275,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10106936077,
+        "lat": "46.5333143",
+        "lon": "7.9654460",
+        "category": "natural",
+        "type": "saddle",
+        "place_rank": 22,
+        "importance": 0.10671010223544668,
+        "addresstype": "saddle",
+        "name": "Rottalsattel",
+        "display_name": "Rottalsattel, Fieschertal, Goms, Oberwallis, Wallis, 3801, Schweiz",
+        "address": {
+            "saddle": "Rottalsattel",
+            "village": "Fieschertal",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3801",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5332643",
+            "46.5333643",
+            "7.9653960",
+            "7.9654960"
+        ]
+    }
+]

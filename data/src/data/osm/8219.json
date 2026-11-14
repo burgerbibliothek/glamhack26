@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91330954,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685362,
+        "lat": "46.1073420",
+        "lon": "7.9247055",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4842290386226559,
+        "addresstype": "village",
+        "name": "Saas-Fee",
+        "display_name": "Saas-Fee, Visp, Oberwallis, Wallis, 3906, Schweiz",
+        "address": {
+            "village": "Saas-Fee",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3906",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0460775",
+            "46.1252480",
+            "7.8572005",
+            "7.9453735"
+        ]
+    }
+]

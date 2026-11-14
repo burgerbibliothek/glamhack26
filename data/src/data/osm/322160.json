@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 128215207,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3822454275,
+        "lat": "48.1398547",
+        "lon": "11.5692956",
+        "category": "office",
+        "type": "religion",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "office",
+        "name": "Erzbischöfliches Ordinariat München",
+        "display_name": "Erzbischöfliches Ordinariat München, 4, Kapellenstraße, Hackenviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
+        "address": {
+            "office": "Erzbischöfliches Ordinariat München",
+            "house_number": "4",
+            "road": "Kapellenstraße",
+            "quarter": "Hackenviertel",
+            "suburb": "Altstadt-Lehel",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "80333",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1398047",
+            "48.1399047",
+            "11.5692456",
+            "11.5693456"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92918492,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240102584,
+        "lat": "47.2062440",
+        "lon": "7.8438960",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.33399297642662173,
+        "addresstype": "village",
+        "name": "Untersteckholz",
+        "display_name": "Untersteckholz, Langenthal, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4916, Schweiz",
+        "address": {
+            "village": "Untersteckholz",
+            "town": "Langenthal",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4916",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1862440",
+            "47.2262440",
+            "7.8238960",
+            "7.8638960"
+        ]
+    }
+]

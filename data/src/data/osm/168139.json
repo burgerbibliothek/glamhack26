@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91563941,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 188813070,
+        "lat": "46.4257514",
+        "lon": "7.2703617",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.05337723887998776,
+        "addresstype": "secondary",
+        "name": "Gsteigstrasse",
+        "display_name": "Gsteigstrasse, Saanen, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3784, Schweiz",
+        "address": {
+            "road": "Gsteigstrasse",
+            "village": "Saanen",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3784",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4256101",
+            "46.4258928",
+            "7.2703035",
+            "7.2704199"
+        ]
+    }
+]

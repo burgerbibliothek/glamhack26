@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91284044,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3081128625,
+        "lat": "46.9968184",
+        "lon": "7.7110695",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.18929199030239088,
+        "addresstype": "railway",
+        "name": "Ramsei",
+        "display_name": "Ramsei, 243, Ramsei, Lützelflüh, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3435, Schweiz",
+        "address": {
+            "railway": "Ramsei",
+            "road": "243",
+            "village": "Ramsei",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3435",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9918184",
+            "47.0018184",
+            "7.7060695",
+            "7.7160695"
+        ]
+    }
+]

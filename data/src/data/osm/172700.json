@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73552923,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 24977811,
+        "lat": "46.8817746",
+        "lon": "8.6439554",
+        "category": "historic",
+        "type": "monument",
+        "place_rank": 30,
+        "importance": 0.13618373728802152,
+        "addresstype": "historic",
+        "name": "Telldenkmal",
+        "display_name": "Telldenkmal, Rathausplatz, Plätzli, Vogelsang, Altdorf (UR), Uri, 6460, Schweiz",
+        "address": {
+            "historic": "Telldenkmal",
+            "road": "Rathausplatz",
+            "quarter": "Plätzli",
+            "hamlet": "Vogelsang",
+            "town": "Altdorf (UR)",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6460",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8817246",
+            "46.8818246",
+            "8.6439054",
+            "8.6440054"
+        ]
+    }
+]

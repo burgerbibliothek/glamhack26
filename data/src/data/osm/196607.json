@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71958042,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4427737326,
+        "lat": "47.5602231",
+        "lon": "8.8843065",
+        "category": "place",
+        "type": "quarter",
+        "place_rank": 20,
+        "importance": 0.2853231881743613,
+        "addresstype": "quarter",
+        "name": "Kurzdorf",
+        "display_name": "Kurzdorf, Frauenfeld, Bezirk Frauenfeld, Thurgau, 8500, Schweiz",
+        "address": {
+            "quarter": "Kurzdorf",
+            "town": "Frauenfeld",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8500",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5502231",
+            "47.5702231",
+            "8.8743065",
+            "8.8943065"
+        ]
+    }
+]

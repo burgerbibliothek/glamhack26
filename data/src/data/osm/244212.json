@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 71713379,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 25429070,
+        "lat": "47.5056755",
+        "lon": "8.7716453",
+        "category": "place",
+        "type": "quarter",
+        "place_rank": 20,
+        "importance": 0.29684236187219576,
+        "addresstype": "quarter",
+        "name": "Hegi",
+        "display_name": "Hegi, Oberwinterthur, Winterthur, Bezirk Winterthur, Zürich, 8409, Schweiz",
+        "address": {
+            "quarter": "Hegi",
+            "suburb": "Oberwinterthur",
+            "city": "Winterthur",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8409",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4956755",
+            "47.5156755",
+            "8.7616453",
+            "8.7816453"
+        ]
+    }
+]

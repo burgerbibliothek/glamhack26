@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 71980845,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 32362,
+        "lat": "47.2790956",
+        "lon": "8.5978680",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.5288334671186132,
+        "addresstype": "lake",
+        "name": "Zürichsee",
+        "display_name": "Zürichsee, Bezirk Meilen, Zürich, Schweiz",
+        "address": {
+            "lake": "Zürichsee",
+            "county": "Bezirk Meilen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1913073",
+            "47.3668829",
+            "8.5349476",
+            "8.9479333"
+        ]
+    }
+]

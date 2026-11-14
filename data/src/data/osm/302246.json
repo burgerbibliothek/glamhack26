@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 120963151,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1004279035,
+        "lat": "48.6762319",
+        "lon": "7.8473103",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06673128023193713,
+        "addresstype": "locality",
+        "name": "Willigen",
+        "display_name": "Willigen, Kilstedt, Hagenau-Weißenburg, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67840, Frankreich",
+        "address": {
+            "locality": "Willigen",
+            "village": "Kilstedt",
+            "municipality": "Hagenau-Weißenburg",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67840",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.6662319",
+            "48.6862319",
+            "7.8373103",
+            "7.8573103"
+        ]
+    }
+]

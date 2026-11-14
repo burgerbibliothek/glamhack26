@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93338294,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4596618888,
+        "lat": "47.3276417",
+        "lon": "7.2224499",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671171663996332,
+        "addresstype": "village",
+        "name": "Berlincourt",
+        "display_name": "Berlincourt, Haute-Sorne, Bezirk Delsberg, Jura, 2863, Schweiz",
+        "address": {
+            "village": "Berlincourt",
+            "city": "Haute-Sorne",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2863",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3076417",
+            "47.3476417",
+            "7.2024499",
+            "7.2424499"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91068677,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2813488985,
+        "lat": "46.2231701",
+        "lon": "6.1281054",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.3801813898984569,
+        "addresstype": "suburb",
+        "name": "Le Petit-Saconnex",
+        "display_name": "Le Petit-Saconnex, Petit-Saconnex et Servette, Genf, 1209, Schweiz",
+        "address": {
+            "suburb": "Le Petit-Saconnex",
+            "city": "Genf",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "postcode": "1209",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2031701",
+            "46.2431701",
+            "6.1081054",
+            "6.1481054"
+        ]
+    }
+]

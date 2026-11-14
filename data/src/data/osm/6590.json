@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72372627,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682079,
+        "lat": "47.2679489",
+        "lon": "8.4863301",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3895399885548953,
+        "addresstype": "village",
+        "name": "Aeugst am Albis",
+        "display_name": "Aeugst am Albis, Bezirk Affoltern, Zürich, Schweiz",
+        "address": {
+            "village": "Aeugst am Albis",
+            "county": "Bezirk Affoltern",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2572187",
+            "47.2930313",
+            "8.4711363",
+            "8.5113505"
+        ]
+    }
+]

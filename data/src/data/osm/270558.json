@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 99363139,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 531515,
+        "lat": "49.5947097",
+        "lon": "2.5353810",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5879594503773181,
+        "addresstype": "village",
+        "name": "Dompierre",
+        "display_name": "Dompierre, Clermont, Oise, Nordfrankreich, Metropolitanes Frankreich, 60420, Frankreich",
+        "address": {
+            "village": "Dompierre",
+            "municipality": "Clermont",
+            "county": "Oise",
+            "ISO3166-2-lvl6": "FR-60",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "60420",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.5787325",
+            "49.6041753",
+            "2.5211384",
+            "2.5462986"
+        ]
+    }
+]

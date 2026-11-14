@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 93082054,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 286879203,
+        "lat": "46.8427833",
+        "lon": "7.4560804",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005236820019836,
+        "addresstype": "peak",
+        "name": "Bütschelegg",
+        "display_name": "Bütschelegg, Rüeggisberg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3087, Schweiz",
+        "address": {
+            "peak": "Bütschelegg",
+            "village": "Rüeggisberg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3087",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8427333",
+            "46.8428333",
+            "7.4560304",
+            "7.4561304"
+        ]
+    }
+]

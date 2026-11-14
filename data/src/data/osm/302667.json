@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91922755,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12568473918,
+        "lat": "46.7191002",
+        "lon": "7.4715775",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671445563439383,
+        "addresstype": "locality",
+        "name": "Alp Oberwirtneren",
+        "display_name": "Alp Oberwirtneren, Blumenstein, Verwaltungskreis Thun, Oberland administrative region, Bern, 3638, Schweiz",
+        "address": {
+            "locality": "Alp Oberwirtneren",
+            "village": "Blumenstein",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3638",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7091002",
+            "46.7291002",
+            "7.4615775",
+            "7.4815775"
+        ]
+    }
+]

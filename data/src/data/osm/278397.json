@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91855159,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 6838556,
+        "lat": "46.8670962",
+        "lon": "6.8519382",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3863874290870923,
+        "addresstype": "city",
+        "name": "Estavayer",
+        "display_name": "Estavayer, Broyebezirk, Freiburg, Schweiz",
+        "address": {
+            "city": "Estavayer",
+            "county": "Broyebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7173740",
+            "46.9095751",
+            "6.7486996",
+            "6.9306249"
+        ]
+    }
+]

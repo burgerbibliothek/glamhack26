@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 85651108,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 391205,
+        "lat": "43.0007000",
+        "lon": "0.7470260",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5831423032167886,
+        "addresstype": "village",
+        "name": "Arbon",
+        "display_name": "Arbon, Saint-Gaudens, Haute-Garonne, Okzitanien, Metropolitanes Frankreich, 31160, Frankreich",
+        "address": {
+            "village": "Arbon",
+            "municipality": "Saint-Gaudens",
+            "county": "Haute-Garonne",
+            "ISO3166-2-lvl6": "FR-31",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "31160",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "42.9921549",
+            "43.0113532",
+            "0.7114249",
+            "0.7515623"
+        ]
+    }
+]

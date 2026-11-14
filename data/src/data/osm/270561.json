@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 153880875,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4407284894,
+        "lat": "52.0621275",
+        "lon": "5.7613289",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.27236747457604304,
+        "addresstype": "hamlet",
+        "name": "Mossel",
+        "display_name": "Mossel, Otterlo, Ede, Geldern, Niederlande",
+        "address": {
+            "hamlet": "Mossel",
+            "village": "Otterlo",
+            "municipality": "Ede",
+            "state": "Geldern",
+            "ISO3166-2-lvl4": "NL-GE",
+            "country": "Niederlande",
+            "country_code": "nl"
+        },
+        "boundingbox": [
+            "52.0421275",
+            "52.0821275",
+            "5.7413289",
+            "5.7813289"
+        ]
+    }
+]

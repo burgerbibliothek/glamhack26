@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 88733908,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1969419792,
+        "lat": "45.7523506",
+        "lon": "7.0317759",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.4132399184526773,
+        "addresstype": "hamlet",
+        "name": "Montet",
+        "display_name": "Montet, Morgex, Aostatal, 11017, Italien",
+        "address": {
+            "hamlet": "Montet",
+            "village": "Morgex",
+            "city": "Morgex",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "postcode": "11017",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.7323506",
+            "45.7723506",
+            "7.0117759",
+            "7.0517759"
+        ]
+    }
+]

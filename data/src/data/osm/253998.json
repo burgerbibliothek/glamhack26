@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 61431583,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 457637320,
+        "lat": "46.8366845",
+        "lon": "29.6110385",
+        "category": "tourism",
+        "type": "artwork",
+        "place_rank": 30,
+        "importance": 0.29892160108322774,
+        "addresstype": "tourism",
+        "name": "Suworow-Denkmal",
+        "display_name": "Suworow-Denkmal, Pokrowskaja uliza, Suworow-Platz, Zentrum, Tiraspol, Stadtkreis Tiraspol, Administrativ-territoriale Einheiten des linken Ufers des Dnjestr, Pridnestrowien, MD-3300, Moldau",
+        "address": {
+            "tourism": "Suworow-Denkmal",
+            "road": "Pokrowskaja uliza",
+            "neighbourhood": "Suworow-Platz",
+            "suburb": "Zentrum",
+            "city": "Tiraspol",
+            "state_district": "Stadtkreis Tiraspol",
+            "state": "Administrativ-territoriale Einheiten des linken Ufers des Dnjestr",
+            "ISO3166-2-lvl4": "MD-SN",
+            "postcode": "MD-3300",
+            "country": "Moldau",
+            "country_code": "md"
+        },
+        "boundingbox": [
+            "46.8366345",
+            "46.8367345",
+            "29.6109885",
+            "29.6110885"
+        ]
+    }
+]

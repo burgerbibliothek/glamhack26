@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 144922406,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 52049827,
+        "lat": "52.1201294",
+        "lon": "11.6150662",
+        "category": "highway",
+        "type": "unclassified",
+        "place_rank": 26,
+        "importance": 0.05340585259784844,
+        "addresstype": "unclassified",
+        "name": "Schlachthofweg",
+        "display_name": "Schlachthofweg, Stadtfeld Ost, Magdeburg, Sachsen-Anhalt, 39108, Deutschland",
+        "address": {
+            "road": "Schlachthofweg",
+            "suburb": "Stadtfeld Ost",
+            "city": "Magdeburg",
+            "state": "Sachsen-Anhalt",
+            "ISO3166-2-lvl4": "DE-ST",
+            "postcode": "39108",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.1200975",
+            "52.1201620",
+            "11.6147534",
+            "11.6153789"
+        ]
+    }
+]

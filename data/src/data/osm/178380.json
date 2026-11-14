@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 92762352,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682890,
+        "lat": "47.0589604",
+        "lon": "7.9169068",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39368109814034213,
+        "addresstype": "village",
+        "name": "Luthern",
+        "display_name": "Luthern, Luzern, Schweiz",
+        "address": {
+            "village": "Luthern",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0041930",
+            "47.1052257",
+            "7.8660217",
+            "7.9438214"
+        ]
+    }
+]

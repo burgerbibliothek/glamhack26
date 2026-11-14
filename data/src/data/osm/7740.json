@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72472968,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682893,
+        "lat": "47.0383996",
+        "lon": "8.1830555",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.406074657779347,
+        "addresstype": "village",
+        "name": "Malters",
+        "display_name": "Malters, Luzern, 6102, Schweiz",
+        "address": {
+            "village": "Malters",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6102",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0114767",
+            "47.0712903",
+            "8.1292237",
+            "8.2484885"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91069305,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6833432229,
+        "lat": "46.0777446",
+        "lon": "6.1789995",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13341234988937206,
+        "addresstype": "hamlet",
+        "name": "Les Chavannes",
+        "display_name": "Les Chavannes, Arbusigny, Saint-Julien-en-Genevois, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74930, Frankreich",
+        "address": {
+            "hamlet": "Les Chavannes",
+            "village": "Arbusigny",
+            "municipality": "Saint-Julien-en-Genevois",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74930",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.0577446",
+            "46.0977446",
+            "6.1589995",
+            "6.1989995"
+        ]
+    }
+]

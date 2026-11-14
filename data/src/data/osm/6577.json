@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 131395770,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12186034311,
+        "lat": "49.1925514",
+        "lon": "12.8789484",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005702067597466,
+        "addresstype": "peak",
+        "name": "Abendberg",
+        "display_name": "Abendberg, Grafenwiesen, Landkreis Cham, Bayern, 93479, Deutschland",
+        "address": {
+            "peak": "Abendberg",
+            "village": "Grafenwiesen",
+            "county": "Landkreis Cham",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "93479",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.1925014",
+            "49.1926014",
+            "12.8788984",
+            "12.8789984"
+        ]
+    }
+]

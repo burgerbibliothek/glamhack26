@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91675264,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682385,
+        "lat": "46.7412152",
+        "lon": "7.5208259",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4145368030917795,
+        "addresstype": "village",
+        "name": "Blumenstein",
+        "display_name": "Blumenstein, Verwaltungskreis Thun, Oberland administrative region, Bern, 3638, Schweiz",
+        "address": {
+            "village": "Blumenstein",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3638",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7035249",
+            "46.7544263",
+            "7.4543853",
+            "7.5394444"
+        ]
+    }
+]

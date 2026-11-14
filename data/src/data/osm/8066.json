@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91228218,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685523,
+        "lat": "46.1683113",
+        "lon": "6.1178870",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4712166608722043,
+        "addresstype": "town",
+        "name": "Plan-les-Ouates",
+        "display_name": "Plan-les-Ouates, Genf, 1228, Schweiz",
+        "address": {
+            "town": "Plan-les-Ouates",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "postcode": "1228",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1517587",
+            "46.1760723",
+            "6.0973966",
+            "6.1407839"
+        ]
+    }
+]

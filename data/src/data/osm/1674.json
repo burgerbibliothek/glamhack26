@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 246794587,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9683115407,
+        "lat": "27.4429382",
+        "lon": "76.8634339",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14670666742961772,
+        "addresstype": "village",
+        "name": "Resti",
+        "display_name": "Resti, Lachhmangarh Tehsil, Distrikt Alwar, Rajasthan, Indien",
+        "address": {
+            "village": "Resti",
+            "county": "Lachhmangarh Tehsil",
+            "state_district": "Distrikt Alwar",
+            "state": "Rajasthan",
+            "ISO3166-2-lvl4": "IN-RJ",
+            "country": "Indien",
+            "country_code": "in"
+        },
+        "boundingbox": [
+            "27.4229382",
+            "27.4629382",
+            "76.8434339",
+            "76.8834339"
+        ]
+    }
+]

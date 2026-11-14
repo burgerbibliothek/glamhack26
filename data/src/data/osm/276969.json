@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 132118206,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2615024337,
+        "lat": "49.8013402",
+        "lon": "12.3974157",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005433203631647,
+        "addresstype": "peak",
+        "name": "Geißbühl",
+        "display_name": "Geißbühl, Bärnau, Landkreis Tirschenreuth, Bayern, 95671, Deutschland",
+        "address": {
+            "peak": "Geißbühl",
+            "city": "Bärnau",
+            "county": "Landkreis Tirschenreuth",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "95671",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.8012902",
+            "49.8013902",
+            "12.3973657",
+            "12.3974657"
+        ]
+    }
+]

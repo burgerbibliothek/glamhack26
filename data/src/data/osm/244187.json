@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72223320,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12014508488,
+        "lat": "47.3334303",
+        "lon": "8.6145629",
+        "category": "place",
+        "type": "quarter",
+        "place_rank": 20,
+        "importance": 0.13337352025635155,
+        "addresstype": "quarter",
+        "name": "Gössikon",
+        "display_name": "Gössikon, Zumikon, Bezirk Meilen, Zürich, 8126, Schweiz",
+        "address": {
+            "quarter": "Gössikon",
+            "village": "Zumikon",
+            "county": "Bezirk Meilen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8126",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3234303",
+            "47.3434303",
+            "8.6045629",
+            "8.6245629"
+        ]
+    }
+]

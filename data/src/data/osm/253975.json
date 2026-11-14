@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72268490,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684548,
+        "lat": "47.6070838",
+        "lon": "8.9546635",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4075198435543142,
+        "addresstype": "city",
+        "name": "Pfyn",
+        "display_name": "Pfyn, Bezirk Frauenfeld, Thurgau, 8505, Schweiz",
+        "address": {
+            "city": "Pfyn",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8505",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5869986",
+            "47.6274929",
+            "8.9115984",
+            "8.9848261"
+        ]
+    }
+]

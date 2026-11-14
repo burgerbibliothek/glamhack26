@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72720290,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1348149623,
+        "lat": "47.2358983",
+        "lon": "8.7526216",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.351725953161806,
+        "addresstype": "railway",
+        "name": "Uerikon",
+        "display_name": "Uerikon, 5, Stationsstrasse, Ürikon, Stäfa, Bezirk Meilen, Zürich, 8713, Schweiz",
+        "address": {
+            "railway": "Uerikon",
+            "house_number": "5",
+            "road": "Stationsstrasse",
+            "village": "Ürikon",
+            "town": "Stäfa",
+            "county": "Bezirk Meilen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8713",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2308983",
+            "47.2408983",
+            "8.7476216",
+            "8.7576216"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92442390,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682412,
+        "lat": "47.1947486",
+        "lon": "7.1447816",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42645767985497673,
+        "addresstype": "village",
+        "name": "Corgémont",
+        "display_name": "Corgémont, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2606, Schweiz",
+        "address": {
+            "village": "Corgémont",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2606",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1564781",
+            "47.2175105",
+            "7.0973470",
+            "7.1661611"
+        ]
+    }
+]

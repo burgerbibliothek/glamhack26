@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 66545010,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 50847962,
+        "lat": "47.5073088",
+        "lon": "19.0287770",
+        "category": "office",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.408560311279495e-05,
+        "addresstype": "office",
+        "name": "Hattyúház",
+        "display_name": "Hattyúház, 14, Hattyú utca, Ofen, Wasserstadt, I. Bezirk, Budapest, 1015, Ungarn",
+        "address": {
+            "office": "Hattyúház",
+            "house_number": "14",
+            "road": "Hattyú utca",
+            "suburb": "Ofen",
+            "borough": "I. Bezirk",
+            "city": "Budapest",
+            "ISO3166-2-lvl8": "HU-BU",
+            "region": "Budapest",
+            "ISO3166-2-lvl6": "HU-BU",
+            "postcode": "1015",
+            "country": "Ungarn",
+            "country_code": "hu"
+        },
+        "boundingbox": [
+            "47.5070454",
+            "47.5076676",
+            "19.0284957",
+            "19.0293401"
+        ]
+    }
+]

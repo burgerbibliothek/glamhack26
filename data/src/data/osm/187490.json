@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 89523552,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 147865,
+        "lat": "45.8807616",
+        "lon": "5.7287297",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.5460800962112846,
+        "addresstype": "city_district",
+        "name": "Chavornay",
+        "display_name": "Chavornay, Arvière-en-Valromey, Belley, Ain, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 01260, Frankreich",
+        "address": {
+            "city_district": "Chavornay",
+            "city": "Arvière-en-Valromey",
+            "municipality": "Belley",
+            "county": "Ain",
+            "ISO3166-2-lvl6": "FR-01",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "01260",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.8643493",
+            "45.8971721",
+            "5.7003552",
+            "5.7581650"
+        ]
+    }
+]

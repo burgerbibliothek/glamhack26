@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91186160,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 40886762,
+        "lat": "46.9355106",
+        "lon": "7.4475243",
+        "category": "building",
+        "type": "public",
+        "place_rank": 30,
+        "importance": 0.18157831638402872,
+        "addresstype": "building",
+        "name": "Ka-We-De",
+        "display_name": "Ka-We-De, 101, Jubiläumsstrasse, Dalmazi, Kirchenfeld, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3005, Schweiz",
+        "address": {
+            "building": "Ka-We-De",
+            "house_number": "101",
+            "road": "Jubiläumsstrasse",
+            "quarter": "Dalmazi",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3005",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9349804",
+            "46.9358821",
+            "7.4464896",
+            "7.4481293"
+        ]
+    }
+]

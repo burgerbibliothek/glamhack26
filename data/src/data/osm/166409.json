@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 72763905,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1686666,
+        "lat": "47.3007262",
+        "lon": "9.3991527",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.5465327795748972,
+        "addresstype": "state",
+        "name": "Appenzell Innerrhoden",
+        "display_name": "Appenzell Innerrhoden, Schweiz",
+        "address": {
+            "state": "Appenzell Innerrhoden",
+            "ISO3166-2-lvl4": "CH-AI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2339932",
+            "47.4436904",
+            "9.3097221",
+            "9.6184030"
+        ]
+    }
+]

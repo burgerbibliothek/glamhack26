@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 73568105,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1686631,
+        "lat": "46.6960615",
+        "lon": "9.6027351",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.6475549846352486,
+        "addresstype": "state",
+        "name": "Graubünden",
+        "display_name": "Graubünden, Schweiz",
+        "address": {
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1691495",
+            "47.0651462",
+            "8.6510673",
+            "10.4921713"
+        ]
+    }
+]

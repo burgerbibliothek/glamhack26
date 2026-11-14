@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72667752,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 4933770,
+        "lat": "47.1710548",
+        "lon": "8.6188962",
+        "category": "natural",
+        "type": "water",
+        "place_rank": 22,
+        "importance": 0.205345191009919,
+        "addresstype": "water",
+        "name": "Wilersee",
+        "display_name": "Wilersee, Finstersee, Menzingen, Zug, 6313, Schweiz",
+        "address": {
+            "water": "Wilersee",
+            "village": "Finstersee",
+            "state": "Zug",
+            "ISO3166-2-lvl4": "CH-ZG",
+            "postcode": "6313",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1700069",
+            "47.1721394",
+            "8.6174849",
+            "8.6201722"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91761420,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 702382525,
+        "lat": "46.3110094",
+        "lon": "7.0141420",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338186541542685,
+        "addresstype": "hamlet",
+        "name": "Panex",
+        "display_name": "Panex, Ollon, Aigle District, Waadt, 1867, Schweiz",
+        "address": {
+            "hamlet": "Panex",
+            "village": "Ollon",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1867",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2910094",
+            "46.3310094",
+            "6.9941420",
+            "7.0341420"
+        ]
+    }
+]

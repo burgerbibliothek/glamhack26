@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 134268306,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 312873438,
+        "lat": "51.0707258",
+        "lon": "13.7413266",
+        "category": "office",
+        "type": "company",
+        "place_rank": 30,
+        "importance": 7.848859388108671e-05,
+        "addresstype": "office",
+        "name": "Sportivation",
+        "display_name": "Sportivation, 23, Friedensstraße, Scheunenhofviertel, Hechtviertel, Leipziger Vorstadt, Neustadt, Dresden, Sachsen, 01097, Deutschland",
+        "address": {
+            "office": "Sportivation",
+            "house_number": "23",
+            "road": "Friedensstraße",
+            "neighbourhood": "Scheunenhofviertel",
+            "quarter": "Hechtviertel",
+            "suburb": "Leipziger Vorstadt",
+            "city_district": "Neustadt",
+            "city": "Dresden",
+            "state": "Sachsen",
+            "ISO3166-2-lvl4": "DE-SN",
+            "postcode": "01097",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.0706758",
+            "51.0707758",
+            "13.7412766",
+            "13.7413766"
+        ]
+    }
+]

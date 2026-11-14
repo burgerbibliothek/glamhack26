@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 103312822,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 53417,
+        "lat": "50.3500747",
+        "lon": "3.5435909",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.582471791583942,
+        "addresstype": "town",
+        "name": "Marly",
+        "display_name": "Marly, Valenciennes, Nord, Nordfrankreich, Metropolitanes Frankreich, 59770, Frankreich",
+        "address": {
+            "town": "Marly",
+            "municipality": "Valenciennes",
+            "county": "Nord",
+            "ISO3166-2-lvl6": "FR-59",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "59770",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.3306170",
+            "50.3623037",
+            "3.5162874",
+            "3.5793295"
+        ]
+    }
+]

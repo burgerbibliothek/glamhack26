@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91840461,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240043726,
+        "lat": "46.6732345",
+        "lon": "7.6833363",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671998855573358,
+        "addresstype": "locality",
+        "name": "Hondrich",
+        "display_name": "Hondrich, Faulensee, Spiez, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3702, Schweiz",
+        "address": {
+            "locality": "Hondrich",
+            "village": "Faulensee",
+            "town": "Spiez",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3702",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6632345",
+            "46.6832345",
+            "7.6733363",
+            "7.6933363"
+        ]
+    }
+]

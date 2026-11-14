@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72960511,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683899,
+        "lat": "47.2134573",
+        "lon": "9.0249831",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3809657170471295,
+        "addresstype": "village",
+        "name": "Kaltbrunn",
+        "display_name": "Kaltbrunn, Wahlkreis See-Gaster, St. Gallen, 8722, Schweiz",
+        "address": {
+            "village": "Kaltbrunn",
+            "county": "Wahlkreis See-Gaster",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "8722",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1851069",
+            "47.2311270",
+            "8.9812512",
+            "9.1147455"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 188206183,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 327119607,
+        "lat": "48.2093508",
+        "lon": "16.3653275",
+        "category": "tourism",
+        "type": "museum",
+        "place_rank": 30,
+        "importance": 0.33557113795112237,
+        "addresstype": "tourism",
+        "name": "Esperantomuseum",
+        "display_name": "Esperantomuseum, 9, Herrengasse, Widmerviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich",
+        "address": {
+            "tourism": "Esperantomuseum",
+            "house_number": "9",
+            "road": "Herrengasse",
+            "neighbourhood": "Widmerviertel",
+            "suburb": "Innere Stadt",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1010",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2092833",
+            "48.2094296",
+            "16.3652250",
+            "16.3655269"
+        ]
+    }
+]

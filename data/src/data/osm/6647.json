@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92762519,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682365,
+        "lat": "47.1671132",
+        "lon": "7.4290584",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4191562787591165,
+        "addresstype": "village",
+        "name": "Arch",
+        "display_name": "Arch, Seeland administrative district, Seeland administrative region, Bern, 3296, Schweiz",
+        "address": {
+            "village": "Arch",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3296",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1504998",
+            "47.1852974",
+            "7.4102129",
+            "7.4549988"
+        ]
+    }
+]

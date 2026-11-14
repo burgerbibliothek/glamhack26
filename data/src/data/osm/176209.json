@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92439706,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1860960,
+        "lat": "47.0861034",
+        "lon": "7.1716340",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.4739117288118318,
+        "addresstype": "lake",
+        "name": "Bielersee",
+        "display_name": "Bielersee, Bielersee (BE), Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, Schweiz",
+        "address": {
+            "lake": "Bielersee",
+            "city": "Bielersee (BE)",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0374569",
+            "47.1346964",
+            "7.0724679",
+            "7.2364147"
+        ]
+    }
+]

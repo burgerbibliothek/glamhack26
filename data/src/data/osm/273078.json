@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72222436,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 4480604,
+        "lat": "47.4008505",
+        "lon": "8.3596266",
+        "category": "natural",
+        "type": "water",
+        "place_rank": 22,
+        "importance": 0.205345191009919,
+        "addresstype": "water",
+        "name": "Egelsee",
+        "display_name": "Egelsee, Bergdietikon, Bezirk Baden, Aargau, 8962, Schweiz",
+        "address": {
+            "water": "Egelsee",
+            "village": "Bergdietikon",
+            "county": "Bezirk Baden",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "8962",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3993354",
+            "47.4023395",
+            "8.3589491",
+            "8.3604557"
+        ]
+    }
+]

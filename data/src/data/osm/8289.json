@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73694528,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682655,
+        "lat": "46.7589407",
+        "lon": "8.0550634",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40816634963515963,
+        "addresstype": "village",
+        "name": "Schwanden bei Brienz",
+        "display_name": "Schwanden bei Brienz, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3855, Schweiz",
+        "address": {
+            "village": "Schwanden bei Brienz",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3855",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7503521",
+            "46.7886473",
+            "8.0398931",
+            "8.0690195"
+        ]
+    }
+]

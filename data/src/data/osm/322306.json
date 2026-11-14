@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 111778125,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 296195494,
+        "lat": "51.2179751",
+        "lon": "6.9393766",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 5.2450598916563934e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "21, Gießereiweg, Trills, Hochdahl, Erkrath, Kreis Mettmann, Nordrhein-Westfalen, 40699, Deutschland",
+        "address": {
+            "house_number": "21",
+            "road": "Gießereiweg",
+            "quarter": "Trills",
+            "suburb": "Hochdahl",
+            "town": "Erkrath",
+            "county": "Kreis Mettmann",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "40699",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.2179138",
+            "51.2180360",
+            "6.9393295",
+            "6.9394236"
+        ]
+    }
+]

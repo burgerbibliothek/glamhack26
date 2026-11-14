@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92532851,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682714,
+        "lat": "47.0597836",
+        "lon": "7.2268525",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4180592592370329,
+        "addresstype": "village",
+        "name": "Walperswil",
+        "display_name": "Walperswil, Seeland administrative district, Seeland administrative region, Bern, 3272, Schweiz",
+        "address": {
+            "village": "Walperswil",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3272",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0383082",
+            "47.0676560",
+            "7.1962361",
+            "7.2507406"
+        ]
+    }
+]

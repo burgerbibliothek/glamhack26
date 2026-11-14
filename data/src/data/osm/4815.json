@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 187840310,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1372123916,
+        "lat": "48.2220286",
+        "lon": "16.3529598",
+        "category": "shop",
+        "type": "bakery",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "shop",
+        "name": "15 süße Minuten",
+        "display_name": "15 süße Minuten, 33, Spitalgasse, Michelbeuern, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich",
+        "address": {
+            "shop": "15 süße Minuten",
+            "house_number": "33",
+            "road": "Spitalgasse",
+            "quarter": "Michelbeuern",
+            "neighbourhood": "Katastralgemeinde Alsergrund",
+            "suburb": "Alsergrund",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1090",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2219786",
+            "48.2220786",
+            "16.3529098",
+            "16.3530098"
+        ]
+    }
+]

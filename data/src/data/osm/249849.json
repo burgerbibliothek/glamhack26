@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93011815,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5817429,
+        "lat": "47.0933059",
+        "lon": "7.5966900",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4242810569321047,
+        "addresstype": "village",
+        "name": "Ersigen",
+        "display_name": "Ersigen, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3423, Schweiz",
+        "address": {
+            "village": "Ersigen",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3423",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0850486",
+            "47.1250823",
+            "7.5754190",
+            "7.6395556"
+        ]
+    }
+]

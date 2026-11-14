@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91596835,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9907621627,
+        "lat": "46.9604089",
+        "lon": "7.6723806",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1467073815518425,
+        "addresstype": "village",
+        "name": "Obergoldbach",
+        "display_name": "Obergoldbach, Landiswil, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3434, Schweiz",
+        "address": {
+            "village": "Obergoldbach",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3434",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9404089",
+            "46.9804089",
+            "7.6523806",
+            "7.6923806"
+        ]
+    }
+]

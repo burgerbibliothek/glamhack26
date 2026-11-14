@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 117032231,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 183077138,
+        "lat": "50.7980547",
+        "lon": "6.4906655",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 6.178759441515249e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "34, Viktoriastraße, Wörthsiedlung, Düren, Kreis Düren, Nordrhein-Westfalen, 52351, Deutschland",
+        "address": {
+            "house_number": "34",
+            "road": "Viktoriastraße",
+            "hamlet": "Wörthsiedlung",
+            "town": "Düren",
+            "county": "Kreis Düren",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "52351",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.7980070",
+            "50.7981383",
+            "6.4905731",
+            "6.4907455"
+        ]
+    }
+]

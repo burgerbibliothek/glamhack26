@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91967610,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 419289421,
+        "lat": "46.5126087",
+        "lon": "6.6041881",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 7.429846646825387e-05,
+        "addresstype": "information",
+        "name": "Vidy",
+        "display_name": "Vidy, Chemin du Boissy, Maison Olympique, Lausanne, District de Lausanne, Waadt, 1007, Schweiz",
+        "address": {
+            "information": "Vidy",
+            "road": "Chemin du Boissy",
+            "hamlet": "Maison Olympique",
+            "city": "Lausanne",
+            "county": "District de Lausanne",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1007",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5125587",
+            "46.5126587",
+            "6.6041381",
+            "6.6042381"
+        ]
+    }
+]

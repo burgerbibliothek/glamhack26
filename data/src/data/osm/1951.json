@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 72926088,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 232106396,
+        "lat": "47.2843610",
+        "lon": "9.4150315",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.43843044507974105,
+        "addresstype": "amenity",
+        "name": "Wildkirchli",
+        "display_name": "Wildkirchli, Eremitenhöhle, Schwende, Schwende-Rüte, Appenzell Innerrhoden, 9057, Schweiz",
+        "address": {
+            "amenity": "Wildkirchli",
+            "road": "Eremitenhöhle",
+            "village": "Schwende",
+            "city": "Schwende-Rüte",
+            "state": "Appenzell Innerrhoden",
+            "ISO3166-2-lvl4": "CH-AI",
+            "postcode": "9057",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2843482",
+            "47.2843736",
+            "9.4150169",
+            "9.4150460"
+        ]
+    }
+]

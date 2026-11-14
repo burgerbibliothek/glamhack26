@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92947554,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240118226,
+        "lat": "47.0448525",
+        "lon": "7.5207405",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.40880653590732546,
+        "addresstype": "village",
+        "name": "Münchringen",
+        "display_name": "Münchringen, Jegenstorf, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3303, Schweiz",
+        "address": {
+            "village": "Münchringen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3303",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0248525",
+            "47.0648525",
+            "7.5007405",
+            "7.5407405"
+        ]
+    }
+]

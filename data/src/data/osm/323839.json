@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 146019437,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10745452971,
+        "lat": "52.6216932",
+        "lon": "13.5087561",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "1, Ahornweg, Eichenring, Schwanebeck, Panketal, Barnim, Brandenburg, 16341, Deutschland",
+        "address": {
+            "house_number": "1",
+            "road": "Ahornweg",
+            "neighbourhood": "Eichenring",
+            "village": "Schwanebeck",
+            "town": "Panketal",
+            "county": "Barnim",
+            "state": "Brandenburg",
+            "ISO3166-2-lvl4": "DE-BB",
+            "postcode": "16341",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.6216432",
+            "52.6217432",
+            "13.5087061",
+            "13.5088061"
+        ]
+    }
+]

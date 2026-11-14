@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72976677,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683929,
+        "lat": "47.2920604",
+        "lon": "9.4733206",
+        "category": "boundary",
+        "type": "historic",
+        "place_rank": 25,
+        "importance": 0.36160342477182406,
+        "addresstype": "historic",
+        "name": "Rüte",
+        "display_name": "Rüte, Schwende-Rüte, Appenzell Innerrhoden, Schweiz",
+        "address": {
+            "historic": "Rüte",
+            "city": "Schwende-Rüte",
+            "state": "Appenzell Innerrhoden",
+            "ISO3166-2-lvl4": "CH-AI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2339932",
+            "47.3502532",
+            "9.3701938",
+            "9.5030277"
+        ]
+    }
+]

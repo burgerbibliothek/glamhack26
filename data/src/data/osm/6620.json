@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73184251,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 331779943,
+        "lat": "46.6750632",
+        "lon": "9.5503189",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3602803386784236,
+        "addresstype": "village",
+        "name": "Alvaschein",
+        "display_name": "Alvaschein, Albula, Graubünden, 7451, Schweiz",
+        "address": {
+            "village": "Alvaschein",
+            "city": "Albula",
+            "county": "Albula",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7451",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6550632",
+            "46.6950632",
+            "9.5303189",
+            "9.5703189"
+        ]
+    }
+]

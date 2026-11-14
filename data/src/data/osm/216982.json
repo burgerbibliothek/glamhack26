@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 123665179,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3292737414,
+        "lat": "48.7060909",
+        "lon": "8.3371472",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16004895628290225,
+        "addresstype": "peak",
+        "name": "Kleines Matterhorn",
+        "display_name": "Kleines Matterhorn, Forbach, Landkreis Rastatt, Baden-Württemberg, 76596, Deutschland",
+        "address": {
+            "peak": "Kleines Matterhorn",
+            "city": "Forbach",
+            "county": "Landkreis Rastatt",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "76596",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.7060409",
+            "48.7061409",
+            "8.3370972",
+            "8.3371972"
+        ]
+    }
+]

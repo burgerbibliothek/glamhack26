@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 83472274,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1856830149,
+        "lat": "43.6402416",
+        "lon": "4.8134454",
+        "category": "highway",
+        "type": "platform",
+        "place_rank": 30,
+        "importance": 5.541390096890238e-05,
+        "addresstype": "highway",
+        "name": "Trident",
+        "display_name": "Trident, Rue Pastourelle, Le Lion d'Or, Caphan, Saint-Martin-de-Crau, Arles, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 13310, Frankreich",
+        "address": {
+            "highway": "Trident",
+            "road": "Rue Pastourelle",
+            "quarter": "Le Lion d'Or",
+            "village": "Caphan",
+            "town": "Saint-Martin-de-Crau",
+            "municipality": "Arles",
+            "county": "Bouches-du-Rhône",
+            "ISO3166-2-lvl6": "FR-13",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "13310",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.6401916",
+            "43.6402916",
+            "4.8133954",
+            "4.8134954"
+        ]
+    }
+]

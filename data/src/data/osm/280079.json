@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92478483,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 450641474,
+        "lat": "47.1290861",
+        "lon": "7.2567529",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.2901765588551152,
+        "addresstype": "suburb",
+        "name": "Madretsch",
+        "display_name": "Madretsch, Biel, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2503, Schweiz",
+        "address": {
+            "suburb": "Madretsch",
+            "city": "Biel",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2503",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1090861",
+            "47.1490861",
+            "7.2367529",
+            "7.2767529"
+        ]
+    }
+]

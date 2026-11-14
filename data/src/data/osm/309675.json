@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73434824,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1646437,
+        "lat": "46.6154574",
+        "lon": "8.1560825",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.39951314662297394,
+        "addresstype": "glacier",
+        "name": "Gauligletscher",
+        "display_name": "Gauligletscher, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3862, Schweiz",
+        "address": {
+            "glacier": "Gauligletscher",
+            "city_district": "Innertkirchen",
+            "village": "Innertkirchen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3862",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5988113",
+            "46.6321407",
+            "8.1403366",
+            "8.1977317"
+        ]
+    }
+]

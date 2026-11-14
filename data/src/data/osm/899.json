@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 90830265,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10133969480,
+        "lat": "46.7317694",
+        "lon": "5.9641740",
+        "category": "historic",
+        "type": "ruins",
+        "place_rank": 30,
+        "importance": 6.314412146176879e-05,
+        "addresstype": "historic",
+        "name": "Château vilain",
+        "display_name": "Château vilain, D 277, Bourg-de-Sirod, Lons-le-Saunier, Jura, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 39300, Frankreich",
+        "address": {
+            "historic": "Château vilain",
+            "road": "D 277",
+            "village": "Bourg-de-Sirod",
+            "municipality": "Lons-le-Saunier",
+            "county": "Jura",
+            "ISO3166-2-lvl6": "FR-39",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "39300",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.7317194",
+            "46.7318194",
+            "5.9641240",
+            "5.9642240"
+        ]
+    }
+]

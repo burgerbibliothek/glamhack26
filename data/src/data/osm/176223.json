@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 3593693,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5041999439,
+        "lat": "-12.0493745",
+        "lon": "-75.2154527",
+        "category": "shop",
+        "type": "clothes",
+        "place_rank": 30,
+        "importance": 4.393148699163832e-05,
+        "addresstype": "shop",
+        "name": "Chanela",
+        "display_name": "Chanela, Avenida Ferrocarril, Salcedo, Tres Esquinas, El Tambo, Province of Huancayo, Junín, 12009, Peru",
+        "address": {
+            "shop": "Chanela",
+            "road": "Avenida Ferrocarril",
+            "neighbourhood": "Salcedo",
+            "quarter": "Tres Esquinas",
+            "suburb": "El Tambo",
+            "city": "El Tambo",
+            "region": "Province of Huancayo",
+            "state": "Junín",
+            "ISO3166-2-lvl4": "PE-JUN",
+            "postcode": "12009",
+            "country": "Peru",
+            "country_code": "pe"
+        },
+        "boundingbox": [
+            "-12.0494245",
+            "-12.0493245",
+            "-75.2155027",
+            "-75.2154027"
+        ]
+    }
+]

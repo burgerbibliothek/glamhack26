@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92966345,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685611,
+        "lat": "47.2885745",
+        "lon": "7.0473580",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.35049604782988514,
+        "addresstype": "village",
+        "name": "Les Enfers",
+        "display_name": "Les Enfers, Freiberge, Jura, 2363, Schweiz",
+        "address": {
+            "village": "Les Enfers",
+            "county": "Freiberge",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2363",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2813866",
+            "47.3001756",
+            "6.9894898",
+            "7.0753928"
+        ]
+    }
+]

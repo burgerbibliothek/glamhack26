@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 119293354,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 386220983,
+        "lat": "49.4491622",
+        "lon": "6.6387379",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.329594872964092e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "21, Fellenbergstraße, Merzig, Landkreis Merzig-Wadern, Saarland, 66663, Deutschland",
+        "address": {
+            "house_number": "21",
+            "road": "Fellenbergstraße",
+            "city_district": "Merzig",
+            "town": "Merzig",
+            "county": "Landkreis Merzig-Wadern",
+            "state": "Saarland",
+            "ISO3166-2-lvl4": "DE-SL",
+            "postcode": "66663",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.4491135",
+            "49.4492109",
+            "6.6386660",
+            "6.6388098"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 326602426,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 150978408,
+        "lat": "46.6634430",
+        "lon": "-118.4874354",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13336833524071104,
+        "addresstype": "hamlet",
+        "name": "Harder",
+        "display_name": "Harder, Franklin County, Washington, Vereinigte Staaten von Amerika",
+        "address": {
+            "hamlet": "Harder",
+            "county": "Franklin County",
+            "state": "Washington",
+            "ISO3166-2-lvl4": "US-WA",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "46.6434430",
+            "46.6834430",
+            "-118.5074354",
+            "-118.4674354"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73936002,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 256455695,
+        "lat": "46.4157841",
+        "lon": "10.0114771",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.44978731253800786,
+        "addresstype": "mountain_pass",
+        "name": "Berninapass",
+        "display_name": "Berninapass, Pontresina, Maloja, Graubünden, 7504, Schweiz",
+        "address": {
+            "mountain_pass": "Berninapass",
+            "village": "Pontresina",
+            "county": "Maloja",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7504",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4157341",
+            "46.4158341",
+            "10.0114271",
+            "10.0115271"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73046060,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 210985230,
+        "lat": "47.2836039",
+        "lon": "9.4854870",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 3.813153276870401e-05,
+        "addresstype": "amenity",
+        "name": "Hoher Kasten Drehrestaurant 360°",
+        "display_name": "Hoher Kasten Drehrestaurant 360°, 1, Hoher Kasten, Altstätten, Wahlkreis Rheintal, St. Gallen, 9058, Schweiz",
+        "address": {
+            "amenity": "Hoher Kasten Drehrestaurant 360°",
+            "house_number": "1",
+            "locality": "Hoher Kasten",
+            "town": "Altstätten",
+            "county": "Wahlkreis Rheintal",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9058",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2833241",
+            "47.2837939",
+            "9.4852043",
+            "9.4856232"
+        ]
+    }
+]

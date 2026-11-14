@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92735666,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6180900797,
+        "lat": "47.0694542",
+        "lon": "7.7826418",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338224536507207,
+        "addresstype": "hamlet",
+        "name": "Eggisberg",
+        "display_name": "Eggisberg, Dürrenroth, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3465, Schweiz",
+        "address": {
+            "hamlet": "Eggisberg",
+            "village": "Dürrenroth",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3465",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0494542",
+            "47.0894542",
+            "7.7626418",
+            "7.8026418"
+        ]
+    }
+]

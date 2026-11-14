@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71567437,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683671,
+        "lat": "47.7557294",
+        "lon": "8.6703560",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3930358659837339,
+        "addresstype": "village",
+        "name": "Lohn (SH)",
+        "display_name": "Lohn (SH), Bezirk Reiat, Schaffhausen, 8235, Schweiz",
+        "address": {
+            "village": "Lohn (SH)",
+            "county": "Bezirk Reiat",
+            "state": "Schaffhausen",
+            "ISO3166-2-lvl4": "CH-SH",
+            "postcode": "8235",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.7425335",
+            "47.7696708",
+            "8.6523520",
+            "8.6894850"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 181910376,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 9787016,
+        "lat": "50.6424594",
+        "lon": "17.8476965",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.2702882353650111,
+        "addresstype": "village",
+        "name": "Rothhaus",
+        "display_name": "Rothhaus, Gemeinde Comprachtschütz, Landkreis Oppeln, Woiwodschaft Oppeln, Polen",
+        "address": {
+            "village": "Rothhaus",
+            "municipality": "Gemeinde Comprachtschütz",
+            "county": "Landkreis Oppeln",
+            "state": "Woiwodschaft Oppeln",
+            "ISO3166-2-lvl4": "PL-16",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "50.6372253",
+            "50.6519763",
+            "17.8372655",
+            "17.8619932"
+        ]
+    }
+]

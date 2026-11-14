@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91063567,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 165310817,
+        "lat": "46.4909850",
+        "lon": "7.6673211",
+        "category": "highway",
+        "type": "unclassified",
+        "place_rank": 26,
+        "importance": 0.05337758220798043,
+        "addresstype": "unclassified",
+        "name": "Bütschelsstrasse",
+        "display_name": "Bütschelsstrasse, Filfalle, Hinder de Büele, Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3718, Schweiz",
+        "address": {
+            "road": "Bütschelsstrasse",
+            "quarter": "Filfalle",
+            "hamlet": "Hinder de Büele",
+            "village": "Kandersteg",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3718",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4908195",
+            "46.4913181",
+            "7.6660955",
+            "7.6685227"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 95295852,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13114401310,
+        "lat": "46.5365370",
+        "lon": "2.1101240",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.0667259090562295,
+        "addresstype": "locality",
+        "name": "Les Corselles",
+        "display_name": "Les Corselles, Champillet, La Châtre, Indre, Zentrum-Loiretal, Metropolitanes Frankreich, 36160, Frankreich",
+        "address": {
+            "locality": "Les Corselles",
+            "village": "Champillet",
+            "municipality": "La Châtre",
+            "county": "Indre",
+            "ISO3166-2-lvl6": "FR-36",
+            "state": "Zentrum-Loiretal",
+            "ISO3166-2-lvl4": "FR-CVL",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "36160",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.5265370",
+            "46.5465370",
+            "2.1001240",
+            "2.1201240"
+        ]
+    }
+]

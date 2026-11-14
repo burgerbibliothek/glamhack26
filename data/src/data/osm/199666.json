@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92371105,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3246944664,
+        "lat": "46.9754932",
+        "lon": "7.4104626",
+        "category": "place",
+        "type": "quarter",
+        "place_rank": 20,
+        "importance": 0.13337513008316165,
+        "addresstype": "quarter",
+        "name": "Thalmatt",
+        "display_name": "Thalmatt, Herrenschwanden, Kirchlindach, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3037, Schweiz",
+        "address": {
+            "quarter": "Thalmatt",
+            "village": "Herrenschwanden",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3037",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9654932",
+            "46.9854932",
+            "7.4004626",
+            "7.4204626"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91194730,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682682,
+        "lat": "46.7582827",
+        "lon": "7.6280860",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5698013254737292,
+        "addresstype": "town",
+        "name": "Thun",
+        "display_name": "Thun, Verwaltungskreis Thun, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "town": "Thun",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7093839",
+            "46.7714852",
+            "7.5862013",
+            "7.6902640"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 98304940,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 120953,
+        "lat": "49.0116000",
+        "lon": "2.0319400",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5127145549449648,
+        "addresstype": "town",
+        "name": "Jouy-le-Moutier",
+        "display_name": "Jouy-le-Moutier, Pontoise, Val-d'Oise, Île-de-France, Metropolitanes Frankreich, 95280, Frankreich",
+        "address": {
+            "town": "Jouy-le-Moutier",
+            "municipality": "Pontoise",
+            "county": "Val-d'Oise",
+            "ISO3166-2-lvl6": "FR-95",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "95280",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.9979200",
+            "49.0257230",
+            "2.0070718",
+            "2.0641998"
+        ]
+    }
+]

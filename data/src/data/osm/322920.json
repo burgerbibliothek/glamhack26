@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91874404,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 815043329,
+        "lat": "46.9591272",
+        "lon": "7.4442216",
+        "category": "leisure",
+        "type": "pitch",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "leisure",
+        "name": "Rollpark Lorraine",
+        "display_name": "Rollpark Lorraine, 33, Lorrainestrasse, Lorraine, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3013, Schweiz",
+        "address": {
+            "leisure": "Rollpark Lorraine",
+            "house_number": "33",
+            "road": "Lorrainestrasse",
+            "quarter": "Lorraine",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3013",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9590425",
+            "46.9592238",
+            "7.4440634",
+            "7.4443354"
+        ]
+    }
+]

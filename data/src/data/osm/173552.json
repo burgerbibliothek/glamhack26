@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91432355,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685178,
+        "lat": "46.4602978",
+        "lon": "6.8418655",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5650301040267582,
+        "addresstype": "town",
+        "name": "Vevey",
+        "display_name": "Vevey, Bezirk Riviera-Pays-d'Enhaut, Waadt, 1800, Schweiz",
+        "address": {
+            "town": "Vevey",
+            "county": "Bezirk Riviera-Pays-d'Enhaut",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1800",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4239168",
+            "46.4782174",
+            "6.8162824",
+            "6.8634552"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 124970443,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 7311373,
+        "lat": "49.3538126",
+        "lon": "9.8784508",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.16005321202410924,
+        "addresstype": "village",
+        "name": "Ettenhausen",
+        "display_name": "Ettenhausen, Schrozberg, Landkreis Schwäbisch Hall, Baden-Württemberg, Deutschland",
+        "address": {
+            "village": "Ettenhausen",
+            "town": "Schrozberg",
+            "county": "Landkreis Schwäbisch Hall",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.3334219",
+            "49.3647692",
+            "9.8429587",
+            "9.8923558"
+        ]
+    }
+]

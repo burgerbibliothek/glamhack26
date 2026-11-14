@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92467600,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1389777601,
+        "lat": "46.9337715",
+        "lon": "7.5124229",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.16273786379520622,
+        "addresstype": "building",
+        "name": "Hofgut Gümligen",
+        "display_name": "Hofgut Gümligen, Dorfstrasse, Vorackerrain, Gümligen, Muri bei Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3073, Schweiz",
+        "address": {
+            "building": "Hofgut Gümligen",
+            "road": "Dorfstrasse",
+            "hamlet": "Vorackerrain",
+            "suburb": "Gümligen",
+            "village": "Gümligen",
+            "town": "Muri bei Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3073",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9335805",
+            "46.9339095",
+            "7.5120532",
+            "7.5125046"
+        ]
+    }
+]

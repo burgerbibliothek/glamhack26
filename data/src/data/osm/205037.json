@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92275719,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1868685,
+        "lat": "46.6304768",
+        "lon": "6.7192130",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40647197265303264,
+        "addresstype": "city",
+        "name": "Jorat-Menthue",
+        "display_name": "Jorat-Menthue, District du Gros-de-Vaud, Waadt, Schweiz",
+        "address": {
+            "city": "Jorat-Menthue",
+            "county": "District du Gros-de-Vaud",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5979642",
+            "46.6629943",
+            "6.6984163",
+            "6.7619595"
+        ]
+    }
+]

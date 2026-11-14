@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73799685,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684132,
+        "lat": "46.3264094",
+        "lon": "10.0581402",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.45219581606325543,
+        "addresstype": "village",
+        "name": "Poschiavo",
+        "display_name": "Poschiavo, Bernina, Graubünden, Schweiz",
+        "address": {
+            "village": "Poschiavo",
+            "county": "Bernina",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2435294",
+            "46.4427459",
+            "9.9557188",
+            "10.1667722"
+        ]
+    }
+]

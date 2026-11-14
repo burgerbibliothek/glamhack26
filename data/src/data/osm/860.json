@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 47637981,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1667671341,
+        "lat": "24.0910710",
+        "lon": "32.8973060",
+        "category": "place",
+        "type": "city",
+        "place_rank": 16,
+        "importance": 0.5806679321381492,
+        "addresstype": "city",
+        "name": "Assuan",
+        "display_name": "Assuan, 81511, Ägypten",
+        "address": {
+            "city": "Assuan",
+            "state": "Assuan",
+            "ISO3166-2-lvl4": "EG-ASN",
+            "postcode": "81511",
+            "country": "Ägypten",
+            "country_code": "eg"
+        },
+        "boundingbox": [
+            "23.9310710",
+            "24.2510710",
+            "32.7373060",
+            "33.0573060"
+        ]
+    }
+]

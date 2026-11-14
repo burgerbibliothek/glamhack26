@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91827365,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 729995369,
+        "lat": "46.9760441",
+        "lon": "7.4404502",
+        "category": "man_made",
+        "type": "bridge",
+        "place_rank": 30,
+        "importance": 0.2024340213354661,
+        "addresstype": "man_made",
+        "name": "Felsenaubrücke",
+        "display_name": "Felsenaubrücke, Reckweg, Kalchackerhof, Seftau, Bremgarten bei Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3047, Schweiz",
+        "address": {
+            "man_made": "Felsenaubrücke",
+            "road": "Reckweg",
+            "neighbourhood": "Kalchackerhof",
+            "quarter": "Seftau",
+            "village": "Bremgarten bei Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3047",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9758460",
+            "46.9762506",
+            "7.4400755",
+            "7.4408087"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91530997,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2497199101,
+        "lat": "46.4693982",
+        "lon": "7.6904877",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4431969160164717,
+        "addresstype": "peak",
+        "name": "Innerer Fisistock",
+        "display_name": "Innerer Fisistock, Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3718, Schweiz",
+        "address": {
+            "peak": "Innerer Fisistock",
+            "village": "Kandersteg",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3718",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4693482",
+            "46.4694482",
+            "7.6904377",
+            "7.6905377"
+        ]
+    }
+]

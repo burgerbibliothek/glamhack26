@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73564118,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 42742456,
+        "lat": "46.4516323",
+        "lon": "8.0775081",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.46901845031743994,
+        "addresstype": "glacier",
+        "name": "Grosser Aletschgletscher",
+        "display_name": "Grosser Aletschgletscher, Fieschertal, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "glacier": "Grosser Aletschgletscher",
+            "village": "Fieschertal",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4023409",
+            "46.5007237",
+            "8.0331926",
+            "8.0865681"
+        ]
+    }
+]

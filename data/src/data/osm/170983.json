@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 93466013,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685583,
+        "lat": "47.3493082",
+        "lon": "7.1208911",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39817807251303894,
+        "addresstype": "city",
+        "name": "Clos du Doubs",
+        "display_name": "Clos du Doubs, Bezirk Porrentruy, Jura, Schweiz",
+        "address": {
+            "city": "Clos du Doubs",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3133219",
+            "47.3854884",
+            "7.0341513",
+            "7.2131025"
+        ]
+    }
+]

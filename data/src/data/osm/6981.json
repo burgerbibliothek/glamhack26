@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 52827415,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2245418,
+        "lat": "36.3641642",
+        "lon": "6.6084281",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5879429207118732,
+        "addresstype": "city",
+        "name": "Constantine",
+        "display_name": "Constantine, Kreis Konstantin, Provinz Konstantin, 25000, Algerien",
+        "address": {
+            "city": "Constantine",
+            "county": "Kreis Konstantin",
+            "state": "Provinz Konstantin",
+            "ISO3166-2-lvl4": "DZ-25",
+            "postcode": "25000",
+            "country": "Algerien",
+            "country_code": "dz"
+        },
+        "boundingbox": [
+            "36.2589259",
+            "36.4490899",
+            "6.5284453",
+            "6.7665523"
+        ]
+    }
+]

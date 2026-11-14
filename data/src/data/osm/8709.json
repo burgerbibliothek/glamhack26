@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72222823,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682243,
+        "lat": "47.4991723",
+        "lon": "8.7291498",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6076149907498382,
+        "addresstype": "city",
+        "name": "Winterthur",
+        "display_name": "Winterthur, Bezirk Winterthur, Zürich, Schweiz",
+        "address": {
+            "city": "Winterthur",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4497181",
+            "47.5480027",
+            "8.6566078",
+            "8.8099412"
+        ]
+    }
+]

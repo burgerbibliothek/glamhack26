@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72340906,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684418,
+        "lat": "47.2906180",
+        "lon": "8.0878580",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3692588589939114,
+        "addresstype": "village",
+        "name": "Schlossrued",
+        "display_name": "Schlossrued, Bezirk Kulm, Aargau, 5044, Schweiz",
+        "address": {
+            "village": "Schlossrued",
+            "county": "Bezirk Kulm",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5044",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2700526",
+            "47.3045870",
+            "8.0614583",
+            "8.1146941"
+        ]
+    }
+]

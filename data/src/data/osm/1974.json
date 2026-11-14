@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91598636,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10823593069,
+        "lat": "46.9609067",
+        "lon": "7.8504481",
+        "category": "place",
+        "type": "farm",
+        "place_rank": 22,
+        "importance": 0.1067049874113069,
+        "addresstype": "farm",
+        "name": "Zopfen",
+        "display_name": "Zopfen, Trub, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3556, Schweiz",
+        "address": {
+            "farm": "Zopfen",
+            "village": "Trub",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3556",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9509067",
+            "46.9709067",
+            "7.8404481",
+            "7.8604481"
+        ]
+    }
+]

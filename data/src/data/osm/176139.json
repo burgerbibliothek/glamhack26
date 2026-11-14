@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73334651,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685350,
+        "lat": "46.5388742",
+        "lon": "8.3632847",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3819330985084628,
+        "addresstype": "city",
+        "name": "Obergoms",
+        "display_name": "Obergoms, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "city": "Obergoms",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4236317",
+            "46.6540472",
+            "8.2580451",
+            "8.4785187"
+        ]
+    }
+]

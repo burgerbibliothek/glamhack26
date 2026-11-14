@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 150174593,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 548591,
+        "lat": "54.1147802",
+        "lon": "9.7313237",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.49565720086294657,
+        "addresstype": "village",
+        "name": "Mörel",
+        "display_name": "Mörel, Amt Mittelholstein, Kreis Rendsburg-Eckernförde, Schleswig-Holstein, Deutschland",
+        "address": {
+            "village": "Mörel",
+            "municipality": "Amt Mittelholstein",
+            "county": "Kreis Rendsburg-Eckernförde",
+            "state": "Schleswig-Holstein",
+            "ISO3166-2-lvl4": "DE-SH",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "54.0975579",
+            "54.1303212",
+            "9.7131049",
+            "9.7879439"
+        ]
+    }
+]

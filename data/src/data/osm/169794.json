@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92478818,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682688,
+        "lat": "47.2236770",
+        "lon": "7.1030216",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4467179718188769,
+        "addresstype": "village",
+        "name": "Tramelan",
+        "display_name": "Tramelan, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, Schweiz",
+        "address": {
+            "village": "Tramelan",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2068153",
+            "47.2477643",
+            "7.0436695",
+            "7.1511459"
+        ]
+    }
+]

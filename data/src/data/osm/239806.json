@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92876694,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682473,
+        "lat": "47.2082933",
+        "lon": "7.6987725",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4217164953504801,
+        "addresstype": "village",
+        "name": "Heimenhausen",
+        "display_name": "Heimenhausen, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Heimenhausen",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1938076",
+            "47.2247498",
+            "7.6726113",
+            "7.7096964"
+        ]
+    }
+]

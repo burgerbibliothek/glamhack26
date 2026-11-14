@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73267877,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683883,
+        "lat": "47.2054106",
+        "lon": "9.4421264",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3701845356649174,
+        "addresstype": "village",
+        "name": "Gams",
+        "display_name": "Gams, Wahlkreis Werdenberg, St. Gallen, 9473, Schweiz",
+        "address": {
+            "village": "Gams",
+            "county": "Wahlkreis Werdenberg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9473",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1932500",
+            "47.2363781",
+            "9.3877615",
+            "9.4870322"
+        ]
+    }
+]

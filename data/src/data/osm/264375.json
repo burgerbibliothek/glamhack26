@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92425137,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240040724,
+        "lat": "47.2053791",
+        "lon": "7.6814195",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3411720307708333,
+        "addresstype": "village",
+        "name": "Röthenbach",
+        "display_name": "Röthenbach, Heimenhausen, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 3373, Schweiz",
+        "address": {
+            "village": "Röthenbach",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3373",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1853791",
+            "47.2253791",
+            "7.6614195",
+            "7.7014195"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72506596,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5675880538,
+        "lat": "47.3369274",
+        "lon": "8.6167926",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.2024340213354661,
+        "addresstype": "railway",
+        "name": "Waltikon",
+        "display_name": "Waltikon, Morgental, Waltikon, Zumikon, Bezirk Meilen, Zürich, 8126, Schweiz",
+        "address": {
+            "railway": "Waltikon",
+            "road": "Morgental",
+            "quarter": "Waltikon",
+            "village": "Zumikon",
+            "county": "Bezirk Meilen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8126",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3319274",
+            "47.3419274",
+            "8.6117926",
+            "8.6217926"
+        ]
+    }
+]

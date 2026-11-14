@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73116238,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683087,
+        "lat": "47.0838500",
+        "lon": "8.4386308",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4452007487319592,
+        "addresstype": "town",
+        "name": "Küssnacht (SZ)",
+        "display_name": "Küssnacht (SZ), Küssnacht, Schwyz, Schweiz",
+        "address": {
+            "town": "Küssnacht (SZ)",
+            "county": "Küssnacht",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0484211",
+            "47.1144244",
+            "8.3887515",
+            "8.5079488"
+        ]
+    }
+]

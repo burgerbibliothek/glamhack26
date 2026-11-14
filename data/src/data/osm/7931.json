@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92681971,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682574,
+        "lat": "47.2684936",
+        "lon": "7.6933343",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.43802392276794555,
+        "addresstype": "village",
+        "name": "Niederbipp",
+        "display_name": "Niederbipp, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4704, Schweiz",
+        "address": {
+            "village": "Niederbipp",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4704",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2400370",
+            "47.2939942",
+            "7.6442814",
+            "7.7584452"
+        ]
+    }
+]

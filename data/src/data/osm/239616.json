@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 72160098,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 186172572,
+        "lat": "47.3722058",
+        "lon": "8.5436663",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "building",
+        "name": "Zur Treu",
+        "display_name": "Zur Treu, 21, Marktgasse, Rathaus, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz",
+        "address": {
+            "building": "Zur Treu",
+            "house_number": "21",
+            "road": "Marktgasse",
+            "quarter": "Rathaus",
+            "suburb": "Altstadt",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3720974",
+            "47.3722897",
+            "8.5435092",
+            "8.5438022"
+        ]
+    }
+]

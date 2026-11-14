@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91771214,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10019419718,
+        "lat": "46.7928978",
+        "lon": "7.2001883",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10670416800183105,
+        "addresstype": "isolated_dwelling",
+        "name": "Mülimatt",
+        "display_name": "Mülimatt, Tasberg, St. Ursen, Sensebezirk, Freiburg, 1717, Schweiz",
+        "address": {
+            "isolated_dwelling": "Mülimatt",
+            "hamlet": "Tasberg",
+            "village": "St. Ursen",
+            "county": "Sensebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1717",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7928478",
+            "46.7929478",
+            "7.2001383",
+            "7.2002383"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71997939,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 300928769,
+        "lat": "47.4214858",
+        "lon": "8.7670403",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1467167277027542,
+        "addresstype": "village",
+        "name": "Theilingen",
+        "display_name": "Theilingen, Weisslingen, Bezirk Pfäffikon, Zürich, 8484, Schweiz",
+        "address": {
+            "village": "Theilingen",
+            "county": "Bezirk Pfäffikon",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8484",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4014858",
+            "47.4414858",
+            "8.7470403",
+            "8.7870403"
+        ]
+    }
+]

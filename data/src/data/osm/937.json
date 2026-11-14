@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 50709399,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 27565120,
+        "lat": "29.9870753",
+        "lon": "31.2118063",
+        "category": "place",
+        "type": "city",
+        "place_rank": 16,
+        "importance": 0.5857662850918021,
+        "addresstype": "city",
+        "name": "Giseh",
+        "display_name": "Giseh, Al-Dschiza, 12524, Ägypten",
+        "address": {
+            "city": "Giseh",
+            "state": "Al-Dschiza",
+            "ISO3166-2-lvl4": "EG-GZ",
+            "postcode": "12524",
+            "country": "Ägypten",
+            "country_code": "eg"
+        },
+        "boundingbox": [
+            "29.8270753",
+            "30.1470753",
+            "31.0518063",
+            "31.3718063"
+        ]
+    }
+]

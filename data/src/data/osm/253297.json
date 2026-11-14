@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92558951,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683301,
+        "lat": "46.9075278",
+        "lon": "7.1110471",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37310569550553185,
+        "addresstype": "village",
+        "name": "Gurwolf",
+        "display_name": "Gurwolf, Seebezirk, Freiburg, 1796, Schweiz",
+        "address": {
+            "village": "Gurwolf",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1796",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8900660",
+            "46.9201061",
+            "7.0900307",
+            "7.1191544"
+        ]
+    }
+]

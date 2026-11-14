@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91541349,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682741,
+        "lat": "46.9010154",
+        "lon": "7.6611309",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.46085869727928086,
+        "addresstype": "village",
+        "name": "Zäziwil",
+        "display_name": "Zäziwil, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3532, Schweiz",
+        "address": {
+            "village": "Zäziwil",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3532",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8788616",
+            "46.9114767",
+            "7.6456934",
+            "7.6887707"
+        ]
+    }
+]

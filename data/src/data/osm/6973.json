@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91660776,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684912,
+        "lat": "46.7619853",
+        "lon": "6.8180582",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.35352855872429106,
+        "addresstype": "village",
+        "name": "Combremont-le-Grand",
+        "display_name": "Combremont-le-Grand, Valbroye, District de la Broye-Vully, Waadt, 1535, Schweiz",
+        "address": {
+            "village": "Combremont-le-Grand",
+            "city": "Valbroye",
+            "county": "District de la Broye-Vully",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1535",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7523290",
+            "46.7809802",
+            "6.7943245",
+            "6.8488156"
+        ]
+    }
+]

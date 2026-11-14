@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92003143,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684995,
+        "lat": "46.8086306",
+        "lon": "6.6417532",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.47708681271515835,
+        "addresstype": "village",
+        "name": "Grandson",
+        "display_name": "Grandson, District du Jura-Nord vaudois, Waadt, 1422, Schweiz",
+        "address": {
+            "village": "Grandson",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1422",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7939765",
+            "46.8297081",
+            "6.6190043",
+            "6.6929219"
+        ]
+    }
+]

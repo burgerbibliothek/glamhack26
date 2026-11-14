@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 71653558,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 204718599,
+        "lat": "47.9798831",
+        "lon": "8.8177747",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.788738841835687e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "12, Freiburgstraße, Tuttlingen, VVG der Stadt Tuttlingen, Landkreis Tuttlingen, Baden-Württemberg, 78532, Deutschland",
+        "address": {
+            "house_number": "12",
+            "road": "Freiburgstraße",
+            "town": "Tuttlingen",
+            "municipality": "VVG der Stadt Tuttlingen",
+            "county": "Landkreis Tuttlingen",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "78532",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.9798356",
+            "47.9799373",
+            "8.8177141",
+            "8.8178348"
+        ]
+    }
+]

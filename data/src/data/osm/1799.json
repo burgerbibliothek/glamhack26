@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91224393,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2205224,
+        "lat": "46.6395292",
+        "lon": "7.4156326",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.4255759689944641,
+        "addresstype": "river",
+        "name": "Simme",
+        "display_name": "Simme, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "river": "Simme",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4165114",
+            "46.6912493",
+            "7.3745659",
+            "7.6341330"
+        ]
+    }
+]

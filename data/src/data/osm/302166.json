@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73372525,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 653902769,
+        "lat": "46.5465981",
+        "lon": "8.1144113",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4472868399702154,
+        "addresstype": "peak",
+        "name": "Agassizhorn",
+        "display_name": "Agassizhorn, Fieschertal, Goms, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "peak": "Agassizhorn",
+            "village": "Fieschertal",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5465481",
+            "46.5466481",
+            "8.1143613",
+            "8.1144613"
+        ]
+    }
+]

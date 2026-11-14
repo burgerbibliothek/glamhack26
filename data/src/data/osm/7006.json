@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91492200,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 4209390,
+        "lat": "46.4940082",
+        "lon": "6.7792202",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.10540294855860563,
+        "addresstype": "amenity",
+        "name": "Crêt Bérard",
+        "display_name": "Crêt Bérard, Chemin de la Chapelle, Puidoux-Gare, Puidoux, District de Lavaux-Oron, Waadt, 1070, Schweiz",
+        "address": {
+            "amenity": "Crêt Bérard",
+            "road": "Chemin de la Chapelle",
+            "hamlet": "Puidoux-Gare",
+            "village": "Puidoux",
+            "county": "District de Lavaux-Oron",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1070",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4938059",
+            "46.4942125",
+            "6.7789978",
+            "6.7801561"
+        ]
+    }
+]

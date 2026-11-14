@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 95990179,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2205219,
+        "lat": "46.5560173",
+        "lon": "7.6609699",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.43728576240816325,
+        "addresstype": "river",
+        "name": "Kander",
+        "display_name": "Kander, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "river": "Kander",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4436263",
+            "46.7226480",
+            "7.6308638",
+            "7.7647345"
+        ]
+    }
+]

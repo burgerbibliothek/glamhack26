@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73331447,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1285022533,
+        "lat": "46.7376383",
+        "lon": "9.4563322",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3692588589939114,
+        "addresstype": "village",
+        "name": "Almens",
+        "display_name": "Almens, Domleschg, Region Viamala, Graubünden, 7416, Schweiz",
+        "address": {
+            "village": "Almens",
+            "city": "Domleschg",
+            "county": "Region Viamala",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7416",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7176383",
+            "46.7576383",
+            "9.4363322",
+            "9.4763322"
+        ]
+    }
+]

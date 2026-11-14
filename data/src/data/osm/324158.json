@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 141609199,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 175496022,
+        "lat": "52.3716001",
+        "lon": "9.7083790",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.639047837029095e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "35, Viktoriastraße, Linden-Nord, Linden-Limmer, Hannover, Region Hannover, Niedersachsen, 30451, Deutschland",
+        "address": {
+            "house_number": "35",
+            "road": "Viktoriastraße",
+            "suburb": "Linden-Nord",
+            "city_district": "Linden-Limmer",
+            "city": "Hannover",
+            "county": "Region Hannover",
+            "state": "Niedersachsen",
+            "ISO3166-2-lvl4": "DE-NI",
+            "postcode": "30451",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.3715486",
+            "52.3716506",
+            "9.7082859",
+            "9.7084719"
+        ]
+    }
+]

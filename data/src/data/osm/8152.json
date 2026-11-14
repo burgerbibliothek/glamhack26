@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73528449,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685358,
+        "lat": "46.3150269",
+        "lon": "8.0166829",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.35293318613167857,
+        "addresstype": "village",
+        "name": "Ried-Brig",
+        "display_name": "Ried-Brig, Brig, Oberwallis, Wallis, 3911, Schweiz",
+        "address": {
+            "village": "Ried-Brig",
+            "county": "Brig",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3911",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2412289",
+            "46.3252782",
+            "8.0011645",
+            "8.1410132"
+        ]
+    }
+]

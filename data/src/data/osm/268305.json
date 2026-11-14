@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 96230745,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 25888773,
+        "lat": "46.3862393",
+        "lon": "7.1288286",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.23094323434513592,
+        "addresstype": "lake",
+        "name": "Lac Lioson",
+        "display_name": "Lac Lioson, Ormont-Dessous, Aigle District, Waadt, Schweiz",
+        "address": {
+            "lake": "Lac Lioson",
+            "city": "Ormont-Dessous",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3850481",
+            "46.3874655",
+            "7.1263392",
+            "7.1310436"
+        ]
+    }
+]

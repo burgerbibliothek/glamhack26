@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73229311,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240109106,
+        "lat": "46.7119436",
+        "lon": "9.4072500",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.34731627116286135,
+        "addresstype": "hamlet",
+        "name": "Portein",
+        "display_name": "Portein, Sarn, Cazis, Region Viamala, Graubünden, 7423, Schweiz",
+        "address": {
+            "hamlet": "Portein",
+            "village": "Sarn",
+            "county": "Region Viamala",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7423",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6919436",
+            "46.7319436",
+            "9.3872500",
+            "9.4272500"
+        ]
+    }
+]

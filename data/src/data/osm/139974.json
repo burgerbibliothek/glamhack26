@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 188351656,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2265954,
+        "lat": "48.7454550",
+        "lon": "19.6600538",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.46947412653329906,
+        "addresstype": "municipality",
+        "name": "Schwarzwasser",
+        "display_name": "Schwarzwasser, District of Brezno, Neusohler Landschaftsverband, 976 52, Slowakei",
+        "address": {
+            "municipality": "Schwarzwasser",
+            "district": "District of Brezno",
+            "region": "Neusohler Landschaftsverband",
+            "ISO3166-2-lvl4": "SK-BC",
+            "postcode": "976 52",
+            "country": "Slowakei",
+            "country_code": "sk"
+        },
+        "boundingbox": [
+            "48.6544179",
+            "48.7872054",
+            "19.5401738",
+            "19.8124850"
+        ]
+    }
+]

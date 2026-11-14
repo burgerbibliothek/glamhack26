@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72830228,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240069454,
+        "lat": "47.2144081",
+        "lon": "8.2661787",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3272701010450185,
+        "addresstype": "village",
+        "name": "Gelfingen",
+        "display_name": "Gelfingen, Hitzkirch, Luzern, 6284, Schweiz",
+        "address": {
+            "village": "Gelfingen",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6284",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1944081",
+            "47.2344081",
+            "8.2461787",
+            "8.2861787"
+        ]
+    }
+]

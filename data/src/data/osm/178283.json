@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73315073,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7065903099,
+        "lat": "46.7129771",
+        "lon": "8.2603037",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.1067161844815747,
+        "addresstype": "isolated_dwelling",
+        "name": "Milital",
+        "display_name": "Milital, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3862, Schweiz",
+        "address": {
+            "isolated_dwelling": "Milital",
+            "city_district": "Innertkirchen",
+            "village": "Innertkirchen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3862",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7129271",
+            "46.7130271",
+            "8.2602537",
+            "8.2603537"
+        ]
+    }
+]

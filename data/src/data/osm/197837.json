@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73841702,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 291524462,
+        "lat": "46.0090846",
+        "lon": "8.9874096",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.31620884567581686,
+        "addresstype": "peak",
+        "name": "Monte Bre",
+        "display_name": "Monte Bre, Lugano, Bezirk Lugano, Tessin, 6974, Schweiz",
+        "address": {
+            "peak": "Monte Bre",
+            "city": "Lugano",
+            "county": "Bezirk Lugano",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6974",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0090346",
+            "46.0091346",
+            "8.9873596",
+            "8.9874596"
+        ]
+    }
+]

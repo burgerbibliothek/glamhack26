@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 120919586,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2845692,
+        "lat": "48.5590208",
+        "lon": "6.9562553",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5763537676131858,
+        "addresstype": "village",
+        "name": "Kleinberg",
+        "display_name": "Kleinberg, Lunéville, Meurthe-et-Moselle, Groß-Osten, Metropolitanes Frankreich, 54480, Frankreich",
+        "address": {
+            "village": "Kleinberg",
+            "municipality": "Lunéville",
+            "county": "Meurthe-et-Moselle",
+            "ISO3166-2-lvl6": "FR-54",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "54480",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.5233568",
+            "48.5703286",
+            "6.9115528",
+            "7.0648684"
+        ]
+    }
+]

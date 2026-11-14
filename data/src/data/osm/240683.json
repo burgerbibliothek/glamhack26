@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72013655,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 320592263,
+        "lat": "47.3098855",
+        "lon": "8.8716759",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.23822746059912708,
+        "addresstype": "village",
+        "name": "Girenbad",
+        "display_name": "Girenbad, Hinwil, Bezirk Hinwil, Zürich, 8342, Schweiz",
+        "address": {
+            "village": "Girenbad",
+            "county": "Bezirk Hinwil",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8342",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2898855",
+            "47.3298855",
+            "8.8516759",
+            "8.8916759"
+        ]
+    }
+]

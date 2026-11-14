@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 90642338,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 135300153,
+        "lat": "46.2252475",
+        "lon": "7.8540170",
+        "category": "railway",
+        "type": "narrow_gauge",
+        "place_rank": 30,
+        "importance": 4.681849393449329e-05,
+        "addresstype": "railway",
+        "name": "Mühlebachviadukt",
+        "display_name": "Mühlebachviadukt, Milibachweg, Liechtbiel, Stalden (VS), Visp, Oberwallis, Wallis, 3922, Schweiz",
+        "address": {
+            "railway": "Mühlebachviadukt",
+            "road": "Milibachweg",
+            "hamlet": "Liechtbiel",
+            "village": "Stalden (VS)",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3922",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2249676",
+            "46.2255242",
+            "7.8537585",
+            "7.8542789"
+        ]
+    }
+]

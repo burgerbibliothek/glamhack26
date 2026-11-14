@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92810813,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682545,
+        "lat": "47.1650756",
+        "lon": "7.7980706",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4352756649539807,
+        "addresstype": "village",
+        "name": "Madiswil",
+        "display_name": "Madiswil, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4934, Schweiz",
+        "address": {
+            "village": "Madiswil",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4934",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1295630",
+            "47.1872582",
+            "7.7461807",
+            "7.8460865"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73485970,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684636,
+        "lat": "46.1832076",
+        "lon": "8.8132035",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3799838315762615,
+        "addresstype": "village",
+        "name": "Brione sopra Minusio",
+        "display_name": "Brione sopra Minusio, Kreis Navegna, Bezirk Locarno, Tessin, 6645, Schweiz",
+        "address": {
+            "village": "Brione sopra Minusio",
+            "municipality": "Kreis Navegna",
+            "county": "Bezirk Locarno",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6645",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1812770",
+            "46.2087566",
+            "8.7911332",
+            "8.8377001"
+        ]
+    }
+]

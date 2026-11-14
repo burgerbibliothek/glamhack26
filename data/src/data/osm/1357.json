@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92063179,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9212755519,
+        "lat": "46.6962475",
+        "lon": "7.8767453",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671666819256882,
+        "addresstype": "village",
+        "name": "Goldswil",
+        "display_name": "Goldswil, Ringgenberg (BE), Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3805, Schweiz",
+        "address": {
+            "village": "Goldswil",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3805",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6762475",
+            "46.7162475",
+            "7.8567453",
+            "7.8967453"
+        ]
+    }
+]

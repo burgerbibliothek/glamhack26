@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 116440704,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 259103476,
+        "lat": "50.6711365",
+        "lon": "7.2272596",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005725871671625,
+        "addresstype": "peak",
+        "name": "Schallenberg",
+        "display_name": "Schallenberg, Bad Honnef, Rhein-Sieg-Kreis, Nordrhein-Westfalen, 53604, Deutschland",
+        "address": {
+            "peak": "Schallenberg",
+            "town": "Bad Honnef",
+            "county": "Rhein-Sieg-Kreis",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "53604",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.6710865",
+            "50.6711865",
+            "7.2272096",
+            "7.2273096"
+        ]
+    }
+]

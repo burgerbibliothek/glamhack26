@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 419590611,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685481,
+        "lat": "47.0562668",
+        "lon": "7.0133883",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.36712697163315744,
+        "addresstype": "village",
+        "name": "Enges",
+        "display_name": "Enges, Laténa, Région Littoral, Neuenburg, 2073, Schweiz",
+        "address": {
+            "village": "Enges",
+            "city": "Laténa",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2073",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0508457",
+            "47.0949715",
+            "6.9868856",
+            "7.0362509"
+        ]
+    }
+]

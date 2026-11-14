@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92154894,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240091515,
+        "lat": "46.8147336",
+        "lon": "7.6397756",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.4173921172966249,
+        "addresstype": "village",
+        "name": "Bleiken bei Oberdiessbach",
+        "display_name": "Bleiken bei Oberdiessbach, Oberdiessbach, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3674, Schweiz",
+        "address": {
+            "village": "Bleiken bei Oberdiessbach",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3674",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7947336",
+            "46.8347336",
+            "7.6197756",
+            "7.6597756"
+        ]
+    }
+]

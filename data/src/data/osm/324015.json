@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 184507041,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1518864567,
+        "lat": "50.0621640",
+        "lon": "19.9406416",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.936751354233642e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "8, Spitalgasse, Altstadt, Stare Miasto, Altstadt, Krakau, Woiwodschaft Kleinpolen, 31-024, Polen",
+        "address": {
+            "house_number": "8",
+            "road": "Spitalgasse",
+            "quarter": "Altstadt",
+            "suburb": "Stare Miasto",
+            "city_district": "Altstadt",
+            "city": "Krakau",
+            "state": "Woiwodschaft Kleinpolen",
+            "ISO3166-2-lvl4": "PL-12",
+            "postcode": "31-024",
+            "country": "Polen",
+            "country_code": "pl"
+        },
+        "boundingbox": [
+            "50.0621140",
+            "50.0622140",
+            "19.9405916",
+            "19.9406916"
+        ]
+    }
+]

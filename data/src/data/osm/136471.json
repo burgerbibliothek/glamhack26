@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91845658,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1373127845,
+        "lat": "46.1180340",
+        "lon": "7.1999230",
+        "category": "tourism",
+        "type": "viewpoint",
+        "place_rank": 30,
+        "importance": 0.4440950859909343,
+        "addresstype": "tourism",
+        "name": "Pierre Avoi",
+        "display_name": "Pierre Avoi, Ancien bisse de Saxon, L'Arbarey, Saxon, Martinach, Unterwallis, Wallis, 1907, Schweiz",
+        "address": {
+            "tourism": "Pierre Avoi",
+            "road": "Ancien bisse de Saxon",
+            "hamlet": "L'Arbarey",
+            "village": "Saxon",
+            "county": "Martinach",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1907",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1179840",
+            "46.1180840",
+            "7.1998730",
+            "7.1999730"
+        ]
+    }
+]

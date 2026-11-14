@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72458970,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 308671169,
+        "lat": "47.2014835",
+        "lon": "8.5170948",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 5.311131456469089e-05,
+        "addresstype": "amenity",
+        "name": "Blickensdorf",
+        "display_name": "Blickensdorf, 4, Blickensdorferstrasse, Alpenblick, Baar, Zug, 6340, Schweiz",
+        "address": {
+            "amenity": "Blickensdorf",
+            "house_number": "4",
+            "road": "Blickensdorferstrasse",
+            "hamlet": "Alpenblick",
+            "town": "Baar",
+            "state": "Zug",
+            "ISO3166-2-lvl4": "CH-ZG",
+            "postcode": "6340",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2013619",
+            "47.2016035",
+            "8.5169494",
+            "8.5172365"
+        ]
+    }
+]

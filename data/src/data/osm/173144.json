@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73580693,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6052575318,
+        "lat": "46.9741858",
+        "lon": "9.4877065",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 4.722743572132475e-05,
+        "addresstype": "information",
+        "name": "Bad Pfäfers",
+        "display_name": "Bad Pfäfers, Badweg, Ragol, Pfäfers, Wahlkreis Sarganserland, St. Gallen, 7317, Schweiz",
+        "address": {
+            "information": "Bad Pfäfers",
+            "road": "Badweg",
+            "hamlet": "Ragol",
+            "village": "Pfäfers",
+            "county": "Wahlkreis Sarganserland",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "7317",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9741358",
+            "46.9742358",
+            "9.4876565",
+            "9.4877565"
+        ]
+    }
+]

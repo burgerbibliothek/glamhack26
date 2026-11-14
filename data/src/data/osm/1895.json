@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 73375471,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10048744013,
+        "lat": "46.5700751",
+        "lon": "8.2221825",
+        "category": "tourism",
+        "type": "alpine_hut",
+        "place_rank": 30,
+        "importance": 0.22274623325780465,
+        "addresstype": "tourism",
+        "name": "Lauteraarhütte",
+        "display_name": "Lauteraarhütte, 3, Lauteraarhütte, Guttannen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3864, Schweiz",
+        "address": {
+            "tourism": "Lauteraarhütte",
+            "house_number": "3",
+            "locality": "Lauteraarhütte",
+            "city": "Guttannen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3864",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5700251",
+            "46.5701251",
+            "8.2221325",
+            "8.2222325"
+        ]
+    }
+]

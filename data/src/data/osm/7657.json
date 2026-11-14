@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 75546530,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 574805593,
+        "lat": "45.8623054",
+        "lon": "8.9524612",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3763219162544729,
+        "addresstype": "village",
+        "name": "Ligornetto",
+        "display_name": "Ligornetto, Mendrisio, Kreis Mendrisio, Bezirk Mendrisio, Tessin, 6853, Schweiz",
+        "address": {
+            "village": "Ligornetto",
+            "town": "Mendrisio",
+            "municipality": "Kreis Mendrisio",
+            "county": "Bezirk Mendrisio",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6853",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.8423054",
+            "45.8823054",
+            "8.9324612",
+            "8.9724612"
+        ]
+    }
+]

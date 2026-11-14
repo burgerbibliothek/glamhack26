@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92966373,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3081154391,
+        "lat": "47.0985980",
+        "lon": "6.8251130",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.3623846332493779,
+        "addresstype": "railway",
+        "name": "La Chaux-de-Fonds",
+        "display_name": "La Chaux-de-Fonds, 6, Place de la Gare, Quartier Corbusier, La Chaux-de-Fonds, Région Montagnes, Neuenburg, 2300, Schweiz",
+        "address": {
+            "railway": "La Chaux-de-Fonds",
+            "house_number": "6",
+            "road": "Place de la Gare",
+            "neighbourhood": "Quartier Corbusier",
+            "town": "La Chaux-de-Fonds",
+            "region": "Région Montagnes",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2300",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0935980",
+            "47.1035980",
+            "6.8201130",
+            "6.8301130"
+        ]
+    }
+]

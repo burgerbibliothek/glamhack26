@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92032848,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685200,
+        "lat": "46.8239401",
+        "lon": "6.5757152",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4482706218576648,
+        "addresstype": "village",
+        "name": "Vugelles-La Mothe",
+        "display_name": "Vugelles-La Mothe, District du Jura-Nord vaudois, Waadt, 1431, Schweiz",
+        "address": {
+            "village": "Vugelles-La Mothe",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1431",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8143769",
+            "46.8365148",
+            "6.5580742",
+            "6.5949809"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 122409851,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 79578342,
+        "lat": "48.8244251",
+        "lon": "9.1179122",
+        "category": "building",
+        "type": "semidetached_house",
+        "place_rank": 30,
+        "importance": 7.8644235904433e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "4, Sonnenbergstraße, Korntal, Korntal-Münchingen, Landkreis Ludwigsburg, Baden-Württemberg, 70825, Deutschland",
+        "address": {
+            "house_number": "4",
+            "road": "Sonnenbergstraße",
+            "suburb": "Korntal",
+            "municipality": "Korntal-Münchingen",
+            "county": "Landkreis Ludwigsburg",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "70825",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.8243814",
+            "48.8244822",
+            "9.1178292",
+            "9.1179952"
+        ]
+    }
+]

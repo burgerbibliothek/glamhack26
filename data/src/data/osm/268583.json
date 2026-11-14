@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93302259,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685587,
+        "lat": "47.3489876",
+        "lon": "7.4561999",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37735982282950553,
+        "addresstype": "village",
+        "name": "Courchapoix",
+        "display_name": "Courchapoix, Bezirk Delsberg, Jura, 2825, Schweiz",
+        "address": {
+            "village": "Courchapoix",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2825",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3279349",
+            "47.3734722",
+            "7.4374029",
+            "7.4676912"
+        ]
+    }
+]

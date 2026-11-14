@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73576696,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4419923380,
+        "lat": "46.7722566",
+        "lon": "8.0199062",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 5.121461814293152e-05,
+        "addresstype": "railway",
+        "name": "Planalp",
+        "display_name": "Planalp, Ausweid, Brienz BE, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3855, Schweiz",
+        "address": {
+            "railway": "Planalp",
+            "road": "Ausweid",
+            "village": "Brienz BE",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3855",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7672566",
+            "46.7772566",
+            "8.0149062",
+            "8.0249062"
+        ]
+    }
+]

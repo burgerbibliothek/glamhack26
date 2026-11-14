@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92528171,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685510,
+        "lat": "47.0465806",
+        "lon": "6.8726044",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3733250944850813,
+        "addresstype": "village",
+        "name": "Les Hauts-Geneveys",
+        "display_name": "Les Hauts-Geneveys, Val-de-Ruz, Val-de-Ruz Region, Neuenburg, 2208, Schweiz",
+        "address": {
+            "village": "Les Hauts-Geneveys",
+            "city": "Val-de-Ruz",
+            "county": "Val-de-Ruz Region",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2208",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0391881",
+            "47.0665655",
+            "6.8267563",
+            "6.8868313"
+        ]
+    }
+]

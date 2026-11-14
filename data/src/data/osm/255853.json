@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73342494,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3411183,
+        "lat": "46.3905924",
+        "lon": "8.0627954",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3397246672409687,
+        "addresstype": "village",
+        "name": "Bettmeralp",
+        "display_name": "Bettmeralp, Östlich Raron, Oberwallis, Wallis, Schweiz",
+        "address": {
+            "village": "Bettmeralp",
+            "county": "Östlich Raron",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3689200",
+            "46.4780169",
+            "7.9916551",
+            "8.1060821"
+        ]
+    }
+]

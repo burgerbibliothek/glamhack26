@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92482062,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682625,
+        "lat": "47.1183746",
+        "lon": "7.7983862",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41694355024061613,
+        "addresstype": "village",
+        "name": "Rohrbachgraben",
+        "display_name": "Rohrbachgraben, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4938, Schweiz",
+        "address": {
+            "village": "Rohrbachgraben",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4938",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0956329",
+            "47.1300754",
+            "7.7855821",
+            "7.8249166"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91705690,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685371,
+        "lat": "46.1219825",
+        "lon": "7.0208326",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38382602028473783,
+        "addresstype": "village",
+        "name": "Salvan",
+        "display_name": "Salvan, St-Maurice, Unterwallis, Wallis, Schweiz",
+        "address": {
+            "village": "Salvan",
+            "county": "St-Maurice",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0705561",
+            "46.1530388",
+            "6.8822185",
+            "7.0385264"
+        ]
+    }
+]

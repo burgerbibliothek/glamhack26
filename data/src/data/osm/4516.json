@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 127746722,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 87406487,
+        "lat": "48.1341612",
+        "lon": "11.5759493",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "2, Reichenbachstraße, Angerviertel, Altstadt-Lehel, München, Bayern, 80469, Deutschland",
+        "address": {
+            "house_number": "2",
+            "road": "Reichenbachstraße",
+            "quarter": "Angerviertel",
+            "suburb": "Altstadt-Lehel",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "80469",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1340468",
+            "48.1342665",
+            "11.5758401",
+            "11.5762390"
+        ]
+    }
+]

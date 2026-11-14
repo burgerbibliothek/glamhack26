@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92048291,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 57907784,
+        "lat": "47.3630562",
+        "lon": "7.9991756",
+        "category": "building",
+        "type": "detached",
+        "place_rank": 30,
+        "importance": 5.1594567788159264e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "22, Kirchenfeldstrasse, Gretzenbach, Bezirk Olten, Amtei Olten-Gösgen, Solothurn, 5014, Schweiz",
+        "address": {
+            "house_number": "22",
+            "road": "Kirchenfeldstrasse",
+            "village": "Gretzenbach",
+            "municipality": "Bezirk Olten",
+            "county": "Amtei Olten-Gösgen",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "5014",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3629990",
+            "47.3630956",
+            "7.9991011",
+            "7.9992503"
+        ]
+    }
+]

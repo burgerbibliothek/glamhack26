@@ -1,0 +1,26 @@
+[
+    {
+        "place_id": 375036816,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 36966063,
+        "lat": "51.0000002",
+        "lon": "-109.0000000",
+        "category": "place",
+        "type": "continent",
+        "place_rank": 2,
+        "importance": 0.8117948342387853,
+        "addresstype": "continent",
+        "name": "Nordamerika",
+        "display_name": "Nordamerika",
+        "address": {
+            "continent": "Nordamerika"
+        },
+        "boundingbox": [
+            "26.0000002",
+            "76.0000002",
+            "-134.0000000",
+            "-84.0000000"
+        ]
+    }
+]

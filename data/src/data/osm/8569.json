@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92058442,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685171,
+        "lat": "46.7528278",
+        "lon": "6.5249548",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44889533757221894,
+        "addresstype": "village",
+        "name": "Valeyres-sous-Rances",
+        "display_name": "Valeyres-sous-Rances, District du Jura-Nord vaudois, Waadt, 1358, Schweiz",
+        "address": {
+            "village": "Valeyres-sous-Rances",
+            "county": "District du Jura-Nord vaudois",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1358",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7383329",
+            "46.7581625",
+            "6.5032525",
+            "6.5791726"
+        ]
+    }
+]

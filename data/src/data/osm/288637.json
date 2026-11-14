@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 71419304,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684511,
+        "lat": "47.5580779",
+        "lon": "9.0797264",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41300133700796254,
+        "addresstype": "village",
+        "name": "Bussnang",
+        "display_name": "Bussnang, Bezirk Weinfelden, Thurgau, Schweiz",
+        "address": {
+            "village": "Bussnang",
+            "county": "Bezirk Weinfelden",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5091279",
+            "47.5669495",
+            "9.0402916",
+            "9.1420324"
+        ]
+    }
+]

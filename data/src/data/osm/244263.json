@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 102926011,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1669899181,
+        "lat": "50.7833860",
+        "lon": "2.8170014",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.18929199030239088,
+        "addresstype": "peak",
+        "name": "Lettenberg",
+        "display_name": "Lettenberg, Kemmel, Heuvelland, Ypern, Westflandern, Flandern, 8956, Belgien",
+        "address": {
+            "peak": "Lettenberg",
+            "village": "Kemmel",
+            "municipality": "Heuvelland",
+            "county": "Ypern",
+            "state": "Westflandern",
+            "ISO3166-2-lvl6": "BE-VWV",
+            "ISO3166-2-lvl4": "BE-VLG",
+            "postcode": "8956",
+            "country": "Belgien",
+            "country_code": "be"
+        },
+        "boundingbox": [
+            "50.7833360",
+            "50.7834360",
+            "2.8169514",
+            "2.8170514"
+        ]
+    }
+]

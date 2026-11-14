@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72557489,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684375,
+        "lat": "47.4158620",
+        "lon": "8.1823328",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4143029080783626,
+        "addresstype": "village",
+        "name": "Möriken-Wildegg",
+        "display_name": "Möriken-Wildegg, Bezirk Lenzburg, Aargau, 5103, Schweiz",
+        "address": {
+            "village": "Möriken-Wildegg",
+            "county": "Bezirk Lenzburg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5103",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4036886",
+            "47.4273833",
+            "8.1546717",
+            "8.2124590"
+        ]
+    }
+]

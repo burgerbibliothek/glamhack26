@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91712031,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12574211203,
+        "lat": "46.6995360",
+        "lon": "7.5380556",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.0667116678110933,
+        "addresstype": "locality",
+        "name": "Bachalp",
+        "display_name": "Bachalp, Oberstocken, Stocken-Höfen, Verwaltungskreis Thun, Oberland administrative region, Bern, 3632, Schweiz",
+        "address": {
+            "locality": "Bachalp",
+            "village": "Oberstocken",
+            "city": "Stocken-Höfen",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3632",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6895360",
+            "46.7095360",
+            "7.5280556",
+            "7.5480556"
+        ]
+    }
+]

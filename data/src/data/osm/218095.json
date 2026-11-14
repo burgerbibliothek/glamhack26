@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92117226,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 286029378,
+        "lat": "46.8988036",
+        "lon": "7.3887254",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.10540294855860563,
+        "addresstype": "hamlet",
+        "name": "Mengestorf",
+        "display_name": "Mengestorf, Gasel, Köniz, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3145, Schweiz",
+        "address": {
+            "hamlet": "Mengestorf",
+            "suburb": "Gasel",
+            "town": "Köniz",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3145",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8788036",
+            "46.9188036",
+            "7.3687254",
+            "7.4087254"
+        ]
+    }
+]

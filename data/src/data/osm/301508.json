@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 187356942,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 152263822,
+        "lat": "48.3034972",
+        "lon": "16.4235413",
+        "category": "building",
+        "type": "detached",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "6, Hochfeldstraße, Katastralgemeinde Stammersdorf, Floridsdorf, Wien, 1210, Österreich",
+        "address": {
+            "house_number": "6",
+            "road": "Hochfeldstraße",
+            "suburb": "Katastralgemeinde Stammersdorf",
+            "city_district": "Floridsdorf",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1210",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.3034159",
+            "48.3035888",
+            "16.4234557",
+            "16.4236273"
+        ]
+    }
+]

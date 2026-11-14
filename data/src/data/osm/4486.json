@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 137925082,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 189899686,
+        "lat": "50.0875581",
+        "lon": "8.8054160",
+        "category": "amenity",
+        "type": "community_centre",
+        "place_rank": 30,
+        "importance": 6.492027161054425e-05,
+        "addresstype": "amenity",
+        "name": "Pfarrheim St. Nikolaus",
+        "display_name": "Pfarrheim St. Nikolaus, 35, Rathausgasse, Waldhof, Bieber, Offenbach am Main, Hessen, 63073, Deutschland",
+        "address": {
+            "amenity": "Pfarrheim St. Nikolaus",
+            "house_number": "35",
+            "road": "Rathausgasse",
+            "suburb": "Waldhof",
+            "city": "Offenbach am Main",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "63073",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.0873622",
+            "50.0877151",
+            "8.8051519",
+            "8.8057102"
+        ]
+    }
+]

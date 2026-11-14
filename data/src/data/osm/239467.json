@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92262469,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2459510861,
+        "lat": "46.5320038",
+        "lon": "7.9673004",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1679799034751623,
+        "addresstype": "peak",
+        "name": "Rottalhorn",
+        "display_name": "Rottalhorn, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3801, Schweiz",
+        "address": {
+            "peak": "Rottalhorn",
+            "village": "Lauterbrunnen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3801",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5319538",
+            "46.5320538",
+            "7.9672504",
+            "7.9673504"
+        ]
+    }
+]

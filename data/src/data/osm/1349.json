@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91875265,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1056485576,
+        "lat": "46.9942543",
+        "lon": "7.5265289",
+        "category": "highway",
+        "type": "unclassified",
+        "place_rank": 26,
+        "importance": 0.053378885328450414,
+        "addresstype": "unclassified",
+        "name": "Geristein",
+        "display_name": "Geristein, Bolligen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3065, Schweiz",
+        "address": {
+            "road": "Geristein",
+            "hamlet": "Geristein",
+            "village": "Bolligen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3065",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9917469",
+            "46.9947393",
+            "7.5239994",
+            "7.5304950"
+        ]
+    }
+]

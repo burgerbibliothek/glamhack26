@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92195504,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 88608238,
+        "lat": "47.2362082",
+        "lon": "6.9611563",
+        "category": "highway",
+        "type": "mountaineering",
+        "place_rank": 30,
+        "importance": 3.60059510184942e-05,
+        "addresstype": "highway",
+        "name": "Arête des Sommêtres",
+        "display_name": "Arête des Sommêtres, Arete des Sommetres, Muriaux, Freiberge, Jura, 2338, Schweiz",
+        "address": {
+            "highway": "Arête des Sommêtres",
+            "road": "Arete des Sommetres",
+            "village": "Muriaux",
+            "county": "Freiberge",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2338",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2360624",
+            "47.2370387",
+            "6.9576641",
+            "6.9651356"
+        ]
+    }
+]

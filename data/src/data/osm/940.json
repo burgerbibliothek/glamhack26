@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 157151232,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1086042006,
+        "lat": "52.5672941",
+        "lon": "1.7304440",
+        "category": "leisure",
+        "type": "playground",
+        "place_rank": 30,
+        "importance": 6.086442359040234e-05,
+        "addresstype": "leisure",
+        "name": "Gorleston Cliffs Playground",
+        "display_name": "Gorleston Cliffs Playground, Marine Parade, Gorleston-on-Sea, Great Yarmouth, Norfolk, England, NR31 6DX, Vereinigtes Königreich",
+        "address": {
+            "leisure": "Gorleston Cliffs Playground",
+            "road": "Marine Parade",
+            "town": "Gorleston-on-Sea",
+            "city": "Great Yarmouth",
+            "county": "Norfolk",
+            "ISO3166-2-lvl6": "GB-NFK",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "NR31 6DX",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "52.5668770",
+            "52.5675079",
+            "1.7301201",
+            "1.7307718"
+        ]
+    }
+]

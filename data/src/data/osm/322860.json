@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91845501,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 424734882,
+        "lat": "46.8942368",
+        "lon": "7.2985081",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 5.2284275577889944e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "13, Laupenstrasse, Neuenegg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3176, Schweiz",
+        "address": {
+            "house_number": "13",
+            "road": "Laupenstrasse",
+            "village": "Neuenegg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3176",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8940698",
+            "46.8942973",
+            "7.2983394",
+            "7.2987677"
+        ]
+    }
+]

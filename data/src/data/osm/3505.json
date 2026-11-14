@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 188016200,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 821542566,
+        "lat": "48.2221137",
+        "lon": "16.3434116",
+        "category": "shop",
+        "type": "kitchen",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "shop",
+        "name": "Veneta Cucine",
+        "display_name": "Veneta Cucine, 2, Kreuzgasse, Katastralgemeinde Währing, Währing, Wien, 1180, Österreich",
+        "address": {
+            "shop": "Veneta Cucine",
+            "house_number": "2",
+            "road": "Kreuzgasse",
+            "suburb": "Katastralgemeinde Währing",
+            "city_district": "Währing",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1180",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2220637",
+            "48.2221637",
+            "16.3433616",
+            "16.3434616"
+        ]
+    }
+]

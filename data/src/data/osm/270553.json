@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91315337,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683286,
+        "lat": "46.5962366",
+        "lon": "7.1792570",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3763219162544729,
+        "addresstype": "city_district",
+        "name": "Charmey",
+        "display_name": "Charmey, Val-de-Charmey, Greyerzbezirk, Freiburg, 1637, Schweiz",
+        "address": {
+            "city_district": "Charmey",
+            "city": "Val-de-Charmey",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1637",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5267904",
+            "46.6656947",
+            "7.1396125",
+            "7.2868640"
+        ]
+    }
+]

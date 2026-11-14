@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 95588058,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 87386060,
+        "lat": "45.8688421",
+        "lon": "7.1705349",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.35782926338984733,
+        "addresstype": "amenity",
+        "name": "Hospiz auf dem Grossen Sankt Bernhard",
+        "display_name": "Hospiz auf dem Grossen Sankt Bernhard, 2, Grosser Sankt Bernhard, Le Tronchet, Bourg-Saint-Pierre, Entremont, Unterwallis, Wallis, 1946, Schweiz",
+        "address": {
+            "amenity": "Hospiz auf dem Grossen Sankt Bernhard",
+            "house_number": "2",
+            "locality": "Grosser Sankt Bernhard",
+            "hamlet": "Le Tronchet",
+            "village": "Bourg-Saint-Pierre",
+            "county": "Entremont",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1946",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.8686597",
+            "45.8690003",
+            "7.1702033",
+            "7.1711387"
+        ]
+    }
+]

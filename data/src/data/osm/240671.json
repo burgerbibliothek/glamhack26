@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72280588,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682219,
+        "lat": "47.4368146",
+        "lon": "8.8485210",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4164918895942647,
+        "addresstype": "village",
+        "name": "Turbenthal",
+        "display_name": "Turbenthal, Bezirk Winterthur, Zürich, Schweiz",
+        "address": {
+            "village": "Turbenthal",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4014336",
+            "47.4636978",
+            "8.8300699",
+            "8.9330979"
+        ]
+    }
+]

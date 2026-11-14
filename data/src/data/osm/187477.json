@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92315182,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684990,
+        "lat": "46.6581874",
+        "lon": "6.6048232",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3382445921771202,
+        "addresstype": "village",
+        "name": "Goumoens-la-Ville",
+        "display_name": "Goumoens-la-Ville, Goumoëns, District du Gros-de-Vaud, Waadt, 1376, Schweiz",
+        "address": {
+            "village": "Goumoens-la-Ville",
+            "city": "Goumoëns",
+            "county": "District du Gros-de-Vaud",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1376",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6433843",
+            "46.6747143",
+            "6.5906062",
+            "6.6332628"
+        ]
+    }
+]

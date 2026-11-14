@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91824949,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2322949664,
+        "lat": "46.9464703",
+        "lon": "7.4400890",
+        "category": "office",
+        "type": "diplomatic",
+        "place_rank": 30,
+        "importance": 0.34499484463742425,
+        "addresstype": "office",
+        "name": "Embassy of Sweden",
+        "display_name": "Embassy of Sweden, 26, Bundesgasse, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "office": "Embassy of Sweden",
+            "house_number": "26",
+            "road": "Bundesgasse",
+            "quarter": "Rotes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9464203",
+            "46.9465203",
+            "7.4400390",
+            "7.4401390"
+        ]
+    }
+]

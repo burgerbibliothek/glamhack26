@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 116029530,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2863599421,
+        "lat": "50.9354668",
+        "lon": "6.9525522",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.006485084301545e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "24, Cäcilienstraße, Cäcilienviertel, Altstadt-Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50667, Deutschland",
+        "address": {
+            "house_number": "24",
+            "road": "Cäcilienstraße",
+            "neighbourhood": "Cäcilienviertel",
+            "suburb": "Altstadt-Süd",
+            "city_district": "Innenstadt",
+            "city": "Köln",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "50667",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9354168",
+            "50.9355168",
+            "6.9525022",
+            "6.9526022"
+        ]
+    }
+]

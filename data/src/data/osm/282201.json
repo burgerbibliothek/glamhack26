@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92669622,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3658333220,
+        "lat": "47.1293982",
+        "lon": "7.2168387",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.27236747457604304,
+        "addresstype": "suburb",
+        "name": "Vingelz",
+        "display_name": "Vingelz, Biel, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2505, Schweiz",
+        "address": {
+            "suburb": "Vingelz",
+            "city": "Biel",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2505",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1093982",
+            "47.1493982",
+            "7.1968387",
+            "7.2368387"
+        ]
+    }
+]

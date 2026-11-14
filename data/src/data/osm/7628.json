@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91689939,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682532,
+        "lat": "46.4558879",
+        "lon": "7.4416976",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4247821346186361,
+        "addresstype": "village",
+        "name": "Lenk",
+        "display_name": "Lenk, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3775, Schweiz",
+        "address": {
+            "village": "Lenk",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3775",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3651894",
+            "46.4970530",
+            "7.3736577",
+            "7.5552666"
+        ]
+    }
+]

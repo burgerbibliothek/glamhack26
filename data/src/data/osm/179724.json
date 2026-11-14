@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 321284224,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 19964703,
+        "lat": "39.0713335",
+        "lon": "-122.7675817",
+        "category": "boundary",
+        "type": "census",
+        "place_rank": 25,
+        "importance": 0.3623846332493779,
+        "addresstype": "census",
+        "name": "Lucerne",
+        "display_name": "Lucerne, Lake County, Kalifornien, 95458, Vereinigte Staaten von Amerika",
+        "address": {
+            "census": "Lucerne",
+            "village": "Lucerne",
+            "county": "Lake County",
+            "state": "Kalifornien",
+            "ISO3166-2-lvl4": "US-CA",
+            "postcode": "95458",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "39.0362590",
+            "39.1063560",
+            "-122.8097220",
+            "-122.7495670"
+        ]
+    }
+]

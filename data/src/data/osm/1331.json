@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 130771030,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 280646106,
+        "lat": "49.0209262",
+        "lon": "12.0998616",
+        "category": "historic",
+        "type": "ship",
+        "place_rank": 30,
+        "importance": 0.22697289548003588,
+        "addresstype": "historic",
+        "name": "Freudenau",
+        "display_name": "Freudenau, Marc-Aurel-Ufer, Ostermayer-Viertel, Altstadt, Regensburg, Bayern, 93047, Deutschland",
+        "address": {
+            "historic": "Freudenau",
+            "road": "Marc-Aurel-Ufer",
+            "neighbourhood": "Ostermayer-Viertel",
+            "suburb": "Altstadt",
+            "city": "Regensburg",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "93047",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.0208805",
+            "49.0209787",
+            "12.0995141",
+            "12.1001452"
+        ]
+    }
+]

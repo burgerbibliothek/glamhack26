@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 132175634,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4715518356,
+        "lat": "50.9438344",
+        "lon": "14.6110583",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005524757763026,
+        "addresstype": "peak",
+        "name": "Stachelberg",
+        "display_name": "Stachelberg, Seifhennersdorf, Bertsdorf-Hörnitz, Görlitz, Sachsen, 02782, Deutschland",
+        "address": {
+            "peak": "Stachelberg",
+            "town": "Seifhennersdorf",
+            "municipality": "Bertsdorf-Hörnitz",
+            "county": "Görlitz",
+            "state": "Sachsen",
+            "ISO3166-2-lvl4": "DE-SN",
+            "postcode": "02782",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9437844",
+            "50.9438844",
+            "14.6110083",
+            "14.6111083"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92415920,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2431440023,
+        "lat": "46.5892131",
+        "lon": "6.8537758",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.24632300460320036,
+        "addresstype": "village",
+        "name": "Pont",
+        "display_name": "Pont, Le Flon, Vivisbachbezirk, Freiburg, 1608, Schweiz",
+        "address": {
+            "village": "Pont",
+            "city": "Le Flon",
+            "county": "Vivisbachbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1608",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5692131",
+            "46.6092131",
+            "6.8337758",
+            "6.8737758"
+        ]
+    }
+]

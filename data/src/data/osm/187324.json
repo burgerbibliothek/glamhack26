@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91993258,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240069070,
+        "lat": "46.5286626",
+        "lon": "6.4794327",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.34188389141160974,
+        "addresstype": "village",
+        "name": "Monnaz",
+        "display_name": "Monnaz, Echichens, District de Morges, Waadt, 1125, Schweiz",
+        "address": {
+            "village": "Monnaz",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1125",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5086626",
+            "46.5486626",
+            "6.4594327",
+            "6.4994327"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 281146985,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 358010,
+        "lat": "48.2349806",
+        "lon": "-2.7334080",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5588995131232697,
+        "addresstype": "village",
+        "name": "La Motte",
+        "display_name": "La Motte, Saint-Brieuc, Côtes-d'Armor, Bretagne, Metropolitanes Frankreich, 22600, Frankreich",
+        "address": {
+            "village": "La Motte",
+            "municipality": "Saint-Brieuc",
+            "county": "Côtes-d'Armor",
+            "ISO3166-2-lvl6": "FR-22",
+            "state": "Bretagne",
+            "ISO3166-2-lvl4": "FR-BRE",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "22600",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.2028057",
+            "48.2651112",
+            "-2.7789044",
+            "-2.6314040"
+        ]
+    }
+]

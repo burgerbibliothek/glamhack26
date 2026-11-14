@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 85179028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3089341556,
+        "lat": "43.7209618",
+        "lon": "1.4908850",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333979606317235,
+        "addresstype": "hamlet",
+        "name": "Chartreuse",
+        "display_name": "Chartreuse, Montberon, Toulouse, Haute-Garonne, Okzitanien, Metropolitanes Frankreich, 31140, Frankreich",
+        "address": {
+            "hamlet": "Chartreuse",
+            "village": "Montberon",
+            "municipality": "Toulouse",
+            "county": "Haute-Garonne",
+            "ISO3166-2-lvl6": "FR-31",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "31140",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.7009618",
+            "43.7409618",
+            "1.4708850",
+            "1.5108850"
+        ]
+    }
+]

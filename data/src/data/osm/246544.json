@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92706764,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682633,
+        "lat": "47.0843461",
+        "lon": "7.5697742",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42044889705287697,
+        "addresstype": "city",
+        "name": "Rüdtligen-Alchenflüh",
+        "display_name": "Rüdtligen-Alchenflüh, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3422, Schweiz",
+        "address": {
+            "city": "Rüdtligen-Alchenflüh",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3422",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0729317",
+            "47.0958867",
+            "7.5537038",
+            "7.5848241"
+        ]
+    }
+]

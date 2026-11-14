@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91631885,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 123097372,
+        "lat": "46.7116261",
+        "lon": "7.4398866",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.13337502327000839,
+        "addresstype": "lake",
+        "name": "Gantrischseeli",
+        "display_name": "Gantrischseeli, Rüschegg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, Schweiz",
+        "address": {
+            "lake": "Gantrischseeli",
+            "village": "Rüschegg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7108020",
+            "46.7124834",
+            "7.4392881",
+            "7.4407188"
+        ]
+    }
+]

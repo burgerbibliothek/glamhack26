@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 90789031,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683284,
+        "lat": "46.6340323",
+        "lon": "7.1589080",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3453315576369598,
+        "addresstype": "village",
+        "name": "Cerniat (FR)",
+        "display_name": "Cerniat (FR), Val-de-Charmey, Greyerzbezirk, Freiburg, 1654, Schweiz",
+        "address": {
+            "village": "Cerniat (FR)",
+            "city": "Val-de-Charmey",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1654",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6254618",
+            "46.7100269",
+            "7.1328195",
+            "7.2597030"
+        ]
+    }
+]

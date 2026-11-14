@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 115479545,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 533596,
+        "lat": "50.5739599",
+        "lon": "7.8104924",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5081253723404346,
+        "addresstype": "village",
+        "name": "Steinen",
+        "display_name": "Steinen, Selters (Westerwald), Westerwaldkreis, Rheinland-Pfalz, Deutschland",
+        "address": {
+            "village": "Steinen",
+            "municipality": "Selters (Westerwald)",
+            "county": "Westerwaldkreis",
+            "state": "Rheinland-Pfalz",
+            "ISO3166-2-lvl4": "DE-RP",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.5568528",
+            "50.5862814",
+            "7.7963355",
+            "7.8294583"
+        ]
+    }
+]

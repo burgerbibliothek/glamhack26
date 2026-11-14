@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92792430,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5964732809,
+        "lat": "47.3014579",
+        "lon": "7.9795943",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.26922332516764147,
+        "addresstype": "village",
+        "name": "Mühlethal",
+        "display_name": "Mühlethal, Zofingen, Bezirk Zofingen, Aargau, 4812, Schweiz",
+        "address": {
+            "village": "Mühlethal",
+            "town": "Zofingen",
+            "county": "Bezirk Zofingen",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "4812",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2814579",
+            "47.3214579",
+            "7.9595943",
+            "7.9995943"
+        ]
+    }
+]

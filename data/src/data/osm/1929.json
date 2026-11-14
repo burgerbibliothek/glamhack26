@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73141580,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2498640506,
+        "lat": "47.4716707",
+        "lon": "9.5338482",
+        "category": "railway",
+        "type": "halt",
+        "place_rank": 30,
+        "importance": 0.3618648643770844,
+        "addresstype": "railway",
+        "name": "Wartensee",
+        "display_name": "Wartensee, Station Wartensee, Buechen, Staad SG, Thal, Wahlkreis Rorschach, St. Gallen, 9422, Schweiz",
+        "address": {
+            "railway": "Wartensee",
+            "road": "Station Wartensee",
+            "hamlet": "Buechen",
+            "village": "Staad SG",
+            "county": "Wahlkreis Rorschach",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9422",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4716207",
+            "47.4717207",
+            "9.5337982",
+            "9.5338982"
+        ]
+    }
+]

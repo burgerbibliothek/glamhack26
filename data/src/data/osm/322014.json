@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 122258261,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 606154379,
+        "lat": "48.7220655",
+        "lon": "9.2344023",
+        "category": "landuse",
+        "type": "greenfield",
+        "place_rank": 24,
+        "importance": 0.0800552521553368,
+        "addresstype": "greenfield",
+        "name": "Elisabethenstraße 42",
+        "display_name": "Elisabethenstraße 42, Kemnat, Ostfildern, Landkreis Esslingen, Baden-Württemberg, Deutschland",
+        "address": {
+            "greenfield": "Elisabethenstraße 42",
+            "village": "Kemnat",
+            "municipality": "Ostfildern",
+            "county": "Landkreis Esslingen",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.7219771",
+            "48.7221760",
+            "9.2342758",
+            "9.2345288"
+        ]
+    }
+]

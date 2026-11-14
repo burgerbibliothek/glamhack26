@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91340905,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683291,
+        "lat": "46.6139677",
+        "lon": "7.1290698",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3867453017489014,
+        "addresstype": "village",
+        "name": "Châtel-sur-Montsalvens",
+        "display_name": "Châtel-sur-Montsalvens, Greyerzbezirk, Freiburg, 1653, Schweiz",
+        "address": {
+            "village": "Châtel-sur-Montsalvens",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1653",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6083659",
+            "46.6304672",
+            "7.1161084",
+            "7.1382253"
+        ]
+    }
+]

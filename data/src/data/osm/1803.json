@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 145913482,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1097482030,
+        "lat": "52.5049940",
+        "lon": "13.4651531",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.1507975276546128,
+        "addresstype": "residential",
+        "name": "Simplonstraße",
+        "display_name": "Simplonstraße, Boxhagener Kiez, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10245, Deutschland",
+        "address": {
+            "road": "Simplonstraße",
+            "quarter": "Boxhagener Kiez",
+            "suburb": "Friedrichshain",
+            "borough": "Friedrichshain-Kreuzberg",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10245",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5047025",
+            "52.5052877",
+            "13.4646450",
+            "13.4656624"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73303235,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683057,
+        "lat": "46.6340499",
+        "lon": "8.5948148",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.47599980794109886,
+        "addresstype": "village",
+        "name": "Andermatt",
+        "display_name": "Andermatt, Korporation Ursern, Uri, 6490, Schweiz",
+        "address": {
+            "village": "Andermatt",
+            "county": "Korporation Ursern",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6490",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5641279",
+            "46.6770524",
+            "8.5465475",
+            "8.6819248"
+        ]
+    }
+]

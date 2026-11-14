@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72520081,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682136,
+        "lat": "47.2905574",
+        "lon": "8.6124721",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4318716598523291,
+        "addresstype": "village",
+        "name": "Herrliberg",
+        "display_name": "Herrliberg, Bezirk Meilen, Zürich, 8704, Schweiz",
+        "address": {
+            "village": "Herrliberg",
+            "county": "Bezirk Meilen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8704",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2823639",
+            "47.3111749",
+            "8.5983202",
+            "8.6620148"
+        ]
+    }
+]

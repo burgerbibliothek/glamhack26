@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 420158730,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 110014191,
+        "lat": "48.2184920",
+        "lon": "16.3522373",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "building",
+        "name": "Zentrum für Hirnforschung",
+        "display_name": "Zentrum für Hirnforschung, 4, Spitalgasse, Michelbeuern, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich",
+        "address": {
+            "building": "Zentrum für Hirnforschung",
+            "house_number": "4",
+            "road": "Spitalgasse",
+            "quarter": "Michelbeuern",
+            "neighbourhood": "Katastralgemeinde Alsergrund",
+            "suburb": "Alsergrund",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1090",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2182100",
+            "48.2188217",
+            "16.3519320",
+            "16.3524369"
+        ]
+    }
+]

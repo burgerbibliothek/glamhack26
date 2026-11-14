@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73288523,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2896258648,
+        "lat": "46.7723990",
+        "lon": "9.8493406",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44505440110872374,
+        "addresstype": "peak",
+        "name": "Jakobshorn",
+        "display_name": "Jakobshorn, Davos, Prättigau/Davos, Graubünden, 7272, Schweiz",
+        "address": {
+            "peak": "Jakobshorn",
+            "town": "Davos",
+            "county": "Prättigau/Davos",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7272",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7723490",
+            "46.7724490",
+            "9.8492906",
+            "9.8493906"
+        ]
+    }
+]

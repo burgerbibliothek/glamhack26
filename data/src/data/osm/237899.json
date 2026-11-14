@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91709563,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682484,
+        "lat": "46.7748340",
+        "lon": "7.7760720",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4072594434730916,
+        "addresstype": "municipality",
+        "name": "Horrenbach-Buchen",
+        "display_name": "Horrenbach-Buchen, Verwaltungskreis Thun, Oberland administrative region, Bern, 3619, Schweiz",
+        "address": {
+            "municipality": "Horrenbach-Buchen",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3619",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7495959",
+            "46.7899442",
+            "7.6940834",
+            "7.8431732"
+        ]
+    }
+]

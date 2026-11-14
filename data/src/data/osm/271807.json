@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91439368,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683331,
+        "lat": "46.8355689",
+        "lon": "7.0672555",
+        "category": "boundary",
+        "type": "historic",
+        "place_rank": 25,
+        "importance": 0.38885241757642924,
+        "addresstype": "historic",
+        "name": "Grolley",
+        "display_name": "Grolley, Grolley-Ponthaux, Saanebezirk, Freiburg, 1772, Schweiz",
+        "address": {
+            "historic": "Grolley",
+            "village": "Grolley",
+            "city": "Grolley-Ponthaux",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1772",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8202286",
+            "46.8507833",
+            "7.0468706",
+            "7.0854178"
+        ]
+    }
+]

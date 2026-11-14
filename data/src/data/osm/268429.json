@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91801851,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12581585746,
+        "lat": "46.9429237",
+        "lon": "7.7230205",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06670563744563973,
+        "addresstype": "locality",
+        "name": "Eggelried",
+        "display_name": "Eggelried, Moosbadhöhle, Emmenmatt, Lauperswil, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3543, Schweiz",
+        "address": {
+            "locality": "Eggelried",
+            "hamlet": "Moosbadhöhle",
+            "village": "Emmenmatt",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3543",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9329237",
+            "46.9529237",
+            "7.7130205",
+            "7.7330205"
+        ]
+    }
+]

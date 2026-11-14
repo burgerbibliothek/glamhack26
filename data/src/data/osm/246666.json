@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93451950,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682629,
+        "lat": "47.2634510",
+        "lon": "7.6412018",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41850027460153905,
+        "addresstype": "village",
+        "name": "Rumisberg",
+        "display_name": "Rumisberg, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 4539, Schweiz",
+        "address": {
+            "village": "Rumisberg",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "4539",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2566171",
+            "47.2819920",
+            "7.6071093",
+            "7.6548222"
+        ]
+    }
+]

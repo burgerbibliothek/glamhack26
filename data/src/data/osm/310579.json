@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 75452642,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684747,
+        "lat": "45.9057673",
+        "lon": "8.9705470",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4205554723964049,
+        "addresstype": "village",
+        "name": "Riva San Vitale",
+        "display_name": "Riva San Vitale, Kreis Mendrisio, Bezirk Mendrisio, Tessin, 6826, Schweiz",
+        "address": {
+            "village": "Riva San Vitale",
+            "municipality": "Kreis Mendrisio",
+            "county": "Bezirk Mendrisio",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6826",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.8852917",
+            "45.9383938",
+            "8.9486486",
+            "8.9780122"
+        ]
+    }
+]

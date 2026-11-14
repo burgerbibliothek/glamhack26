@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 430485772,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3255371,
+        "lat": "48.2634439",
+        "lon": "8.1647488",
+        "category": "boundary",
+        "type": "natural",
+        "place_rank": 10,
+        "importance": 0.6091755150636277,
+        "addresstype": "natural",
+        "name": "Schwarzwald",
+        "display_name": "Schwarzwald, Baden-Württemberg, Deutschland",
+        "address": {
+            "natural": "Schwarzwald",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.5594969",
+            "48.9708964",
+            "7.6640825",
+            "8.8108115"
+        ]
+    }
+]

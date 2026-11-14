@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 73017751,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682865,
+        "lat": "47.2250438",
+        "lon": "8.2632119",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4101932977803121,
+        "addresstype": "village",
+        "name": "Hitzkirch",
+        "display_name": "Hitzkirch, Luzern, Schweiz",
+        "address": {
+            "village": "Hitzkirch",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1846981",
+            "47.2554828",
+            "8.2168488",
+            "8.3184486"
+        ]
+    }
+]

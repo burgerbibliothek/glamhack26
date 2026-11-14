@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71932832,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682088,
+        "lat": "47.6537872",
+        "lon": "8.6537634",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39951314662297394,
+        "addresstype": "village",
+        "name": "Benken ZH",
+        "display_name": "Benken ZH, Bezirk Andelfingen, Zürich, 8463, Schweiz",
+        "address": {
+            "village": "Benken ZH",
+            "county": "Bezirk Andelfingen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8463",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.6403002",
+            "47.6671700",
+            "8.6336852",
+            "8.6719939"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71902546,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682114,
+        "lat": "47.5733207",
+        "lon": "8.5239827",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.43293801503914436,
+        "addresstype": "village",
+        "name": "Eglisau",
+        "display_name": "Eglisau, Bezirk Bülach, Zürich, 8193, Schweiz",
+        "address": {
+            "village": "Eglisau",
+            "county": "Bezirk Bülach",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8193",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5504003",
+            "47.5940663",
+            "8.4805170",
+            "8.5540950"
+        ]
+    }
+]

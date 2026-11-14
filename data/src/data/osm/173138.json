@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 33526612,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 80500,
+        "lat": "-24.7761086",
+        "lon": "134.7550000",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.9007373714659365,
+        "addresstype": "country",
+        "name": "Australien",
+        "display_name": "Australien",
+        "address": {
+            "country": "Australien",
+            "country_code": "au"
+        },
+        "boundingbox": [
+            "-55.3228175",
+            "-9.0880125",
+            "72.2461932",
+            "168.2261259"
+        ]
+    }
+]

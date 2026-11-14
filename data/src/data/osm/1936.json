@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 71198355,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 36304356,
+        "lat": "47.7656692",
+        "lon": "9.6012973",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14672777065690085,
+        "addresstype": "village",
+        "name": "Weißenau",
+        "display_name": "Weißenau, Ravensburg, GVV Mittleres Schussental, Landkreis Ravensburg, Baden-Württemberg, 88214, Deutschland",
+        "address": {
+            "village": "Weißenau",
+            "town": "Ravensburg",
+            "municipality": "GVV Mittleres Schussental",
+            "county": "Landkreis Ravensburg",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "88214",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.7456692",
+            "47.7856692",
+            "9.5812973",
+            "9.6212973"
+        ]
+    }
+]

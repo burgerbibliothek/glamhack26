@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 99437661,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 115246,
+        "lat": "48.9728571",
+        "lon": "2.3435610",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5117956508358373,
+        "addresstype": "town",
+        "name": "Montmagny",
+        "display_name": "Montmagny, Sarcelles, Val-d'Oise, Île-de-France, Metropolitanes Frankreich, 95360, Frankreich",
+        "address": {
+            "town": "Montmagny",
+            "municipality": "Sarcelles",
+            "county": "Val-d'Oise",
+            "ISO3166-2-lvl6": "FR-95",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "95360",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.9552595",
+            "48.9798463",
+            "2.3278770",
+            "2.3659060"
+        ]
+    }
+]

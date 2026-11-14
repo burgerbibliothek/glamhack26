@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73745285,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684169,
+        "lat": "46.4286830",
+        "lon": "9.7637539",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42488189173487034,
+        "addresstype": "municipality",
+        "name": "Sils im Engadin",
+        "display_name": "Sils im Engadin, Maloja, Graubünden, Schweiz",
+        "address": {
+            "municipality": "Sils im Engadin",
+            "county": "Maloja",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3404958",
+            "46.4608502",
+            "9.6743684",
+            "9.8321605"
+        ]
+    }
+]

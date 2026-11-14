@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 75976048,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3318395,
+        "lat": "45.9116339",
+        "lon": "8.5383108",
+        "category": "place",
+        "type": "archipelago",
+        "place_rank": 22,
+        "importance": 0.36902538090653614,
+        "addresstype": "archipelago",
+        "name": "Borromäische Inseln",
+        "display_name": "Borromäische Inseln, Carciano, Stresa, Verbano-Cusio-Ossola, Piemont, Italien",
+        "address": {
+            "archipelago": "Borromäische Inseln",
+            "village": "Carciano",
+            "county": "Verbano-Cusio-Ossola",
+            "ISO3166-2-lvl6": "IT-VB",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8938988",
+            "45.9176614",
+            "8.5187347",
+            "8.5562248"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91552583,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 32973678,
+        "lat": "46.8829660",
+        "lon": "7.4173263",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.18157831638402872,
+        "addresstype": "hamlet",
+        "name": "Oberscherli",
+        "display_name": "Oberscherli, Niederscherli, Köniz, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3144, Schweiz",
+        "address": {
+            "hamlet": "Oberscherli",
+            "suburb": "Niederscherli",
+            "town": "Köniz",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3144",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8629660",
+            "46.9029660",
+            "7.3973263",
+            "7.4373263"
+        ]
+    }
+]

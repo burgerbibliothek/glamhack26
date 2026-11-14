@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 431704979,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2272817622,
+        "lat": "50.9659020",
+        "lon": "10.3063142",
+        "category": "historic",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.5430670323215686,
+        "addresstype": "historic",
+        "name": "Wartburg",
+        "display_name": "Wartburg, 1, Auf der Wartburg, Eisenach, Wartburgkreis, Thüringen, 99817, Deutschland",
+        "address": {
+            "historic": "Wartburg",
+            "house_number": "1",
+            "road": "Auf der Wartburg",
+            "town": "Eisenach",
+            "county": "Wartburgkreis",
+            "state": "Thüringen",
+            "ISO3166-2-lvl4": "DE-TH",
+            "postcode": "99817",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9658520",
+            "50.9659520",
+            "10.3062642",
+            "10.3063642"
+        ]
+    }
+]

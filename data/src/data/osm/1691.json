@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71990018,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 26864447,
+        "lat": "47.0566777",
+        "lon": "8.4852649",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4765002590568631,
+        "addresstype": "peak",
+        "name": "Rigi",
+        "display_name": "Rigi, Arth, Schwyz, 6356, Schweiz",
+        "address": {
+            "peak": "Rigi",
+            "town": "Arth",
+            "county": "Schwyz",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "6356",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0566277",
+            "47.0567277",
+            "8.4852149",
+            "8.4853149"
+        ]
+    }
+]

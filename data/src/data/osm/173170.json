@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 116359772,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 767977593,
+        "lat": "50.9190697",
+        "lon": "6.1690151",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.246890974283997e-05,
+        "addresstype": "building",
+        "name": "Lowis",
+        "display_name": "Lowis, 27, Robert-Koch-Straße, Baesweiler, Städteregion Aachen, Nordrhein-Westfalen, 52499, Deutschland",
+        "address": {
+            "building": "Lowis",
+            "house_number": "27",
+            "road": "Robert-Koch-Straße",
+            "city_district": "Baesweiler",
+            "town": "Baesweiler",
+            "county": "Städteregion Aachen",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "52499",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9188623",
+            "50.9192379",
+            "6.1687629",
+            "6.1692711"
+        ]
+    }
+]

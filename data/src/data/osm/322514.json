@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92088875,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 292478102,
+        "lat": "46.9464224",
+        "lon": "7.4260337",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "building",
+        "name": "Ronald McDonald Haus",
+        "display_name": "Ronald McDonald Haus, 5a, Jennerweg, Mattenhof, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3008, Schweiz",
+        "address": {
+            "building": "Ronald McDonald Haus",
+            "house_number": "5a",
+            "road": "Jennerweg",
+            "quarter": "Mattenhof",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3008",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9463573",
+            "46.9464812",
+            "7.4259626",
+            "7.4261074"
+        ]
+    }
+]

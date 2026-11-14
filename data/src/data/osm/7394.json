@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73455902,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682482,
+        "lat": "46.7543444",
+        "lon": "8.0753291",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41179521573352884,
+        "addresstype": "village",
+        "name": "Hofstetten bei Brienz",
+        "display_name": "Hofstetten bei Brienz, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3858, Schweiz",
+        "address": {
+            "village": "Hofstetten bei Brienz",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3858",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7414321",
+            "46.7886473",
+            "8.0656209",
+            "8.1023531"
+        ]
+    }
+]

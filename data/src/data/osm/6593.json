@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92734992,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682361,
+        "lat": "47.0653533",
+        "lon": "7.7341485",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42742363444822296,
+        "addresstype": "village",
+        "name": "Affoltern im Emmental",
+        "display_name": "Affoltern im Emmental, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Affoltern im Emmental",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0510408",
+            "47.0873812",
+            "7.6945113",
+            "7.7698718"
+        ]
+    }
+]

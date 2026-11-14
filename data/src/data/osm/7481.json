@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72700743,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682151,
+        "lat": "47.2288482",
+        "lon": "8.5251335",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4122803330194641,
+        "addresstype": "village",
+        "name": "Kappel am Albis",
+        "display_name": "Kappel am Albis, Bezirk Affoltern, Zürich, 8926, Schweiz",
+        "address": {
+            "village": "Kappel am Albis",
+            "county": "Bezirk Affoltern",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8926",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2108123",
+            "47.2392910",
+            "8.4827224",
+            "8.5439515"
+        ]
+    }
+]

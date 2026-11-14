@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": 241445789,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 270056,
+        "lat": "34.5412252",
+        "lon": "108.9237067",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 4,
+        "importance": 0.9041723947646134,
+        "addresstype": "country",
+        "name": "China",
+        "display_name": "China",
+        "address": {
+            "country": "China",
+            "country_code": "cn"
+        },
+        "boundingbox": [
+            "8.6650385",
+            "53.5608154",
+            "73.4997347",
+            "134.7734492"
+        ]
+    }
+]

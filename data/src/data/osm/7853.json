@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72330983,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1305296801,
+        "lat": "47.5394608",
+        "lon": "8.7692410",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333833348592355,
+        "addresstype": "hamlet",
+        "name": "Mörsburg",
+        "display_name": "Mörsburg, Oberwinterthur, Stadel, Winterthur, Bezirk Winterthur, Zürich, 8404, Schweiz",
+        "address": {
+            "hamlet": "Mörsburg",
+            "suburb": "Oberwinterthur",
+            "village": "Stadel",
+            "city": "Winterthur",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8404",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5194608",
+            "47.5594608",
+            "8.7492410",
+            "8.7892410"
+        ]
+    }
+]

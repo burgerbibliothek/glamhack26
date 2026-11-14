@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 90868906,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685465,
+        "lat": "46.1963639",
+        "lon": "6.1854072",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.47277025269686873,
+        "addresstype": "town",
+        "name": "Chêne-Bougeries",
+        "display_name": "Chêne-Bougeries, Genf, Schweiz",
+        "address": {
+            "town": "Chêne-Bougeries",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1756751",
+            "46.2083214",
+            "6.1673494",
+            "6.2019964"
+        ]
+    }
+]

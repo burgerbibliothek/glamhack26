@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93347291,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683526,
+        "lat": "47.1821622",
+        "lon": "7.6223211",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3728855590490345,
+        "addresstype": "village",
+        "name": "Horriwil",
+        "display_name": "Horriwil, Bezirk Wasseramt, Amtei Bucheggberg-Wasseramt, Solothurn, 4557, Schweiz",
+        "address": {
+            "village": "Horriwil",
+            "municipality": "Bezirk Wasseramt",
+            "county": "Amtei Bucheggberg-Wasseramt",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4557",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1708439",
+            "47.1903366",
+            "7.6108934",
+            "7.6459942"
+        ]
+    }
+]

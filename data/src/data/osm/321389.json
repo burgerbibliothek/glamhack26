@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 116527182,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 265038664,
+        "lat": "50.8935932",
+        "lon": "6.9894490",
+        "category": "building",
+        "type": "semidetached_house",
+        "place_rank": 30,
+        "importance": 8.006485084301545e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "50, Brückenstraße, Rodenkirchen, Köln, Nordrhein-Westfalen, 50996, Deutschland",
+        "address": {
+            "house_number": "50",
+            "road": "Brückenstraße",
+            "suburb": "Rodenkirchen",
+            "city_district": "Rodenkirchen",
+            "city": "Köln",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "50996",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.8935514",
+            "50.8936322",
+            "6.9893658",
+            "6.9895303"
+        ]
+    }
+]

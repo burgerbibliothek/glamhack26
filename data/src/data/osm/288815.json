@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72680298,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 29973136,
+        "lat": "47.2158284",
+        "lon": "8.6103285",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.36315663276805743,
+        "addresstype": "village",
+        "name": "Hirzel",
+        "display_name": "Hirzel, Horgen, Bezirk Horgen, Zürich, 8810, Schweiz",
+        "address": {
+            "village": "Hirzel",
+            "town": "Horgen",
+            "county": "Bezirk Horgen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8810",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1958284",
+            "47.2358284",
+            "8.5903285",
+            "8.6303285"
+        ]
+    }
+]

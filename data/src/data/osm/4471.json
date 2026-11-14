@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 128568912,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2363443065,
+        "lat": "48.1476124",
+        "lon": "11.4644451",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "20, Rathausgasse, Neupasing, Pasing, Pasing-Obermenzing, München, Bayern, 81241, Deutschland",
+        "address": {
+            "house_number": "20",
+            "road": "Rathausgasse",
+            "quarter": "Neupasing",
+            "suburb": "Pasing",
+            "city_district": "Pasing-Obermenzing",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "81241",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1475624",
+            "48.1476624",
+            "11.4643951",
+            "11.4644951"
+        ]
+    }
+]

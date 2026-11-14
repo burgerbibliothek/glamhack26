@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71401819,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 402886956,
+        "lat": "47.5892573",
+        "lon": "9.0159781",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14670721065079723,
+        "addresstype": "village",
+        "name": "Hasli",
+        "display_name": "Hasli, Wigoltingen, Bezirk Weinfelden, Thurgau, 8556, Schweiz",
+        "address": {
+            "village": "Hasli",
+            "county": "Bezirk Weinfelden",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8556",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5692573",
+            "47.6092573",
+            "8.9959781",
+            "9.0359781"
+        ]
+    }
+]

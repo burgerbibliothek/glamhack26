@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 344043936,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 656878618,
+        "lat": "38.7335878",
+        "lon": "-75.1569972",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.053377815671015454,
+        "addresstype": "residential",
+        "name": "Hofwyl Drive",
+        "display_name": "Hofwyl Drive, The Plantations, Sussex County, Delaware, 19958, Vereinigte Staaten von Amerika",
+        "address": {
+            "road": "Hofwyl Drive",
+            "neighbourhood": "The Plantations",
+            "county": "Sussex County",
+            "state": "Delaware",
+            "ISO3166-2-lvl4": "US-DE",
+            "postcode": "19958",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "38.7334453",
+            "38.7337302",
+            "-75.1573770",
+            "-75.1566174"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93650560,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2759181,
+        "lat": "47.3245831",
+        "lon": "7.2288114",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3860275900821097,
+        "addresstype": "city",
+        "name": "Haute-Sorne",
+        "display_name": "Haute-Sorne, Bezirk Delsberg, Jura, 2863, Schweiz",
+        "address": {
+            "city": "Haute-Sorne",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2863",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2841691",
+            "47.3650637",
+            "7.1373409",
+            "7.3375122"
+        ]
+    }
+]

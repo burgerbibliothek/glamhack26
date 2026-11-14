@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 93155288,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 885907985,
+        "lat": "47.3427629",
+        "lon": "7.5798147",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.12743869505990896,
+        "addresstype": "peak",
+        "name": "Hohe Winde",
+        "display_name": "Hohe Winde, Beinwil (SO), Bezirk Thierstein, Amtei Dorneck-Thierstein, Solothurn, 4229, Schweiz",
+        "address": {
+            "peak": "Hohe Winde",
+            "village": "Beinwil (SO)",
+            "municipality": "Bezirk Thierstein",
+            "county": "Amtei Dorneck-Thierstein",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4229",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3427129",
+            "47.3428129",
+            "7.5797647",
+            "7.5798647"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92186714,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 282045532,
+        "lat": "46.9945968",
+        "lon": "7.1505794",
+        "category": "building",
+        "type": "farm",
+        "place_rank": 30,
+        "importance": 4.773556115048474e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "22, Neuengasse, Müntschemier, Seeland administrative district, Seeland administrative region, Bern, 3225, Schweiz",
+        "address": {
+            "house_number": "22",
+            "road": "Neuengasse",
+            "village": "Müntschemier",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3225",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9945154",
+            "46.9946639",
+            "7.1504466",
+            "7.1507117"
+        ]
+    }
+]

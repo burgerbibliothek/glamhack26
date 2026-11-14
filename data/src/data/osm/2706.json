@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 143836097,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 147401617,
+        "lat": "53.8659546",
+        "lon": "10.6993386",
+        "category": "building",
+        "type": "detached",
+        "place_rank": 30,
+        "importance": 7.299687190046566e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "8, Falkenplatz, Sankt Jürgen, Hüxtertor / Mühlentor / Gärtnergasse, Sankt Jürgen, Lübeck, Schleswig-Holstein, 23564, Deutschland",
+        "address": {
+            "house_number": "8",
+            "road": "Falkenplatz",
+            "suburb": "Sankt Jürgen",
+            "city_district": "Sankt Jürgen",
+            "city": "Lübeck",
+            "state": "Schleswig-Holstein",
+            "ISO3166-2-lvl4": "DE-SH",
+            "postcode": "23564",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "53.8658915",
+            "53.8660175",
+            "10.6992317",
+            "10.6994456"
+        ]
+    }
+]

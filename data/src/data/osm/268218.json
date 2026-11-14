@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92857613,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1643188023,
+        "lat": "47.4270918",
+        "lon": "7.1747627",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.32076214465567665,
+        "addresstype": "village",
+        "name": "Miécourt",
+        "display_name": "Miécourt, La Baroche, Bezirk Porrentruy, Jura, 2946, Schweiz",
+        "address": {
+            "village": "Miécourt",
+            "city": "La Baroche",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2946",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4070918",
+            "47.4470918",
+            "7.1547627",
+            "7.1947627"
+        ]
+    }
+]

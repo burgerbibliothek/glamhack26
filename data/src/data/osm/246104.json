@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 86483599,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 124399,
+        "lat": "44.7847558",
+        "lon": "1.8999269",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5409332756642399,
+        "addresstype": "village",
+        "name": "Leyme",
+        "display_name": "Leyme, Figeac, Lot, Okzitanien, Metropolitanes Frankreich, 46120, Frankreich",
+        "address": {
+            "village": "Leyme",
+            "municipality": "Figeac",
+            "county": "Lot",
+            "ISO3166-2-lvl6": "FR-46",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "46120",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.7553355",
+            "44.8102517",
+            "1.8785279",
+            "1.9237026"
+        ]
+    }
+]

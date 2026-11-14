@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92585606,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682615,
+        "lat": "47.2357712",
+        "lon": "7.2247648",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42856428216416703,
+        "addresstype": "village",
+        "name": "Reconvilier",
+        "display_name": "Reconvilier, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2732, Schweiz",
+        "address": {
+            "village": "Reconvilier",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2732",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2077594",
+            "47.2418617",
+            "7.1777824",
+            "7.2506571"
+        ]
+    }
+]

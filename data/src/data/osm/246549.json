@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92920232,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683559,
+        "lat": "47.3939723",
+        "lon": "7.6197691",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.36615672375168384,
+        "addresstype": "village",
+        "name": "Nunningen",
+        "display_name": "Nunningen, Bezirk Thierstein, Amtei Dorneck-Thierstein, Solothurn, 4208, Schweiz",
+        "address": {
+            "village": "Nunningen",
+            "municipality": "Bezirk Thierstein",
+            "county": "Amtei Dorneck-Thierstein",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4208",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3684160",
+            "47.4158510",
+            "7.5846863",
+            "7.6417671"
+        ]
+    }
+]

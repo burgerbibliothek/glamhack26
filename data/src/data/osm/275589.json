@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 72488270,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 32449250,
+        "lat": "47.2142501",
+        "lon": "8.8043485",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.3735437609124175,
+        "addresstype": "hamlet",
+        "name": "Hurden",
+        "display_name": "Hurden, Pfäffikon SZ, Freienbach, Höfe, Schwyz, 8808, Schweiz",
+        "address": {
+            "hamlet": "Hurden",
+            "town": "Pfäffikon SZ",
+            "village": "Freienbach",
+            "county": "Höfe",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "8808",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1942501",
+            "47.2342501",
+            "8.7843485",
+            "8.8243485"
+        ]
+    }
+]

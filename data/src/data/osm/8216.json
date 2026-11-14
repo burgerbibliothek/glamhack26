@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 426460573,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 14143136282,
+        "lat": "46.5127102",
+        "lon": "7.3044854",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.37397891556421264,
+        "addresstype": "mountain_pass",
+        "name": "Saanenmöser",
+        "display_name": "Saanenmöser, Saanen, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3777, Schweiz",
+        "address": {
+            "mountain_pass": "Saanenmöser",
+            "village": "Saanenmöser",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3777",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5126602",
+            "46.5127602",
+            "7.3044354",
+            "7.3045354"
+        ]
+    }
+]

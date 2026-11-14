@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72751743,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 330206197,
+        "lat": "47.4764421",
+        "lon": "9.5144177",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 4.338063630116758e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "3, Klosterhalde, Neuseeland, Rorschacherberg, Wahlkreis Rorschach, St. Gallen, 9404, Schweiz",
+        "address": {
+            "house_number": "3",
+            "road": "Klosterhalde",
+            "hamlet": "Neuseeland",
+            "village": "Rorschacherberg",
+            "county": "Wahlkreis Rorschach",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9404",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4763400",
+            "47.4764890",
+            "9.5142946",
+            "9.5145427"
+        ]
+    }
+]

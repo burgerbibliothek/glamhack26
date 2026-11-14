@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 128442987,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 768888973,
+        "lat": "48.3963652",
+        "lon": "11.7450179",
+        "category": "amenity",
+        "type": "car_sharing",
+        "place_rank": 30,
+        "importance": 6.139696345459705e-05,
+        "addresstype": "amenity",
+        "name": "Bahnhofplatz 7 (B7)",
+        "display_name": "Bahnhofplatz 7 (B7), Ottostraße, Karlwirtviertel, Domberg, Freising, Landkreis Freising, Bayern, 85354, Deutschland",
+        "address": {
+            "amenity": "Bahnhofplatz 7 (B7)",
+            "road": "Ottostraße",
+            "neighbourhood": "Karlwirtviertel",
+            "suburb": "Domberg",
+            "town": "Freising",
+            "county": "Landkreis Freising",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "85354",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.3963255",
+            "48.3964048",
+            "11.7449586",
+            "11.7450769"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73678689,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684678,
+        "lat": "46.4017493",
+        "lon": "8.8766129",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40513810711196646,
+        "addresstype": "village",
+        "name": "Giornico",
+        "display_name": "Giornico, Kreis Giornico, Bezirk Leventina, Tessin, 6745, Schweiz",
+        "address": {
+            "village": "Giornico",
+            "municipality": "Kreis Giornico",
+            "county": "Bezirk Leventina",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6745",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3631683",
+            "46.4244004",
+            "8.8291745",
+            "8.9418582"
+        ]
+    }
+]

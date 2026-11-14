@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92256722,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 94165,
+        "lat": "46.8939900",
+        "lon": "6.2233766",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5606280653649818,
+        "addresstype": "village",
+        "name": "Bulle",
+        "display_name": "Bulle, Pontarlier, Doubs, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 25560, Frankreich",
+        "address": {
+            "village": "Bulle",
+            "municipality": "Pontarlier",
+            "county": "Doubs",
+            "ISO3166-2-lvl6": "FR-25",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "25560",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.8815675",
+            "46.9263148",
+            "6.1552308",
+            "6.2360898"
+        ]
+    }
+]

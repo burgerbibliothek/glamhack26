@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 75466854,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684663,
+        "lat": "45.8538378",
+        "lon": "8.9871005",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38656660986684044,
+        "addresstype": "village",
+        "name": "Coldrerio",
+        "display_name": "Coldrerio, Kreis Mendrisio, Bezirk Mendrisio, Tessin, 6877, Schweiz",
+        "address": {
+            "village": "Coldrerio",
+            "municipality": "Kreis Mendrisio",
+            "county": "Bezirk Mendrisio",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6877",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.8465680",
+            "45.8605441",
+            "8.9689495",
+            "9.0009201"
+        ]
+    }
+]

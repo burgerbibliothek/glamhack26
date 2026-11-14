@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92850263,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6819016308,
+        "lat": "47.3800865",
+        "lon": "7.6851312",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671086823834592,
+        "addresstype": "locality",
+        "name": "Spitze Fluh",
+        "display_name": "Spitze Fluh, Lauwil, Bezirk Waldenburg, Basel-Landschaft, 4426, Schweiz",
+        "address": {
+            "locality": "Spitze Fluh",
+            "village": "Lauwil",
+            "county": "Bezirk Waldenburg",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4426",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3700865",
+            "47.3900865",
+            "7.6751312",
+            "7.6951312"
+        ]
+    }
+]

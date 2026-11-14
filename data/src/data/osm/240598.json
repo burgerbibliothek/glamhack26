@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92249497,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 129086983,
+        "lat": "46.8200262",
+        "lon": "6.9338803",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.05338874265659568,
+        "addresstype": "tertiary",
+        "name": "Rue de Guillermaux",
+        "display_name": "Rue de Guillermaux, Payerne, District de la Broye-Vully, Waadt, 1530, Schweiz",
+        "address": {
+            "road": "Rue de Guillermaux",
+            "town": "Payerne",
+            "county": "District de la Broye-Vully",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1530",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8196930",
+            "46.8204135",
+            "6.9334422",
+            "6.9343772"
+        ]
+    }
+]

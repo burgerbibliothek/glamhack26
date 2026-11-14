@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92434696,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 4449080,
+        "lat": "47.2386269",
+        "lon": "7.2725241",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4013947720587043,
+        "addresstype": "city",
+        "name": "Valbirse",
+        "display_name": "Valbirse, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, Schweiz",
+        "address": {
+            "city": "Valbirse",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2110208",
+            "47.2661309",
+            "7.2461925",
+            "7.2974235"
+        ]
+    }
+]

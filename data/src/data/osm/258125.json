@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91705743,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 337193680,
+        "lat": "46.3950044",
+        "lon": "7.8170297",
+        "category": "tourism",
+        "type": "alpine_hut",
+        "place_rank": 30,
+        "importance": 0.10540294855860563,
+        "addresstype": "tourism",
+        "name": "Bietschhornhütte",
+        "display_name": "Bietschhornhütte, Steinschlagweg, Eisten, Blatten (Lötschen), Blatten, Westlich Raron, Oberwallis, Wallis, 3919, Schweiz",
+        "address": {
+            "tourism": "Bietschhornhütte",
+            "road": "Steinschlagweg",
+            "hamlet": "Eisten",
+            "village": "Blatten (Lötschen)",
+            "city": "Blatten",
+            "county": "Westlich Raron",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3919",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3949546",
+            "46.3950541",
+            "7.8169575",
+            "7.8171018"
+        ]
+    }
+]

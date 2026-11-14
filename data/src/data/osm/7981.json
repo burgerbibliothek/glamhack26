@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73028048,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683918,
+        "lat": "47.4299725",
+        "lon": "9.1224313",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.37462627372624707,
+        "addresstype": "village",
+        "name": "Oberuzwil",
+        "display_name": "Oberuzwil, Wahlkreis Wil, St. Gallen, Schweiz",
+        "address": {
+            "village": "Oberuzwil",
+            "county": "Wahlkreis Wil",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3997511",
+            "47.4396212",
+            "9.0984423",
+            "9.1840458"
+        ]
+    }
+]

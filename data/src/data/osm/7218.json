@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92024695,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685308,
+        "lat": "46.1390008",
+        "lon": "7.1146544",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38936877137464093,
+        "addresstype": "village",
+        "name": "Fully",
+        "display_name": "Fully, Martinach, Unterwallis, Wallis, 1926, Schweiz",
+        "address": {
+            "village": "Fully",
+            "county": "Martinach",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1926",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1203891",
+            "46.2015880",
+            "7.0686517",
+            "7.1660322"
+        ]
+    }
+]

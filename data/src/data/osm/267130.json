@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71242230,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2508444765,
+        "lat": "47.5284469",
+        "lon": "9.3077649",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.19938740066310082,
+        "addresstype": "village",
+        "name": "Hagenwil b. Amriswil",
+        "display_name": "Hagenwil b. Amriswil, Amriswil, Bezirk Arbon, Thurgau, 8580, Schweiz",
+        "address": {
+            "village": "Hagenwil b. Amriswil",
+            "town": "Amriswil",
+            "county": "Bezirk Arbon",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8580",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5084469",
+            "47.5484469",
+            "9.2877649",
+            "9.3277649"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72669091,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683880,
+        "lat": "47.0939665",
+        "lon": "9.3435890",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3946371813123099,
+        "addresstype": "village",
+        "name": "Flums",
+        "display_name": "Flums, Wahlkreis Sarganserland, St. Gallen, Schweiz",
+        "address": {
+            "village": "Flums",
+            "county": "Wahlkreis Sarganserland",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0004265",
+            "47.1057411",
+            "9.2142956",
+            "9.4026265"
+        ]
+    }
+]

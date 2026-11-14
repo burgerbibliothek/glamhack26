@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 91784078,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1698314,
+        "lat": "46.6789116",
+        "lon": "7.1027113",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.6177357553876756,
+        "addresstype": "state",
+        "name": "Freiburg",
+        "display_name": "Freiburg, Schweiz",
+        "address": {
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4379090",
+            "47.0068059",
+            "6.7418691",
+            "7.3802098"
+        ]
+    }
+]

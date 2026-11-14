@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92492151,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 203785345,
+        "lat": "47.1798768",
+        "lon": "7.6944946",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.34045234732906265,
+        "addresstype": "village",
+        "name": "Oberönz",
+        "display_name": "Oberönz, Herzogenbuchsee, Verwaltungskreis Oberaargau, Emmental-Oberaargau administrative region, Bern, 3363, Schweiz",
+        "address": {
+            "village": "Oberönz",
+            "county": "Verwaltungskreis Oberaargau",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3363",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1598768",
+            "47.1998768",
+            "7.6744946",
+            "7.7144946"
+        ]
+    }
+]

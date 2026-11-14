@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 71787143,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1226245,
+        "lat": "47.7365254",
+        "lon": "8.0669420",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4145368030917795,
+        "addresstype": "municipality",
+        "name": "Ibach",
+        "display_name": "Ibach, GVV St. Blasien, Landkreis Waldshut, Baden-Württemberg, Deutschland",
+        "address": {
+            "municipality": "Ibach",
+            "county": "Landkreis Waldshut",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.7130160",
+            "47.7686259",
+            "8.0217873",
+            "8.1041734"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92700220,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 35222715,
+        "lat": "47.0955021",
+        "lon": "7.5152980",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.4132399184526773,
+        "addresstype": "village",
+        "name": "Büren zum Hof",
+        "display_name": "Büren zum Hof, Fraubrunnen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3312, Schweiz",
+        "address": {
+            "village": "Büren zum Hof",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3312",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0755021",
+            "47.1155021",
+            "7.4952980",
+            "7.5352980"
+        ]
+    }
+]

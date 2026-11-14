@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91525373,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 898028867,
+        "lat": "46.1018055",
+        "lon": "7.8677674",
+        "category": "natural",
+        "type": "ridge",
+        "place_rank": 22,
+        "importance": 0.1067208674753948,
+        "addresstype": "ridge",
+        "name": "Mischabel",
+        "display_name": "Mischabel, Saas-Fee, Visp, Oberwallis, Wallis, 3906, Schweiz",
+        "address": {
+            "ridge": "Mischabel",
+            "village": "Saas-Fee",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3906",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0939140",
+            "46.1062379",
+            "7.8588670",
+            "7.8779053"
+        ]
+    }
+]

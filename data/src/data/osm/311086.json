@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92194244,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2312731790,
+        "lat": "46.3247023",
+        "lon": "7.1267183",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.37653081765694324,
+        "addresstype": "mountain_pass",
+        "name": "Col de la Croix",
+        "display_name": "Col de la Croix, Ollon, Aigle District, Waadt, Schweiz",
+        "address": {
+            "mountain_pass": "Col de la Croix",
+            "village": "Ollon",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3246523",
+            "46.3247523",
+            "7.1266683",
+            "7.1267683"
+        ]
+    }
+]

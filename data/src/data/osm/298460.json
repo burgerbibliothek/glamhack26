@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 139154490,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 277470307,
+        "lat": "50.7612104",
+        "lon": "8.1397239",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14671596780346374,
+        "addresstype": "village",
+        "name": "Wasserscheide",
+        "display_name": "Wasserscheide, Burbach, Siegerland, Nordrhein-Westfalen, 57299, Deutschland",
+        "address": {
+            "village": "Wasserscheide",
+            "county": "Siegerland",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "57299",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.7412104",
+            "50.7812104",
+            "8.1197239",
+            "8.1597239"
+        ]
+    }
+]

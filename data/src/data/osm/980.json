@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71068847,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5331424900,
+        "lat": "47.1556765",
+        "lon": "11.7273939",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1570394422394589,
+        "addresstype": "village",
+        "name": "Lanersbach",
+        "display_name": "Lanersbach, Tux, Bezirk Schwaz, Tirol, 6293, Österreich",
+        "address": {
+            "village": "Lanersbach",
+            "county": "Bezirk Schwaz",
+            "state": "Tirol",
+            "ISO3166-2-lvl4": "AT-7",
+            "postcode": "6293",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.1356765",
+            "47.1756765",
+            "11.7073939",
+            "11.7473939"
+        ]
+    }
+]

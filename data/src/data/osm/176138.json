@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73526290,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685343,
+        "lat": "46.3493846",
+        "lon": "8.0492629",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3469896344052328,
+        "addresstype": "city",
+        "name": "Mörel-Filet",
+        "display_name": "Mörel-Filet, Östlich Raron, Oberwallis, Wallis, 3983, Schweiz",
+        "address": {
+            "city": "Mörel-Filet",
+            "county": "Östlich Raron",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3983",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3258287",
+            "46.3727773",
+            "8.0270001",
+            "8.0927320"
+        ]
+    }
+]

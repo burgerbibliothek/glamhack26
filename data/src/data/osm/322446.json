@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 66570141,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3306048941,
+        "lat": "47.5005002",
+        "lon": "19.0332390",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.408560311279495e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "20, Herrengasse, Burgviertel, I. Bezirk, Budapest, 1014, Ungarn",
+        "address": {
+            "house_number": "20",
+            "road": "Herrengasse",
+            "suburb": "Burgviertel",
+            "borough": "I. Bezirk",
+            "city": "Budapest",
+            "ISO3166-2-lvl8": "HU-BU",
+            "region": "Budapest",
+            "ISO3166-2-lvl6": "HU-BU",
+            "postcode": "1014",
+            "country": "Ungarn",
+            "country_code": "hu"
+        },
+        "boundingbox": [
+            "47.5004502",
+            "47.5005502",
+            "19.0331890",
+            "19.0332890"
+        ]
+    }
+]

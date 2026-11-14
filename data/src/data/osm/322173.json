@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92096307,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 59275035,
+        "lat": "46.9468990",
+        "lon": "7.4258872",
+        "category": "building",
+        "type": "hospital",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "building",
+        "name": "Julie-von-Jenner-Haus",
+        "display_name": "Julie-von-Jenner-Haus, 15, Freiburgstrasse, Mattenhof, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3010, Schweiz",
+        "address": {
+            "building": "Julie-von-Jenner-Haus",
+            "house_number": "15",
+            "road": "Freiburgstrasse",
+            "quarter": "Mattenhof",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3010",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9464872",
+            "46.9472767",
+            "7.4248331",
+            "7.4265940"
+        ]
+    }
+]

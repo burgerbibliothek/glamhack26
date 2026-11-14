@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91580793,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685386,
+        "lat": "46.0676751",
+        "lon": "7.7770173",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4295927056894503,
+        "addresstype": "village",
+        "name": "Täsch",
+        "display_name": "Täsch, Visp, Oberwallis, Wallis, 3929, Schweiz",
+        "address": {
+            "village": "Täsch",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3929",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.0154264",
+            "46.0846631",
+            "7.6900068",
+            "7.8945955"
+        ]
+    }
+]

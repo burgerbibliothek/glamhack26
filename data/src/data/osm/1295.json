@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91664546,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 271173,
+        "lat": "46.5684555",
+        "lon": "7.9882042",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.311877314681546,
+        "addresstype": "glacier",
+        "name": "Eigergletscher",
+        "display_name": "Eigergletscher, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "glacier": "Eigergletscher",
+            "village": "Lauterbrunnen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5608184",
+            "46.5730953",
+            "7.9751821",
+            "8.0061371"
+        ]
+    }
+]

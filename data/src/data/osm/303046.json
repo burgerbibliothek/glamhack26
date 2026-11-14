@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92348013,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683591,
+        "lat": "47.2697100",
+        "lon": "7.7946520",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3520298540975971,
+        "addresstype": "village",
+        "name": "Wolfwil",
+        "display_name": "Wolfwil, Bezirk Gäu, Amtei Thal-Gäu, Solothurn, 4628, Schweiz",
+        "address": {
+            "village": "Wolfwil",
+            "municipality": "Bezirk Gäu",
+            "county": "Amtei Thal-Gäu",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4628",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2561001",
+            "47.2824894",
+            "7.7647924",
+            "7.8281392"
+        ]
+    }
+]

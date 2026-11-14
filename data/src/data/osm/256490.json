@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92038832,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240089080,
+        "lat": "46.5450161",
+        "lon": "7.9021989",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3054111172263137,
+        "addresstype": "village",
+        "name": "Stechelberg",
+        "display_name": "Stechelberg, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3824, Schweiz",
+        "address": {
+            "village": "Stechelberg",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3824",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5250161",
+            "46.5650161",
+            "7.8821989",
+            "7.9221989"
+        ]
+    }
+]

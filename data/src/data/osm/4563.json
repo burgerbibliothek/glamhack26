@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91336681,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11204989912,
+        "lat": "46.9502239",
+        "lon": "7.4359818",
+        "category": "amenity",
+        "type": "library",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Bibliothek Lifelong Learning Center (LLC)",
+        "display_name": "Bibliothek Lifelong Learning Center (LLC), 1, Schanzeneckstrasse, Stadtbach, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "amenity": "Bibliothek Lifelong Learning Center (LLC)",
+            "house_number": "1",
+            "road": "Schanzeneckstrasse",
+            "quarter": "Stadtbach",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9501739",
+            "46.9502739",
+            "7.4359318",
+            "7.4360318"
+        ]
+    }
+]

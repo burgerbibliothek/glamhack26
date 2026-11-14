@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 134364720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 176036813,
+        "lat": "51.0959053",
+        "lon": "14.6661750",
+        "category": "highway",
+        "type": "living_street",
+        "place_rank": 26,
+        "importance": 0.053391092545967765,
+        "addresstype": "living_street",
+        "name": "Bankgäßchen",
+        "display_name": "Bankgäßchen, Löbau-Mitte, Löbau, Görlitz, Sachsen, 02708, Deutschland",
+        "address": {
+            "road": "Bankgäßchen",
+            "suburb": "Löbau-Mitte",
+            "town": "Löbau",
+            "municipality": "Löbau",
+            "county": "Görlitz",
+            "state": "Sachsen",
+            "ISO3166-2-lvl4": "DE-SN",
+            "postcode": "02708",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.0955926",
+            "51.0962180",
+            "14.6660384",
+            "14.6663116"
+        ]
+    }
+]

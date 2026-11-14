@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92099856,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240076232,
+        "lat": "46.8513980",
+        "lon": "7.3180440",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.40712885412943295,
+        "addresstype": "village",
+        "name": "Albligen",
+        "display_name": "Albligen, Schwarzenburg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3183, Schweiz",
+        "address": {
+            "village": "Albligen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3183",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8313980",
+            "46.8713980",
+            "7.2980440",
+            "7.3380440"
+        ]
+    }
+]

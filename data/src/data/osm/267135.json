@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71662782,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683908,
+        "lat": "47.5168167",
+        "lon": "9.3194524",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3544115905399448,
+        "addresstype": "city",
+        "name": "Muolen",
+        "display_name": "Muolen, Wahlkreis St. Gallen, St. Gallen, 9313, Schweiz",
+        "address": {
+            "city": "Muolen",
+            "county": "Wahlkreis St. Gallen",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9313",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5013295",
+            "47.5319466",
+            "9.2683737",
+            "9.3564042"
+        ]
+    }
+]

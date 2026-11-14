@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 39636875,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1802545,
+        "lat": "-14.6957808",
+        "lon": "15.0976293",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.5074507857667686,
+        "addresstype": "state",
+        "name": "Provinz Huíla",
+        "display_name": "Provinz Huíla, Angola",
+        "address": {
+            "state": "Provinz Huíla",
+            "ISO3166-2-lvl4": "AO-HUI",
+            "country": "Angola",
+            "country_code": "ao"
+        },
+        "boundingbox": [
+            "-16.3470459",
+            "-13.3322220",
+            "13.1920883",
+            "16.7555210"
+        ]
+    }
+]

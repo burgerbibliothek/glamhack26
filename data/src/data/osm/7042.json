@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93900987,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682421,
+        "lat": "47.1080046",
+        "lon": "7.3635007",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4261650932142823,
+        "addresstype": "village",
+        "name": "Diessbach bei Büren",
+        "display_name": "Diessbach bei Büren, Seeland administrative district, Seeland administrative region, Bern, 3264, Schweiz",
+        "address": {
+            "village": "Diessbach bei Büren",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3264",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0894760",
+            "47.1239409",
+            "7.3473232",
+            "7.3826340"
+        ]
+    }
+]

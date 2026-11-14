@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91827608,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685029,
+        "lat": "46.3438701",
+        "lon": "7.0148403",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4717548752391439,
+        "addresstype": "village",
+        "name": "Leysin",
+        "display_name": "Leysin, Aigle District, Waadt, 1854, Schweiz",
+        "address": {
+            "village": "Leysin",
+            "county": "Aigle District",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1854",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3207042",
+            "46.3851861",
+            "6.9771062",
+            "7.0404993"
+        ]
+    }
+]

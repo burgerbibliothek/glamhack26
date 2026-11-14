@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 72057207,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 232998387,
+        "lat": "47.4993047",
+        "lon": "8.7268836",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 6.545433737692863e-05,
+        "addresstype": "building",
+        "name": "Haus zum Rechberg",
+        "display_name": "Haus zum Rechberg, 57, Marktgasse, Wildbach, Neuwiesen, Stadt, Winterthur, Bezirk Winterthur, Zürich, 8400, Schweiz",
+        "address": {
+            "building": "Haus zum Rechberg",
+            "house_number": "57",
+            "road": "Marktgasse",
+            "neighbourhood": "Wildbach",
+            "quarter": "Neuwiesen",
+            "suburb": "Stadt",
+            "city": "Winterthur",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8400",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4991432",
+            "47.4993857",
+            "8.7268154",
+            "8.7269591"
+        ]
+    }
+]

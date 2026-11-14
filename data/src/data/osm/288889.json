@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 137650984,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 137335138,
+        "lat": "50.1224187",
+        "lon": "8.6856013",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.941481651021618e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "6, Oberweg, Nordend West, Innenstadt 3, Frankfurt am Main, Hessen, 60318, Deutschland",
+        "address": {
+            "house_number": "6",
+            "road": "Oberweg",
+            "suburb": "Nordend West",
+            "city_district": "Innenstadt 3",
+            "city": "Frankfurt am Main",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "60318",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.1223646",
+            "50.1224883",
+            "8.6855249",
+            "8.6856763"
+        ]
+    }
+]

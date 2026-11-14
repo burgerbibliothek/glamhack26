@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 146342849,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2844545987,
+        "lat": "52.4392383",
+        "lon": "13.6836964",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "1, Brückenstraße, Siedlung Müggeleck, Rahnsdorf-Mühle, Rahnsdorf, Treptow-Köpenick, Berlin, 12589, Deutschland",
+        "address": {
+            "house_number": "1",
+            "road": "Brückenstraße",
+            "neighbourhood": "Siedlung Müggeleck",
+            "hamlet": "Rahnsdorf-Mühle",
+            "suburb": "Rahnsdorf",
+            "borough": "Treptow-Köpenick",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12589",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4391883",
+            "52.4392883",
+            "13.6836464",
+            "13.6837464"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 75450460,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3885911,
+        "lat": "45.8795706",
+        "lon": "9.0335751",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.3920559394597916,
+        "addresstype": "river",
+        "name": "Breggia",
+        "display_name": "Breggia, Kreis Caneggio, Bezirk Mendrisio, Tessin, 6835, Schweiz",
+        "address": {
+            "river": "Breggia",
+            "city": "Breggia",
+            "municipality": "Kreis Caneggio",
+            "county": "Bezirk Mendrisio",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6835",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.8340729",
+            "45.9490834",
+            "9.0100190",
+            "9.0757197"
+        ]
+    }
+]

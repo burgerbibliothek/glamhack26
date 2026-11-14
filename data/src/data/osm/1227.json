@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91746062,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 418063,
+        "lat": "46.4907852",
+        "lon": "7.8728387",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.11734328469919902,
+        "addresstype": "glacier",
+        "name": "Breithorngletscher",
+        "display_name": "Breithorngletscher, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "glacier": "Breithorngletscher",
+            "village": "Lauterbrunnen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4837718",
+            "46.4977456",
+            "7.8659096",
+            "7.8999216"
+        ]
+    }
+]

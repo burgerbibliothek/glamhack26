@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 91587350,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5798940195,
+        "lat": "46.9468793",
+        "lon": "7.4369561",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.205345191009919,
+        "addresstype": "amenity",
+        "name": "Heilsarmee Bern",
+        "display_name": "Heilsarmee Bern, 5, Laupenstrasse, Villette, Monbijou, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3008, Schweiz",
+        "address": {
+            "amenity": "Heilsarmee Bern",
+            "house_number": "5",
+            "road": "Laupenstrasse",
+            "neighbourhood": "Villette",
+            "quarter": "Monbijou",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3008",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9468293",
+            "46.9469293",
+            "7.4369061",
+            "7.4370061"
+        ]
+    }
+]

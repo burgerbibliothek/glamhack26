@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 90082508,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 219192124,
+        "lat": "45.3633976",
+        "lon": "5.7934987",
+        "category": "amenity",
+        "type": "monastery",
+        "place_rank": 30,
+        "importance": 0.4404260453689467,
+        "addresstype": "amenity",
+        "name": "Grande Chartreuse",
+        "display_name": "Grande Chartreuse, Allée de la Grande Chartreuse, Saint-Pierre-de-Chartreuse, Grenoble, Isère, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 38380, Frankreich",
+        "address": {
+            "amenity": "Grande Chartreuse",
+            "road": "Allée de la Grande Chartreuse",
+            "village": "Saint-Pierre-de-Chartreuse",
+            "municipality": "Grenoble",
+            "county": "Isère",
+            "ISO3166-2-lvl6": "FR-38",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "38380",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.3618826",
+            "45.3648979",
+            "5.7915489",
+            "5.7956010"
+        ]
+    }
+]

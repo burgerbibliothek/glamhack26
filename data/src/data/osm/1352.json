@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73796440,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 19450959,
+        "lat": "46.7073615",
+        "lon": "8.0261779",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 21,
+        "importance": 0.3960456341796639,
+        "addresstype": "stream",
+        "name": "Giessbach",
+        "display_name": "Giessbach, Brienz BE, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "stream": "Giessbach",
+            "village": "Brienz BE",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6735582",
+            "46.7406561",
+            "8.0103163",
+            "8.0390831"
+        ]
+    }
+]

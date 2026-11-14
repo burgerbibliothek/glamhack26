@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91771456,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3411235,
+        "lat": "46.8399962",
+        "lon": "7.6192848",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.46917069494426306,
+        "addresstype": "village",
+        "name": "Oberdiessbach",
+        "display_name": "Oberdiessbach, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3672, Schweiz",
+        "address": {
+            "village": "Oberdiessbach",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3672",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8059672",
+            "46.8584829",
+            "7.6026769",
+            "7.6756851"
+        ]
+    }
+]

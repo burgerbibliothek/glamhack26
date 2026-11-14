@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 77429774,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3156558654,
+        "lat": "46.7051061",
+        "lon": "8.8552112",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.29960026554141705,
+        "addresstype": "railway",
+        "name": "Disentis",
+        "display_name": "Disentis, 4, Via dalla Staziun, Raveras, Clavaniev, Disentis, Disentis/Mustér, Surselva, Graubünden, 7180, Schweiz",
+        "address": {
+            "railway": "Disentis",
+            "house_number": "4",
+            "road": "Via dalla Staziun",
+            "neighbourhood": "Raveras",
+            "hamlet": "Clavaniev",
+            "village": "Disentis",
+            "city": "Disentis/Mustér",
+            "county": "Surselva",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7180",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7001061",
+            "46.7101061",
+            "8.8502112",
+            "8.8602112"
+        ]
+    }
+]

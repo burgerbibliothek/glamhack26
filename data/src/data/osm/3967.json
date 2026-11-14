@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91394826,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4528538853,
+        "lat": "46.9475636",
+        "lon": "7.4490036",
+        "category": "shop",
+        "type": "clothes",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "shop",
+        "name": "Stoor",
+        "display_name": "Stoor, 62, Münstergasse, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "shop": "Stoor",
+            "house_number": "62",
+            "road": "Münstergasse",
+            "quarter": "Altstadt",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9475136",
+            "46.9476136",
+            "7.4489536",
+            "7.4490536"
+        ]
+    }
+]

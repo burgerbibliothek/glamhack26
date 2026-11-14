@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92105665,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682378,
+        "lat": "46.9484742",
+        "lon": "7.4521749",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.7200051634430908,
+        "addresstype": "city",
+        "name": "Bern",
+        "display_name": "Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, Schweiz",
+        "address": {
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9190335",
+            "46.9901535",
+            "7.2943138",
+            "7.4955575"
+        ]
+    }
+]

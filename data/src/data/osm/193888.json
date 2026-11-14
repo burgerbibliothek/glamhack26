@@ -1,0 +1,28 @@
+[
+    {
+        "place_id": 92910153,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2192950,
+        "lat": "47.2272679",
+        "lon": "7.7293843",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.5556926269399125,
+        "addresstype": "river",
+        "name": "Aare",
+        "display_name": "Aare, Schweiz",
+        "address": {
+            "river": "Aare",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5898377",
+            "47.6063506",
+            "7.1744019",
+            "8.3255295"
+        ]
+    }
+]

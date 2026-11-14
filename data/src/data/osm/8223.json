@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92533921,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685626,
+        "lat": "47.2557997",
+        "lon": "6.9963585",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42119130781949454,
+        "addresstype": "village",
+        "name": "Saignelégier",
+        "display_name": "Saignelégier, Freiberge, Jura, Schweiz",
+        "address": {
+            "village": "Saignelégier",
+            "county": "Freiberge",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2266435",
+            "47.3016547",
+            "6.9406538",
+            "7.0586715"
+        ]
+    }
+]

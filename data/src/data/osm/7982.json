@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73476586,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 118313843,
+        "lat": "46.5328571",
+        "lon": "8.3520502",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3750543179568698,
+        "addresstype": "village",
+        "name": "Oberwald",
+        "display_name": "Oberwald, Obergoms, Goms, Oberwallis, Wallis, 3999, Schweiz",
+        "address": {
+            "village": "Oberwald",
+            "city": "Obergoms",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3999",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5128571",
+            "46.5528571",
+            "8.3320502",
+            "8.3720502"
+        ]
+    }
+]

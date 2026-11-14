@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91323942,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 292070882,
+        "lat": "46.9495381",
+        "lon": "7.4576418",
+        "category": "place",
+        "type": "square",
+        "place_rank": 25,
+        "importance": 0.06674400930800335,
+        "addresstype": "square",
+        "name": "Läuferplatz",
+        "display_name": "Läuferplatz, Matte, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "square": "Läuferplatz",
+            "quarter": "Matte",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9493221",
+            "46.9497651",
+            "7.4572499",
+            "7.4581077"
+        ]
+    }
+]

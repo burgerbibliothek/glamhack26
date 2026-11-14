@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91797377,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2627366550,
+        "lat": "46.9881137",
+        "lon": "7.0589815",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338313801785304,
+        "addresstype": "hamlet",
+        "name": "Witzwil",
+        "display_name": "Witzwil, Ins, Seeland administrative district, Seeland administrative region, Bern, 3232, Schweiz",
+        "address": {
+            "hamlet": "Witzwil",
+            "village": "Ins",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3232",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9681137",
+            "47.0081137",
+            "7.0389815",
+            "7.0789815"
+        ]
+    }
+]

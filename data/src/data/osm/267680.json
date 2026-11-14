@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 273760284,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5420246,
+        "lat": "56.6272213",
+        "lon": "-6.5702094",
+        "category": "place",
+        "type": "island",
+        "place_rank": 17,
+        "importance": 0.4396350872746759,
+        "addresstype": "island",
+        "name": "Coll",
+        "display_name": "Coll, Arinagour, Argyll and Bute, Schottland, Vereinigtes Königreich",
+        "address": {
+            "island": "Coll",
+            "village": "Arinagour",
+            "county": "Argyll and Bute",
+            "ISO3166-2-lvl6": "GB-AGB",
+            "state": "Schottland",
+            "ISO3166-2-lvl4": "GB-SCT",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "56.5627051",
+            "56.6917495",
+            "-6.7104475",
+            "-6.4509412"
+        ]
+    }
+]

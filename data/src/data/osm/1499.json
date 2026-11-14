@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92581115,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 307821427,
+        "lat": "46.8949895",
+        "lon": "7.4541312",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338552605477988,
+        "addresstype": "hamlet",
+        "name": "Kühlewil",
+        "display_name": "Kühlewil, Wald, Wald (BE), Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3086, Schweiz",
+        "address": {
+            "hamlet": "Kühlewil",
+            "village": "Wald",
+            "city": "Wald (BE)",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3086",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8749895",
+            "46.9149895",
+            "7.4341312",
+            "7.4741312"
+        ]
+    }
+]

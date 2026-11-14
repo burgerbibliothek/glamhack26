@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 70661415,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 77071,
+        "lat": "47.0833333",
+        "lon": "10.4666667",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40125193550449295,
+        "addresstype": "village",
+        "name": "See",
+        "display_name": "See, Bezirk Landeck, Tirol, Österreich",
+        "address": {
+            "village": "See",
+            "county": "Bezirk Landeck",
+            "state": "Tirol",
+            "ISO3166-2-lvl4": "AT-7",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.0002542",
+            "47.0900088",
+            "10.3879105",
+            "10.5183371"
+        ]
+    }
+]

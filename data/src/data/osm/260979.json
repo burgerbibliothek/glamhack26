@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73383329,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 46661,
+        "lat": "45.9941511",
+        "lon": "8.5729280",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4972281131815571,
+        "addresstype": "village",
+        "name": "Intragna",
+        "display_name": "Intragna, Verbano-Cusio-Ossola, Piemont, 28816, Italien",
+        "address": {
+            "village": "Intragna",
+            "county": "Verbano-Cusio-Ossola",
+            "ISO3166-2-lvl6": "IT-VB",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "postcode": "28816",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.9815168",
+            "46.0314124",
+            "8.5294655",
+            "8.5852793"
+        ]
+    }
+]

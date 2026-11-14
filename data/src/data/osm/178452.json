@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72544269,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682840,
+        "lat": "47.0548250",
+        "lon": "8.4306044",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3841981265934431,
+        "addresstype": "village",
+        "name": "Greppen",
+        "display_name": "Greppen, Luzern, 6404, Schweiz",
+        "address": {
+            "village": "Greppen",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6404",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0471069",
+            "47.0655106",
+            "8.4004817",
+            "8.4618418"
+        ]
+    }
+]

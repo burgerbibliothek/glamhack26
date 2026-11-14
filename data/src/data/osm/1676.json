@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 72587492,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2185933,
+        "lat": "47.1229421",
+        "lon": "8.3950057",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.506368272952939,
+        "addresstype": "river",
+        "name": "Reuss",
+        "display_name": "Reuss, Luzern, Schweiz",
+        "address": {
+            "river": "Reuss",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6378951",
+            "47.4924323",
+            "8.2244575",
+            "8.6700636"
+        ]
+    }
+]

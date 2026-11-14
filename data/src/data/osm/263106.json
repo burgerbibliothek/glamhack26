@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 145338773,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 221884333,
+        "lat": "52.4484056",
+        "lon": "13.3873519",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "2, Lerchenweg, Mariendorf, Tempelhof-Schöneberg, Berlin, 12109, Deutschland",
+        "address": {
+            "house_number": "2",
+            "road": "Lerchenweg",
+            "suburb": "Mariendorf",
+            "borough": "Tempelhof-Schöneberg",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12109",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4483299",
+            "52.4484812",
+            "13.3872622",
+            "13.3874416"
+        ]
+    }
+]

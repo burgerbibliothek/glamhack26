@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92704788,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682542,
+        "lat": "47.0459222",
+        "lon": "7.1511459",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42856428216416703,
+        "addresstype": "village",
+        "name": "Lüscherz",
+        "display_name": "Lüscherz, Seeland administrative district, Seeland administrative region, Bern, 2576, Schweiz",
+        "address": {
+            "village": "Lüscherz",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2576",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0288694",
+            "47.0605804",
+            "7.1328815",
+            "7.1864741"
+        ]
+    }
+]

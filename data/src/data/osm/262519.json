@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92616440,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2477003255,
+        "lat": "47.0787060",
+        "lon": "7.7494399",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338224536507207,
+        "addresstype": "hamlet",
+        "name": "Häusernmoos im Emmental",
+        "display_name": "Häusernmoos im Emmental, Affoltern im Emmental, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3463, Schweiz",
+        "address": {
+            "hamlet": "Häusernmoos im Emmental",
+            "village": "Affoltern im Emmental",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3463",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0587060",
+            "47.0987060",
+            "7.7294399",
+            "7.7694399"
+        ]
+    }
+]

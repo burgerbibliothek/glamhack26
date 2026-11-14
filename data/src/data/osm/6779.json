@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91872162,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5209994201,
+        "lat": "46.9668702",
+        "lon": "7.6250052",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14670821011673146,
+        "addresstype": "village",
+        "name": "Bigenthal",
+        "display_name": "Bigenthal, Walkringen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3513, Schweiz",
+        "address": {
+            "village": "Bigenthal",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3513",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9468702",
+            "46.9868702",
+            "7.6050052",
+            "7.6450052"
+        ]
+    }
+]

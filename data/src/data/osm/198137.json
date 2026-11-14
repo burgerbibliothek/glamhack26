@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73477154,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6952084118,
+        "lat": "46.7572506",
+        "lon": "8.1359044",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06672178912031738,
+        "addresstype": "locality",
+        "name": "Brünig",
+        "display_name": "Brünig, Brünigen, Meiringen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3857, Schweiz",
+        "address": {
+            "locality": "Brünig",
+            "hamlet": "Brünigen",
+            "village": "Meiringen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3857",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7472506",
+            "46.7672506",
+            "8.1259044",
+            "8.1459044"
+        ]
+    }
+]

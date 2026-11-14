@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91331266,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1833062657,
+        "lat": "46.9482129",
+        "lon": "7.4519571",
+        "category": "amenity",
+        "type": "theatre",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Ono",
+        "display_name": "Ono, 6, Kramgasse, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "amenity": "Ono",
+            "house_number": "6",
+            "road": "Kramgasse",
+            "quarter": "Altstadt",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9481629",
+            "46.9482629",
+            "7.4519071",
+            "7.4520071"
+        ]
+    }
+]

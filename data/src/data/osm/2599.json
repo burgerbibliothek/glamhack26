@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 96246881,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 75713907,
+        "lat": "46.9595193",
+        "lon": "7.4387687",
+        "category": "office",
+        "type": "diplomatic",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "office",
+        "name": "Residenz Japan",
+        "display_name": "Residenz Japan, 20, Daxelhoferstrasse, Engeried, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "office": "Residenz Japan",
+            "house_number": "20",
+            "road": "Daxelhoferstrasse",
+            "quarter": "Engeried",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9594321",
+            "46.9596252",
+            "7.4385928",
+            "7.4389356"
+        ]
+    }
+]

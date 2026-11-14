@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91352605,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7633331854,
+        "lat": "46.6126116",
+        "lon": "7.2613041",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671474402990768,
+        "addresstype": "locality",
+        "name": "Untere Jansegg",
+        "display_name": "Untere Jansegg, Im Fang, Jaun, Greyerzbezirk, Freiburg, 1656, Schweiz",
+        "address": {
+            "locality": "Untere Jansegg",
+            "village": "Im Fang",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1656",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6026116",
+            "46.6226116",
+            "7.2513041",
+            "7.2713041"
+        ]
+    }
+]

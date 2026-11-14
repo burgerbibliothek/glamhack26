@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72341528,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 101701275,
+        "lat": "47.3698009",
+        "lon": "8.5318097",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "8, Gerechtigkeitsgasse, City, Altstadt, Zürich, Bezirk Zürich, Zürich, 8022, Schweiz",
+        "address": {
+            "house_number": "8",
+            "road": "Gerechtigkeitsgasse",
+            "quarter": "City",
+            "suburb": "Altstadt",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8022",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3697365",
+            "47.3699383",
+            "8.5316047",
+            "8.5320018"
+        ]
+    }
+]

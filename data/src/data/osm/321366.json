@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92081622,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 48015966,
+        "lat": "46.9594431",
+        "lon": "7.4638195",
+        "category": "highway",
+        "type": "construction",
+        "place_rank": 26,
+        "importance": 0.05341067597466999,
+        "addresstype": "construction",
+        "name": "Rodtmattstrasse",
+        "display_name": "Rodtmattstrasse, Breitfeld, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3014, Schweiz",
+        "address": {
+            "road": "Rodtmattstrasse",
+            "quarter": "Breitfeld",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3014",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9593893",
+            "46.9596308",
+            "7.4634717",
+            "7.4641090"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71604748,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1465164107,
+        "lat": "47.5005680",
+        "lon": "8.3997669",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.26922332516764147,
+        "addresstype": "valley",
+        "name": "Wehntal",
+        "display_name": "Wehntal, Wasen, Schleinikon, Bezirk Dielsdorf, Zürich, 8165, Schweiz",
+        "address": {
+            "valley": "Wehntal",
+            "village": "Wasen",
+            "county": "Bezirk Dielsdorf",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8165",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4917004",
+            "47.5110845",
+            "8.3612169",
+            "8.4390195"
+        ]
+    }
+]

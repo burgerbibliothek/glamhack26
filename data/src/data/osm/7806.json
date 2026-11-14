@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91559874,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685069,
+        "lat": "46.5957836",
+        "lon": "6.7705874",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3756911839236167,
+        "addresstype": "village",
+        "name": "Mézières (VD)",
+        "display_name": "Mézières (VD), Jorat-Mézières, District de Lavaux-Oron, Waadt, 1083, Schweiz",
+        "address": {
+            "village": "Mézières (VD)",
+            "city": "Jorat-Mézières",
+            "county": "District de Lavaux-Oron",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1083",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5743242",
+            "46.6005492",
+            "6.7487406",
+            "6.7790887"
+        ]
+    }
+]

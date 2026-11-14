@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 71903338,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3411226,
+        "lat": "47.5213051",
+        "lon": "8.7889904",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.40893382561531794,
+        "addresstype": "village",
+        "name": "Wiesendangen",
+        "display_name": "Wiesendangen, Bezirk Winterthur, Zürich, Schweiz",
+        "address": {
+            "village": "Wiesendangen",
+            "county": "Bezirk Winterthur",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5100968",
+            "47.5538297",
+            "8.7671416",
+            "8.8740347"
+        ]
+    }
+]

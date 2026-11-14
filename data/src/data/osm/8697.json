@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72849024,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 32515567,
+        "lat": "47.2033184",
+        "lon": "9.3507024",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3975758564613986,
+        "addresstype": "village",
+        "name": "Wildhaus",
+        "display_name": "Wildhaus, Wildhaus-Alt St. Johann, Wahlkreis Toggenburg, St. Gallen, 9658, Schweiz",
+        "address": {
+            "village": "Wildhaus",
+            "city": "Wildhaus-Alt St. Johann",
+            "county": "Wahlkreis Toggenburg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9658",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1833184",
+            "47.2233184",
+            "9.3307024",
+            "9.3707024"
+        ]
+    }
+]

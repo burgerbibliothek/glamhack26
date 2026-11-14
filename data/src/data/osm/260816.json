@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91981478,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685379,
+        "lat": "46.2325963",
+        "lon": "7.8704203",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.404051102337907,
+        "addresstype": "village",
+        "name": "Stalden (VS)",
+        "display_name": "Stalden (VS), Visp, Oberwallis, Wallis, 3922, Schweiz",
+        "address": {
+            "village": "Stalden (VS)",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3922",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2064036",
+            "46.2576697",
+            "7.8475356",
+            "7.9175655"
+        ]
+    }
+]

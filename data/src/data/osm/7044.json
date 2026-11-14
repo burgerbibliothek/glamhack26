@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71945865,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684513,
+        "lat": "47.6887216",
+        "lon": "8.7491492",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4479209652121003,
+        "addresstype": "town",
+        "name": "Diessenhofen",
+        "display_name": "Diessenhofen, Bezirk Frauenfeld, Thurgau, 8253, Schweiz",
+        "address": {
+            "town": "Diessenhofen",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8253",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.6648722",
+            "47.6929040",
+            "8.7014136",
+            "8.8060837"
+        ]
+    }
+]

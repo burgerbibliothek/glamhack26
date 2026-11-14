@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91969684,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 299114159,
+        "lat": "46.9491314",
+        "lon": "7.4349300",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "building",
+        "name": "Patriaheim",
+        "display_name": "Patriaheim, 5, Mauerrain, Stadtbach, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3012, Schweiz",
+        "address": {
+            "building": "Patriaheim",
+            "house_number": "5",
+            "road": "Mauerrain",
+            "quarter": "Stadtbach",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3012",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9490314",
+            "46.9491937",
+            "7.4347905",
+            "7.4350695"
+        ]
+    }
+]

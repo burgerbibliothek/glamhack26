@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73425381,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1909288810,
+        "lat": "46.6753094",
+        "lon": "8.1330486",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10672178912031736,
+        "addresstype": "isolated_dwelling",
+        "name": "Schwarzwaldalp",
+        "display_name": "Schwarzwaldalp, Meiringen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, Schweiz",
+        "address": {
+            "isolated_dwelling": "Schwarzwaldalp",
+            "village": "Meiringen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6752594",
+            "46.6753594",
+            "8.1329986",
+            "8.1330986"
+        ]
+    }
+]

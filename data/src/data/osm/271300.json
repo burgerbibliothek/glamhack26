@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92395959,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8841411946,
+        "lat": "46.6109575",
+        "lon": "6.9935815",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10671282291905086,
+        "addresstype": "isolated_dwelling",
+        "name": "Les Colombettes",
+        "display_name": "Les Colombettes, Vuadens, Greyerzbezirk, Freiburg, 1628, Schweiz",
+        "address": {
+            "isolated_dwelling": "Les Colombettes",
+            "village": "Vuadens",
+            "county": "Greyerzbezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1628",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6109075",
+            "46.6110075",
+            "6.9935315",
+            "6.9936315"
+        ]
+    }
+]

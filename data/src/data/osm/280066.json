@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73192975,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 32448277,
+        "lat": "47.2315465",
+        "lon": "8.8870944",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.205345191009919,
+        "addresstype": "village",
+        "name": "Wagen",
+        "display_name": "Wagen, Rapperswil-Jona, Wahlkreis See-Gaster, St. Gallen, 8646, Schweiz",
+        "address": {
+            "village": "Wagen",
+            "city": "Rapperswil-Jona",
+            "county": "Wahlkreis See-Gaster",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "8646",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2115465",
+            "47.2515465",
+            "8.8670944",
+            "8.9070944"
+        ]
+    }
+]

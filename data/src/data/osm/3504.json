@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92183158,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 282228443,
+        "lat": "46.9748205",
+        "lon": "7.2015659",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 4.846036469057782e-05,
+        "addresstype": "amenity",
+        "name": "Kreuzgasse 8",
+        "display_name": "Kreuzgasse 8, 8, Kreuzgasse, Kerzers, Seebezirk, Freiburg, 3210, Schweiz",
+        "address": {
+            "amenity": "Kreuzgasse 8",
+            "house_number": "8",
+            "road": "Kreuzgasse",
+            "village": "Kerzers",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "3210",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9747292",
+            "46.9749750",
+            "7.2013731",
+            "7.2017527"
+        ]
+    }
+]

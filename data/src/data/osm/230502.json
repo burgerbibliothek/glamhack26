@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 416498034,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684297,
+        "lat": "47.4933563",
+        "lon": "8.1127216",
+        "category": "boundary",
+        "type": "historic",
+        "place_rank": 25,
+        "importance": 0.37484064555151964,
+        "addresstype": "historic",
+        "name": "Effingen",
+        "display_name": "Effingen, Böztal, Bezirk Laufenburg, Aargau, 5078, Schweiz",
+        "address": {
+            "historic": "Effingen",
+            "village": "Effingen",
+            "city": "Böztal",
+            "county": "Bezirk Laufenburg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5078",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4724116",
+            "47.5144699",
+            "8.0899132",
+            "8.1323274"
+        ]
+    }
+]

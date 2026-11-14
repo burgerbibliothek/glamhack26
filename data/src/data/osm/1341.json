@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 130168110,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 533283,
+        "lat": "48.8939655",
+        "lon": "15.2199923",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.36640063663752165,
+        "addresstype": "village",
+        "name": "Gastern",
+        "display_name": "Gastern, Bezirk Waidhofen an der Thaya, Niederösterreich, 3852, Österreich",
+        "address": {
+            "village": "Gastern",
+            "county": "Bezirk Waidhofen an der Thaya",
+            "state": "Niederösterreich",
+            "ISO3166-2-lvl4": "AT-3",
+            "postcode": "3852",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.8647861",
+            "48.9259327",
+            "15.1790895",
+            "15.2713811"
+        ]
+    }
+]

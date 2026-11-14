@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 91317946,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685516,
+        "lat": "46.2283226",
+        "lon": "6.0712016",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4946000539525307,
+        "addresstype": "town",
+        "name": "Meyrin",
+        "display_name": "Meyrin, Genf, Schweiz",
+        "address": {
+            "town": "Meyrin",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2171750",
+            "46.2471255",
+            "6.0461113",
+            "6.1119092"
+        ]
+    }
+]

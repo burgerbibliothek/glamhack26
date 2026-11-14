@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91187515,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684982,
+        "lat": "46.4350251",
+        "lon": "6.2178235",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44621612618968404,
+        "addresstype": "village",
+        "name": "Genolier",
+        "display_name": "Genolier, District de Nyon, Waadt, 1272, Schweiz",
+        "address": {
+            "village": "Genolier",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1272",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4214445",
+            "46.4472647",
+            "6.1981805",
+            "6.2417861"
+        ]
+    }
+]

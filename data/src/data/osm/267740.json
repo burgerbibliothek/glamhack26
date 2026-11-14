@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92534785,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240111291,
+        "lat": "47.2712268",
+        "lon": "6.9855346",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2763378134411431,
+        "addresstype": "village",
+        "name": "Les Pommerats",
+        "display_name": "Les Pommerats, Saignelégier, Freiberge, Jura, 2353, Schweiz",
+        "address": {
+            "village": "Les Pommerats",
+            "county": "Freiberge",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2353",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2512268",
+            "47.2912268",
+            "6.9655346",
+            "7.0055346"
+        ]
+    }
+]

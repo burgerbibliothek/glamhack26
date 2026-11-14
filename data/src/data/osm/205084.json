@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72796653,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 754266155,
+        "lat": "47.0828502",
+        "lon": "9.2765899",
+        "category": "landuse",
+        "type": "winter_sports",
+        "place_rank": 24,
+        "importance": 0.29823583006172555,
+        "addresstype": "winter_sports",
+        "name": "Flumserberg",
+        "display_name": "Flumserberg, Flums, Wahlkreis Sarganserland, St. Gallen, Schweiz",
+        "address": {
+            "winter_sports": "Flumserberg",
+            "village": "Flums",
+            "county": "Wahlkreis Sarganserland",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0559061",
+            "47.0950637",
+            "9.2284447",
+            "9.3083196"
+        ]
+    }
+]

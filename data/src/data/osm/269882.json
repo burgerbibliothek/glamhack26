@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92003856,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 137361928,
+        "lat": "46.9560279",
+        "lon": "6.8570954",
+        "category": "tunnel",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 4.7257953765118145e-05,
+        "addresstype": "tunnel",
+        "name": "Areuse",
+        "display_name": "Areuse, A5, Grandchamp, Boudry, Région Littoral, Neuenburg, 2015, Schweiz",
+        "address": {
+            "tunnel": "Areuse",
+            "road": "A5",
+            "hamlet": "Grandchamp",
+            "village": "Boudry",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2015",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9550720",
+            "46.9577436",
+            "6.8544513",
+            "6.8593172"
+        ]
+    }
+]

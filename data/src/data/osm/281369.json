@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 135884029,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1060610,
+        "lat": "51.8664074",
+        "lon": "12.6430298",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6074863195930384,
+        "addresstype": "town",
+        "name": "Wittenberg",
+        "display_name": "Wittenberg, Sachsen-Anhalt, Deutschland",
+        "address": {
+            "town": "Wittenberg",
+            "county": "Wittenberg",
+            "state": "Sachsen-Anhalt",
+            "ISO3166-2-lvl4": "DE-ST",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.8186838",
+            "52.0132820",
+            "12.4849230",
+            "12.7767377"
+        ]
+    }
+]

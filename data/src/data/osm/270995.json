@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91328656,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 354850291,
+        "lat": "46.7290562",
+        "lon": "7.0731029",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.306026056337308,
+        "addresstype": "village",
+        "name": "Farvagny-le-Petit",
+        "display_name": "Farvagny-le-Petit, Gibloux, Saanebezirk, Freiburg, 1726, Schweiz",
+        "address": {
+            "village": "Farvagny-le-Petit",
+            "city": "Gibloux",
+            "county": "Saanebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1726",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7090562",
+            "46.7490562",
+            "7.0531029",
+            "7.0931029"
+        ]
+    }
+]

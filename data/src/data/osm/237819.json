@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 112813288,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 55456862,
+        "lat": "51.2766823",
+        "lon": "6.8246555",
+        "category": "amenity",
+        "type": "prison",
+        "place_rank": 30,
+        "importance": 0.29754280206928735,
+        "addresstype": "amenity",
+        "name": "JVA Düsseldorf",
+        "display_name": "JVA Düsseldorf, Oberhausener Straße, ABB, West, Ratingen, Kreis Mettmann, Nordrhein-Westfalen, 40472, Deutschland",
+        "address": {
+            "amenity": "JVA Düsseldorf",
+            "road": "Oberhausener Straße",
+            "industrial": "ABB",
+            "suburb": "West",
+            "city_district": "West",
+            "town": "Ratingen",
+            "county": "Kreis Mettmann",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "40472",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.2743201",
+            "51.2776054",
+            "6.8223006",
+            "6.8269521"
+        ]
+    }
+]

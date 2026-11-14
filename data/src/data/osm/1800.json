@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91536825,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 478230926,
+        "lat": "46.6713705",
+        "lon": "7.6198188",
+        "category": "highway",
+        "type": "trunk",
+        "place_rank": 26,
+        "importance": 0.05337955977721825,
+        "addresstype": "trunk",
+        "name": "Simmeflue",
+        "display_name": "Simmeflue, Wimmis, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3752, Schweiz",
+        "address": {
+            "road": "Simmeflue",
+            "village": "Wimmis",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3752",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6710313",
+            "46.6718037",
+            "7.6191945",
+            "7.6203807"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 89095676,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 104836,
+        "lat": "45.9230969",
+        "lon": "6.8700009",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6024060990860501,
+        "addresstype": "town",
+        "name": "Chamonix-Mont-Blanc",
+        "display_name": "Chamonix-Mont-Blanc, Bonneville, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74400, Frankreich",
+        "address": {
+            "town": "Chamonix-Mont-Blanc",
+            "municipality": "Bonneville",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.8284379",
+            "46.0311495",
+            "6.8137453",
+            "7.0444709"
+        ]
+    }
+]

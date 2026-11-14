@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91980393,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 286878973,
+        "lat": "46.8690732",
+        "lon": "7.4589286",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338552605477988,
+        "addresstype": "hamlet",
+        "name": "Obermuhlern",
+        "display_name": "Obermuhlern, Zimmerwald, Wald (BE), Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3086, Schweiz",
+        "address": {
+            "hamlet": "Obermuhlern",
+            "village": "Zimmerwald",
+            "city": "Wald (BE)",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3086",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8490732",
+            "46.8890732",
+            "7.4389286",
+            "7.4789286"
+        ]
+    }
+]

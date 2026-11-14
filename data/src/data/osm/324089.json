@@ -1,0 +1,40 @@
+[
+    {
+        "place_id": 118597795,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 11146201,
+        "lat": "49.1220187",
+        "lon": "6.1734095",
+        "category": "office",
+        "type": "government",
+        "place_rank": 30,
+        "importance": 7.420080872811501e-05,
+        "addresstype": "office",
+        "name": "Pavillon de la Douane",
+        "display_name": "Pavillon de la Douane, 5;6, Theaterplatz, Metz-Centre, Neustadt, Metz, Moselle, Groß-Osten, Metropolitanes Frankreich, 57000, Frankreich",
+        "address": {
+            "office": "Pavillon de la Douane",
+            "house_number": "5;6",
+            "road": "Theaterplatz",
+            "quarter": "Metz-Centre",
+            "suburb": "Neustadt",
+            "city": "Metz",
+            "municipality": "Metz",
+            "county": "Moselle",
+            "ISO3166-2-lvl6": "FR-57",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "57000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.1218070",
+            "49.1222373",
+            "6.1729655",
+            "6.1738365"
+        ]
+    }
+]

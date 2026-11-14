@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92156317,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 48197824,
+        "lat": "46.7621547",
+        "lon": "7.6263510",
+        "category": "leisure",
+        "type": "stadium",
+        "place_rank": 30,
+        "importance": 6.125810635533711e-05,
+        "addresstype": "leisure",
+        "name": "Grabengut",
+        "display_name": "Grabengut, Kyburgstrasse, Thun, Verwaltungskreis Thun, Oberland administrative region, Bern, 3605, Schweiz",
+        "address": {
+            "leisure": "Grabengut",
+            "road": "Kyburgstrasse",
+            "town": "Thun",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3605",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7617466",
+            "46.7625206",
+            "7.6258168",
+            "7.6269143"
+        ]
+    }
+]

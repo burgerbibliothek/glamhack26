@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 123129690,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 665961762,
+        "lat": "48.8081891",
+        "lon": "9.0227589",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10672372549019606,
+        "addresstype": "isolated_dwelling",
+        "name": "Hasenbrunnen",
+        "display_name": "Hasenbrunnen, Haldengebiet, Ramtel, Leonberg, Landkreis Böblingen, Baden-Württemberg, 71229, Deutschland",
+        "address": {
+            "isolated_dwelling": "Hasenbrunnen",
+            "quarter": "Haldengebiet",
+            "suburb": "Ramtel",
+            "town": "Leonberg",
+            "county": "Landkreis Böblingen",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "71229",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.8072453",
+            "48.8093213",
+            "9.0217033",
+            "9.0234598"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91234323,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 870790219,
+        "lat": "46.8180001",
+        "lon": "6.9954218",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.2917175836992075,
+        "addresstype": "village",
+        "name": "Montagny-la-Ville",
+        "display_name": "Montagny-la-Ville, Montagny (FR), Broyebezirk, Freiburg, 1776, Schweiz",
+        "address": {
+            "village": "Montagny-la-Ville",
+            "city": "Montagny (FR)",
+            "county": "Broyebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1776",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7980001",
+            "46.8380001",
+            "6.9754218",
+            "7.0154218"
+        ]
+    }
+]

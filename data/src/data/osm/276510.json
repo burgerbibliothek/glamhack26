@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73748422,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 4966436,
+        "lat": "46.9799478",
+        "lon": "9.0135611",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.19619210675062,
+        "addresstype": "lake",
+        "name": "Oberblegisee",
+        "display_name": "Oberblegisee, Luchsingen, Glarus Süd, Glarus, 8775, Schweiz",
+        "address": {
+            "lake": "Oberblegisee",
+            "village": "Luchsingen",
+            "city": "Glarus Süd",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "postcode": "8775",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9769664",
+            "46.9830300",
+            "9.0110389",
+            "9.0160687"
+        ]
+    }
+]

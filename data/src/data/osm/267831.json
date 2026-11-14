@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92517272,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3081154402,
+        "lat": "47.2243446",
+        "lon": "7.0833645",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.23822746059912708,
+        "addresstype": "railway",
+        "name": "Les Reussilles",
+        "display_name": "Les Reussilles, 248, Le Saucy, Les Gérinnes, Les Reussilles, Tramelan, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2722, Schweiz",
+        "address": {
+            "railway": "Les Reussilles",
+            "road": "248",
+            "neighbourhood": "Le Saucy",
+            "hamlet": "Les Gérinnes",
+            "village": "Les Reussilles",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2722",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2193446",
+            "47.2293446",
+            "7.0783645",
+            "7.0883645"
+        ]
+    }
+]

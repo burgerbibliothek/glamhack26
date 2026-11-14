@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72437173,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682895,
+        "lat": "47.1684849",
+        "lon": "8.0670726",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38850590600538054,
+        "addresstype": "village",
+        "name": "Mauensee",
+        "display_name": "Mauensee, Luzern, 6216, Schweiz",
+        "address": {
+            "village": "Mauensee",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6216",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1568433",
+            "47.1909520",
+            "8.0354057",
+            "8.0941978"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92941915,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683557,
+        "lat": "47.3731476",
+        "lon": "7.9926844",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3726646801410257,
+        "addresstype": "village",
+        "name": "Niedergösgen",
+        "display_name": "Niedergösgen, Bezirk Gösgen, Amtei Olten-Gösgen, Solothurn, 5013, Schweiz",
+        "address": {
+            "village": "Niedergösgen",
+            "municipality": "Bezirk Gösgen",
+            "county": "Amtei Olten-Gösgen",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "5013",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3625764",
+            "47.3874720",
+            "7.9651942",
+            "8.0008199"
+        ]
+    }
+]

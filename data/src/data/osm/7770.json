@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91812486,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685046,
+        "lat": "46.6054096",
+        "lon": "6.4227461",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.44050461830476045,
+        "addresstype": "hamlet",
+        "name": "Mauraz",
+        "display_name": "Mauraz, District de Morges, Waadt, Schweiz",
+        "address": {
+            "hamlet": "Mauraz",
+            "county": "District de Morges",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5989475",
+            "46.6074258",
+            "6.4075190",
+            "6.4257915"
+        ]
+    }
+]

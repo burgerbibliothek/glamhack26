@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92313726,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682554,
+        "lat": "47.0886495",
+        "lon": "7.2494027",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4155791147609246,
+        "addresstype": "village",
+        "name": "Merzligen",
+        "display_name": "Merzligen, Seeland administrative district, Seeland administrative region, Bern, 3274, Schweiz",
+        "address": {
+            "village": "Merzligen",
+            "county": "Seeland administrative district",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3274",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0750978",
+            "47.0964716",
+            "7.2359188",
+            "7.2694211"
+        ]
+    }
+]

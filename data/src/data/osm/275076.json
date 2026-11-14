@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 92762573,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682814,
+        "lat": "47.1816000",
+        "lon": "7.8826300",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3957352519202844,
+        "addresstype": "village",
+        "name": "Altbüron",
+        "display_name": "Altbüron, Luzern, 6147, Schweiz",
+        "address": {
+            "village": "Altbüron",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6147",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1761603",
+            "47.2055774",
+            "7.8594011",
+            "7.9177698"
+        ]
+    }
+]

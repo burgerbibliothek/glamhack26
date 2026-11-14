@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91746011,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685355,
+        "lat": "46.3099340",
+        "lon": "7.7995890",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42488189173487034,
+        "addresstype": "village",
+        "name": "Raron",
+        "display_name": "Raron, Westlich Raron, Oberwallis, Wallis, 3942, Schweiz",
+        "address": {
+            "village": "Raron",
+            "county": "Westlich Raron",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3942",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2861466",
+            "46.3926209",
+            "7.7908985",
+            "7.8593886"
+        ]
+    }
+]

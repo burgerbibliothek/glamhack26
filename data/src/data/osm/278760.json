@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73826385,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1372362893,
+        "lat": "46.6521822",
+        "lon": "8.4182530",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44402070718209324,
+        "addresstype": "peak",
+        "name": "Eggstock",
+        "display_name": "Eggstock, Göschenen, Uri, 6487, Schweiz",
+        "address": {
+            "peak": "Eggstock",
+            "village": "Göschenen",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6487",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6521322",
+            "46.6522322",
+            "8.4182030",
+            "8.4183030"
+        ]
+    }
+]

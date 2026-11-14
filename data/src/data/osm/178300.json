@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91876786,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5817743,
+        "lat": "46.9288643",
+        "lon": "7.1163909",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.48463057595744835,
+        "addresstype": "town",
+        "name": "Murten",
+        "display_name": "Murten, Seebezirk, Freiburg, Schweiz",
+        "address": {
+            "town": "Murten",
+            "county": "Seebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8821761",
+            "46.9862818",
+            "7.0826443",
+            "7.2104402"
+        ]
+    }
+]

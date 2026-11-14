@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 73275096,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683112,
+        "lat": "46.9570611",
+        "lon": "8.3661026",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.503310708921179,
+        "addresstype": "town",
+        "name": "Stans",
+        "display_name": "Stans, Nidwalden, Schweiz",
+        "address": {
+            "town": "Stans",
+            "state": "Nidwalden",
+            "ISO3166-2-lvl4": "CH-NW",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9312892",
+            "46.9819269",
+            "8.3416718",
+            "8.3887630"
+        ]
+    }
+]

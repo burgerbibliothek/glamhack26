@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92034010,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3081154403,
+        "lat": "46.9991554",
+        "lon": "6.7352607",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.14389741120638372,
+        "addresstype": "railway",
+        "name": "Les Ponts-de-Martel",
+        "display_name": "Les Ponts-de-Martel, 4, Grande rue, Les Ponts-de-Martel, Région Montagnes, Neuenburg, 2316, Schweiz",
+        "address": {
+            "railway": "Les Ponts-de-Martel",
+            "house_number": "4",
+            "road": "Grande rue",
+            "village": "Les Ponts-de-Martel",
+            "region": "Région Montagnes",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2316",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9941554",
+            "47.0041554",
+            "6.7302607",
+            "6.7402607"
+        ]
+    }
+]

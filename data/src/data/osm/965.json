@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 431863717,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5466227,
+        "lat": "30.0443879",
+        "lon": "31.2357257",
+        "category": "place",
+        "type": "city",
+        "place_rank": 16,
+        "importance": 0.7515178427815343,
+        "addresstype": "city",
+        "name": "Kairo",
+        "display_name": "Kairo, Ägypten",
+        "address": {
+            "city": "Kairo",
+            "state": "Kairo",
+            "ISO3166-2-lvl4": "EG-C",
+            "country": "Ägypten",
+            "country_code": "eg"
+        },
+        "boundingbox": [
+            "29.7483062",
+            "30.3209168",
+            "31.2200331",
+            "31.9090054"
+        ]
+    }
+]

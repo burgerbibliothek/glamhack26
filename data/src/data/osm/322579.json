@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 93480029,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3420146200,
+        "lat": "47.5415872",
+        "lon": "7.5911574",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.607461661702933e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "49, Jurastrasse, Gundeldingen, Grossbasel, Basel, Basel-Stadt, 4053, Schweiz",
+        "address": {
+            "house_number": "49",
+            "road": "Jurastrasse",
+            "suburb": "Gundeldingen",
+            "borough": "Grossbasel",
+            "city": "Basel",
+            "state": "Basel-Stadt",
+            "ISO3166-2-lvl4": "CH-BS",
+            "postcode": "4053",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5415372",
+            "47.5416372",
+            "7.5911074",
+            "7.5912074"
+        ]
+    }
+]

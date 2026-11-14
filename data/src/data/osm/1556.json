@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91720731,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11499539254,
+        "lat": "46.6620086",
+        "lon": "7.4541242",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06671161135271228,
+        "addresstype": "locality",
+        "name": "Matten",
+        "display_name": "Matten, Bunschen, Oberwil im Simmental, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3765, Schweiz",
+        "address": {
+            "locality": "Matten",
+            "hamlet": "Bunschen",
+            "village": "Oberwil im Simmental",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3765",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6520086",
+            "46.6720086",
+            "7.4441242",
+            "7.4641242"
+        ]
+    }
+]

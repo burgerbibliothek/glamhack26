@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92327281,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 31664299,
+        "lat": "46.6461936",
+        "lon": "7.6523674",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4524580407745302,
+        "addresstype": "peak",
+        "name": "Niesen",
+        "display_name": "Niesen, Reichenbach im Kandertal, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3711, Schweiz",
+        "address": {
+            "peak": "Niesen",
+            "village": "Reichenbach im Kandertal",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3711",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6461436",
+            "46.6462436",
+            "7.6523174",
+            "7.6524174"
+        ]
+    }
+]

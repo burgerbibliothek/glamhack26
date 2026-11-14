@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 72001363,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1599381350,
+        "lat": "47.5807426",
+        "lon": "8.8318237",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.28779482241276744,
+        "addresstype": "village",
+        "name": "Uesslingen",
+        "display_name": "Uesslingen, Uesslingen-Buch, Bezirk Frauenfeld, Thurgau, 8524, Schweiz",
+        "address": {
+            "village": "Uesslingen",
+            "city": "Uesslingen-Buch",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8524",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5607426",
+            "47.6007426",
+            "8.8118237",
+            "8.8518237"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 71768228,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5335200,
+        "lat": "47.6956373",
+        "lon": "9.0592022",
+        "category": "place",
+        "type": "island",
+        "place_rank": 17,
+        "importance": 0.5164144237895928,
+        "addresstype": "island",
+        "name": "Reichenau",
+        "display_name": "Reichenau, VVG der Stadt Konstanz, Landkreis Konstanz, Baden-Württemberg, Deutschland",
+        "address": {
+            "island": "Reichenau",
+            "village": "Reichenau",
+            "municipality": "VVG der Stadt Konstanz",
+            "county": "Landkreis Konstanz",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.6831996",
+            "47.7081538",
+            "9.0408013",
+            "9.0918751"
+        ]
+    }
+]

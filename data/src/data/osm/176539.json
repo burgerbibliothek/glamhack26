@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92081543,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 386737311,
+        "lat": "46.6705976",
+        "lon": "7.5830216",
+        "category": "historic",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.07194870560319186,
+        "addresstype": "historic",
+        "name": "Ruine Gaffer Tschingge",
+        "display_name": "Ruine Gaffer Tschingge, Simmentalstrasse, Stalden, Latterbach, Erlenbach im Simmental, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3762, Schweiz",
+        "address": {
+            "historic": "Ruine Gaffer Tschingge",
+            "road": "Simmentalstrasse",
+            "hamlet": "Stalden",
+            "village": "Latterbach",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3762",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6705630",
+            "46.6706323",
+            "7.5829515",
+            "7.5830917"
+        ]
+    }
+]

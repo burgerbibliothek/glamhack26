@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92554222,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 231644052,
+        "lat": "47.1377089",
+        "lon": "7.2441878",
+        "category": "office",
+        "type": "government",
+        "place_rank": 30,
+        "importance": 6.320210574497623e-05,
+        "addresstype": "office",
+        "name": "Städtische Finanzdirektion",
+        "display_name": "Städtische Finanzdirektion, 14, Neuengasse, Neustadt, Biel, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2502, Schweiz",
+        "address": {
+            "office": "Städtische Finanzdirektion",
+            "house_number": "14",
+            "road": "Neuengasse",
+            "suburb": "Neustadt",
+            "city": "Biel",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2502",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1375586",
+            "47.1378352",
+            "7.2439643",
+            "7.2444126"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 88154286,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 107010,
+        "lat": "44.9576485",
+        "lon": "6.1763805",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5770700544737192,
+        "addresstype": "village",
+        "name": "Saint-Christophe-en-Oisans",
+        "display_name": "Saint-Christophe-en-Oisans, Grenoble, Isère, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 38520, Frankreich",
+        "address": {
+            "village": "Saint-Christophe-en-Oisans",
+            "municipality": "Grenoble",
+            "county": "Isère",
+            "ISO3166-2-lvl6": "FR-38",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "38520",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.8495863",
+            "45.0114822",
+            "6.1061650",
+            "6.3590884"
+        ]
+    }
+]

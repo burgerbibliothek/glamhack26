@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 73211590,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2836876118,
+        "lat": "46.1547927",
+        "lon": "8.6109160",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.23468656939839805,
+        "addresstype": "railway",
+        "name": "Camedo",
+        "display_name": "Camedo, Via Moneto, Ribellasca, Borgnone, Camedo, Centovalli, Kreis Melezza, Bezirk Locarno, Tessin, 6658, Schweiz",
+        "address": {
+            "railway": "Camedo",
+            "road": "Via Moneto",
+            "neighbourhood": "Ribellasca",
+            "hamlet": "Borgnone",
+            "village": "Camedo",
+            "city": "Centovalli",
+            "municipality": "Kreis Melezza",
+            "county": "Bezirk Locarno",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "postcode": "6658",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1497927",
+            "46.1597927",
+            "8.6059160",
+            "8.6159160"
+        ]
+    }
+]

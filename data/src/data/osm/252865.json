@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 73351640,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 420041304,
+        "lat": "46.5613226",
+        "lon": "8.3614962",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.1773516541617975,
+        "addresstype": "railway",
+        "name": "Gletsch",
+        "display_name": "Gletsch, Furkastrasse, Gletsch, Obergoms, Goms, Oberwallis, Wallis, 3999, Schweiz",
+        "address": {
+            "railway": "Gletsch",
+            "road": "Furkastrasse",
+            "hamlet": "Gletsch",
+            "city": "Obergoms",
+            "county": "Goms",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3999",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5563226",
+            "46.5663226",
+            "8.3564962",
+            "8.3664962"
+        ]
+    }
+]
