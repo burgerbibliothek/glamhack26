@@ -3,3 +3,4 @@
 !.pixi/config.toml
 __pycache__/
 src/data/ark_cache/
+src/data/metagrid_cache/

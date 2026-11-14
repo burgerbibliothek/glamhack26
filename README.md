@@ -34,6 +34,9 @@ The primary goal is to acquire geospatial data for the place descriptors, which 
 This repository is organized as a [monorepo](https://en.wikipedia.org/wiki/Monorepo): 
 -	The `data` folder contains the dataset and some scripts for data wrangling.
 -	The `docs` folder contains the documentation of the project (methodology, insights, etc.)
+-	The `web` folder contains the map and arc visualisation, which is published with GitHub Pages and reads `data/src/data/map_data.json`.
+
+The person enrichment (data from the ARK pages, reconciliation against GND/Wikidata, Metagrid links) and the generation of the visualisation data are documented in [`data/README.md`](data/README.md).
 
 ## Challenge owners
 <div>Nadja Ackermann ؜؜؜؜؜؜(nadja<span>­.</span>ackermann<span>@­</span>burgerbib<span>.</span>ch), Burgerbibliothek Bern</div> 
