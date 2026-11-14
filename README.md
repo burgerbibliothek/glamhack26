@@ -1,4 +1,8 @@
 # Locate the Past: Geospacial metadata in Archives
+During the GLAMHack we merged groups with the Group "[Historical Photos on the Map](https://hack.glam.opendata.ch/project/327)".
+- [Demo 1 (swisstopo)](https://odoma-ch.github.io/GLAMHACK26-HistoricalPhotos/)
+- [Demo 2 (Burgerbibliothek)](https://burgerbibliothek.github.io/glamhack26/web/)
+
 This project is part of the [GLAMHack26](https://hack.glam.opendata.ch/event/13), the Swiss Open Cultural Data Hackathon.
 ## Baseline
 >TL;DR Project scope is to enrich a dataset – containing 23 501 places – with geospatial metadata to gain new insights and visualization possibilities.
