@@ -102,6 +102,10 @@ FROM file
 WHERE found = true
 ```
 
+# Aggregated Data
+- `osm/*.json` contains the result of calls to the Nominatim API.
+- `birth_death_places_geo.csv` contains a list with the geocoordinates of the birth and death place of persons.
+
 # Tools
 - [ParquetViewer](https://parquetviewer.app/) is a viewer for parquet files, which runs directly in your browser.
 - [Pixi](https://pixi.prefix.dev) is reproducible package management tool for developers.
