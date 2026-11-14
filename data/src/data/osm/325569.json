@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93050774,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3444417237,
+        "lat": "47.3513888",
+        "lon": "7.0775968",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3172483997907332,
+        "addresstype": "village",
+        "name": "Ocourt",
+        "display_name": "Ocourt, Clos du Doubs, Bezirk Porrentruy, Jura, 2889, Schweiz",
+        "address": {
+            "village": "Ocourt",
+            "city": "Clos du Doubs",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2889",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3313888",
+            "47.3713888",
+            "7.0575968",
+            "7.0975968"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 80233109,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42141,
+        "lat": "42.8834204",
+        "lon": "13.5395930",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.716882836980707,
+        "addresstype": "county",
+        "name": "Ascoli Piceno",
+        "display_name": "Ascoli Piceno, Marken, Italien",
+        "address": {
+            "county": "Ascoli Piceno",
+            "ISO3166-2-lvl6": "IT-AP",
+            "state": "Marken",
+            "ISO3166-2-lvl4": "IT-57",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "42.6871561",
+            "43.0797782",
+            "13.1875521",
+            "13.9163435"
+        ]
+    }
+]

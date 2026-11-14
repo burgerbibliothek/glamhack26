@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 95866741,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12621277526,
+        "lat": "46.9465837",
+        "lon": "7.3934336",
+        "category": "amenity",
+        "type": "parking",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "",
+        "display_name": "45, Bümplizstrasse, Altes Bethlehem, Bethlehem, Stadtteil VI, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3027, Schweiz",
+        "address": {
+            "house_number": "45",
+            "road": "Bümplizstrasse",
+            "quarter": "Altes Bethlehem",
+            "city_district": "Stadtteil VI",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3027",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9465337",
+            "46.9466337",
+            "7.3933836",
+            "7.3934836"
+        ]
+    }
+]

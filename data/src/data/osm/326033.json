@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73579279,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1217506455,
+        "lat": "46.7807025",
+        "lon": "8.5182760",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44357265160904613,
+        "addresstype": "peak",
+        "name": "Chli Spannort",
+        "display_name": "Chli Spannort, Erstfeld, Uri, 6472, Schweiz",
+        "address": {
+            "peak": "Chli Spannort",
+            "village": "Erstfeld",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6472",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7806525",
+            "46.7807525",
+            "8.5182260",
+            "8.5183260"
+        ]
+    }
+]

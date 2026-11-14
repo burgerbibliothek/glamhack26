@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 74681114,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 44217,
+        "lat": "45.3914080",
+        "lon": "11.8058487",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.719980951303887,
+        "addresstype": "county",
+        "name": "Province of Padua",
+        "display_name": "Province of Padua, Venetien, Italien",
+        "address": {
+            "county": "Province of Padua",
+            "ISO3166-2-lvl6": "IT-PD",
+            "state": "Venetien",
+            "ISO3166-2-lvl4": "IT-34",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.0955800",
+            "45.6872283",
+            "11.3909429",
+            "12.2064075"
+        ]
+    }
+]

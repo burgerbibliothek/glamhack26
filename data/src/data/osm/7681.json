@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 90239266,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 152508,
+        "lat": "46.6727037",
+        "lon": "5.5589973",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6035883893578247,
+        "addresstype": "town",
+        "name": "Lons-le-Saunier",
+        "display_name": "Lons-le-Saunier, Jura, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 39000, Frankreich",
+        "address": {
+            "town": "Lons-le-Saunier",
+            "municipality": "Lons-le-Saunier",
+            "county": "Jura",
+            "ISO3166-2-lvl6": "FR-39",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "39000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.6564631",
+            "46.6951254",
+            "5.5321868",
+            "5.5823175"
+        ]
+    }
+]

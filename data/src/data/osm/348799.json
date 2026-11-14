@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 121012048,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 122826,
+        "lat": "48.8302569",
+        "lon": "6.8420106",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5866405803674898,
+        "addresstype": "village",
+        "name": "Rohrbach",
+        "display_name": "Rohrbach, Sarrebourg-Château-Salins, Moselle, Groß-Osten, Metropolitanes Frankreich, 57260, Frankreich",
+        "address": {
+            "village": "Rohrbach",
+            "municipality": "Sarrebourg-Château-Salins",
+            "county": "Moselle",
+            "ISO3166-2-lvl6": "FR-57",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "57260",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8186772",
+            "48.8413939",
+            "6.8147342",
+            "6.8637969"
+        ]
+    }
+]

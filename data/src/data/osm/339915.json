@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72118274,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684547,
+        "lat": "47.6006714",
+        "lon": "8.7794938",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39635455236634,
+        "addresstype": "municipality",
+        "name": "Neunforn",
+        "display_name": "Neunforn, Bezirk Frauenfeld, Thurgau, 8525, Schweiz",
+        "address": {
+            "municipality": "Neunforn",
+            "county": "Bezirk Frauenfeld",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "postcode": "8525",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5850212",
+            "47.6230417",
+            "8.7394011",
+            "8.8105415"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 75934608,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 62510530,
+        "lat": "45.2515029",
+        "lon": "9.9644521",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.1467256359197375,
+        "addresstype": "village",
+        "name": "Casalbuttano ed Uniti",
+        "display_name": "Casalbuttano ed Uniti, Cremona, Lombardei, 26011, Italien",
+        "address": {
+            "village": "Casalbuttano ed Uniti",
+            "city": "Casalbuttano ed Uniti",
+            "county": "Cremona",
+            "ISO3166-2-lvl6": "IT-CR",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "26011",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.2315029",
+            "45.2715029",
+            "9.9444521",
+            "9.9844521"
+        ]
+    }
+]

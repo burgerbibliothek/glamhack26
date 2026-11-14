@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 77896356,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 43292,
+        "lat": "44.7667642",
+        "lon": "11.8279390",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7173439952880216,
+        "addresstype": "county",
+        "name": "Ferrara",
+        "display_name": "Ferrara, Emilia-Romagna, Italien",
+        "address": {
+            "county": "Ferrara",
+            "ISO3166-2-lvl6": "IT-FE",
+            "state": "Emilia-Romagna",
+            "ISO3166-2-lvl4": "IT-45",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.5466121",
+            "44.9869430",
+            "11.2346755",
+            "12.3989637"
+        ]
+    }
+]

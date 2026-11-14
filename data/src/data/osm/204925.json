@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 89375842,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 46347,
+        "lat": "45.8512107",
+        "lon": "7.9371767",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5224589289283711,
+        "addresstype": "village",
+        "name": "Alagna Valsesia",
+        "display_name": "Alagna Valsesia, Vercelli, Piemont, 13021, Italien",
+        "address": {
+            "village": "Alagna Valsesia",
+            "county": "Vercelli",
+            "ISO3166-2-lvl6": "IT-VC",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "postcode": "13021",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.7420307",
+            "45.9273843",
+            "7.8613734",
+            "8.0001505"
+        ]
+    }
+]

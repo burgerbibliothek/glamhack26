@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 73185591,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 823248125,
+        "lat": "46.6949869",
+        "lon": "8.3480338",
+        "category": "tourism",
+        "type": "alpine_hut",
+        "place_rank": 30,
+        "importance": 0.16273786379520622,
+        "addresstype": "tourism",
+        "name": "Windegghütte SAC",
+        "display_name": "Windegghütte SAC, Triftbrücke, Gadmen, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3863, Schweiz",
+        "address": {
+            "tourism": "Windegghütte SAC",
+            "road": "Triftbrücke",
+            "city_district": "Gadmen",
+            "village": "Innertkirchen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3863",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6949308",
+            "46.6950430",
+            "8.3479523",
+            "8.3481153"
+        ]
+    }
+]

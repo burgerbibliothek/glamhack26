@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 90619038,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 312236593,
+        "lat": "46.9001446",
+        "lon": "5.0898229",
+        "category": "highway",
+        "type": "primary",
+        "place_rank": 26,
+        "importance": 0.053397035934996534,
+        "addresstype": "primary",
+        "name": "Route Nationale Chalons Besançon",
+        "display_name": "Route Nationale Chalons Besançon, La Dombe, Sermesse, Chalon-sur-Saône, Saône-et-Loire, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 71350, Frankreich",
+        "address": {
+            "road": "Route Nationale Chalons Besançon",
+            "hamlet": "La Dombe",
+            "village": "Sermesse",
+            "municipality": "Chalon-sur-Saône",
+            "county": "Saône-et-Loire",
+            "ISO3166-2-lvl6": "FR-71",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "71350",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.8986420",
+            "46.9014842",
+            "5.0878179",
+            "5.0919414"
+        ]
+    }
+]

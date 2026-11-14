@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 121229099,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 83359,
+        "lat": "48.1571873",
+        "lon": "7.2410940",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.546905062154712,
+        "addresstype": "city_district",
+        "name": "Kaysersberg",
+        "display_name": "Kaysersberg, Kaysersberg-Vignoble, Colmar-Rappoltsweiler, Oberelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 68240, Frankreich",
+        "address": {
+            "city_district": "Kaysersberg",
+            "city": "Kaysersberg-Vignoble",
+            "municipality": "Colmar-Rappoltsweiler",
+            "county": "Oberelsass",
+            "ISO3166-2-lvl6": "FR-68",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "68240",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.1249220",
+            "48.1889242",
+            "7.2013797",
+            "7.2727996"
+        ]
+    }
+]

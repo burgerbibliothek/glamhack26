@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 88874228,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 147333,
+        "lat": "45.8498034",
+        "lon": "5.0568249",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5742382369147336,
+        "addresstype": "village",
+        "name": "Montluel",
+        "display_name": "Montluel, Bourg-en-Bresse, Ain, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 01120, Frankreich",
+        "address": {
+            "village": "Montluel",
+            "municipality": "Bourg-en-Bresse",
+            "county": "Ain",
+            "ISO3166-2-lvl6": "FR-01",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "01120",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.8383293",
+            "45.9349240",
+            "4.9626377",
+            "5.0742593"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 145032111,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2998471565,
+        "lat": "52.5138098",
+        "lon": "13.5858139",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "18, Gutenbergstraße, Kaulsdorf, Marzahn-Hellersdorf, Berlin, 12621, Deutschland",
+        "address": {
+            "house_number": "18",
+            "road": "Gutenbergstraße",
+            "suburb": "Kaulsdorf",
+            "borough": "Marzahn-Hellersdorf",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12621",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5137598",
+            "52.5138598",
+            "13.5857639",
+            "13.5858639"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 90619012,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 147338,
+        "lat": "45.9036300",
+        "lon": "5.1925264",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5696812694655067,
+        "addresstype": "village",
+        "name": "Meximieux",
+        "display_name": "Meximieux, Belley, Ain, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 01800, Frankreich",
+        "address": {
+            "village": "Meximieux",
+            "municipality": "Belley",
+            "county": "Ain",
+            "ISO3166-2-lvl6": "FR-01",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "01800",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.8792297",
+            "45.9301674",
+            "5.1749329",
+            "5.2482860"
+        ]
+    }
+]

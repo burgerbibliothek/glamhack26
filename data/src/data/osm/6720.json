@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 90699228,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 147925,
+        "lat": "46.7085571",
+        "lon": "5.6466940",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5730142714015768,
+        "addresstype": "village",
+        "name": "Baume-les-Messieurs",
+        "display_name": "Baume-les-Messieurs, Lons-le-Saunier, Jura, Bourgogne-Franche-Comté, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "village": "Baume-les-Messieurs",
+            "municipality": "Lons-le-Saunier",
+            "county": "Jura",
+            "ISO3166-2-lvl6": "FR-39",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.6843680",
+            "46.7270113",
+            "5.6097393",
+            "5.7072474"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 82785801,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 71963,
+        "lat": "43.6951468",
+        "lon": "5.5032671",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.526086082855367,
+        "addresstype": "town",
+        "name": "Pertuis",
+        "display_name": "Pertuis, Apt, Vaucluse, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 84120, Frankreich",
+        "address": {
+            "town": "Pertuis",
+            "municipality": "Apt",
+            "county": "Vaucluse",
+            "ISO3166-2-lvl6": "FR-84",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "84120",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.6586727",
+            "43.7275637",
+            "5.4453599",
+            "5.6241172"
+        ]
+    }
+]

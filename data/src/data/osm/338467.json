@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73211458,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1658241291,
+        "lat": "47.1697833",
+        "lon": "9.1356614",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44394624380380954,
+        "addresstype": "peak",
+        "name": "Mattstock",
+        "display_name": "Mattstock, Amden, Wahlkreis See-Gaster, St. Gallen, 8873, Schweiz",
+        "address": {
+            "peak": "Mattstock",
+            "village": "Amden",
+            "county": "Wahlkreis See-Gaster",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "8873",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1697333",
+            "47.1698333",
+            "9.1356114",
+            "9.1357114"
+        ]
+    }
+]

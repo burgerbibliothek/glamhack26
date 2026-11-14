@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 88917486,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 32673882,
+        "lat": "45.8739338",
+        "lon": "7.0085581",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.37777042313464865,
+        "addresstype": "glacier",
+        "name": "Ghiacciaio di Fréboudze",
+        "display_name": "Ghiacciaio di Fréboudze, Courmayeur, Aostatal, Italien",
+        "address": {
+            "glacier": "Ghiacciaio di Fréboudze",
+            "city": "Courmayeur",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8641148",
+            "45.8834551",
+            "6.9940335",
+            "7.0162550"
+        ]
+    }
+]

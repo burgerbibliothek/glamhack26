@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 88710705,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 83090,
+        "lat": "45.5152410",
+        "lon": "5.3298908",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.57197828864517,
+        "addresstype": "village",
+        "name": "Châteauvilain",
+        "display_name": "Châteauvilain, La Tour-du-Pin, Isère, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 38300, Frankreich",
+        "address": {
+            "village": "Châteauvilain",
+            "municipality": "La Tour-du-Pin",
+            "county": "Isère",
+            "ISO3166-2-lvl6": "FR-38",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "38300",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.4922839",
+            "45.5364480",
+            "5.3060090",
+            "5.3572003"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92792450,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2666183489,
+        "lat": "47.2212423",
+        "lon": "7.1562245",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338407797360188,
+        "addresstype": "hamlet",
+        "name": "La Tanne",
+        "display_name": "La Tanne, Tavannes, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2605, Schweiz",
+        "address": {
+            "hamlet": "La Tanne",
+            "village": "Tavannes",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2605",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2012423",
+            "47.2412423",
+            "7.1362245",
+            "7.1762245"
+        ]
+    }
+]

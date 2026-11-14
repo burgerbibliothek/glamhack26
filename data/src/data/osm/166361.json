@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 80649691,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4693682411,
+        "lat": "40.8213963",
+        "lon": "14.4261967",
+        "category": "natural",
+        "type": "volcano",
+        "place_rank": 18,
+        "importance": 0.5785940561435798,
+        "addresstype": "volcano",
+        "name": "Vesuv",
+        "display_name": "Vesuv, Trecase, Metropolitanstadt Neapel, Kampanien, 80040, Italien",
+        "address": {
+            "volcano": "Vesuv",
+            "village": "Trecase",
+            "county": "Metropolitanstadt Neapel",
+            "ISO3166-2-lvl6": "IT-NA",
+            "state": "Kampanien",
+            "ISO3166-2-lvl4": "IT-72",
+            "postcode": "80040",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "40.8213463",
+            "40.8214463",
+            "14.4261467",
+            "14.4262467"
+        ]
+    }
+]

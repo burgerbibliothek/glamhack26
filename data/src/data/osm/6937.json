@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 98122582,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 33914,
+        "lat": "48.7670404",
+        "lon": "2.2775316",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5350883514102341,
+        "addresstype": "town",
+        "name": "Châtenay-Malabry",
+        "display_name": "Châtenay-Malabry, Antony, Hauts-de-Seine, Île-de-France, Metropolitanes Frankreich, 92290, Frankreich",
+        "address": {
+            "town": "Châtenay-Malabry",
+            "municipality": "Antony",
+            "county": "Hauts-de-Seine",
+            "ISO3166-2-lvl6": "FR-92",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "92290",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.7566178",
+            "48.7827548",
+            "2.2286964",
+            "2.2919231"
+        ]
+    }
+]

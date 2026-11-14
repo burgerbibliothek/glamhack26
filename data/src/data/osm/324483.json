@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92743741,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8993896762,
+        "lat": "47.2059823",
+        "lon": "7.4495548",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 5.1986724650904366e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "25, Schänzlistrasse, Wigarten, Längacker, Selzach, Bezirk Lebern, Amtei Solothurn-Lebern, Solothurn, 2545, Schweiz",
+        "address": {
+            "house_number": "25",
+            "road": "Schänzlistrasse",
+            "quarter": "Wigarten",
+            "hamlet": "Längacker",
+            "village": "Selzach",
+            "municipality": "Bezirk Lebern",
+            "county": "Amtei Solothurn-Lebern",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "2545",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2059323",
+            "47.2060323",
+            "7.4495048",
+            "7.4496048"
+        ]
+    }
+]

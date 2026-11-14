@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 76851748,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42614,
+        "lat": "44.0177639",
+        "lon": "10.4544300",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7180370715322826,
+        "addresstype": "county",
+        "name": "Lucca",
+        "display_name": "Lucca, Toskana, Italien",
+        "address": {
+            "county": "Lucca",
+            "ISO3166-2-lvl6": "IT-LU",
+            "state": "Toskana",
+            "ISO3166-2-lvl4": "IT-52",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "43.7493355",
+            "44.2861712",
+            "10.1433617",
+            "10.7375739"
+        ]
+    }
+]

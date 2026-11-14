@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72552026,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11565997884,
+        "lat": "47.0424814",
+        "lon": "8.4872359",
+        "category": "railway",
+        "type": "stop",
+        "place_rank": 30,
+        "importance": 5.0660715648081444e-05,
+        "addresstype": "railway",
+        "name": "Rigi Klösterli",
+        "display_name": "Rigi Klösterli, Klösterliweg, Rigi First, Arth, Schwyz, 6356, Schweiz",
+        "address": {
+            "railway": "Rigi Klösterli",
+            "road": "Klösterliweg",
+            "hamlet": "Rigi First",
+            "town": "Arth",
+            "county": "Schwyz",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "6356",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0424314",
+            "47.0425314",
+            "8.4871859",
+            "8.4872859"
+        ]
+    }
+]

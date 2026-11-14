@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 75379013,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 46664,
+        "lat": "45.9680810",
+        "lon": "8.9710330",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5558412388398042,
+        "addresstype": "village",
+        "name": "Campione d'Italia",
+        "display_name": "Campione d'Italia, Como, Lombardei, 22061, Italien",
+        "address": {
+            "village": "Campione d'Italia",
+            "county": "Como",
+            "ISO3166-2-lvl6": "IT-CO",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "22061",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.9616284",
+            "45.9841493",
+            "8.9585437",
+            "8.9793606"
+        ]
+    }
+]

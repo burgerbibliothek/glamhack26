@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91327888,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 102856,
+        "lat": "46.1525109",
+        "lon": "6.2111109",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5323067377308411,
+        "addresstype": "city",
+        "name": "Monnetier-Mornex",
+        "display_name": "Monnetier-Mornex, Saint-Julien-en-Genevois, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74560, Frankreich",
+        "address": {
+            "city": "Monnetier-Mornex",
+            "municipality": "Saint-Julien-en-Genevois",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74560",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.1321821",
+            "46.1728228",
+            "6.1839608",
+            "6.2445983"
+        ]
+    }
+]

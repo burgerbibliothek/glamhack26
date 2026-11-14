@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 88227563,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 43108,
+        "lat": "44.3746290",
+        "lon": "6.9542095",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5843321915582237,
+        "addresstype": "city",
+        "name": "Argentera",
+        "display_name": "Argentera, Cuneo, Piemont, Italien",
+        "address": {
+            "city": "Argentera",
+            "county": "Cuneo",
+            "ISO3166-2-lvl6": "IT-CN",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.3192926",
+            "44.4299575",
+            "6.8870076",
+            "7.0305108"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73503572,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683085,
+        "lat": "46.9102462",
+        "lon": "8.5620130",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3971205322578132,
+        "addresstype": "village",
+        "name": "Isenthal",
+        "display_name": "Isenthal, Uri, 6461, Schweiz",
+        "address": {
+            "village": "Isenthal",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6461",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8402482",
+            "46.9279646",
+            "8.4583069",
+            "8.6078511"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 88411518,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2613890112,
+        "lat": "44.8837197",
+        "lon": "7.4637407",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.49359541881159275,
+        "addresstype": "hamlet",
+        "name": "Bicocca",
+        "display_name": "Bicocca, Scalenghe, Turin, Piemont, 10067, Italien",
+        "address": {
+            "hamlet": "Bicocca",
+            "village": "Scalenghe",
+            "county": "Turin",
+            "ISO3166-2-lvl6": "IT-TO",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "postcode": "10067",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.8637197",
+            "44.9037197",
+            "7.4437407",
+            "7.4837407"
+        ]
+    }
+]

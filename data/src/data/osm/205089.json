@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 74740665,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 8569,
+        "lat": "45.6624314",
+        "lon": "10.6861569",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.5548486299925198,
+        "addresstype": "lake",
+        "name": "Gardasee",
+        "display_name": "Gardasee, Brescia, Lombardei, Italien",
+        "address": {
+            "lake": "Gardasee",
+            "county": "Brescia",
+            "ISO3166-2-lvl6": "IT-BS",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.4403205",
+            "45.8848213",
+            "10.5109103",
+            "10.8768975"
+        ]
+    }
+]

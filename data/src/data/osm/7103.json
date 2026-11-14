@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 121223693,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 12448106,
+        "lat": "48.9260124",
+        "lon": "7.1776763",
+        "category": "place",
+        "type": "region",
+        "place_rank": 18,
+        "importance": 0.35642684290255977,
+        "addresstype": "region",
+        "name": "Krummes Elsass",
+        "display_name": "Krummes Elsass, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "region": "Krummes Elsass",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.7742344",
+            "49.0777916",
+            "6.9406274",
+            "7.4118240"
+        ]
+    }
+]

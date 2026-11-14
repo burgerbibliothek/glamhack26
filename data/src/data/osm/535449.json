@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 89023069,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 26863860,
+        "lat": "45.7754147",
+        "lon": "7.1944304",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.19283288150311992,
+        "addresstype": "peak",
+        "name": "Mont Fallère",
+        "display_name": "Mont Fallère, Saint-Pierre, Aostatal, 11014, Italien",
+        "address": {
+            "peak": "Mont Fallère",
+            "village": "Saint-Pierre",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "postcode": "11014",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.7753647",
+            "45.7754647",
+            "7.1943804",
+            "7.1944804"
+        ]
+    }
+]

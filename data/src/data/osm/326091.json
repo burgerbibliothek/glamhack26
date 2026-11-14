@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73563342,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 750657484,
+        "lat": "46.8710319",
+        "lon": "8.2693067",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337996108949415,
+        "addresstype": "hamlet",
+        "name": "Flüeli-Ranft",
+        "display_name": "Flüeli-Ranft, Sachseln, Obwalden, 6073, Schweiz",
+        "address": {
+            "hamlet": "Flüeli-Ranft",
+            "village": "Sachseln",
+            "state": "Obwalden",
+            "ISO3166-2-lvl4": "CH-OW",
+            "postcode": "6073",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8510319",
+            "46.8910319",
+            "8.2493067",
+            "8.2893067"
+        ]
+    }
+]

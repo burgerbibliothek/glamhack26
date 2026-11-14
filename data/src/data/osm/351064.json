@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91819042,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 48436034,
+        "lat": "46.9637001",
+        "lon": "7.4558384",
+        "category": "building",
+        "type": "commercial",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "56, Winkelriedstrasse, Breitfeld, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3014, Schweiz",
+        "address": {
+            "house_number": "56",
+            "road": "Winkelriedstrasse",
+            "quarter": "Breitfeld",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3014",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9635772",
+            "46.9638087",
+            "7.4554394",
+            "7.4560558"
+        ]
+    }
+]

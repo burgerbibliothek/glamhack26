@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 139390663,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1364335196,
+        "lat": "51.3898254",
+        "lon": "8.6323081",
+        "category": "leisure",
+        "type": "nature_reserve",
+        "place_rank": 24,
+        "importance": 0.3054111172263137,
+        "addresstype": "nature_reserve",
+        "name": "Drei Eichen",
+        "display_name": "Drei Eichen, Brilon (Kernstadt), Brilon, Hochsauerlandkreis, Nordrhein-Westfalen, Deutschland",
+        "address": {
+            "nature_reserve": "Drei Eichen",
+            "suburb": "Brilon (Kernstadt)",
+            "town": "Brilon",
+            "county": "Hochsauerlandkreis",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.3888645",
+            "51.3907857",
+            "8.6306015",
+            "8.6337626"
+        ]
+    }
+]

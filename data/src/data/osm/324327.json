@@ -1,0 +1,40 @@
+[
+    {
+        "place_id": 121424345,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2844199756,
+        "lat": "48.5795651",
+        "lon": "7.7657804",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.748149843590475e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "21, Zeughausgasse, Esplanade, Bourse-Esplanade-Krutenau, Straßburg, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67000, Frankreich",
+        "address": {
+            "house_number": "21",
+            "road": "Zeughausgasse",
+            "suburb": "Esplanade",
+            "city": "Straßburg",
+            "municipality": "Straßburg",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.5795151",
+            "48.5796151",
+            "7.7657304",
+            "7.7658304"
+        ]
+    }
+]

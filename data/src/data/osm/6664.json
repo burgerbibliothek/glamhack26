@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 76319119,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 43267,
+        "lat": "44.8260126",
+        "lon": "8.2026863",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7194138152886613,
+        "addresstype": "county",
+        "name": "Asti",
+        "display_name": "Asti, Piemont, Italien",
+        "address": {
+            "county": "Asti",
+            "ISO3166-2-lvl6": "IT-AT",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.5189941",
+            "45.1330048",
+            "7.8834321",
+            "8.5136250"
+        ]
+    }
+]

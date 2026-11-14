@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 127650781,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9731302234,
+        "lat": "48.1491227",
+        "lon": "11.5657617",
+        "category": "office",
+        "type": "diplomatic",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "office",
+        "name": "Honorarkonsul von Georgien",
+        "display_name": "Honorarkonsul von Georgien, 43, Luisenstraße, Kunstareal, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
+        "address": {
+            "office": "Honorarkonsul von Georgien",
+            "house_number": "43",
+            "road": "Luisenstraße",
+            "neighbourhood": "Kunstareal",
+            "quarter": "St. Benno-Viertel",
+            "suburb": "Maxvorstadt",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "80333",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1490727",
+            "48.1491727",
+            "11.5657117",
+            "11.5658117"
+        ]
+    }
+]

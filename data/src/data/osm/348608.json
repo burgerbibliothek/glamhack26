@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 93401443,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683722,
+        "lat": "47.4949559",
+        "lon": "7.8232290",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3960456341796639,
+        "addresstype": "village",
+        "name": "Wintersingen",
+        "display_name": "Wintersingen, Bezirk Sissach, Basel-Landschaft, 4451, Schweiz",
+        "address": {
+            "village": "Wintersingen",
+            "county": "Bezirk Sissach",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4451",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4815251",
+            "47.5147402",
+            "7.8060403",
+            "7.8464337"
+        ]
+    }
+]

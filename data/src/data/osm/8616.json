@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 80999032,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 41817,
+        "lat": "42.4929522",
+        "lon": "11.9488136",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7183368723883429,
+        "addresstype": "county",
+        "name": "Viterbo",
+        "display_name": "Viterbo, Latium, Italien",
+        "address": {
+            "county": "Viterbo",
+            "ISO3166-2-lvl6": "IT-VT",
+            "state": "Latium",
+            "ISO3166-2-lvl4": "IT-62",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "42.1471742",
+            "42.8387328",
+            "11.4491695",
+            "12.5198374"
+        ]
+    }
+]

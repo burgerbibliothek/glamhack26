@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91983051,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 522746900,
+        "lat": "46.9756492",
+        "lon": "6.7886307",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1600459624628061,
+        "addresstype": "peak",
+        "name": "Tablettes",
+        "display_name": "Tablettes, Rochefort, Région Littoral, Neuenburg, 2019, Schweiz",
+        "address": {
+            "peak": "Tablettes",
+            "village": "Rochefort",
+            "region": "Région Littoral",
+            "state": "Neuenburg",
+            "ISO3166-2-lvl4": "CH-NE",
+            "postcode": "2019",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9755992",
+            "46.9756992",
+            "6.7885807",
+            "6.7886807"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 72899254,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12327845172,
+        "lat": "47.1665794",
+        "lon": "8.5163103",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 6.095140001521351e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "15, Zeughausgasse, Zurlaubenhof, Altstadt, Oberwil, Zug, 6300, Schweiz",
+        "address": {
+            "house_number": "15",
+            "road": "Zeughausgasse",
+            "neighbourhood": "Zurlaubenhof",
+            "suburb": "Altstadt",
+            "village": "Oberwil",
+            "town": "Zug",
+            "state": "Zug",
+            "ISO3166-2-lvl4": "CH-ZG",
+            "postcode": "6300",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1665294",
+            "47.1666294",
+            "8.5162603",
+            "8.5163603"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92034174,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 193086196,
+        "lat": "46.9402989",
+        "lon": "7.8204476",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.05338619134813455,
+        "addresstype": "tertiary",
+        "name": "Kammershaus",
+        "display_name": "Kammershaus, Bärau, Langnau im Emmental, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, 3552, Schweiz",
+        "address": {
+            "road": "Kammershaus",
+            "village": "Bärau",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3552",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9392214",
+            "46.9414047",
+            "7.8197508",
+            "7.8211078"
+        ]
+    }
+]

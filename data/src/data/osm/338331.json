@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72671311,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 812886732,
+        "lat": "47.1098082",
+        "lon": "9.4147460",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4462880542959205,
+        "addresstype": "peak",
+        "name": "Alvier",
+        "display_name": "Alvier, Wartau, Wahlkreis Werdenberg, St. Gallen, Schweiz",
+        "address": {
+            "peak": "Alvier",
+            "city": "Wartau",
+            "county": "Wahlkreis Werdenberg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1097582",
+            "47.1098582",
+            "9.4146960",
+            "9.4147960"
+        ]
+    }
+]

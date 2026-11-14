@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91454179,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 823663741,
+        "lat": "46.5737843",
+        "lon": "7.6919462",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 30,
+        "importance": 0.4434226159554636,
+        "addresstype": "natural",
+        "name": "Gehrihorn",
+        "display_name": "Gehrihorn, Hohenweg Nordrampe, Frutigen, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3714, Schweiz",
+        "address": {
+            "natural": "Gehrihorn",
+            "road": "Hohenweg Nordrampe",
+            "village": "Frutigen",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3714",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5737343",
+            "46.5738343",
+            "7.6918962",
+            "7.6919962"
+        ]
+    }
+]

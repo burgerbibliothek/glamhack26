@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 81346747,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42147,
+        "lat": "42.7902379",
+        "lon": "10.3402239",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7169589619497145,
+        "addresstype": "county",
+        "name": "Livorno",
+        "display_name": "Livorno, Toskana, Italien",
+        "address": {
+            "county": "Livorno",
+            "ISO3166-2-lvl6": "IT-LI",
+            "state": "Toskana",
+            "ISO3166-2-lvl4": "IT-52",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "42.3133103",
+            "43.6346331",
+            "9.7912939",
+            "10.7962196"
+        ]
+    }
+]

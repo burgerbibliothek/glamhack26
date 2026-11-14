@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 53936927,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 39508,
+        "lat": "38.0455908",
+        "lon": "15.4629156",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5301850831772418,
+        "addresstype": "village",
+        "name": "Scaletta Zanclea",
+        "display_name": "Scaletta Zanclea, Messina, Sizilien, 98029, Italien",
+        "address": {
+            "village": "Scaletta Zanclea",
+            "county": "Messina",
+            "ISO3166-2-lvl6": "IT-ME",
+            "state": "Sizilien",
+            "ISO3166-2-lvl4": "IT-82",
+            "postcode": "98029",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "38.0390642",
+            "38.0653248",
+            "15.4380524",
+            "15.4776172"
+        ]
+    }
+]

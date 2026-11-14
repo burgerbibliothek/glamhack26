@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91641997,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 322940827,
+        "lat": "46.6106979",
+        "lon": "7.4058049",
+        "category": "tourism",
+        "type": "alpine_hut",
+        "place_rank": 30,
+        "importance": 4.441367208357393e-05,
+        "addresstype": "tourism",
+        "name": "Niderhornhütte",
+        "display_name": "Niderhornhütte, 903, Lochmoos, Boltigen, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3766, Schweiz",
+        "address": {
+            "tourism": "Niderhornhütte",
+            "house_number": "903",
+            "locality": "Lochmoos",
+            "village": "Boltigen",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3766",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6106232",
+            "46.6107726",
+            "7.4056987",
+            "7.4059110"
+        ]
+    }
+]

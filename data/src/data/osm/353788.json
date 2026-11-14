@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 126352736,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 850970679,
+        "lat": "48.1565758",
+        "lon": "11.4178815",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "36, Fabrikstraße, Aubing-Ost, Aubing, Aubing-Lochhausen-Langwied, München, Bayern, 81245, Deutschland",
+        "address": {
+            "house_number": "36",
+            "road": "Fabrikstraße",
+            "neighbourhood": "Aubing-Ost",
+            "suburb": "Aubing",
+            "city_district": "Aubing-Lochhausen-Langwied",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "81245",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1565258",
+            "48.1566258",
+            "11.4178315",
+            "11.4179315"
+        ]
+    }
+]

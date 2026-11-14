@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 71933782,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 656327834,
+        "lat": "47.3761683",
+        "lon": "8.5443812",
+        "category": "tourism",
+        "type": "hotel",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "tourism",
+        "name": "Sorell Hotel Rütli",
+        "display_name": "Sorell Hotel Rütli, 43, Zähringerstrasse, Rathaus, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz",
+        "address": {
+            "tourism": "Sorell Hotel Rütli",
+            "house_number": "43",
+            "road": "Zähringerstrasse",
+            "quarter": "Rathaus",
+            "suburb": "Altstadt",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3761183",
+            "47.3762183",
+            "8.5443312",
+            "8.5444312"
+        ]
+    }
+]

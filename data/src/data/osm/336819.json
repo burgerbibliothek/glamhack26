@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 93040485,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1555579384,
+        "lat": "47.5726538",
+        "lon": "7.6527801",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 5.41062027923555e-05,
+        "addresstype": "highway",
+        "name": "Wenkenhof",
+        "display_name": "Wenkenhof, Rudolf Wackernagel-Strasse, Riehen, Basel-Stadt, 4125, Schweiz",
+        "address": {
+            "highway": "Wenkenhof",
+            "road": "Rudolf Wackernagel-Strasse",
+            "town": "Riehen",
+            "state": "Basel-Stadt",
+            "ISO3166-2-lvl4": "CH-BS",
+            "postcode": "4125",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.5726038",
+            "47.5727038",
+            "7.6527301",
+            "7.6528301"
+        ]
+    }
+]

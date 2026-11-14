@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 70087892,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 554551,
+        "lat": "47.5261836",
+        "lon": "12.0539500",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3943200352487266,
+        "addresstype": "village",
+        "name": "Mariastein",
+        "display_name": "Mariastein, Bezirk Kufstein, Tirol, 6324, Österreich",
+        "address": {
+            "village": "Mariastein",
+            "county": "Bezirk Kufstein",
+            "state": "Tirol",
+            "ISO3166-2-lvl4": "AT-7",
+            "postcode": "6324",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.5191908",
+            "47.5476337",
+            "12.0375308",
+            "12.0628450"
+        ]
+    }
+]

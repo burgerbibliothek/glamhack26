@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 54249861,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 39311,
+        "lat": "37.6772195",
+        "lon": "13.2705210",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5065976620986499,
+        "addresstype": "village",
+        "name": "Chiusa Sclafani",
+        "display_name": "Chiusa Sclafani, Palermo, Sizilien, 90033, Italien",
+        "address": {
+            "village": "Chiusa Sclafani",
+            "county": "Palermo",
+            "ISO3166-2-lvl6": "IT-PA",
+            "state": "Sizilien",
+            "ISO3166-2-lvl4": "IT-82",
+            "postcode": "90033",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "37.6115044",
+            "37.7178031",
+            "13.2315873",
+            "13.3637883"
+        ]
+    }
+]

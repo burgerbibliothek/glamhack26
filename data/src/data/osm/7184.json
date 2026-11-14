@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 416702153,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 216359,
+        "lat": "48.4049375",
+        "lon": "2.7015872",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6352557441792057,
+        "addresstype": "town",
+        "name": "Fontainebleau",
+        "display_name": "Fontainebleau, Seine-et-Marne, Île-de-France, Metropolitanes Frankreich, 77300, Frankreich",
+        "address": {
+            "town": "Fontainebleau",
+            "municipality": "Fontainebleau",
+            "county": "Seine-et-Marne",
+            "ISO3166-2-lvl6": "FR-77",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "77300",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.3448654",
+            "48.5022728",
+            "2.5613340",
+            "2.8021671"
+        ]
+    }
+]

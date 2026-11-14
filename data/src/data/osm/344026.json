@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91975151,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 218314520,
+        "lat": "46.3824721",
+        "lon": "7.4681034",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 2.5808346684931984e-05,
+        "addresstype": "building",
+        "name": "Rohrbachhaus",
+        "display_name": "Rohrbachhaus, 207j, Firstliweg, Lenk, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3775, Schweiz",
+        "address": {
+            "building": "Rohrbachhaus",
+            "house_number": "207j",
+            "road": "Firstliweg",
+            "village": "Lenk",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3775",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3824278",
+            "46.3825320",
+            "7.4679946",
+            "7.4682179"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 74738092,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1358626516,
+        "lat": "45.3106318",
+        "lon": "11.7100786",
+        "category": "place",
+        "type": "region",
+        "place_rank": 18,
+        "importance": 0.41603709239052356,
+        "addresstype": "region",
+        "name": "Colli Euganei",
+        "display_name": "Colli Euganei, Province of Padua, Venetien, Italien",
+        "address": {
+            "region": "Colli Euganei",
+            "county": "Province of Padua",
+            "ISO3166-2-lvl6": "IT-PD",
+            "state": "Venetien",
+            "ISO3166-2-lvl4": "IT-34",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.2207431",
+            "45.3936288",
+            "11.6111749",
+            "11.7986291"
+        ]
+    }
+]

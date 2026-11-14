@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73561395,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 291887072,
+        "lat": "46.6737785",
+        "lon": "9.6859723",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.4076496563503252,
+        "addresstype": "village",
+        "name": "Filisur",
+        "display_name": "Filisur, Bergün Filisur, Albula, Graubünden, 7477, Schweiz",
+        "address": {
+            "village": "Filisur",
+            "city": "Bergün Filisur",
+            "county": "Albula",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7477",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6537785",
+            "46.6937785",
+            "9.6659723",
+            "9.7059723"
+        ]
+    }
+]

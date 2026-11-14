@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 80597330,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4460493403,
+        "lat": "40.4216783",
+        "lon": "15.0148832",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.23992860907835414,
+        "addresstype": "railway",
+        "name": "Paestum",
+        "display_name": "Paestum, Via Porta Giustizia, Paestum, Capaccio Paestum, Salerno, Kampanien, 84047, Italien",
+        "address": {
+            "railway": "Paestum",
+            "road": "Via Porta Giustizia",
+            "hamlet": "Paestum",
+            "village": "Capaccio Paestum",
+            "county": "Salerno",
+            "ISO3166-2-lvl6": "IT-SA",
+            "state": "Kampanien",
+            "ISO3166-2-lvl4": "IT-72",
+            "postcode": "84047",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "40.4166783",
+            "40.4266783",
+            "15.0098832",
+            "15.0198832"
+        ]
+    }
+]

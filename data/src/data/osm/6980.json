@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 89008844,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5163429663,
+        "lat": "45.6715876",
+        "lon": "6.3968848",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.3047903492217065,
+        "addresstype": "suburb",
+        "name": "Conflans",
+        "display_name": "Conflans, Albertville, Savoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 73200, Frankreich",
+        "address": {
+            "suburb": "Conflans",
+            "town": "Albertville",
+            "municipality": "Albertville",
+            "county": "Savoyen",
+            "ISO3166-2-lvl6": "FR-73",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "73200",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.6515876",
+            "45.6915876",
+            "6.3768848",
+            "6.4168848"
+        ]
+    }
+]

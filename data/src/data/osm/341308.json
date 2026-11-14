@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 430772687,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 14318403998,
+        "lat": "46.2330248",
+        "lon": "7.6144977",
+        "category": "information",
+        "type": "guidepost",
+        "place_rank": 30,
+        "importance": 4.603418020900309e-05,
+        "addresstype": "information",
+        "name": "Cabane Bella Tola",
+        "display_name": "Cabane Bella Tola, Route à Gozan, Saint-Luc, Anniviers, Siders, Mittelwallis, Wallis, 3961, Schweiz",
+        "address": {
+            "information": "Cabane Bella Tola",
+            "road": "Route à Gozan",
+            "village": "Saint-Luc",
+            "city": "Anniviers",
+            "county": "Siders",
+            "state_district": "Mittelwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3961",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2329748",
+            "46.2330748",
+            "7.6144477",
+            "7.6145477"
+        ]
+    }
+]

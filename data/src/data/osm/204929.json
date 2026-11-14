@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 75818526,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 46095,
+        "lat": "45.8145828",
+        "lon": "8.2542008",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5211427200459763,
+        "addresstype": "town",
+        "name": "Varallo",
+        "display_name": "Varallo, Cellio con Breia, Vercelli, Piemont, 13019, Italien",
+        "address": {
+            "town": "Varallo",
+            "municipality": "Cellio con Breia",
+            "county": "Vercelli",
+            "ISO3166-2-lvl6": "IT-VC",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "postcode": "13019",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.7657880",
+            "45.9098193",
+            "8.1783752",
+            "8.3359055"
+        ]
+    }
+]

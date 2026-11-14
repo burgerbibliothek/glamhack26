@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 74156961,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 45756,
+        "lat": "46.1029536",
+        "lon": "11.1297425",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7293133565197413,
+        "addresstype": "county",
+        "name": "Autonome Provinz Trient",
+        "display_name": "Autonome Provinz Trient, Trentino-Südtirol, Italien",
+        "address": {
+            "county": "Autonome Provinz Trient",
+            "ISO3166-2-lvl6": "IT-TN",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.6728669",
+            "46.5330375",
+            "10.4522048",
+            "11.9628023"
+        ]
+    }
+]

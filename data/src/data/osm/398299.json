@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 75392012,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 155318267,
+        "lat": "45.9116339",
+        "lon": "8.5383108",
+        "category": "place",
+        "type": "islet",
+        "place_rank": 20,
+        "importance": 0.35049604782988514,
+        "addresstype": "islet",
+        "name": "Isola Madre",
+        "display_name": "Isola Madre, Stresa, Verbano-Cusio-Ossola, Piemont, Italien",
+        "address": {
+            "islet": "Isola Madre",
+            "village": "Stresa",
+            "county": "Verbano-Cusio-Ossola",
+            "ISO3166-2-lvl6": "IT-VB",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.9104056",
+            "45.9128348",
+            "8.5359311",
+            "8.5400611"
+        ]
+    }
+]

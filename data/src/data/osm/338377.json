@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73245208,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 436874349,
+        "lat": "47.0240531",
+        "lon": "9.2364844",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.21080589711721126,
+        "addresstype": "peak",
+        "name": "Spitzmeilen",
+        "display_name": "Spitzmeilen, Flums, Wahlkreis Sarganserland, St. Gallen, Schweiz",
+        "address": {
+            "peak": "Spitzmeilen",
+            "village": "Flums",
+            "county": "Wahlkreis Sarganserland",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0240031",
+            "47.0241031",
+            "9.2364344",
+            "9.2365344"
+        ]
+    }
+]

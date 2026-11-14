@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 90824319,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 540378,
+        "lat": "46.4339446",
+        "lon": "4.6576358",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5852343270881707,
+        "addresstype": "village",
+        "name": "Cluny",
+        "display_name": "Cluny, Mâcon, Saône-et-Loire, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 71250, Frankreich",
+        "address": {
+            "village": "Cluny",
+            "municipality": "Mâcon",
+            "county": "Saône-et-Loire",
+            "ISO3166-2-lvl6": "FR-71",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "71250",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.3990566",
+            "46.4577235",
+            "4.6134374",
+            "4.7170786"
+        ]
+    }
+]

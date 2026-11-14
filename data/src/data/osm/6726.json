@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 82718776,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 384088,
+        "lat": "43.8085436",
+        "lon": "4.6392648",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5725558566278154,
+        "addresstype": "town",
+        "name": "Beaucaire",
+        "display_name": "Beaucaire, Nîmes, Gard, Okzitanien, Metropolitanes Frankreich, 30300, Frankreich",
+        "address": {
+            "town": "Beaucaire",
+            "municipality": "Nîmes",
+            "county": "Gard",
+            "ISO3166-2-lvl6": "FR-30",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "30300",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.7242141",
+            "43.8385704",
+            "4.5270651",
+            "4.6553651"
+        ]
+    }
+]

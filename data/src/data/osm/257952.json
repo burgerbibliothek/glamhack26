@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 88187061,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 914796832,
+        "lat": "44.6904292",
+        "lon": "6.9962122",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.21822785325192331,
+        "addresstype": "peak",
+        "name": "Pain de Sucre / Pan di Zucchero",
+        "display_name": "Pain de Sucre / Pan di Zucchero, Pontechianale, Cuneo, Piemont, Italien",
+        "address": {
+            "peak": "Pain de Sucre / Pan di Zucchero",
+            "city": "Pontechianale",
+            "county": "Cuneo",
+            "ISO3166-2-lvl6": "IT-CN",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.6903792",
+            "44.6904792",
+            "6.9961622",
+            "6.9962622"
+        ]
+    }
+]

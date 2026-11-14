@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 69471491,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 46429,
+        "lat": "46.2805407",
+        "lon": "12.0789137",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7196222251742297,
+        "addresstype": "county",
+        "name": "Belluno",
+        "display_name": "Belluno, Venetien, Italien",
+        "address": {
+            "county": "Belluno",
+            "ISO3166-2-lvl6": "IT-BL",
+            "state": "Venetien",
+            "ISO3166-2-lvl4": "IT-34",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8804429",
+            "46.6806148",
+            "11.6659608",
+            "12.7322625"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 82709709,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 70279,
+        "lat": "43.5298424",
+        "lon": "5.4474738",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6449733583211327,
+        "addresstype": "city",
+        "name": "Aix-en-Provence",
+        "display_name": "Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "city": "Aix-en-Provence",
+            "municipality": "Aix-en-Provence",
+            "county": "Bouches-du-Rhône",
+            "ISO3166-2-lvl6": "FR-13",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.4461058",
+            "43.6259224",
+            "5.2694745",
+            "5.5063013"
+        ]
+    }
+]

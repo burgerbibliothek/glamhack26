@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 81638377,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4281266171,
+        "lat": "42.6652237",
+        "lon": "11.5049888",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.42674896514233895,
+        "addresstype": "village",
+        "name": "Saturnia",
+        "display_name": "Saturnia, Manciano, Unione di Comuni Montani Colline del Fiora, Grosseto, Toskana, Italien",
+        "address": {
+            "village": "Saturnia",
+            "municipality": "Unione di Comuni Montani Colline del Fiora",
+            "county": "Grosseto",
+            "ISO3166-2-lvl6": "IT-GR",
+            "state": "Toskana",
+            "ISO3166-2-lvl4": "IT-52",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "42.6452237",
+            "42.6852237",
+            "11.4849888",
+            "11.5249888"
+        ]
+    }
+]

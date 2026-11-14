@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 74258277,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 47073,
+        "lat": "46.3123614",
+        "lon": "11.6026938",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5824088588124007,
+        "addresstype": "village",
+        "name": "Pardatsch",
+        "display_name": "Pardatsch, Comunità territoriale della Val di Fiemme, Autonome Provinz Trient, Trentino-Südtirol, Italien",
+        "address": {
+            "village": "Pardatsch",
+            "municipality": "Comunità territoriale della Val di Fiemme",
+            "county": "Autonome Provinz Trient",
+            "ISO3166-2-lvl6": "IT-TN",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.2550556",
+            "46.3837027",
+            "11.5557111",
+            "11.7500711"
+        ]
+    }
+]

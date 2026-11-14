@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 138510910,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 61454688,
+        "lat": "50.1900474",
+        "lon": "8.4765511",
+        "category": "historic",
+        "type": "castle",
+        "place_rank": 30,
+        "importance": 0.2885983973306146,
+        "addresstype": "historic",
+        "name": "Burg Falkenstein",
+        "display_name": "Burg Falkenstein, Günter-Boller-Weg, Falkenstein, Königstein im Taunus, Hochtaunuskreis, Hessen, 61462, Deutschland",
+        "address": {
+            "historic": "Burg Falkenstein",
+            "road": "Günter-Boller-Weg",
+            "suburb": "Falkenstein",
+            "municipality": "Königstein im Taunus",
+            "county": "Hochtaunuskreis",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "61462",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.1896882",
+            "50.1904137",
+            "8.4760846",
+            "8.4770930"
+        ]
+    }
+]

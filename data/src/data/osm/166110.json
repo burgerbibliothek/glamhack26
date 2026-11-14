@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 80802796,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4753980853,
+        "lat": "40.7517375",
+        "lon": "14.4905636",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.6325600439304363,
+        "addresstype": "locality",
+        "name": "Antikes Pompeji",
+        "display_name": "Antikes Pompeji, Masseria Curato, Pompei, Metropolitanstadt Neapel, Kampanien, 80045, Italien",
+        "address": {
+            "locality": "Antikes Pompeji",
+            "hamlet": "Masseria Curato",
+            "town": "Pompei",
+            "county": "Metropolitanstadt Neapel",
+            "ISO3166-2-lvl6": "IT-NA",
+            "state": "Kampanien",
+            "ISO3166-2-lvl4": "IT-72",
+            "postcode": "80045",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "40.7417375",
+            "40.7617375",
+            "14.4805636",
+            "14.5005636"
+        ]
+    }
+]

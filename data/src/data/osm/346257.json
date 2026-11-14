@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91615809,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685317,
+        "lat": "46.2907802",
+        "lon": "7.4391182",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.36517188513067234,
+        "addresstype": "village",
+        "name": "Icogne",
+        "display_name": "Icogne, Siders, Mittelwallis, Wallis, 1977, Schweiz",
+        "address": {
+            "village": "Icogne",
+            "county": "Siders",
+            "state_district": "Mittelwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1977",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2618664",
+            "46.3852698",
+            "7.4218015",
+            "7.4911148"
+        ]
+    }
+]

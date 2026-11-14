@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 80223631,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 41697,
+        "lat": "42.0095240",
+        "lon": "12.9890870",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5388851850805146,
+        "addresstype": "village",
+        "name": "Anticoli Corrado",
+        "display_name": "Anticoli Corrado, Roma Capitale, Latium, Italien",
+        "address": {
+            "village": "Anticoli Corrado",
+            "county": "Roma Capitale",
+            "ISO3166-2-lvl6": "IT-RM",
+            "state": "Latium",
+            "ISO3166-2-lvl4": "IT-62",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "41.9818800",
+            "42.0375109",
+            "12.9452565",
+            "13.0149710"
+        ]
+    }
+]

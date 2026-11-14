@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 120225429,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 941536,
+        "lat": "48.0158951",
+        "lon": "6.5912615",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5855094255620709,
+        "addresstype": "town",
+        "name": "Remiremont",
+        "display_name": "Remiremont, Épinal, Vosges, Groß-Osten, Metropolitanes Frankreich, 88200, Frankreich",
+        "address": {
+            "town": "Remiremont",
+            "municipality": "Épinal",
+            "county": "Vosges",
+            "ISO3166-2-lvl6": "FR-88",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "88200",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.9793439",
+            "48.0272856",
+            "6.5429018",
+            "6.6191178"
+        ]
+    }
+]

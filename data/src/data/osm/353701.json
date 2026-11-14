@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 134782657,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3313027606,
+        "lat": "51.3234118",
+        "lon": "12.3003059",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.936293583576742e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "35, Rosenweg, Wohnkomplex 2, Grünau-Ost, West, Leipzig, Sachsen, 04209, Deutschland",
+        "address": {
+            "house_number": "35",
+            "road": "Rosenweg",
+            "neighbourhood": "Wohnkomplex 2",
+            "suburb": "Grünau-Ost",
+            "city_district": "West",
+            "city": "Leipzig",
+            "state": "Sachsen",
+            "ISO3166-2-lvl4": "DE-SN",
+            "postcode": "04209",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.3233618",
+            "51.3234618",
+            "12.3002559",
+            "12.3003559"
+        ]
+    }
+]

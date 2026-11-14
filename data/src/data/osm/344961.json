@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 99531210,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 156302,
+        "lat": "50.4573687",
+        "lon": "1.6651851",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6157226336486465,
+        "addresstype": "village",
+        "name": "Saint-Aubin",
+        "display_name": "Saint-Aubin, Montreuil-sur-Mer, Pas-de-Calais, Nordfrankreich, Metropolitanes Frankreich, 62170, Frankreich",
+        "address": {
+            "village": "Saint-Aubin",
+            "municipality": "Montreuil-sur-Mer",
+            "county": "Pas-de-Calais",
+            "ISO3166-2-lvl6": "FR-62",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "62170",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.4458221",
+            "50.4666052",
+            "1.6435291",
+            "1.6950350"
+        ]
+    }
+]

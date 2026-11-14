@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91784550,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13135951441,
+        "lat": "46.1012500",
+        "lon": "7.7160700",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.489563959518216,
+        "addresstype": "peak",
+        "name": "Weisshorn",
+        "display_name": "Weisshorn, Anniviers, Siders, Mittelwallis, Wallis, 3961, Schweiz",
+        "address": {
+            "peak": "Weisshorn",
+            "city": "Anniviers",
+            "county": "Siders",
+            "state_district": "Mittelwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3961",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1012000",
+            "46.1013000",
+            "7.7160200",
+            "7.7161200"
+        ]
+    }
+]

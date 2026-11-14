@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 80150925,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42085,
+        "lat": "42.5379248",
+        "lon": "12.0309974",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5161180860254007,
+        "addresstype": "town",
+        "name": "Montefiascone",
+        "display_name": "Montefiascone, Viterbo, Latium, 01027, Italien",
+        "address": {
+            "town": "Montefiascone",
+            "county": "Viterbo",
+            "ISO3166-2-lvl6": "IT-VT",
+            "state": "Latium",
+            "ISO3166-2-lvl4": "IT-62",
+            "postcode": "01027",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "42.4622370",
+            "42.6021428",
+            "11.9511347",
+            "12.0948422"
+        ]
+    }
+]

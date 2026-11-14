@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 118341978,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 450381,
+        "lat": "49.1196964",
+        "lon": "6.1763552",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.694031640291981,
+        "addresstype": "city",
+        "name": "Metz",
+        "display_name": "Metz, Moselle, Groß-Osten, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "city": "Metz",
+            "municipality": "Metz",
+            "county": "Moselle",
+            "ISO3166-2-lvl6": "FR-57",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.0608244",
+            "49.1487955",
+            "6.1360042",
+            "6.2564510"
+        ]
+    }
+]

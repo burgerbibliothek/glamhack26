@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92958043,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11511347477,
+        "lat": "47.1442618",
+        "lon": "7.2524986",
+        "category": "leisure",
+        "type": "sports_hall",
+        "place_rank": 30,
+        "importance": 6.320210574497623e-05,
+        "addresstype": "leisure",
+        "name": "",
+        "display_name": "45, Freiestrasse, Altstadt, Biel, Verwaltungskreis Biel/Bienne, Seeland administrative region, Bern, 2502, Schweiz",
+        "address": {
+            "house_number": "45",
+            "road": "Freiestrasse",
+            "suburb": "Altstadt",
+            "city": "Biel",
+            "county": "Verwaltungskreis Biel/Bienne",
+            "state_district": "Seeland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2502",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1442118",
+            "47.1443118",
+            "7.2524486",
+            "7.2525486"
+        ]
+    }
+]

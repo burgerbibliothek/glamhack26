@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91657786,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 225032578,
+        "lat": "46.6283138",
+        "lon": "7.5164936",
+        "category": "tourism",
+        "type": "alpine_hut",
+        "place_rank": 30,
+        "importance": 4.6226443884901465e-05,
+        "addresstype": "tourism",
+        "name": "Rinderalphütte",
+        "display_name": "Rinderalphütte, 41, Rinderalp, Erlenbach im Simmental, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3762, Schweiz",
+        "address": {
+            "tourism": "Rinderalphütte",
+            "house_number": "41",
+            "locality": "Rinderalp",
+            "village": "Erlenbach im Simmental",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3762",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6281588",
+            "46.6284901",
+            "7.5163083",
+            "7.5167793"
+        ]
+    }
+]

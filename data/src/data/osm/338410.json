@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73021350,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683920,
+        "lat": "47.0873335",
+        "lon": "9.2348038",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3836391712731274,
+        "addresstype": "city",
+        "name": "Quarten",
+        "display_name": "Quarten, Wahlkreis Sarganserland, St. Gallen, Schweiz",
+        "address": {
+            "city": "Quarten",
+            "county": "Wahlkreis Sarganserland",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0259197",
+            "47.1487094",
+            "9.1380681",
+            "9.3036909"
+        ]
+    }
+]

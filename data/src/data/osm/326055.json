@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72829201,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 4076935,
+        "lat": "46.7937336",
+        "lon": "8.3908622",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.27236747457604304,
+        "addresstype": "lake",
+        "name": "Trüebsee",
+        "display_name": "Trüebsee, Wolfenschiessen, Nidwalden, Schweiz",
+        "address": {
+            "lake": "Trüebsee",
+            "village": "Wolfenschiessen",
+            "state": "Nidwalden",
+            "ISO3166-2-lvl4": "CH-NW",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7903041",
+            "46.7971736",
+            "8.3851165",
+            "8.3953482"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 79513216,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 8013627,
+        "lat": "45.8954734",
+        "lon": "8.5272350",
+        "category": "place",
+        "type": "islet",
+        "place_rank": 20,
+        "importance": 0.43398728502681116,
+        "addresstype": "islet",
+        "name": "Isola Bella",
+        "display_name": "Isola Bella, Carciano, Stresa, Verbano-Cusio-Ossola, Piemont, Italien",
+        "address": {
+            "islet": "Isola Bella",
+            "village": "Carciano",
+            "county": "Verbano-Cusio-Ossola",
+            "ISO3166-2-lvl6": "IT-VB",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8938988",
+            "45.8969022",
+            "8.5251439",
+            "8.5288961"
+        ]
+    }
+]

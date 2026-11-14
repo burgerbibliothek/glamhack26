@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 71812769,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1835279,
+        "lat": "47.4580911",
+        "lon": "8.9626972",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.40842317558839564,
+        "addresstype": "county",
+        "name": "Bezirk Münchwilen",
+        "display_name": "Bezirk Münchwilen, Thurgau, Schweiz",
+        "address": {
+            "county": "Bezirk Münchwilen",
+            "state": "Thurgau",
+            "ISO3166-2-lvl4": "CH-TG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3759151",
+            "47.5404654",
+            "8.8809935",
+            "9.0967356"
+        ]
+    }
+]

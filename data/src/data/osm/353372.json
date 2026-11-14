@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 116794342,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 209375687,
+        "lat": "50.9841079",
+        "lon": "6.9491162",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.006485084301545e-05,
+        "addresstype": "building",
+        "name": "Deutsche Telekom AG",
+        "display_name": "Deutsche Telekom AG, 16, Scheibenstraße, Weidenpesch, Nippes, Köln, Nordrhein-Westfalen, 50737, Deutschland",
+        "address": {
+            "building": "Deutsche Telekom AG",
+            "house_number": "16",
+            "road": "Scheibenstraße",
+            "suburb": "Weidenpesch",
+            "city_district": "Nippes",
+            "city": "Köln",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "50737",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9838855",
+            "50.9843304",
+            "6.9489319",
+            "6.9493004"
+        ]
+    }
+]

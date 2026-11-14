@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 88824213,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 46104,
+        "lat": "45.8237439",
+        "lon": "7.1821889",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5133372905481284,
+        "addresstype": "village",
+        "name": "Saint-Rhémy-en-Bosses",
+        "display_name": "Saint-Rhémy-en-Bosses, Aostatal, Italien",
+        "address": {
+            "village": "Saint-Rhémy-en-Bosses",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.7761917",
+            "45.8792527",
+            "7.0769521",
+            "7.2018862"
+        ]
+    }
+]

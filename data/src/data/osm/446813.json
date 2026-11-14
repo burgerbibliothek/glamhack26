@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 76726997,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 43332,
+        "lat": "44.8476352",
+        "lon": "9.6665313",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7178713099891977,
+        "addresstype": "county",
+        "name": "Piacenza",
+        "display_name": "Piacenza, Emilia-Romagna, Italien",
+        "address": {
+            "county": "Piacenza",
+            "ISO3166-2-lvl6": "IT-PC",
+            "state": "Emilia-Romagna",
+            "ISO3166-2-lvl4": "IT-45",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.5558766",
+            "45.1395001",
+            "9.1979117",
+            "10.0831378"
+        ]
+    }
+]

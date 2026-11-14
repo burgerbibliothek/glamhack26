@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 82307799,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 174956,
+        "lat": "43.7230453",
+        "lon": "7.3969373",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5208900822171276,
+        "addresstype": "village",
+        "name": "Cap-d'Ail",
+        "display_name": "Cap-d'Ail, Nizza, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 06320, Frankreich",
+        "address": {
+            "village": "Cap-d'Ail",
+            "municipality": "Nizza",
+            "county": "Maritime Alps",
+            "ISO3166-2-lvl6": "FR-06",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "06320",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.7187327",
+            "43.7325518",
+            "7.3828920",
+            "7.4185234"
+        ]
+    }
+]

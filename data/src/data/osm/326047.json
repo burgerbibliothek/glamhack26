@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73389232,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1372365292,
+        "lat": "46.8004680",
+        "lon": "8.3905520",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16003891432059203,
+        "addresstype": "peak",
+        "name": "Bitzistock",
+        "display_name": "Bitzistock, Wolfenschiessen, Nidwalden, 6390, Schweiz",
+        "address": {
+            "peak": "Bitzistock",
+            "village": "Wolfenschiessen",
+            "state": "Nidwalden",
+            "ISO3166-2-lvl4": "CH-NW",
+            "postcode": "6390",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8004180",
+            "46.8005180",
+            "8.3905020",
+            "8.3906020"
+        ]
+    }
+]

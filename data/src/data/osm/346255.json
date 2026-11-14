@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 91146631,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7028797379,
+        "lat": "46.3998327",
+        "lon": "7.4414670",
+        "category": "place",
+        "type": "isolated_dwelling",
+        "place_rank": 22,
+        "importance": 0.10669666819256883,
+        "addresstype": "isolated_dwelling",
+        "name": "Iffigenalp",
+        "display_name": "Iffigenalp, Lenk, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3775, Schweiz",
+        "address": {
+            "isolated_dwelling": "Iffigenalp",
+            "village": "Lenk",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3775",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3997827",
+            "46.3998827",
+            "7.4414170",
+            "7.4415170"
+        ]
+    }
+]

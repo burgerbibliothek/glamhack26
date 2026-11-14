@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 81058341,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 40784,
+        "lat": "41.9801648",
+        "lon": "12.7667971",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.747608639609917,
+        "addresstype": "state",
+        "name": "Latium",
+        "display_name": "Latium, Italien",
+        "address": {
+            "state": "Latium",
+            "ISO3166-2-lvl4": "IT-62",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "40.7849283",
+            "42.8387328",
+            "11.4491695",
+            "14.0276445"
+        ]
+    }
+]

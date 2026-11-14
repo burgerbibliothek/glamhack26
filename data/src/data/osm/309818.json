@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 432569324,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2675353,
+        "lat": "40.5488429",
+        "lon": "14.2283708",
+        "category": "place",
+        "type": "island",
+        "place_rank": 17,
+        "importance": 0.557952520492892,
+        "addresstype": "island",
+        "name": "Capri",
+        "display_name": "Capri, Anacapri, Metropolitanstadt Neapel, Kampanien, Italien",
+        "address": {
+            "island": "Capri",
+            "village": "Anacapri",
+            "county": "Metropolitanstadt Neapel",
+            "ISO3166-2-lvl6": "IT-NA",
+            "state": "Kampanien",
+            "ISO3166-2-lvl4": "IT-72",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "40.5358786",
+            "40.5618457",
+            "14.1957565",
+            "14.2663785"
+        ]
+    }
+]

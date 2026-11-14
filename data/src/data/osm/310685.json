@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 75022023,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 25914431,
+        "lat": "45.7581986",
+        "lon": "8.9754278",
+        "category": "highway",
+        "type": "unclassified",
+        "place_rank": 26,
+        "importance": 0.05339316929884791,
+        "addresstype": "unclassified",
+        "name": "Via San Mamette",
+        "display_name": "Via San Mamette, Tavorella, Oltrona di San Mamette, Como, Lombardei, 22075, Italien",
+        "address": {
+            "road": "Via San Mamette",
+            "hamlet": "Tavorella",
+            "village": "Oltrona di San Mamette",
+            "county": "Como",
+            "ISO3166-2-lvl6": "IT-CO",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "22075",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.7577419",
+            "45.7589402",
+            "8.9745611",
+            "8.9765192"
+        ]
+    }
+]

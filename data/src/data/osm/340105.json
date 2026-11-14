@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91820025,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682445,
+        "lat": "46.8677101",
+        "lon": "7.6277729",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.45833613469028417,
+        "addresstype": "village",
+        "name": "Freimettigen",
+        "display_name": "Freimettigen, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Freimettigen",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8553777",
+            "46.8734686",
+            "7.6145271",
+            "7.6461647"
+        ]
+    }
+]

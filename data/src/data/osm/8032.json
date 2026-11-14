@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 74569824,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 44836,
+        "lat": "45.3984428",
+        "lon": "11.8956829",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6976298509150107,
+        "addresstype": "city",
+        "name": "Padua",
+        "display_name": "Padua, Province of Padua, Venetien, 35121-35143, Italien",
+        "address": {
+            "city": "Padua",
+            "county": "Province of Padua",
+            "ISO3166-2-lvl6": "IT-PD",
+            "state": "Venetien",
+            "ISO3166-2-lvl4": "IT-34",
+            "postcode": "35121-35143",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.3395667",
+            "45.4573727",
+            "11.8054118",
+            "11.9764350"
+        ]
+    }
+]

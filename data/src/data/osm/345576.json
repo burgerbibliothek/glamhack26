@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91820353,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 36369220,
+        "lat": "46.7496820",
+        "lon": "7.6500087",
+        "category": "highway",
+        "type": "path",
+        "place_rank": 27,
+        "importance": 0.04005000152590218,
+        "addresstype": "road",
+        "name": "Kohleren",
+        "display_name": "Kohleren, Goldiwil, Thun, Verwaltungskreis Thun, Oberland administrative region, Bern, 3626, Schweiz",
+        "address": {
+            "road": "Kohleren",
+            "village": "Goldiwil",
+            "town": "Thun",
+            "county": "Verwaltungskreis Thun",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3626",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7489447",
+            "46.7507206",
+            "7.6493495",
+            "7.6508904"
+        ]
+    }
+]

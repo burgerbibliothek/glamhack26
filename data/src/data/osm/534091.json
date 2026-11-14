@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 88983781,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 45569,
+        "lat": "45.7360127",
+        "lon": "7.4943705",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5164636833136489,
+        "addresstype": "village",
+        "name": "Fénis",
+        "display_name": "Fénis, Aostatal, Italien",
+        "address": {
+            "village": "Fénis",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.6077838",
+            "45.7457775",
+            "7.4628668",
+            "7.5473924"
+        ]
+    }
+]

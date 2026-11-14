@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 91772944,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683288,
+        "lat": "46.8225415",
+        "lon": "6.7884950",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.35411856752696674,
+        "addresstype": "city",
+        "name": "Cheyres-Châbles",
+        "display_name": "Cheyres-Châbles, Broyebezirk, Freiburg, Schweiz",
+        "address": {
+            "city": "Cheyres-Châbles",
+            "county": "Broyebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7891108",
+            "46.8557757",
+            "6.7418691",
+            "6.8286692"
+        ]
+    }
+]

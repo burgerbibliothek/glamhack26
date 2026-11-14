@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71652043,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 7634316,
+        "lat": "47.7271710",
+        "lon": "8.2258192",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.22489365626900393,
+        "addresstype": "village",
+        "name": "Brenden",
+        "display_name": "Brenden, Ühlingen-Birkendorf, GVV Oberes Schlüchttal, Landkreis Waldshut, Baden-Württemberg, Deutschland",
+        "address": {
+            "village": "Brenden",
+            "municipality": "Ühlingen-Birkendorf",
+            "county": "Landkreis Waldshut",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.7194606",
+            "47.7527541",
+            "8.1930270",
+            "8.2463528"
+        ]
+    }
+]

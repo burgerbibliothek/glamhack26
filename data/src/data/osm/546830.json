@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 54127697,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 39360,
+        "lat": "37.8059480",
+        "lon": "13.6384550",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5044149272708616,
+        "addresstype": "village",
+        "name": "Roccapalumba",
+        "display_name": "Roccapalumba, Palermo, Sizilien, 90066, Italien",
+        "address": {
+            "village": "Roccapalumba",
+            "county": "Palermo",
+            "ISO3166-2-lvl6": "IT-PA",
+            "state": "Sizilien",
+            "ISO3166-2-lvl4": "IT-82",
+            "postcode": "90066",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "37.7648097",
+            "37.8384556",
+            "13.6104835",
+            "13.6804818"
+        ]
+    }
+]

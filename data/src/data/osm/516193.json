@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 80636281,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 203665296,
+        "lat": "40.7437670",
+        "lon": "14.4823608",
+        "category": "highway",
+        "type": "motorway_junction",
+        "place_rank": 30,
+        "importance": 0.45803640632205495,
+        "addresstype": "highway",
+        "name": "Castellamare di Stabia",
+        "display_name": "Castellamare di Stabia, Autostrada A3 Napoli-Salerno, Masseria Curato, Pompei, Metropolitanstadt Neapel, Kampanien, 80045, Italien",
+        "address": {
+            "highway": "Castellamare di Stabia",
+            "road": "Autostrada A3 Napoli-Salerno",
+            "hamlet": "Masseria Curato",
+            "town": "Pompei",
+            "county": "Metropolitanstadt Neapel",
+            "ISO3166-2-lvl6": "IT-NA",
+            "state": "Kampanien",
+            "ISO3166-2-lvl4": "IT-72",
+            "postcode": "80045",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "40.7437170",
+            "40.7438170",
+            "14.4823108",
+            "14.4824108"
+        ]
+    }
+]

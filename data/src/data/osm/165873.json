@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 80804323,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 40767,
+        "lat": "40.8358846",
+        "lon": "14.2487679",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.7702047586412107,
+        "addresstype": "city",
+        "name": "Neapel",
+        "display_name": "Neapel, Metropolitanstadt Neapel, Kampanien, Italien",
+        "address": {
+            "city": "Neapel",
+            "county": "Metropolitanstadt Neapel",
+            "ISO3166-2-lvl6": "IT-NA",
+            "state": "Kampanien",
+            "ISO3166-2-lvl4": "IT-72",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "40.7911930",
+            "40.9161230",
+            "14.1320999",
+            "14.3537681"
+        ]
+    }
+]

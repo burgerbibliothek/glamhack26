@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 79951845,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42536,
+        "lat": "43.6773749",
+        "lon": "13.2105712",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5502519120177941,
+        "addresstype": "city",
+        "name": "Senigallia",
+        "display_name": "Senigallia, Ancona, Marken, 60019, Italien",
+        "address": {
+            "city": "Senigallia",
+            "county": "Ancona",
+            "ISO3166-2-lvl6": "IT-AN",
+            "state": "Marken",
+            "ISO3166-2-lvl4": "IT-57",
+            "postcode": "60019",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "43.6043136",
+            "43.7505106",
+            "13.1181706",
+            "13.3019948"
+        ]
+    }
+]

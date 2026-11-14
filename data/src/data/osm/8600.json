@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 74241833,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 44580,
+        "lat": "45.6348591",
+        "lon": "11.4063543",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7216749303693526,
+        "addresstype": "county",
+        "name": "Vicenza",
+        "display_name": "Vicenza, Venetien, Italien",
+        "address": {
+            "county": "Vicenza",
+            "ISO3166-2-lvl6": "IT-VI",
+            "state": "Venetien",
+            "ISO3166-2-lvl4": "IT-34",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.2551958",
+            "46.0144637",
+            "11.1361942",
+            "11.8362709"
+        ]
+    }
+]

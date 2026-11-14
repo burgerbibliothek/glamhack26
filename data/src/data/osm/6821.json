@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 90788004,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 155544,
+        "lat": "46.7284099",
+        "lon": "5.9549981",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5643936964915346,
+        "addresstype": "village",
+        "name": "Bourg-de-Sirod",
+        "display_name": "Bourg-de-Sirod, Lons-le-Saunier, Jura, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 39300, Frankreich",
+        "address": {
+            "village": "Bourg-de-Sirod",
+            "municipality": "Lons-le-Saunier",
+            "county": "Jura",
+            "ISO3166-2-lvl6": "FR-39",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "39300",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.7117828",
+            "46.7476313",
+            "5.9427244",
+            "5.9709687"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 91330009,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 6820012,
+        "lat": "46.3069171",
+        "lon": "7.4690150",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5257878170574383,
+        "addresstype": "village",
+        "name": "Crans-Montana",
+        "display_name": "Crans-Montana, Siders, Mittelwallis, Wallis, Schweiz",
+        "address": {
+            "village": "Crans-Montana",
+            "county": "Siders",
+            "state_district": "Mittelwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2721775",
+            "46.3889833",
+            "7.4587672",
+            "7.5801623"
+        ]
+    }
+]

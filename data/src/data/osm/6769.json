@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 287221721,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 4615703,
+        "lat": "43.4711437",
+        "lon": "-1.5527275",
+        "category": "boundary",
+        "type": "political",
+        "place_rank": 25,
+        "importance": 0.6233370780991901,
+        "addresstype": "political",
+        "name": "Biarritz",
+        "display_name": "Biarritz, Bayonne, Pyrenäen-Atlantik, Neu-Aquitanien, Metropolitanes Frankreich, 64200, Frankreich",
+        "address": {
+            "political": "Biarritz",
+            "town": "Biarritz",
+            "municipality": "Bayonne",
+            "county": "Pyrenäen-Atlantik",
+            "ISO3166-2-lvl6": "FR-64",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "64200",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.4475698",
+            "43.4945381",
+            "-1.5773906",
+            "-1.5343915"
+        ]
+    }
+]

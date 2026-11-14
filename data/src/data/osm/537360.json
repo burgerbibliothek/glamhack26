@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 56761943,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 40095,
+        "lat": "40.9842539",
+        "lon": "16.6210027",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.7430089432217514,
+        "addresstype": "state",
+        "name": "Apulien",
+        "display_name": "Apulien, Italien",
+        "address": {
+            "state": "Apulien",
+            "ISO3166-2-lvl4": "IT-75",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "39.7895944",
+            "42.2264805",
+            "14.9341858",
+            "18.5205121"
+        ]
+    }
+]

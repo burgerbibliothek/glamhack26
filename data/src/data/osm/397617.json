@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 74954830,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 44882,
+        "lat": "45.7795805",
+        "lon": "10.4258730",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7253377076927604,
+        "addresstype": "county",
+        "name": "Brescia",
+        "display_name": "Brescia, Lombardei, Italien",
+        "address": {
+            "county": "Brescia",
+            "ISO3166-2-lvl6": "IT-BS",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.2042549",
+            "46.3548531",
+            "9.8362928",
+            "10.8426750"
+        ]
+    }
+]

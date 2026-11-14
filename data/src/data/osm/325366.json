@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72353856,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3497464964,
+        "lat": "47.3699305",
+        "lon": "8.5492336",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "3, Zeltweg, Hottingen, Kreis 7, Zürich, Bezirk Zürich, Zürich, 8032, Schweiz",
+        "address": {
+            "house_number": "3",
+            "road": "Zeltweg",
+            "suburb": "Hottingen",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8032",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3698805",
+            "47.3699805",
+            "8.5491836",
+            "8.5492836"
+        ]
+    }
+]

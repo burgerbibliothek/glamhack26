@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91800292,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6258187701,
+        "lat": "46.9468864",
+        "lon": "7.4573360",
+        "category": "office",
+        "type": "graphic_design",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "office",
+        "name": "Büro Destruct",
+        "display_name": "Büro Destruct, 7, Wasserwerkgasse, Matte, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "office": "Büro Destruct",
+            "house_number": "7",
+            "road": "Wasserwerkgasse",
+            "quarter": "Matte",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9468364",
+            "46.9469364",
+            "7.4572860",
+            "7.4573860"
+        ]
+    }
+]

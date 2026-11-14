@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 56035962,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 40094,
+        "lat": "40.1522173",
+        "lon": "18.2260628",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7194981459723632,
+        "addresstype": "county",
+        "name": "Lecce",
+        "display_name": "Lecce, Apulien, Italien",
+        "address": {
+            "county": "Lecce",
+            "ISO3166-2-lvl6": "IT-LE",
+            "state": "Apulien",
+            "ISO3166-2-lvl4": "IT-75",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "39.7895944",
+            "40.5148674",
+            "17.7624640",
+            "18.5205121"
+        ]
+    }
+]

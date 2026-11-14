@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 74934781,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 46200,
+        "lat": "45.8168815",
+        "lon": "10.0752136",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5822016528777608,
+        "addresstype": "village",
+        "name": "Lovere",
+        "display_name": "Lovere, Comunità Montana dei Laghi Bergamaschi, Bergamo, Lombardei, 24065, Italien",
+        "address": {
+            "village": "Lovere",
+            "municipality": "Comunità Montana dei Laghi Bergamaschi",
+            "county": "Bergamo",
+            "ISO3166-2-lvl6": "IT-BG",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "24065",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8007841",
+            "45.8442344",
+            "10.0508292",
+            "10.0846793"
+        ]
+    }
+]

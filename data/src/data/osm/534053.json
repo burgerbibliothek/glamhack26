@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 88865587,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1327118225,
+        "lat": "45.8282197",
+        "lon": "7.7521858",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333909552147707,
+        "addresstype": "hamlet",
+        "name": "Cunéaz",
+        "display_name": "Cunéaz, Ayas, Aostatal, 11020, Italien",
+        "address": {
+            "hamlet": "Cunéaz",
+            "city": "Ayas",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "postcode": "11020",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8082197",
+            "45.8482197",
+            "7.7321858",
+            "7.7721858"
+        ]
+    }
+]

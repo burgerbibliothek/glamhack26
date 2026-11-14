@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 69657534,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 280589682,
+        "lat": "46.5187504",
+        "lon": "12.0084323",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.39742443319360427,
+        "addresstype": "mountain_pass",
+        "name": "Falzaregopass",
+        "display_name": "Falzaregopass, Hayden, Belluno, Venetien, 32043, Italien",
+        "address": {
+            "mountain_pass": "Falzaregopass",
+            "city": "Hayden",
+            "county": "Belluno",
+            "ISO3166-2-lvl6": "IT-BL",
+            "state": "Venetien",
+            "ISO3166-2-lvl4": "IT-34",
+            "postcode": "32043",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.5187004",
+            "46.5188004",
+            "12.0083823",
+            "12.0084823"
+        ]
+    }
+]

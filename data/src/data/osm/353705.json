@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92040375,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 600906649,
+        "lat": "46.9562563",
+        "lon": "7.4531371",
+        "category": "tourism",
+        "type": "hotel",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "tourism",
+        "name": "Waldhorn",
+        "display_name": "Waldhorn, 2, Waldhöheweg, Spitalacker, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3013, Schweiz",
+        "address": {
+            "tourism": "Waldhorn",
+            "house_number": "2",
+            "road": "Waldhöheweg",
+            "quarter": "Spitalacker",
+            "city_district": "Stadtteil V",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3013",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9562063",
+            "46.9563063",
+            "7.4530871",
+            "7.4531871"
+        ]
+    }
+]

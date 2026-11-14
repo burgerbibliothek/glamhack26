@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 76289622,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 43199,
+        "lat": "44.8349534",
+        "lon": "8.7450304",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7230820367070734,
+        "addresstype": "county",
+        "name": "Alessandria",
+        "display_name": "Alessandria, Piemont, Italien",
+        "address": {
+            "county": "Alessandria",
+            "ISO3166-2-lvl6": "IT-AL",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.4647191",
+            "45.2054572",
+            "8.1093301",
+            "9.2142404"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 74937499,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 45740,
+        "lat": "45.6980454",
+        "lon": "8.4162216",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5170275207044238,
+        "addresstype": "city",
+        "name": "Maggiora",
+        "display_name": "Maggiora, Novara, Piemont, 28014, Italien",
+        "address": {
+            "city": "Maggiora",
+            "county": "Novara",
+            "ISO3166-2-lvl6": "IT-NO",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "postcode": "28014",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.6746154",
+            "45.7212202",
+            "8.3807082",
+            "8.4467826"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72483503,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5254587716,
+        "lat": "47.0174278",
+        "lon": "8.7332101",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.359473463574925,
+        "addresstype": "mountain_pass",
+        "name": "Ibergeregg",
+        "display_name": "Ibergeregg, Schwyz, Schweiz",
+        "address": {
+            "mountain_pass": "Ibergeregg",
+            "town": "Schwyz",
+            "county": "Schwyz",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0173778",
+            "47.0174778",
+            "8.7331601",
+            "8.7332601"
+        ]
+    }
+]

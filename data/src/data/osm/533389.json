@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 56247980,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 39852,
+        "lat": "39.2347925",
+        "lon": "16.0671836",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5507643028499527,
+        "addresstype": "village",
+        "name": "Fiumefreddo Bruzio",
+        "display_name": "Fiumefreddo Bruzio, Cosenza, Kalabrien, 87030, Italien",
+        "address": {
+            "village": "Fiumefreddo Bruzio",
+            "county": "Cosenza",
+            "ISO3166-2-lvl6": "IT-CS",
+            "state": "Kalabrien",
+            "ISO3166-2-lvl4": "IT-78",
+            "postcode": "87030",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "39.2157403",
+            "39.2715171",
+            "16.0561930",
+            "16.1435576"
+        ]
+    }
+]

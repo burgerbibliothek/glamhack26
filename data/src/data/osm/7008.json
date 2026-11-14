@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 88274315,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42845,
+        "lat": "44.4580704",
+        "lon": "7.5581367",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7250693826333917,
+        "addresstype": "county",
+        "name": "Cuneo",
+        "display_name": "Cuneo, Piemont, Italien",
+        "address": {
+            "county": "Cuneo",
+            "ISO3166-2-lvl6": "IT-CN",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.0597158",
+            "44.8566056",
+            "6.8545067",
+            "8.2692128"
+        ]
+    }
+]

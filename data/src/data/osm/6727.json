@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 98781820,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 158311,
+        "lat": "49.4300997",
+        "lon": "2.0823355",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6383865970614401,
+        "addresstype": "city",
+        "name": "Beauvais",
+        "display_name": "Beauvais, Oise, Nordfrankreich, Metropolitanes Frankreich, 60000, Frankreich",
+        "address": {
+            "city": "Beauvais",
+            "municipality": "Beauvais",
+            "county": "Oise",
+            "ISO3166-2-lvl6": "FR-60",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "60000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.4028134",
+            "49.4822588",
+            "2.0341473",
+            "2.1412077"
+        ]
+    }
+]

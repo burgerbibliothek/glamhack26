@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 104658513,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2804899270,
+        "lat": "50.8498464",
+        "lon": "5.6900092",
+        "category": "shop",
+        "type": "cosmetics",
+        "place_rank": 30,
+        "importance": 6.929198138394778e-05,
+        "addresstype": "shop",
+        "name": "KIKO Milano",
+        "display_name": "KIKO Milano, 42, Grote Staat, Binnenstad, Maastricht-Centrum, Maastricht, Limburg, Niederlande, 6211 CX, Niederlande",
+        "address": {
+            "shop": "KIKO Milano",
+            "house_number": "42",
+            "road": "Grote Staat",
+            "neighbourhood": "Binnenstad",
+            "quarter": "Maastricht-Centrum",
+            "city": "Maastricht",
+            "municipality": "Maastricht",
+            "state": "Limburg",
+            "ISO3166-2-lvl4": "NL-LI",
+            "country": "Niederlande",
+            "postcode": "6211 CX",
+            "country_code": "nl"
+        },
+        "boundingbox": [
+            "50.8497964",
+            "50.8498964",
+            "5.6899592",
+            "5.6900592"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 115176259,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 427188391,
+        "lat": "50.9876394",
+        "lon": "6.9525738",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.006485084301545e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "23, Scheibenstraße, Weidenpesch, Nippes, Köln, Nordrhein-Westfalen, 50737, Deutschland",
+        "address": {
+            "house_number": "23",
+            "road": "Scheibenstraße",
+            "suburb": "Weidenpesch",
+            "city_district": "Nippes",
+            "city": "Köln",
+            "state": "Nordrhein-Westfalen",
+            "ISO3166-2-lvl4": "DE-NW",
+            "postcode": "50737",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.9875246",
+            "50.9877570",
+            "6.9524482",
+            "6.9528122"
+        ]
+    }
+]

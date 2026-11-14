@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72614333,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 97854709,
+        "lat": "47.3825531",
+        "lon": "8.5502107",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "3, Landoltstrasse, Oberstrass, Kreis 6, Zürich, Bezirk Zürich, Zürich, 8006, Schweiz",
+        "address": {
+            "house_number": "3",
+            "road": "Landoltstrasse",
+            "suburb": "Oberstrass",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3824719",
+            "47.3826300",
+            "8.5500934",
+            "8.5503280"
+        ]
+    }
+]

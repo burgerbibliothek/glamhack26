@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 73786220,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 13363122,
+        "lat": "46.1997289",
+        "lon": "9.4377980",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.3172483997907332,
+        "addresstype": "lake",
+        "name": "Lago di Mezzola",
+        "display_name": "Lago di Mezzola, Campo Mezzola, Novate Mezzola, Comunità montana della Valchiavenna, Sondrio, Lombardei, 23025, Italien",
+        "address": {
+            "lake": "Lago di Mezzola",
+            "village": "Campo Mezzola",
+            "city": "Novate Mezzola",
+            "municipality": "Comunità montana della Valchiavenna",
+            "county": "Sondrio",
+            "ISO3166-2-lvl6": "IT-SO",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "23025",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.1864702",
+            "46.2128593",
+            "9.4231364",
+            "9.4598284"
+        ]
+    }
+]

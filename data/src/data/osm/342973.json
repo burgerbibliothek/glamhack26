@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92790142,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683673,
+        "lat": "47.3958161",
+        "lon": "7.8546951",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.41167337284416056,
+        "addresstype": "village",
+        "name": "Läufelfingen",
+        "display_name": "Läufelfingen, Bezirk Sissach, Basel-Landschaft, 4448, Schweiz",
+        "address": {
+            "village": "Läufelfingen",
+            "county": "Bezirk Sissach",
+            "state": "Basel-Landschaft",
+            "ISO3166-2-lvl4": "CH-BL",
+            "postcode": "4448",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3741500",
+            "47.4085379",
+            "7.8262825",
+            "7.8798096"
+        ]
+    }
+]

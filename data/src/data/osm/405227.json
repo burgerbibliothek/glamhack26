@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 53803903,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 45484464,
+        "lat": "37.9386493",
+        "lon": "12.8385039",
+        "category": "historic",
+        "type": "archaeological_site",
+        "place_rank": 30,
+        "importance": 0.4978198991433291,
+        "addresstype": "historic",
+        "name": "Segesta",
+        "display_name": "Segesta, Strada Provinciale 57 Buseto Palizzolo - Bruca - Pocorobba - Segesta, Calatafimi Segesta, Trapani, Sizilien, 91013, Italien",
+        "address": {
+            "historic": "Segesta",
+            "road": "Strada Provinciale 57 Buseto Palizzolo - Bruca - Pocorobba - Segesta",
+            "city": "Calatafimi Segesta",
+            "county": "Trapani",
+            "ISO3166-2-lvl6": "IT-TP",
+            "state": "Sizilien",
+            "ISO3166-2-lvl4": "IT-82",
+            "postcode": "91013",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "37.9314987",
+            "37.9457159",
+            "12.8291025",
+            "12.8472101"
+        ]
+    }
+]

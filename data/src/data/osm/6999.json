@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 88671065,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 46039,
+        "lat": "45.8316548",
+        "lon": "6.9461565",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5530005724923724,
+        "addresstype": "city",
+        "name": "Courmayeur",
+        "display_name": "Courmayeur, Aostatal, 11013, Italien",
+        "address": {
+            "city": "Courmayeur",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "postcode": "11013",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.7400517",
+            "45.9230235",
+            "6.8015322",
+            "7.1015013"
+        ]
+    }
+]

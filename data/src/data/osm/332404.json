@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92786270,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683551,
+        "lat": "47.4762610",
+        "lon": "7.4900151",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3728855590490345,
+        "addresstype": "village",
+        "name": "Metzerlen-Mariastein",
+        "display_name": "Metzerlen-Mariastein, Bezirk Dorneck, Amtei Dorneck-Thierstein, Solothurn, 4116, Schweiz",
+        "address": {
+            "village": "Metzerlen-Mariastein",
+            "municipality": "Bezirk Dorneck",
+            "county": "Amtei Dorneck-Thierstein",
+            "state": "Solothurn",
+            "ISO3166-2-lvl4": "CH-SO",
+            "postcode": "4116",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4492349",
+            "47.4821638",
+            "7.4452193",
+            "7.4951470"
+        ]
+    }
+]

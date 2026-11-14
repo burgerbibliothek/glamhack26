@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 135285142,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3342889387,
+        "lat": "51.3207087",
+        "lon": "12.2685646",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.936293583576742e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "51, Jupiterstraße, Wohnkomplex 7, Grünau-Nord, West, Leipzig, Sachsen, 04205, Deutschland",
+        "address": {
+            "house_number": "51",
+            "road": "Jupiterstraße",
+            "neighbourhood": "Wohnkomplex 7",
+            "suburb": "Grünau-Nord",
+            "city_district": "West",
+            "city": "Leipzig",
+            "state": "Sachsen",
+            "ISO3166-2-lvl4": "DE-SN",
+            "postcode": "04205",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "51.3206587",
+            "51.3207587",
+            "12.2685146",
+            "12.2686146"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73474997,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684044,
+        "lat": "46.6252272",
+        "lon": "9.7664945",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3644234137366019,
+        "addresstype": "city",
+        "name": "Bergün Filisur",
+        "display_name": "Bergün Filisur, Albula, Graubünden, Schweiz",
+        "address": {
+            "city": "Bergün Filisur",
+            "county": "Albula",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5499311",
+            "46.7007199",
+            "9.6460391",
+            "9.8879336"
+        ]
+    }
+]

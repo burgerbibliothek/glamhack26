@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 75883956,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 8013628,
+        "lat": "45.9010549",
+        "lon": "8.5203014",
+        "category": "place",
+        "type": "islet",
+        "place_rank": 20,
+        "importance": 0.4094405247320548,
+        "addresstype": "islet",
+        "name": "Isola dei Pescatori",
+        "display_name": "Isola dei Pescatori, Carciano, Stresa, Verbano-Cusio-Ossola, Piemont, Italien",
+        "address": {
+            "islet": "Isola dei Pescatori",
+            "village": "Carciano",
+            "county": "Verbano-Cusio-Ossola",
+            "ISO3166-2-lvl6": "IT-VB",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8997176",
+            "45.9023555",
+            "8.5187347",
+            "8.5220490"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 81259687,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 7361997,
+        "lat": "40.0912813",
+        "lon": "9.0305773",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.7591375233795963,
+        "addresstype": "state",
+        "name": "Sardinien",
+        "display_name": "Sardinien, Italien",
+        "address": {
+            "state": "Sardinien",
+            "ISO3166-2-lvl4": "IT-88",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "38.8590846",
+            "41.3131122",
+            "8.1308446",
+            "9.8293196"
+        ]
+    }
+]

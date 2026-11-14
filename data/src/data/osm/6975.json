@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 75455922,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 45614,
+        "lat": "45.9395857",
+        "lon": "9.1493609",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7226131802808594,
+        "addresstype": "county",
+        "name": "Como",
+        "display_name": "Como, Lombardei, Italien",
+        "address": {
+            "county": "Como",
+            "ISO3166-2-lvl6": "IT-CO",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.6393854",
+            "46.2395703",
+            "8.8942419",
+            "9.4406278"
+        ]
+    }
+]

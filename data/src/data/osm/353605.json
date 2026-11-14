@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 137942412,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 686892308,
+        "lat": "50.1154627",
+        "lon": "8.6924481",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.941481651021618e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "7, Seilerstraße, Innenstadt, Innenstadt 1, Frankfurt am Main, Hessen, 60313, Deutschland",
+        "address": {
+            "house_number": "7",
+            "road": "Seilerstraße",
+            "suburb": "Innenstadt",
+            "city_district": "Innenstadt 1",
+            "city": "Frankfurt am Main",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "60313",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.1153622",
+            "50.1155578",
+            "8.6922805",
+            "8.6926034"
+        ]
+    }
+]

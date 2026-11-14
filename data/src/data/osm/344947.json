@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73613956,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684050,
+        "lat": "46.7674063",
+        "lon": "9.0622332",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4173921172966249,
+        "addresstype": "village",
+        "name": "Brigels",
+        "display_name": "Brigels, Surselva, Graubünden, Schweiz",
+        "address": {
+            "village": "Brigels",
+            "county": "Surselva",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7339574",
+            "46.8752048",
+            "8.9570860",
+            "9.1402626"
+        ]
+    }
+]

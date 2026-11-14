@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 54167012,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 39357,
+        "lat": "37.8250916",
+        "lon": "13.5713017",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5043853270289361,
+        "addresstype": "village",
+        "name": "Vicari",
+        "display_name": "Vicari, Palermo, Sizilien, 90071, Italien",
+        "address": {
+            "village": "Vicari",
+            "county": "Palermo",
+            "ISO3166-2-lvl6": "IT-PA",
+            "state": "Sizilien",
+            "ISO3166-2-lvl4": "IT-82",
+            "postcode": "90071",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "37.7335208",
+            "37.8512775",
+            "13.4873748",
+            "13.6275583"
+        ]
+    }
+]

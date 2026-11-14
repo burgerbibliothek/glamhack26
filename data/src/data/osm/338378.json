@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72766868,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 438421774,
+        "lat": "47.0258279",
+        "lon": "9.2300152",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.12743869505990896,
+        "addresstype": "peak",
+        "name": "Wissmeilen",
+        "display_name": "Wissmeilen, Glarus Süd, Glarus, Schweiz",
+        "address": {
+            "peak": "Wissmeilen",
+            "city": "Glarus Süd",
+            "state": "Glarus",
+            "ISO3166-2-lvl4": "CH-GL",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0257779",
+            "47.0258779",
+            "9.2299652",
+            "9.2300652"
+        ]
+    }
+]

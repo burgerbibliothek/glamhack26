@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73548770,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2888417,
+        "lat": "46.0038007",
+        "lon": "8.9512275",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6390906599086913,
+        "addresstype": "city",
+        "name": "Lugano",
+        "display_name": "Lugano, Kreis Lugano West, Bezirk Lugano, Tessin, Schweiz",
+        "address": {
+            "city": "Lugano",
+            "municipality": "Kreis Lugano West",
+            "county": "Bezirk Lugano",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9396730",
+            "46.1191468",
+            "8.8936580",
+            "9.0896151"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 88847835,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 26864911,
+        "lat": "45.8308025",
+        "lon": "7.7866155",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.21080589711721126,
+        "addresstype": "peak",
+        "name": "Testa Grigia",
+        "display_name": "Testa Grigia, Ayas, Aostatal, 11020, Italien",
+        "address": {
+            "peak": "Testa Grigia",
+            "city": "Ayas",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "postcode": "11020",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8307525",
+            "45.8308525",
+            "7.7865655",
+            "7.7866655"
+        ]
+    }
+]

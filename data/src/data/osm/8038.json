@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 98427244,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 7444,
+        "lat": "48.8588897",
+        "lon": "2.3200410",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 15,
+        "importance": 0.897098092136026,
+        "addresstype": "suburb",
+        "name": "Paris",
+        "display_name": "Paris, Île-de-France, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "suburb": "Paris",
+            "city_district": "Paris",
+            "city": "Paris",
+            "ISO3166-2-lvl6": "FR-75C",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8155755",
+            "48.9021560",
+            "2.2241220",
+            "2.4697602"
+        ]
+    }
+]

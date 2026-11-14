@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 76030815,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 47423293,
+        "lat": "45.4818008",
+        "lon": "9.2679598",
+        "category": "highway",
+        "type": "unclassified",
+        "place_rank": 26,
+        "importance": 0.053417240405889944,
+        "addresstype": "unclassified",
+        "name": "Via Reggio Emilia",
+        "display_name": "Via Reggio Emilia, Milano Due, Redecesio, Novegro, Segrate, Rodano, Mailand, Lombardei, 21771, Italien",
+        "address": {
+            "road": "Via Reggio Emilia",
+            "suburb": "Milano Due",
+            "village": "Novegro",
+            "town": "Segrate",
+            "municipality": "Rodano",
+            "county": "Mailand",
+            "ISO3166-2-lvl6": "IT-MI",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "21771",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.4800944",
+            "45.4835166",
+            "9.2677618",
+            "9.2681534"
+        ]
+    }
+]

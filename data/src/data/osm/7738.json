@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 103266800,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 736519312,
+        "lat": "50.3197883",
+        "lon": "3.8657452",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339850232700082,
+        "addresstype": "hamlet",
+        "name": "Malplaquet",
+        "display_name": "Malplaquet, Taisnières-sur-Hon, Avesnes-sur-Helpe, Nord, Nordfrankreich, Metropolitanes Frankreich, 59570, Frankreich",
+        "address": {
+            "hamlet": "Malplaquet",
+            "village": "Taisnières-sur-Hon",
+            "municipality": "Avesnes-sur-Helpe",
+            "county": "Nord",
+            "ISO3166-2-lvl6": "FR-59",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "59570",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.2997883",
+            "50.3397883",
+            "3.8457452",
+            "3.8857452"
+        ]
+    }
+]

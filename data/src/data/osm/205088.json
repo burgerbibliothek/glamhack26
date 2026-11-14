@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 74938422,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 45072,
+        "lat": "45.4928690",
+        "lon": "10.6077258",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5688567868916456,
+        "addresstype": "town",
+        "name": "Sirmione",
+        "display_name": "Sirmione, Brescia, Lombardei, 25019, Italien",
+        "address": {
+            "town": "Sirmione",
+            "county": "Brescia",
+            "ISO3166-2-lvl6": "IT-BS",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "25019",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.4421912",
+            "45.5147838",
+            "10.5767020",
+            "10.6480545"
+        ]
+    }
+]

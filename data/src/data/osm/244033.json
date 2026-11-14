@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73780849,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 47046,
+        "lat": "46.6559296",
+        "lon": "11.2301833",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7338107328117058,
+        "addresstype": "county",
+        "name": "Bozen",
+        "display_name": "Bozen, Trentino-Südtirol, Italien",
+        "address": {
+            "county": "Bozen",
+            "ISO3166-2-lvl6": "IT-BZ",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.2197712",
+            "47.0921485",
+            "10.3818217",
+            "12.4779748"
+        ]
+    }
+]

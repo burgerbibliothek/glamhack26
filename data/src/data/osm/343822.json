@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71813914,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683644,
+        "lat": "47.7073736",
+        "lon": "8.7203932",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.39742443319360427,
+        "addresstype": "village",
+        "name": "Dörflingen",
+        "display_name": "Dörflingen, Bezirk Reiat, Schaffhausen, 8239, Schweiz",
+        "address": {
+            "village": "Dörflingen",
+            "county": "Bezirk Reiat",
+            "state": "Schaffhausen",
+            "ISO3166-2-lvl4": "CH-SH",
+            "postcode": "8239",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.6906903",
+            "47.7224152",
+            "8.6925622",
+            "8.7363082"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 76542740,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 44875,
+        "lat": "44.4072600",
+        "lon": "8.9338624",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.7404109847572607,
+        "addresstype": "city",
+        "name": "Genua",
+        "display_name": "Genua, Ligurien, Italien",
+        "address": {
+            "city": "Genua",
+            "county": "Genua",
+            "ISO3166-2-lvl6": "IT-GE",
+            "state": "Ligurien",
+            "ISO3166-2-lvl4": "IT-42",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.3784709",
+            "44.5198419",
+            "8.6657444",
+            "9.0955805"
+        ]
+    }
+]

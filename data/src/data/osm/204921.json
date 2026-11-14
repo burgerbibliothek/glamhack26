@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 88142580,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6643147112,
+        "lat": "45.1328918",
+        "lon": "7.6273901",
+        "category": "historic",
+        "type": "wayside_shrine",
+        "place_rank": 30,
+        "importance": 6.476920729376695e-05,
+        "addresstype": "historic",
+        "name": "San Giulio d'Orta",
+        "display_name": "San Giulio d'Orta, 27, Via Don Luigi Pavesio, Centro, Altessano, Venaria Reale, Turin, Piemont, 10078, Italien",
+        "address": {
+            "historic": "San Giulio d'Orta",
+            "house_number": "27",
+            "road": "Via Don Luigi Pavesio",
+            "neighbourhood": "Centro",
+            "suburb": "Altessano",
+            "town": "Venaria Reale",
+            "county": "Turin",
+            "ISO3166-2-lvl6": "IT-TO",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "postcode": "10078",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.1328418",
+            "45.1329418",
+            "7.6273401",
+            "7.6274401"
+        ]
+    }
+]

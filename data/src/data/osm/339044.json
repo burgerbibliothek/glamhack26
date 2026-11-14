@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91438875,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 358918556,
+        "lat": "46.2528665",
+        "lon": "6.1526121",
+        "category": "highway",
+        "type": "primary",
+        "place_rank": 26,
+        "importance": 0.05341234988937205,
+        "addresstype": "primary",
+        "name": "Route de Lausanne",
+        "display_name": "Route de Lausanne, Rives-du-Lac, Grands-Bois, Bellevue, Genf, 1293, Schweiz",
+        "address": {
+            "road": "Route de Lausanne",
+            "neighbourhood": "Rives-du-Lac",
+            "hamlet": "Grands-Bois",
+            "village": "Bellevue",
+            "city": "Bellevue",
+            "state": "Genf",
+            "ISO3166-2-lvl4": "CH-GE",
+            "postcode": "1293",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.2522360",
+            "46.2534821",
+            "6.1518826",
+            "6.1533555"
+        ]
+    }
+]

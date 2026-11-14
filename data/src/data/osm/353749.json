@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 146143719,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5176811999,
+        "lat": "52.4643960",
+        "lon": "13.3283211",
+        "category": "shop",
+        "type": "beauty",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "shop",
+        "name": "Berlin Sun",
+        "display_name": "Berlin Sun, 129, Schloßstraße, Steglitz, Tempelhof-Schöneberg, Berlin, 12163, Deutschland",
+        "address": {
+            "shop": "Berlin Sun",
+            "house_number": "129",
+            "road": "Schloßstraße",
+            "suburb": "Steglitz",
+            "borough": "Tempelhof-Schöneberg",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "12163",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.4643460",
+            "52.4644460",
+            "13.3282711",
+            "13.3283711"
+        ]
+    }
+]

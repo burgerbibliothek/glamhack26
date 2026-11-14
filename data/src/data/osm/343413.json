@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92440936,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240100539,
+        "lat": "46.7273878",
+        "lon": "6.8786301",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.3476412868877268,
+        "addresstype": "village",
+        "name": "Seigneux",
+        "display_name": "Seigneux, Valbroye, District de la Broye-Vully, Waadt, 1525, Schweiz",
+        "address": {
+            "village": "Seigneux",
+            "city": "Valbroye",
+            "county": "District de la Broye-Vully",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1525",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7073878",
+            "46.7473878",
+            "6.8586301",
+            "6.8986301"
+        ]
+    }
+]

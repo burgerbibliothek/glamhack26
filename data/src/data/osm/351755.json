@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 92366343,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 44016365,
+        "lat": "46.9504520",
+        "lon": "7.4665625",
+        "category": "amenity",
+        "type": "kindergarten",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Kindergärten Haspelweg I + II",
+        "display_name": "Kindergärten Haspelweg I + II, 49, Haspelweg, Campagne Schönberg, Schosshalde, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "amenity": "Kindergärten Haspelweg I + II",
+            "house_number": "49",
+            "road": "Haspelweg",
+            "neighbourhood": "Campagne Schönberg",
+            "quarter": "Schosshalde",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9501769",
+            "46.9507541",
+            "7.4661776",
+            "7.4669434"
+        ]
+    }
+]

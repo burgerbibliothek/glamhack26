@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 77730846,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42889,
+        "lat": "44.3640607",
+        "lon": "12.0590095",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7166724570127546,
+        "addresstype": "county",
+        "name": "Ravenna",
+        "display_name": "Ravenna, Emilia-Romagna, Italien",
+        "address": {
+            "county": "Ravenna",
+            "ISO3166-2-lvl6": "IT-RA",
+            "state": "Emilia-Romagna",
+            "ISO3166-2-lvl4": "IT-45",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.0989959",
+            "44.6283408",
+            "11.5248313",
+            "12.3839715"
+        ]
+    }
+]

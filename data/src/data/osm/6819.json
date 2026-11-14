@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 99835304,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 240377,
+        "lat": "50.7259985",
+        "lon": "1.6118771",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6584260660950134,
+        "addresstype": "city",
+        "name": "Boulogne-sur-Mer",
+        "display_name": "Boulogne-sur-Mer, Pas-de-Calais, Nordfrankreich, Metropolitanes Frankreich, 62200, Frankreich",
+        "address": {
+            "city": "Boulogne-sur-Mer",
+            "municipality": "Boulogne-sur-Mer",
+            "county": "Pas-de-Calais",
+            "ISO3166-2-lvl6": "FR-62",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "62200",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.7100271",
+            "50.7505279",
+            "1.5789037",
+            "1.6333873"
+        ]
+    }
+]

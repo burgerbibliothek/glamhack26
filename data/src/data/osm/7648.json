@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 89012073,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 148032,
+        "lat": "45.9230967",
+        "lon": "5.2952422",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5646183235099727,
+        "addresstype": "village",
+        "name": "Leyment",
+        "display_name": "Leyment, Belley, Ain, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 01150, Frankreich",
+        "address": {
+            "village": "Leyment",
+            "municipality": "Belley",
+            "county": "Ain",
+            "ISO3166-2-lvl6": "FR-01",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "01150",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.9055666",
+            "45.9515002",
+            "5.2619859",
+            "5.3233379"
+        ]
+    }
+]

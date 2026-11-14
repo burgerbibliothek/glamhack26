@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 287905105,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 59874,
+        "lat": "47.2186371",
+        "lon": "-1.5541362",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6973660761364068,
+        "addresstype": "city",
+        "name": "Nantes",
+        "display_name": "Nantes, Loire-Atlantique, Pays de la Loire, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "city": "Nantes",
+            "municipality": "Nantes",
+            "county": "Loire-Atlantique",
+            "ISO3166-2-lvl6": "FR-44",
+            "state": "Pays de la Loire",
+            "ISO3166-2-lvl4": "FR-PDL",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.1805856",
+            "47.2958583",
+            "-1.6418115",
+            "-1.4788443"
+        ]
+    }
+]

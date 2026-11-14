@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92298356,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 286879736,
+        "lat": "46.9486987",
+        "lon": "7.4463572",
+        "category": "tourism",
+        "type": "hotel",
+        "place_rank": 30,
+        "importance": 0.17283327415591612,
+        "addresstype": "tourism",
+        "name": "Hotel Bern",
+        "display_name": "Hotel Bern, 9, Zeughausgasse, Gelbes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "tourism": "Hotel Bern",
+            "house_number": "9",
+            "road": "Zeughausgasse",
+            "quarter": "Gelbes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9486487",
+            "46.9487487",
+            "7.4463072",
+            "7.4464072"
+        ]
+    }
+]

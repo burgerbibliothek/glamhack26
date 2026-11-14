@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 93830484,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 904542,
+        "lat": "47.8639612",
+        "lon": "5.3339470",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5912471548040982,
+        "addresstype": "town",
+        "name": "Langres",
+        "display_name": "Langres, Haute-Marne, Groß-Osten, Metropolitanes Frankreich, 52200, Frankreich",
+        "address": {
+            "town": "Langres",
+            "municipality": "Langres",
+            "county": "Haute-Marne",
+            "ISO3166-2-lvl6": "FR-52",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "52200",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.8267831",
+            "47.8921439",
+            "5.2943015",
+            "5.3785613"
+        ]
+    }
+]

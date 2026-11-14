@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 56052436,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 44866,
+        "lat": "38.6266556",
+        "lon": "16.0986935",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7163788784646843,
+        "addresstype": "county",
+        "name": "Vibo Valentia",
+        "display_name": "Vibo Valentia, Kalabrien, Italien",
+        "address": {
+            "county": "Vibo Valentia",
+            "ISO3166-2-lvl6": "IT-VV",
+            "state": "Kalabrien",
+            "ISO3166-2-lvl4": "IT-78",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "38.4288750",
+            "38.8244201",
+            "15.8234300",
+            "16.4347613"
+        ]
+    }
+]

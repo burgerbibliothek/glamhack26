@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 79772326,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42568,
+        "lat": "43.7262608",
+        "lon": "12.6363135",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.616046337417379,
+        "addresstype": "town",
+        "name": "Urbino",
+        "display_name": "Urbino, Pesaro und Urbino, Marken, 61029, Italien",
+        "address": {
+            "town": "Urbino",
+            "county": "Pesaro und Urbino",
+            "ISO3166-2-lvl6": "IT-PU",
+            "state": "Marken",
+            "ISO3166-2-lvl4": "IT-57",
+            "postcode": "61029",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "43.6612984",
+            "43.8402148",
+            "12.4350055",
+            "12.7737965"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 310558879,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1684151308,
+        "lat": "10.6164439",
+        "lon": "-84.2931528",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337383459220262,
+        "addresstype": "hamlet",
+        "name": "Castelmare",
+        "display_name": "Castelmare, Cutris, San Carlos, Provinz Alajuela, 21011, Costa Rica",
+        "address": {
+            "hamlet": "Castelmare",
+            "city": "Cutris",
+            "county": "San Carlos",
+            "state": "Provinz Alajuela",
+            "ISO3166-2-lvl4": "CR-A",
+            "postcode": "21011",
+            "country": "Costa Rica",
+            "country_code": "cr"
+        },
+        "boundingbox": [
+            "10.5964439",
+            "10.6364439",
+            "-84.3131528",
+            "-84.2731528"
+        ]
+    }
+]

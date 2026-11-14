@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73994765,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 47254,
+        "lat": "46.5534292",
+        "lon": "11.1528876",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5345488722936941,
+        "addresstype": "city",
+        "name": "Tisens",
+        "display_name": "Tisens, Burggrafenamt, Bozen, Trentino-Südtirol, Italien",
+        "address": {
+            "city": "Tisens",
+            "municipality": "Burggrafenamt",
+            "county": "Bozen",
+            "ISO3166-2-lvl6": "IT-BZ",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.5176655",
+            "46.5892686",
+            "11.0947260",
+            "11.2051926"
+        ]
+    }
+]

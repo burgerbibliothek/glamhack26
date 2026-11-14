@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 91933868,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 248205594,
+        "lat": "46.9490228",
+        "lon": "7.4743876",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.3726646801410257,
+        "addresstype": "building",
+        "name": "Zentrum Paul Klee",
+        "display_name": "Zentrum Paul Klee, 3, Monument im Fruchtland, Schosshalde, Schloss Wittigkofen, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "building": "Zentrum Paul Klee",
+            "house_number": "3",
+            "road": "Monument im Fruchtland",
+            "quarter": "Schosshalde",
+            "hamlet": "Schloss Wittigkofen",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9483449",
+            "46.9497123",
+            "7.4737322",
+            "7.4748502"
+        ]
+    }
+]

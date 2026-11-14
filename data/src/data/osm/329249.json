@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72206659,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240083606,
+        "lat": "47.0292693",
+        "lon": "8.4029921",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.2521482229732802,
+        "addresstype": "hamlet",
+        "name": "Hertenstein",
+        "display_name": "Hertenstein, Weggis, Luzern, 6353, Schweiz",
+        "address": {
+            "hamlet": "Hertenstein",
+            "village": "Weggis",
+            "state": "Luzern",
+            "ISO3166-2-lvl4": "CH-LU",
+            "postcode": "6353",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0092693",
+            "47.0492693",
+            "8.3829921",
+            "8.4229921"
+        ]
+    }
+]

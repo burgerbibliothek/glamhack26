@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 124276230,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 332746568,
+        "lat": "49.8085342",
+        "lon": "8.5944726",
+        "category": "building",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.148928053707205e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "65, Zieglerstraße, Pfungstadt, Landkreis Darmstadt-Dieburg, Hessen, 64319, Deutschland",
+        "address": {
+            "house_number": "65",
+            "road": "Zieglerstraße",
+            "town": "Pfungstadt",
+            "municipality": "Pfungstadt",
+            "county": "Landkreis Darmstadt-Dieburg",
+            "state": "Hessen",
+            "ISO3166-2-lvl4": "DE-HE",
+            "postcode": "64319",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.8084770",
+            "49.8085913",
+            "8.5943916",
+            "8.5945536"
+        ]
+    }
+]

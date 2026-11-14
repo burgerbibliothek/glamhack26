@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 82762362,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 108123,
+        "lat": "43.7755825",
+        "lon": "5.3515561",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5289149483535658,
+        "addresstype": "locality",
+        "name": "Lourmarin",
+        "display_name": "Lourmarin, Apt, Vaucluse, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 84160, Frankreich",
+        "address": {
+            "locality": "Lourmarin",
+            "village": "Lourmarin",
+            "municipality": "Apt",
+            "county": "Vaucluse",
+            "ISO3166-2-lvl6": "FR-84",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "84160",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.7510917",
+            "43.8058937",
+            "5.3316971",
+            "5.3935762"
+        ]
+    }
+]

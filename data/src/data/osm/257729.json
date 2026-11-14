@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 423678074,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1841080,
+        "lat": "41.8916414",
+        "lon": "12.4867296",
+        "category": "tourism",
+        "type": "attraction",
+        "place_rank": 30,
+        "importance": 0.5816580094614815,
+        "addresstype": "tourism",
+        "name": "Forum Romanum",
+        "display_name": "Forum Romanum, Via di Monte Tarpeo, Campitelli, Municipio Roma I, Rom, Roma Capitale, Latium, 00153, Italien",
+        "address": {
+            "tourism": "Forum Romanum",
+            "road": "Via di Monte Tarpeo",
+            "quarter": "Campitelli",
+            "suburb": "Municipio Roma I",
+            "city": "Rom",
+            "county": "Roma Capitale",
+            "ISO3166-2-lvl6": "IT-RM",
+            "state": "Latium",
+            "ISO3166-2-lvl4": "IT-62",
+            "postcode": "00153",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "41.8902165",
+            "41.8931509",
+            "12.4832952",
+            "12.4908629"
+        ]
+    }
+]

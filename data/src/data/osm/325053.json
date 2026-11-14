@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 72788800,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1360205879,
+        "lat": "47.0534437",
+        "lon": "8.4741672",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.19938740066310082,
+        "addresstype": "railway",
+        "name": "Rigi Staffel",
+        "display_name": "Rigi Staffel, Staffelhöheweg, Arth, Schwyz, 6356, Schweiz",
+        "address": {
+            "railway": "Rigi Staffel",
+            "road": "Staffelhöheweg",
+            "town": "Arth",
+            "county": "Schwyz",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "6356",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0484437",
+            "47.0584437",
+            "8.4691672",
+            "8.4791672"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 145817257,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2867830865,
+        "lat": "52.5705536",
+        "lon": "13.2093978",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "19;22;17;18;23;24;25;26;27;28;29;21;20, Fichtenweg, Waldsiedlung, Waldsiedlung Hakenfelde, Hakenfelde, Spandau, Berlin, 13587, Deutschland",
+        "address": {
+            "house_number": "19;22;17;18;23;24;25;26;27;28;29;21;20",
+            "road": "Fichtenweg",
+            "neighbourhood": "Waldsiedlung",
+            "quarter": "Waldsiedlung Hakenfelde",
+            "suburb": "Hakenfelde",
+            "city_district": "Spandau",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "13587",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5705036",
+            "52.5706036",
+            "13.2093478",
+            "13.2094478"
+        ]
+    }
+]

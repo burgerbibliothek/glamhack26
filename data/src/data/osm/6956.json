@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 120511523,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3086573,
+        "lat": "48.3317119",
+        "lon": "4.9393540",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.550720540379801,
+        "addresstype": "village",
+        "name": "Cirey-sur-Blaise",
+        "display_name": "Cirey-sur-Blaise, Saint-Dizier, Haute-Marne, Groß-Osten, Metropolitanes Frankreich, 52110, Frankreich",
+        "address": {
+            "village": "Cirey-sur-Blaise",
+            "municipality": "Saint-Dizier",
+            "county": "Haute-Marne",
+            "ISO3166-2-lvl6": "FR-52",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "52110",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.3127187",
+            "48.3556506",
+            "4.8769238",
+            "4.9790658"
+        ]
+    }
+]

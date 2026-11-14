@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 74965453,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 45412,
+        "lat": "45.6056775",
+        "lon": "10.5200690",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5847848126814239,
+        "addresstype": "town",
+        "name": "Salò",
+        "display_name": "Salò, Comunità Montana Parco Alto Garda bresciano, Brescia, Lombardei, 25087, Italien",
+        "address": {
+            "town": "Salò",
+            "municipality": "Comunità Montana Parco Alto Garda bresciano",
+            "county": "Brescia",
+            "ISO3166-2-lvl6": "IT-BS",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "25087",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.5801185",
+            "45.6468881",
+            "10.4831961",
+            "10.6291135"
+        ]
+    }
+]

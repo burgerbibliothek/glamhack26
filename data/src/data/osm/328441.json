@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 91879785,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 257684670,
+        "lat": "46.8336279",
+        "lon": "7.1618395",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338144884412906,
+        "addresstype": "hamlet",
+        "name": "Räsch",
+        "display_name": "Räsch, Düdingen, Sensebezirk, Freiburg, 3186, Schweiz",
+        "address": {
+            "hamlet": "Räsch",
+            "village": "Düdingen",
+            "county": "Sensebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "3186",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8136279",
+            "46.8536279",
+            "7.1418395",
+            "7.1818395"
+        ]
+    }
+]

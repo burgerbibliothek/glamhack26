@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 92297591,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683314,
+        "lat": "46.8496406",
+        "lon": "6.8477378",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.4280914242677236,
+        "addresstype": "village",
+        "name": "Estavayer-le-Lac",
+        "display_name": "Estavayer-le-Lac, Estavayer, Broyebezirk, Freiburg, 1470, Schweiz",
+        "address": {
+            "village": "Estavayer-le-Lac",
+            "city": "Estavayer",
+            "county": "Broyebezirk",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "postcode": "1470",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8204847",
+            "46.8911821",
+            "6.7840881",
+            "6.8787418"
+        ]
+    }
+]

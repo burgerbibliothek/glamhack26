@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 72221605,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 448855246,
+        "lat": "47.3734574",
+        "lon": "8.5449046",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 7.85145342183111e-05,
+        "addresstype": "amenity",
+        "name": "cue",
+        "display_name": "cue, 17, Brunngasse, Rathaus, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz",
+        "address": {
+            "amenity": "cue",
+            "house_number": "17",
+            "road": "Brunngasse",
+            "quarter": "Rathaus",
+            "suburb": "Altstadt",
+            "city": "Zürich",
+            "county": "Bezirk Zürich",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3734074",
+            "47.3735074",
+            "8.5448546",
+            "8.5449546"
+        ]
+    }
+]

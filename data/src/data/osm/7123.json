@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 98133482,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 417327,
+        "lat": "49.0425610",
+        "lon": "3.9528655",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6021071611996053,
+        "addresstype": "town",
+        "name": "Épernay",
+        "display_name": "Épernay, Marne, Groß-Osten, Metropolitanes Frankreich, 51200, Frankreich",
+        "address": {
+            "town": "Épernay",
+            "municipality": "Épernay",
+            "county": "Marne",
+            "ISO3166-2-lvl6": "FR-51",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "51200",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.0179757",
+            "49.0602842",
+            "3.8627709",
+            "3.9936504"
+        ]
+    }
+]

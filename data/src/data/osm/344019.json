@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 77229581,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 326835390,
+        "lat": "46.5667953",
+        "lon": "8.0205381",
+        "category": "tourism",
+        "type": "alpine_hut",
+        "place_rank": 30,
+        "importance": 0.17283327415591612,
+        "addresstype": "tourism",
+        "name": "Berglihütte",
+        "display_name": "Berglihütte, Eigertrail, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3818, Schweiz",
+        "address": {
+            "tourism": "Berglihütte",
+            "road": "Eigertrail",
+            "village": "Grindelwald",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3818",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5667528",
+            "46.5668378",
+            "8.0204919",
+            "8.0205843"
+        ]
+    }
+]

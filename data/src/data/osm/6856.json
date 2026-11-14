@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 74077785,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 47300,
+        "lat": "46.7164130",
+        "lon": "11.6577920",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5972722261509361,
+        "addresstype": "town",
+        "name": "Brixen",
+        "display_name": "Brixen, Eisacktal, Bozen, Trentino-Südtirol, 39042, Italien",
+        "address": {
+            "town": "Brixen",
+            "municipality": "Eisacktal",
+            "county": "Bozen",
+            "ISO3166-2-lvl6": "IT-BZ",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "postcode": "39042",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.6576883",
+            "46.7492769",
+            "11.5842781",
+            "11.7936240"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 72187148,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 155986890,
+        "lat": "47.3221169",
+        "lon": "8.5505087",
+        "category": "highway",
+        "type": "platform",
+        "place_rank": 30,
+        "importance": 5.067750057216781e-05,
+        "addresstype": "highway",
+        "name": "Bendlikon",
+        "display_name": "Bendlikon, Seestrasse, Kilchberg, Bezirk Horgen, Zürich, 8802, Schweiz",
+        "address": {
+            "highway": "Bendlikon",
+            "road": "Seestrasse",
+            "village": "Kilchberg",
+            "county": "Bezirk Horgen",
+            "state": "Zürich",
+            "ISO3166-2-lvl4": "CH-ZH",
+            "postcode": "8802",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3220380",
+            "47.3221958",
+            "8.5504873",
+            "8.5505301"
+        ]
+    }
+]

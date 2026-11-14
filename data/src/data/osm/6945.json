@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 283453594,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5812062,
+        "lat": "49.6425343",
+        "lon": "-1.6249565",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5478266139574075,
+        "addresstype": "town",
+        "name": "Cherbourg-en-Cotentin",
+        "display_name": "Cherbourg-en-Cotentin, Cherbourg, Manche, Normandie, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "town": "Cherbourg-en-Cotentin",
+            "municipality": "Cherbourg",
+            "county": "Manche",
+            "ISO3166-2-lvl6": "FR-50",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.5806613",
+            "49.6749347",
+            "-1.7376547",
+            "-1.5334876"
+        ]
+    }
+]

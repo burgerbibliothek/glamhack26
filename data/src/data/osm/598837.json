@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 75861918,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 907299814,
+        "lat": "45.4764032",
+        "lon": "9.1776513",
+        "category": "highway",
+        "type": "pedestrian",
+        "place_rank": 26,
+        "importance": 0.053417240405889944,
+        "addresstype": "pedestrian",
+        "name": "Viale Repubblica Cisalpina",
+        "display_name": "Viale Repubblica Cisalpina, Parco Sempione, Municipio 1, Mailand, Rodano, Mailand, Lombardei, 20154, Italien",
+        "address": {
+            "road": "Viale Repubblica Cisalpina",
+            "census": "Parco Sempione",
+            "suburb": "Municipio 1",
+            "city": "Mailand",
+            "municipality": "Rodano",
+            "county": "Mailand",
+            "ISO3166-2-lvl6": "IT-MI",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "20154",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.4763012",
+            "45.4764993",
+            "9.1776207",
+            "9.1776968"
+        ]
+    }
+]

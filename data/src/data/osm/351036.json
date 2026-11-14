@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 56538209,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 40452,
+        "lat": "40.4712427",
+        "lon": "17.2432278",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6403800476190761,
+        "addresstype": "city",
+        "name": "Tarent",
+        "display_name": "Tarent, Taranto, Apulien, Italien",
+        "address": {
+            "city": "Tarent",
+            "county": "Taranto",
+            "ISO3166-2-lvl6": "IT-TA",
+            "state": "Apulien",
+            "ISO3166-2-lvl4": "IT-75",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "40.3301566",
+            "40.5915167",
+            "17.1165464",
+            "17.4727156"
+        ]
+    }
+]

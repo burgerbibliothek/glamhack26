@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91704822,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 52643011,
+        "lat": "46.9406729",
+        "lon": "7.4251903",
+        "category": "amenity",
+        "type": "school",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Montessori Schule Bern",
+        "display_name": "Montessori Schule Bern, 30, Lentulusstrasse, Mattenhof, Stadtteil III, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3007, Schweiz",
+        "address": {
+            "amenity": "Montessori Schule Bern",
+            "house_number": "30",
+            "road": "Lentulusstrasse",
+            "quarter": "Mattenhof",
+            "city_district": "Stadtteil III",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3007",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9405666",
+            "46.9407793",
+            "7.4250227",
+            "7.4253578"
+        ]
+    }
+]

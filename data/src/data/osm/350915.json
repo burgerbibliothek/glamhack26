@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 127461700,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 316980618,
+        "lat": "48.7793798",
+        "lon": "9.1878512",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 7.8644235904433e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "6, Moserstraße, Diemershalde, Stuttgart-Mitte, Stuttgart, Baden-Württemberg, 70182, Deutschland",
+        "address": {
+            "house_number": "6",
+            "road": "Moserstraße",
+            "neighbourhood": "Diemershalde",
+            "suburb": "Stuttgart-Mitte",
+            "city": "Stuttgart",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "70182",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.7792930",
+            "48.7794259",
+            "9.1877826",
+            "9.1879199"
+        ]
+    }
+]

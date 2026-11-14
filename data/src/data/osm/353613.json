@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91753747,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7160888112,
+        "lat": "46.9415037",
+        "lon": "7.3902668",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "114, Bümplizstrasse, Bümpliz Dorf, Bümpliz, Stadtteil VI, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3018, Schweiz",
+        "address": {
+            "house_number": "114",
+            "road": "Bümplizstrasse",
+            "quarter": "Bümpliz Dorf",
+            "city_district": "Stadtteil VI",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3018",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9414537",
+            "46.9415537",
+            "7.3902168",
+            "7.3903168"
+        ]
+    }
+]

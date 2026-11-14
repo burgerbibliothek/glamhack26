@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 78033348,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 44741,
+        "lat": "45.4371908",
+        "lon": "12.3345898",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.7688936493886762,
+        "addresstype": "city",
+        "name": "Venedig",
+        "display_name": "Venedig, Venezia, Venetien, 30121-30176, Italien",
+        "address": {
+            "city": "Venedig",
+            "county": "Venezia",
+            "ISO3166-2-lvl6": "IT-VE",
+            "state": "Venetien",
+            "ISO3166-2-lvl4": "IT-34",
+            "postcode": "30121-30176",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.2312466",
+            "45.5779981",
+            "12.1668349",
+            "12.5965709"
+        ]
+    }
+]

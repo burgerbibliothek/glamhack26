@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 80416225,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 41173,
+        "lat": "41.2183120",
+        "lon": "13.5628100",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5745432228779607,
+        "addresstype": "town",
+        "name": "Gaeta",
+        "display_name": "Gaeta, Latina, Latium, 04024, Italien",
+        "address": {
+            "town": "Gaeta",
+            "county": "Latina",
+            "ISO3166-2-lvl6": "IT-LT",
+            "state": "Latium",
+            "ISO3166-2-lvl4": "IT-62",
+            "postcode": "04024",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "41.2038435",
+            "41.2652415",
+            "13.4845431",
+            "13.5911837"
+        ]
+    }
+]

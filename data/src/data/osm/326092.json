@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 329973641,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 151679701,
+        "lat": "40.1674816",
+        "lon": "-104.3721760",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.319279276758968,
+        "addresstype": "village",
+        "name": "Roggen",
+        "display_name": "Roggen, Weld County, Colorado, 80643, Vereinigte Staaten von Amerika",
+        "address": {
+            "village": "Roggen",
+            "county": "Weld County",
+            "state": "Colorado",
+            "ISO3166-2-lvl4": "US-CO",
+            "postcode": "80643",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "40.1474816",
+            "40.1874816",
+            "-104.3921760",
+            "-104.3521760"
+        ]
+    }
+]

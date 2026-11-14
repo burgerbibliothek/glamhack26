@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 72995126,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 223856869,
+        "lat": "47.2039408",
+        "lon": "9.3320319",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 4.62096589608151e-05,
+        "addresstype": "building",
+        "name": "Churfirsten",
+        "display_name": "Churfirsten, 28, Moosstrasse, Lisighaus, Wildhaus, Wildhaus-Alt St. Johann, Wahlkreis Toggenburg, St. Gallen, 9658, Schweiz",
+        "address": {
+            "building": "Churfirsten",
+            "house_number": "28",
+            "road": "Moosstrasse",
+            "suburb": "Lisighaus",
+            "village": "Wildhaus",
+            "city": "Wildhaus-Alt St. Johann",
+            "county": "Wahlkreis Toggenburg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9658",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2037613",
+            "47.2040820",
+            "9.3318083",
+            "9.3322293"
+        ]
+    }
+]

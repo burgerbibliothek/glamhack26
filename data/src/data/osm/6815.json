@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 87306358,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2098792066,
+        "lat": "44.7631523",
+        "lon": "2.8360245",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339243686579688,
+        "addresstype": "hamlet",
+        "name": "Bouges",
+        "display_name": "Bouges, Alpuech, Argences en Aubrac, Rodez, Aveyron, Okzitanien, Metropolitanes Frankreich, 12210, Frankreich",
+        "address": {
+            "hamlet": "Bouges",
+            "city_district": "Alpuech",
+            "city": "Argences en Aubrac",
+            "municipality": "Rodez",
+            "county": "Aveyron",
+            "ISO3166-2-lvl6": "FR-12",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "12210",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.7431523",
+            "44.7831523",
+            "2.8160245",
+            "2.8560245"
+        ]
+    }
+]

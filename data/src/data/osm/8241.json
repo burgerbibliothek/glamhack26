@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 74826052,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 800874250,
+        "lat": "45.4883822",
+        "lon": "10.4136359",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339583047226672,
+        "addresstype": "hamlet",
+        "name": "San Vito",
+        "display_name": "San Vito, Bedizzole, Brescia, Lombardei, 25081, Italien",
+        "address": {
+            "hamlet": "San Vito",
+            "town": "Bedizzole",
+            "city": "Bedizzole",
+            "county": "Brescia",
+            "ISO3166-2-lvl6": "IT-BS",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "25081",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.4683822",
+            "45.5083822",
+            "10.3936359",
+            "10.4336359"
+        ]
+    }
+]

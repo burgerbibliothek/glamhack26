@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 282284124,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3793170,
+        "lat": "49.0677708",
+        "lon": "0.3138532",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.7247600575398815,
+        "addresstype": "state",
+        "name": "Normandie",
+        "display_name": "Normandie, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.1793863",
+            "50.0722125",
+            "-1.9550553",
+            "1.8028556"
+        ]
+    }
+]

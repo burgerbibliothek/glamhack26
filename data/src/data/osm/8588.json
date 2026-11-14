@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 78514421,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42857,
+        "lat": "44.0611049",
+        "lon": "11.1484482",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4294998771350777,
+        "addresstype": "city",
+        "name": "Vernio",
+        "display_name": "Vernio, Unione dei Comuni Val di Bisenzio, Prato, Toskana, Italien",
+        "address": {
+            "city": "Vernio",
+            "municipality": "Unione dei Comuni Val di Bisenzio",
+            "county": "Prato",
+            "ISO3166-2-lvl6": "IT-PO",
+            "state": "Toskana",
+            "ISO3166-2-lvl4": "IT-52",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.0098647",
+            "44.1123682",
+            "11.0928290",
+            "11.2097886"
+        ]
+    }
+]

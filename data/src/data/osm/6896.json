@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 428724848,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 286380,
+        "lat": "50.9524769",
+        "lon": "1.8538446",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6635668089797562,
+        "addresstype": "city",
+        "name": "Calais",
+        "display_name": "Calais, Pas-de-Calais, Nordfrankreich, Metropolitanes Frankreich, 62100, Frankreich",
+        "address": {
+            "city": "Calais",
+            "municipality": "Calais",
+            "county": "Pas-de-Calais",
+            "ISO3166-2-lvl6": "FR-62",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "62100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.9218944",
+            "50.9826611",
+            "1.8057835",
+            "1.9320613"
+        ]
+    }
+]

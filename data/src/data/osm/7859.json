@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 119964406,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1771854,
+        "lat": "48.7796909",
+        "lon": "6.5622817",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5873700772476956,
+        "addresstype": "village",
+        "name": "Medewich",
+        "display_name": "Medewich, Sarrebourg-Château-Salins, Moselle, Groß-Osten, Metropolitanes Frankreich, 57630, Frankreich",
+        "address": {
+            "village": "Medewich",
+            "municipality": "Sarrebourg-Château-Salins",
+            "county": "Moselle",
+            "ISO3166-2-lvl6": "FR-57",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "57630",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.7530794",
+            "48.8162337",
+            "6.5455064",
+            "6.5904909"
+        ]
+    }
+]

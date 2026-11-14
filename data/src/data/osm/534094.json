@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 88550359,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 26862537,
+        "lat": "45.8705972",
+        "lon": "7.4908648",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.20813244289121335,
+        "addresstype": "peak",
+        "name": "Becca di Luseney",
+        "display_name": "Becca di Luseney, Bionaz, Aostatal, Italien",
+        "address": {
+            "peak": "Becca di Luseney",
+            "village": "Bionaz",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8705472",
+            "45.8706472",
+            "7.4908148",
+            "7.4909148"
+        ]
+    }
+]

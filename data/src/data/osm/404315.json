@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 79633378,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 53059,
+        "lat": "43.4801189",
+        "lon": "13.2187279",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7180325357055573,
+        "addresstype": "county",
+        "name": "Ancona",
+        "display_name": "Ancona, Marken, Italien",
+        "address": {
+            "county": "Ancona",
+            "ISO3166-2-lvl6": "IT-AN",
+            "state": "Marken",
+            "ISO3166-2-lvl4": "IT-57",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "43.2099152",
+            "43.7505106",
+            "12.7461961",
+            "13.6586187"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73355665,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683070,
+        "lat": "46.8215088",
+        "lon": "8.6499636",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4332896429128263,
+        "addresstype": "village",
+        "name": "Erstfeld",
+        "display_name": "Erstfeld, Uri, 6472, Schweiz",
+        "address": {
+            "village": "Erstfeld",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6472",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7763652",
+            "46.8493219",
+            "8.5175117",
+            "8.6830272"
+        ]
+    }
+]

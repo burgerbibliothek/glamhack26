@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 89275976,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 781825837,
+        "lat": "45.4822486",
+        "lon": "5.6586694",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339718699931333,
+        "addresstype": "hamlet",
+        "name": "La Sauge",
+        "display_name": "La Sauge, Velanne, La Tour-du-Pin, Isère, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 38620, Frankreich",
+        "address": {
+            "hamlet": "La Sauge",
+            "village": "Velanne",
+            "municipality": "La Tour-du-Pin",
+            "county": "Isère",
+            "ISO3166-2-lvl6": "FR-38",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "38620",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.4622486",
+            "45.5022486",
+            "5.6386694",
+            "5.6786694"
+        ]
+    }
+]

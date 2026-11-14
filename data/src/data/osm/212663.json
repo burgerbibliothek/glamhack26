@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 80471247,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 41930,
+        "lat": "42.3205336",
+        "lon": "12.0575000",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5051798748209326,
+        "addresstype": "town",
+        "name": "Vetralla",
+        "display_name": "Vetralla, Viterbo, Latium, Italien",
+        "address": {
+            "town": "Vetralla",
+            "county": "Viterbo",
+            "ISO3166-2-lvl6": "IT-VT",
+            "state": "Latium",
+            "ISO3166-2-lvl4": "IT-62",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "42.2548886",
+            "42.3558423",
+            "11.9029033",
+            "12.1440393"
+        ]
+    }
+]

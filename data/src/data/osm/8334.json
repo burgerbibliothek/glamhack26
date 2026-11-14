@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 81776936,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42172,
+        "lat": "43.1672059",
+        "lon": "11.4675610",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7185802271966537,
+        "addresstype": "county",
+        "name": "Siena",
+        "display_name": "Siena, Toskana, Italien",
+        "address": {
+            "county": "Siena",
+            "ISO3166-2-lvl6": "IT-SI",
+            "state": "Toskana",
+            "ISO3166-2-lvl4": "IT-52",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "42.7857809",
+            "43.5484600",
+            "10.9083129",
+            "11.9827957"
+        ]
+    }
+]

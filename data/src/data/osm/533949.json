@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 73885398,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 47000,
+        "lat": "46.1980904",
+        "lon": "9.4700496",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5040588383058016,
+        "addresstype": "city",
+        "name": "Verceia",
+        "display_name": "Verceia, Comunità montana della Valchiavenna, Sondrio, Lombardei, 23020, Italien",
+        "address": {
+            "city": "Verceia",
+            "municipality": "Comunità montana della Valchiavenna",
+            "county": "Sondrio",
+            "ISO3166-2-lvl6": "IT-SO",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "23020",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.1798739",
+            "46.2158140",
+            "9.4239211",
+            "9.5152178"
+        ]
+    }
+]

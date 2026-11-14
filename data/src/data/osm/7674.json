@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 56494308,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 39592,
+        "lat": "38.2385368",
+        "lon": "16.2655092",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5592847526702603,
+        "addresstype": "town",
+        "name": "Locri",
+        "display_name": "Locri, Reggio Calabria, Kalabrien, 89044, Italien",
+        "address": {
+            "town": "Locri",
+            "county": "Reggio Calabria",
+            "ISO3166-2-lvl6": "IT-RC",
+            "state": "Kalabrien",
+            "ISO3166-2-lvl4": "IT-78",
+            "postcode": "89044",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "38.2052697",
+            "38.2683995",
+            "16.1979032",
+            "16.2820917"
+        ]
+    }
+]

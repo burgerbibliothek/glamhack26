@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 69538301,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 47309,
+        "lat": "46.7097542",
+        "lon": "12.2847097",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5605276389943039,
+        "addresstype": "city",
+        "name": "Innichen",
+        "display_name": "Innichen, Pustertal, Bozen, Trentino-Südtirol, 39038, Italien",
+        "address": {
+            "city": "Innichen",
+            "municipality": "Pustertal",
+            "county": "Bozen",
+            "ISO3166-2-lvl6": "IT-BZ",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "postcode": "39038",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.6385432",
+            "46.7807380",
+            "12.2433968",
+            "12.3840655"
+        ]
+    }
+]

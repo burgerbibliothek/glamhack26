@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 127002052,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 39807030,
+        "lat": "49.4081162",
+        "lon": "11.1715674",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 7.61417563133748e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "13a, Zähringerstraße, Altenfurt, Moorenbrunn, Südöstliche Außenstadt, Nürnberg, Bayern, 90475, Deutschland",
+        "address": {
+            "house_number": "13a",
+            "road": "Zähringerstraße",
+            "neighbourhood": "Altenfurt, Moorenbrunn",
+            "suburb": "Südöstliche Außenstadt",
+            "city": "Nürnberg",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "90475",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "49.4080684",
+            "49.4081639",
+            "11.1714932",
+            "11.1716416"
+        ]
+    }
+]

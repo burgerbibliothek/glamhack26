@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73403709,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684748,
+        "lat": "46.1433367",
+        "lon": "8.7263426",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4194818330375235,
+        "addresstype": "village",
+        "name": "Ronco sopra Ascona",
+        "display_name": "Ronco sopra Ascona, Kreis Isole, Bezirk Locarno, Tessin, Schweiz",
+        "address": {
+            "village": "Ronco sopra Ascona",
+            "municipality": "Kreis Isole",
+            "county": "Bezirk Locarno",
+            "state": "Tessin",
+            "ISO3166-2-lvl4": "CH-TI",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.1223113",
+            "46.1572232",
+            "8.6958974",
+            "8.7533219"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 283892599,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9654581789,
+        "lat": "48.4355146",
+        "lon": "-2.4895479",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333950782024872,
+        "addresstype": "hamlet",
+        "name": "Fontaine Froide",
+        "display_name": "Fontaine Froide, Lamballe, Lamballe-Armor, Saint-Brieuc, Côtes-d'Armor, Bretagne, Metropolitanes Frankreich, 22400, Frankreich",
+        "address": {
+            "hamlet": "Fontaine Froide",
+            "city_district": "Lamballe",
+            "city": "Lamballe-Armor",
+            "municipality": "Saint-Brieuc",
+            "county": "Côtes-d'Armor",
+            "ISO3166-2-lvl6": "FR-22",
+            "state": "Bretagne",
+            "ISO3166-2-lvl4": "FR-BRE",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "22400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.4155146",
+            "48.4555146",
+            "-2.5095479",
+            "-2.4695479"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 78318866,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42907,
+        "lat": "44.2227278",
+        "lon": "12.0412730",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.618528136397546,
+        "addresstype": "city",
+        "name": "Forlì",
+        "display_name": "Forlì, Forlì-Cesena, Emilia-Romagna, 47121-47122, Italien",
+        "address": {
+            "city": "Forlì",
+            "county": "Forlì-Cesena",
+            "ISO3166-2-lvl6": "IT-FC",
+            "state": "Emilia-Romagna",
+            "ISO3166-2-lvl4": "IT-45",
+            "postcode": "47121-47122",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.1270564",
+            "44.3306793",
+            "11.9224861",
+            "12.2118671"
+        ]
+    }
+]

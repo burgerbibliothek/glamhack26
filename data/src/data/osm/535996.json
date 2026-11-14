@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 89050206,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 46485,
+        "lat": "45.9683785",
+        "lon": "7.9672651",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5108636697916621,
+        "addresstype": "village",
+        "name": "Macugnaga",
+        "display_name": "Macugnaga, Bannio Anzino, Verbano-Cusio-Ossola, Piemont, 28876, Italien",
+        "address": {
+            "village": "Macugnaga",
+            "municipality": "Bannio Anzino",
+            "county": "Verbano-Cusio-Ossola",
+            "ISO3166-2-lvl6": "IT-VB",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "postcode": "28876",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.9006147",
+            "45.9994535",
+            "7.8684081",
+            "8.0452952"
+        ]
+    }
+]

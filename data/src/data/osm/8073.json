@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 80475454,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 40730,
+        "lat": "40.7491267",
+        "lon": "14.5006415",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5438009645541757,
+        "addresstype": "town",
+        "name": "Pompei",
+        "display_name": "Pompei, Metropolitanstadt Neapel, Kampanien, 80045, Italien",
+        "address": {
+            "town": "Pompei",
+            "county": "Metropolitanstadt Neapel",
+            "ISO3166-2-lvl6": "IT-NA",
+            "state": "Kampanien",
+            "ISO3166-2-lvl4": "IT-72",
+            "postcode": "80045",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "40.7223245",
+            "40.7700297",
+            "14.4733693",
+            "14.5204162"
+        ]
+    }
+]

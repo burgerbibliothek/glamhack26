@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 75214864,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1552705,
+        "lat": "45.5553827",
+        "lon": "8.3462837",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.718554357392102,
+        "addresstype": "county",
+        "name": "Vercelli",
+        "display_name": "Vercelli, Piemont, Italien",
+        "address": {
+            "county": "Vercelli",
+            "ISO3166-2-lvl6": "IT-VC",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.1595211",
+            "45.9507585",
+            "7.8613734",
+            "8.5811897"
+        ]
+    }
+]

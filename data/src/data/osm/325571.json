@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 128220602,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 232268092,
+        "lat": "48.3795639",
+        "lon": "11.7744153",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.22898814784265079,
+        "addresstype": "amenity",
+        "name": "Sankt Erhard",
+        "display_name": "Sankt Erhard, 12, Dorfstraße, Lohmühle, Attaching, Freising, Landkreis Freising, Bayern, 85356, Deutschland",
+        "address": {
+            "amenity": "Sankt Erhard",
+            "house_number": "12",
+            "road": "Dorfstraße",
+            "suburb": "Lohmühle",
+            "village": "Attaching",
+            "town": "Freising",
+            "county": "Landkreis Freising",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "85356",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.3795156",
+            "48.3796100",
+            "11.7742924",
+            "11.7745444"
+        ]
+    }
+]

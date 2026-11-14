@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 81066989,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 40217,
+        "lat": "40.4194416",
+        "lon": "15.3106085",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7225624058623877,
+        "addresstype": "county",
+        "name": "Salerno",
+        "display_name": "Salerno, Kampanien, Italien",
+        "address": {
+            "county": "Salerno",
+            "ISO3166-2-lvl6": "IT-SA",
+            "state": "Kampanien",
+            "ISO3166-2-lvl4": "IT-72",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "39.9905158",
+            "40.8487482",
+            "14.4282965",
+            "15.8064468"
+        ]
+    }
+]

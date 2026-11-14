@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 79726094,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4364879112,
+        "lat": "42.5307301",
+        "lon": "13.2650047",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.40459685994744987,
+        "addresstype": "hamlet",
+        "name": "Marignano",
+        "display_name": "Marignano, Montereale, L'Aquila, Abruzzen, 67015, Italien",
+        "address": {
+            "hamlet": "Marignano",
+            "village": "Montereale",
+            "city": "Montereale",
+            "county": "L'Aquila",
+            "ISO3166-2-lvl6": "IT-AQ",
+            "state": "Abruzzen",
+            "ISO3166-2-lvl4": "IT-65",
+            "postcode": "67015",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "42.5107301",
+            "42.5507301",
+            "13.2450047",
+            "13.2850047"
+        ]
+    }
+]

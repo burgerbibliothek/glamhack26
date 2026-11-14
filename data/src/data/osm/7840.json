@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 84908085,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 28722,
+        "lat": "43.6112422",
+        "lon": "3.8767337",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6975709816226542,
+        "addresstype": "city",
+        "name": "Montpellier",
+        "display_name": "Montpellier, Hérault, Okzitanien, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "city": "Montpellier",
+            "municipality": "Montpellier",
+            "county": "Hérault",
+            "ISO3166-2-lvl6": "FR-34",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.5667083",
+            "43.6533580",
+            "3.8070597",
+            "3.9413208"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 53938324,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 39169,
+        "lat": "37.0315752",
+        "lon": "15.2124277",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6524871914930659,
+        "addresstype": "city",
+        "name": "Syrakus",
+        "display_name": "Syrakus, Sizilien, 96100, Italien",
+        "address": {
+            "city": "Syrakus",
+            "county": "Syrakus",
+            "ISO3166-2-lvl6": "IT-SR",
+            "state": "Sizilien",
+            "ISO3166-2-lvl4": "IT-82",
+            "postcode": "96100",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "36.9477054",
+            "37.1156703",
+            "15.0829726",
+            "15.3367251"
+        ]
+    }
+]

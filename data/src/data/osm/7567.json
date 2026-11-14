@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 289326024,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 117858,
+        "lat": "46.1597320",
+        "lon": "-1.1515951",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6497530354817868,
+        "addresstype": "city",
+        "name": "La Rochelle",
+        "display_name": "La Rochelle, Charente-Maritime, Neu-Aquitanien, Metropolitanes Frankreich, 17000, Frankreich",
+        "address": {
+            "city": "La Rochelle",
+            "municipality": "La Rochelle",
+            "county": "Charente-Maritime",
+            "ISO3166-2-lvl6": "FR-17",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "17000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.1331804",
+            "46.1908971",
+            "-1.2419231",
+            "-1.1110970"
+        ]
+    }
+]

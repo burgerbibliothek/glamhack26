@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 72825206,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9678278013,
+        "lat": "47.1246100",
+        "lon": "9.3984500",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16004886778057525,
+        "addresstype": "peak",
+        "name": "Gärtlichopf",
+        "display_name": "Gärtlichopf, Sevelen, Wahlkreis Werdenberg, St. Gallen, Schweiz",
+        "address": {
+            "peak": "Gärtlichopf",
+            "village": "Sevelen",
+            "county": "Wahlkreis Werdenberg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1245600",
+            "47.1246600",
+            "9.3984000",
+            "9.3985000"
+        ]
+    }
+]

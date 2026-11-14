@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 73914024,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 240081124,
+        "lat": "46.8342084",
+        "lon": "8.2892091",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.14670647364003964,
+        "addresstype": "village",
+        "name": "Melchtal",
+        "display_name": "Melchtal, Kerns, Obwalden, 6067, Schweiz",
+        "address": {
+            "village": "Melchtal",
+            "state": "Obwalden",
+            "ISO3166-2-lvl4": "CH-OW",
+            "postcode": "6067",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8142084",
+            "46.8542084",
+            "8.2692091",
+            "8.3092091"
+        ]
+    }
+]

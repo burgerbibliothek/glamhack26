@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 117750521,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 228379524,
+        "lat": "49.0194560",
+        "lon": "7.3415160",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.29684236187219576,
+        "addresstype": "amenity",
+        "name": "Verenakapelle",
+        "display_name": "Verenakapelle, Kreuzweg, Enchenberg, Sarreguemines, Moselle, Groß-Osten, Metropolitanes Frankreich, 57415, Frankreich",
+        "address": {
+            "amenity": "Verenakapelle",
+            "road": "Kreuzweg",
+            "village": "Enchenberg",
+            "municipality": "Sarreguemines",
+            "county": "Moselle",
+            "ISO3166-2-lvl6": "FR-57",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "57415",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.0194000",
+            "49.0195200",
+            "7.3413540",
+            "7.3416780"
+        ]
+    }
+]

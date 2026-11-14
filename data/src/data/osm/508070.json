@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 77931892,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42837,
+        "lat": "44.0736073",
+        "lon": "9.9099135",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.49606188104335097,
+        "addresstype": "town",
+        "name": "Lerici",
+        "display_name": "Lerici, La Spezia, Ligurien, 19032, Italien",
+        "address": {
+            "town": "Lerici",
+            "county": "La Spezia",
+            "ISO3166-2-lvl6": "IT-SP",
+            "region": "Ligurien",
+            "ISO3166-2-lvl4": "IT-42",
+            "postcode": "19032",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.0475866",
+            "44.1009261",
+            "9.8774163",
+            "9.9665241"
+        ]
+    }
+]

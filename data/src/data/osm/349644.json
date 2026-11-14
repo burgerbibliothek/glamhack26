@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73446195,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 279621905,
+        "lat": "46.8987838",
+        "lon": "8.4583098",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4454924665156093,
+        "addresstype": "peak",
+        "name": "Brisen",
+        "display_name": "Brisen, Wolfenschiessen, Nidwalden, 6387, Schweiz",
+        "address": {
+            "peak": "Brisen",
+            "village": "Wolfenschiessen",
+            "state": "Nidwalden",
+            "ISO3166-2-lvl4": "CH-NW",
+            "postcode": "6387",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8987338",
+            "46.8988338",
+            "8.4582598",
+            "8.4583598"
+        ]
+    }
+]

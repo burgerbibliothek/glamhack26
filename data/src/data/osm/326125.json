@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73462876,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1676583,
+        "lat": "46.7981637",
+        "lon": "8.1593811",
+        "category": "water",
+        "type": "lake",
+        "place_rank": 20,
+        "importance": 0.3575511715318858,
+        "addresstype": "lake",
+        "name": "Lungerersee",
+        "display_name": "Lungerersee, Lungern, Obwalden, 6078, Schweiz",
+        "address": {
+            "lake": "Lungerersee",
+            "village": "Lungern",
+            "state": "Obwalden",
+            "ISO3166-2-lvl4": "CH-OW",
+            "postcode": "6078",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7827826",
+            "46.8133894",
+            "8.1500788",
+            "8.1756407"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 76036965,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 43483,
+        "lat": "45.0368546",
+        "lon": "9.1378251",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7229254223211264,
+        "addresstype": "county",
+        "name": "Pavia",
+        "display_name": "Pavia, Lombardei, Italien",
+        "address": {
+            "county": "Pavia",
+            "ISO3166-2-lvl6": "IT-PV",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.6799091",
+            "45.3938380",
+            "8.4978518",
+            "9.5505475"
+        ]
+    }
+]

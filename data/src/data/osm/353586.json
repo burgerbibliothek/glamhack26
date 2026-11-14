@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 143867360,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1839787343,
+        "lat": "52.5232348",
+        "lon": "13.3793711",
+        "category": "amenity",
+        "type": "ice_cream",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "amenity",
+        "name": "Der Eisladen",
+        "display_name": "Der Eisladen, 14, Luisenstraße, Friedrich-Wilhelm-Stadt, Mitte, Berlin, 10117, Deutschland",
+        "address": {
+            "amenity": "Der Eisladen",
+            "house_number": "14",
+            "road": "Luisenstraße",
+            "quarter": "Friedrich-Wilhelm-Stadt",
+            "suburb": "Mitte",
+            "borough": "Mitte",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10117",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5231848",
+            "52.5232848",
+            "13.3793211",
+            "13.3794211"
+        ]
+    }
+]

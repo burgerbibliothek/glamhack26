@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 94205628,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6135918280,
+        "lat": "47.0583985",
+        "lon": "2.9229291",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339322880903332,
+        "addresstype": "hamlet",
+        "name": "Borderousse",
+        "display_name": "Borderousse, Menetou-Couture, Saint-Amand-Montrond, Cher, Zentrum-Loiretal, Metropolitanes Frankreich, 18320, Frankreich",
+        "address": {
+            "hamlet": "Borderousse",
+            "village": "Menetou-Couture",
+            "municipality": "Saint-Amand-Montrond",
+            "county": "Cher",
+            "ISO3166-2-lvl6": "FR-18",
+            "state": "Zentrum-Loiretal",
+            "ISO3166-2-lvl4": "FR-CVL",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "18320",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.0383985",
+            "47.0783985",
+            "2.9029291",
+            "2.9429291"
+        ]
+    }
+]

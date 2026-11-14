@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 75040314,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 45494,
+        "lat": "45.6400581",
+        "lon": "10.5585250",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5703010068778052,
+        "addresstype": "city",
+        "name": "Gardone Riviera",
+        "display_name": "Gardone Riviera, Comunità Montana Parco Alto Garda bresciano, Brescia, Lombardei, 25083, Italien",
+        "address": {
+            "city": "Gardone Riviera",
+            "municipality": "Comunità Montana Parco Alto Garda bresciano",
+            "county": "Brescia",
+            "ISO3166-2-lvl6": "IT-BS",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "25083",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.6032398",
+            "45.6765823",
+            "10.5321284",
+            "10.6320762"
+        ]
+    }
+]

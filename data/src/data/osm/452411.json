@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 53855959,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 39199,
+        "lat": "37.1916637",
+        "lon": "13.7637141",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4930696691257567,
+        "addresstype": "town",
+        "name": "Palma di Montechiaro",
+        "display_name": "Palma di Montechiaro, Agrigent, Sizilien, 92044, Italien",
+        "address": {
+            "town": "Palma di Montechiaro",
+            "county": "Agrigent",
+            "ISO3166-2-lvl6": "IT-AG",
+            "state": "Sizilien",
+            "ISO3166-2-lvl4": "IT-82",
+            "postcode": "92044",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "37.1400804",
+            "37.2223151",
+            "13.6568695",
+            "13.8395731"
+        ]
+    }
+]

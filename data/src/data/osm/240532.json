@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 69355442,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 96105790,
+        "lat": "46.7092472",
+        "lon": "12.2897654",
+        "category": "tourism",
+        "type": "wilderness_hut",
+        "place_rank": 30,
+        "importance": 6.181048294799752e-05,
+        "addresstype": "tourism",
+        "name": "Innichner Alm",
+        "display_name": "Innichner Alm, Wildbadweg, Innichen, Pustertal, Bozen, Trentino-Südtirol, 39038, Italien",
+        "address": {
+            "tourism": "Innichner Alm",
+            "road": "Wildbadweg",
+            "suburb": "Innichen",
+            "town": "Innichen",
+            "city": "Innichen",
+            "municipality": "Pustertal",
+            "county": "Bozen",
+            "ISO3166-2-lvl6": "IT-BZ",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "postcode": "39038",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.7092074",
+            "46.7092870",
+            "12.2897055",
+            "12.2898252"
+        ]
+    }
+]

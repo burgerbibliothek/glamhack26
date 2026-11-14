@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 90903298,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685107,
+        "lat": "46.3947976",
+        "lon": "6.2487871",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.45821640790347434,
+        "addresstype": "village",
+        "name": "Prangins",
+        "display_name": "Prangins, District de Nyon, Waadt, 1197, Schweiz",
+        "address": {
+            "village": "Prangins",
+            "county": "District de Nyon",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1197",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3683825",
+            "46.4163123",
+            "6.2364659",
+            "6.2929626"
+        ]
+    }
+]

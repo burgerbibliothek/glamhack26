@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92488804,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 297784064,
+        "lat": "46.9900995",
+        "lon": "7.3503286",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337589608606087,
+        "addresstype": "hamlet",
+        "name": "Möriswil",
+        "display_name": "Möriswil, Säriswil, Wohlen bei Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3043, Schweiz",
+        "address": {
+            "hamlet": "Möriswil",
+            "village": "Säriswil",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3043",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9700995",
+            "47.0100995",
+            "7.3303286",
+            "7.3703286"
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 89144499,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 46357,
+        "lat": "45.8496551",
+        "lon": "7.3106437",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5079573760085225,
+        "addresstype": "village",
+        "name": "Ollomont",
+        "display_name": "Ollomont, Aostatal, Italien",
+        "address": {
+            "village": "Ollomont",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8346123",
+            "45.9218198",
+            "7.2457894",
+            "7.3740675"
+        ]
+    }
+]

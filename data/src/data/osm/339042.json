@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 72895163,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1683941,
+        "lat": "47.4256180",
+        "lon": "9.3762397",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6354321065786064,
+        "addresstype": "city",
+        "name": "Sankt Gallen",
+        "display_name": "Sankt Gallen, Wahlkreis St. Gallen, St. Gallen, Schweiz",
+        "address": {
+            "city": "Sankt Gallen",
+            "county": "Wahlkreis St. Gallen",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3951549",
+            "47.4530734",
+            "9.2915161",
+            "9.4352474"
+        ]
+    }
+]

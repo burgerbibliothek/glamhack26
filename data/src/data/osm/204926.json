@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 79646945,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 597489308,
+        "lat": "43.8969790",
+        "lon": "12.2733769",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.053386011291676166,
+        "addresstype": "secondary",
+        "name": "Ca' Susa",
+        "display_name": "Ca' Susa, Valle, Talamello, Unione di comuni Valmarecchia, Rimini, Emilia-Romagna, 47863, Italien",
+        "address": {
+            "road": "Ca' Susa",
+            "hamlet": "Valle",
+            "village": "Talamello",
+            "municipality": "Unione di comuni Valmarecchia",
+            "county": "Rimini",
+            "ISO3166-2-lvl6": "IT-RN",
+            "state": "Emilia-Romagna",
+            "ISO3166-2-lvl4": "IT-45",
+            "postcode": "47863",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "43.8966921",
+            "43.8970270",
+            "12.2709369",
+            "12.2758339"
+        ]
+    }
+]

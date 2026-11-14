@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 92372126,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 40324463,
+        "lat": "46.9391583",
+        "lon": "7.4648924",
+        "category": "building",
+        "type": "embassy",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "building",
+        "name": "Villa Bomonti",
+        "display_name": "Villa Bomonti, Kalcheggweg, Brunnadern, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3006, Schweiz",
+        "address": {
+            "building": "Villa Bomonti",
+            "road": "Kalcheggweg",
+            "quarter": "Brunnadern",
+            "city_district": "Stadtteil IV",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3006",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9390363",
+            "46.9392689",
+            "7.4647134",
+            "7.4650714"
+        ]
+    }
+]

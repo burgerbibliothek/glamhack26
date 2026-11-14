@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 88403654,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 45155,
+        "lat": "45.7300990",
+        "lon": "7.3874260",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.7300272810440837,
+        "addresstype": "state",
+        "name": "Aostatal",
+        "display_name": "Aostatal, Italien",
+        "address": {
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.4669522",
+            "45.9877112",
+            "6.8015322",
+            "7.9395040"
+        ]
+    }
+]

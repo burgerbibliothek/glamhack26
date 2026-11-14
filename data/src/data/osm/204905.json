@@ -1,0 +1,28 @@
+[
+    {
+        "place_id": 145102116,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 123822,
+        "lat": "51.8675686",
+        "lon": "12.5785974",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.6772334029781449,
+        "addresstype": "river",
+        "name": "Elbe",
+        "display_name": "Elbe, Deutschland",
+        "address": {
+            "river": "Elbe",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "50.0168751",
+            "54.0041983",
+            "8.2466000",
+            "15.9315454"
+        ]
+    }
+]

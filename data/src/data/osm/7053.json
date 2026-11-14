@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 94493110,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 148676,
+        "lat": "47.0921047",
+        "lon": "5.4925463",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5920672127535471,
+        "addresstype": "town",
+        "name": "Dole",
+        "display_name": "Dole, Jura, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 39100, Frankreich",
+        "address": {
+            "town": "Dole",
+            "municipality": "Dole",
+            "county": "Jura",
+            "ISO3166-2-lvl6": "FR-39",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "39100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.0220300",
+            "47.1258353",
+            "5.4529405",
+            "5.5519576"
+        ]
+    }
+]

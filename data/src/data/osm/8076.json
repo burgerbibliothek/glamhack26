@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92911363,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 75580,
+        "lat": "46.9040348",
+        "lon": "6.3546345",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5888703665464396,
+        "addresstype": "town",
+        "name": "Pontarlier",
+        "display_name": "Pontarlier, Doubs, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 25300, Frankreich",
+        "address": {
+            "town": "Pontarlier",
+            "municipality": "Pontarlier",
+            "county": "Doubs",
+            "ISO3166-2-lvl6": "FR-25",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "25300",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.8756734",
+            "46.9576321",
+            "6.3114632",
+            "6.4477920"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 68098887,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 15588219,
+        "lat": "47.1007887",
+        "lon": "15.4122122",
+        "category": "building",
+        "type": "service",
+        "place_rank": 30,
+        "importance": 7.381322957193893e-05,
+        "addresstype": "building",
+        "name": "Kompetenzzentrum Wasserwirtschaft",
+        "display_name": "Kompetenzzentrum Wasserwirtschaft, 11, Wasserwerkgasse, Katastralgemeinde Andritz, Andritz, Graz, Steiermark, 8045, Österreich",
+        "address": {
+            "building": "Kompetenzzentrum Wasserwirtschaft",
+            "house_number": "11",
+            "road": "Wasserwerkgasse",
+            "neighbourhood": "Katastralgemeinde Andritz",
+            "suburb": "Andritz",
+            "city": "Graz",
+            "state": "Steiermark",
+            "ISO3166-2-lvl4": "AT-6",
+            "postcode": "8045",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "47.1004602",
+            "47.1010985",
+            "15.4118619",
+            "15.4128008"
+        ]
+    }
+]

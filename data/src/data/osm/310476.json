@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 75473373,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 46356,
+        "lat": "45.8753660",
+        "lon": "8.6204535",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5421919409427979,
+        "addresstype": "village",
+        "name": "Leggiuno",
+        "display_name": "Leggiuno, Unione dei comuni del Medio Verbano, Varese, Lombardei, 21038, Italien",
+        "address": {
+            "village": "Leggiuno",
+            "municipality": "Unione dei comuni del Medio Verbano",
+            "county": "Varese",
+            "ISO3166-2-lvl6": "IT-VA",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "21038",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8524464",
+            "45.8912517",
+            "8.5701414",
+            "8.6389830"
+        ]
+    }
+]

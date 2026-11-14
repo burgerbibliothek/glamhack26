@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 56842044,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 40485,
+        "lat": "40.6358599",
+        "lon": "17.6884975",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7166411891515041,
+        "addresstype": "county",
+        "name": "Brindisi",
+        "display_name": "Brindisi, Apulien, Italien",
+        "address": {
+            "county": "Brindisi",
+            "ISO3166-2-lvl6": "IT-BR",
+            "state": "Apulien",
+            "ISO3166-2-lvl4": "IT-75",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "40.3795066",
+            "40.8922178",
+            "17.2953430",
+            "18.0983360"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73717176,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 46690,
+        "lat": "46.0219142",
+        "lon": "8.6790472",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5022487589932474,
+        "addresstype": "village",
+        "name": "Cannero Riviera",
+        "display_name": "Cannero Riviera, Verbano-Cusio-Ossola, Piemont, 28821, Italien",
+        "address": {
+            "village": "Cannero Riviera",
+            "county": "Verbano-Cusio-Ossola",
+            "ISO3166-2-lvl6": "IT-VB",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "postcode": "28821",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.9927560",
+            "46.0304876",
+            "8.6258590",
+            "8.7147584"
+        ]
+    }
+]

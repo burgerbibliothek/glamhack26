@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 90463971,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 147914,
+        "lat": "46.7547194",
+        "lon": "5.6269716",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5720836805799604,
+        "addresstype": "village",
+        "name": "Château-Chalon",
+        "display_name": "Château-Chalon, Lons-le-Saunier, Jura, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 39210, Frankreich",
+        "address": {
+            "village": "Château-Chalon",
+            "municipality": "Lons-le-Saunier",
+            "county": "Jura",
+            "ISO3166-2-lvl6": "FR-39",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "39210",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.7373813",
+            "46.7815297",
+            "5.6171676",
+            "5.6774778"
+        ]
+    }
+]

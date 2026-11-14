@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91871495,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4708714638,
+        "lat": "46.5159631",
+        "lon": "7.5879676",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 4.8661783779614216e-05,
+        "addresstype": "highway",
+        "name": "Achseten, Marchbach",
+        "display_name": "Achseten, Marchbach, Adelbodenstrasse, Rinderwald, Frutigen, Verwaltungskreis Frutigen-Niedersimmental, Oberland administrative region, Bern, 3725, Schweiz",
+        "address": {
+            "highway": "Achseten, Marchbach",
+            "road": "Adelbodenstrasse",
+            "hamlet": "Rinderwald",
+            "village": "Frutigen",
+            "county": "Verwaltungskreis Frutigen-Niedersimmental",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3725",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5159131",
+            "46.5160131",
+            "7.5879176",
+            "7.5880176"
+        ]
+    }
+]

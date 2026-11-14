@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 90913750,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 140253,
+        "lat": "46.2051192",
+        "lon": "5.2250324",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6214962791370493,
+        "addresstype": "town",
+        "name": "Bourg-en-Bresse",
+        "display_name": "Bourg-en-Bresse, Ain, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 01000, Frankreich",
+        "address": {
+            "town": "Bourg-en-Bresse",
+            "municipality": "Bourg-en-Bresse",
+            "county": "Ain",
+            "ISO3166-2-lvl6": "FR-01",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "01000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.1752819",
+            "46.2303188",
+            "5.2065965",
+            "5.2871250"
+        ]
+    }
+]

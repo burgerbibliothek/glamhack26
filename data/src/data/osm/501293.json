@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 54471448,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 39254,
+        "lat": "37.5802398",
+        "lon": "13.7538250",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4562703992788498,
+        "addresstype": "town",
+        "name": "Mussomeli",
+        "display_name": "Mussomeli, Caltanissetta, Sizilien, 93014, Italien",
+        "address": {
+            "town": "Mussomeli",
+            "county": "Caltanissetta",
+            "ISO3166-2-lvl6": "IT-CL",
+            "state": "Sizilien",
+            "ISO3166-2-lvl4": "IT-82",
+            "postcode": "93014",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "37.4732200",
+            "37.6298359",
+            "13.7089123",
+            "13.9065510"
+        ]
+    }
+]

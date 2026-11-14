@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 53840135,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 39514,
+        "lat": "38.1937571",
+        "lon": "15.5542082",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.663889026279907,
+        "addresstype": "city",
+        "name": "Messina",
+        "display_name": "Messina, Sizilien, Italien",
+        "address": {
+            "city": "Messina",
+            "county": "Messina",
+            "ISO3166-2-lvl6": "IT-ME",
+            "state": "Sizilien",
+            "ISO3166-2-lvl4": "IT-82",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "38.0555079",
+            "38.3014883",
+            "15.4079341",
+            "15.6530796"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 427365738,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 14180654953,
+        "lat": "46.6550754",
+        "lon": "8.1694437",
+        "category": "tourism",
+        "type": "alpine_hut",
+        "place_rank": 30,
+        "importance": 0.19283288150311992,
+        "addresstype": "tourism",
+        "name": "Dossenhütte SAC",
+        "display_name": "Dossenhütte SAC, 411, Dossenhütte SAC, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli, Oberland administrative region, Bern, 3862, Schweiz",
+        "address": {
+            "tourism": "Dossenhütte SAC",
+            "house_number": "411",
+            "locality": "Dossenhütte SAC",
+            "city_district": "Innertkirchen",
+            "village": "Innertkirchen",
+            "county": "Verwaltungskreis Interlaken-Oberhasli",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3862",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.6550254",
+            "46.6551254",
+            "8.1693937",
+            "8.1694937"
+        ]
+    }
+]

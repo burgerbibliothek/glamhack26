@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 76781855,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 43035,
+        "lat": "44.3511373",
+        "lon": "9.1524917",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5235506487734884,
+        "addresstype": "town",
+        "name": "Camogli",
+        "display_name": "Camogli, Genua, Ligurien, Italien",
+        "address": {
+            "town": "Camogli",
+            "county": "Genua",
+            "ISO3166-2-lvl6": "IT-GE",
+            "state": "Ligurien",
+            "ISO3166-2-lvl4": "IT-42",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.3086596",
+            "44.3576289",
+            "9.1450260",
+            "9.1940857"
+        ]
+    }
+]

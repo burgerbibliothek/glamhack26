@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 290701509,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2092350,
+        "lat": "42.9728589",
+        "lon": "-0.3927499",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5852946037000144,
+        "addresstype": "village",
+        "name": "Eaux-Bonnes",
+        "display_name": "Eaux-Bonnes, Oloron-Sainte-Marie, Pyrenäen-Atlantik, Neu-Aquitanien, Metropolitanes Frankreich, 64440, Frankreich",
+        "address": {
+            "village": "Eaux-Bonnes",
+            "municipality": "Oloron-Sainte-Marie",
+            "county": "Pyrenäen-Atlantik",
+            "ISO3166-2-lvl6": "FR-64",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "64440",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "42.9168394",
+            "42.9860327",
+            "-0.4148893",
+            "-0.2974100"
+        ]
+    }
+]

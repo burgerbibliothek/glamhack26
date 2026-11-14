@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 88492231,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 30764493,
+        "lat": "45.9709641",
+        "lon": "7.0411787",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.41359616883692174,
+        "addresstype": "glacier",
+        "name": "Glacier de Saleinaz",
+        "display_name": "Glacier de Saleinaz, Orsières, Entremont, Unterwallis, Wallis, Schweiz",
+        "address": {
+            "glacier": "Glacier de Saleinaz",
+            "village": "Orsières",
+            "county": "Entremont",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9565360",
+            "45.9853246",
+            "7.0114489",
+            "7.0769673"
+        ]
+    }
+]

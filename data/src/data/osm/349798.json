@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 71802195,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1684410,
+        "lat": "47.5080886",
+        "lon": "8.2056820",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.38548409705301084,
+        "addresstype": "village",
+        "name": "Rüfenach",
+        "display_name": "Rüfenach, Bezirk Brugg, Aargau, 5235, Schweiz",
+        "address": {
+            "village": "Rüfenach",
+            "county": "Bezirk Brugg",
+            "state": "Aargau",
+            "ISO3166-2-lvl4": "CH-AG",
+            "postcode": "5235",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4919238",
+            "47.5139461",
+            "8.1916154",
+            "8.2325025"
+        ]
+    }
+]

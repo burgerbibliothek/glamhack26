@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91516153,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1456288909,
+        "lat": "46.3830189",
+        "lon": "7.4676662",
+        "category": "tourism",
+        "type": "alpine_hut",
+        "place_rank": 30,
+        "importance": 0.17283327415591612,
+        "addresstype": "tourism",
+        "name": "Wildstrubelhütte",
+        "display_name": "Wildstrubelhütte, Firstliweg, Lenk, Verwaltungskreis Obersimmental-Saanen, Oberland administrative region, Bern, 3775, Schweiz",
+        "address": {
+            "tourism": "Wildstrubelhütte",
+            "road": "Firstliweg",
+            "village": "Lenk",
+            "county": "Verwaltungskreis Obersimmental-Saanen",
+            "state_district": "Oberland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3775",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3829689",
+            "46.3830689",
+            "7.4676162",
+            "7.4677162"
+        ]
+    }
+]

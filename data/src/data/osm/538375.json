@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 74530342,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 43648,
+        "lat": "45.6476663",
+        "lon": "11.8665254",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.753567151858136,
+        "addresstype": "state",
+        "name": "Venetien",
+        "display_name": "Venetien, Italien",
+        "address": {
+            "state": "Venetien",
+            "ISO3166-2-lvl4": "IT-34",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.7922924",
+            "46.6806148",
+            "10.6231032",
+            "13.1020861"
+        ]
+    }
+]

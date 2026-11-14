@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 319663944,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 921033438,
+        "lat": "33.6619084",
+        "lon": "-116.2579471",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05338880827038983,
+        "addresstype": "residential",
+        "name": "Via Pessaro",
+        "display_name": "Via Pessaro, The Hideaway, La Quinta, Riverside County, Kalifornien, 92247, Vereinigte Staaten von Amerika",
+        "address": {
+            "road": "Via Pessaro",
+            "residential": "The Hideaway",
+            "town": "La Quinta",
+            "county": "Riverside County",
+            "state": "Kalifornien",
+            "ISO3166-2-lvl4": "US-CA",
+            "postcode": "92247",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "33.6617828",
+            "33.6621364",
+            "-116.2586895",
+            "-116.2571776"
+        ]
+    }
+]

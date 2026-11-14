@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 92335901,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1682664,
+        "lat": "46.9188975",
+        "lon": "7.7255918",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.42606727313015863,
+        "addresstype": "village",
+        "name": "Signau",
+        "display_name": "Signau, Verwaltungskreis Emmental, Emmental-Oberaargau administrative region, Bern, Schweiz",
+        "address": {
+            "village": "Signau",
+            "county": "Verwaltungskreis Emmental",
+            "state_district": "Emmental-Oberaargau administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8826321",
+            "46.9506202",
+            "7.6975788",
+            "7.7684083"
+        ]
+    }
+]

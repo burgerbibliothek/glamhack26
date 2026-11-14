@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91830288,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 604924639,
+        "lat": "46.9495547",
+        "lon": "7.3837885",
+        "category": "amenity",
+        "type": "social_facility",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Wohnheim Acherli",
+        "display_name": "Wohnheim Acherli, 68, Waldmannstrasse, Ackerli, Bethlehem, Stadtteil VI, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3027, Schweiz",
+        "address": {
+            "amenity": "Wohnheim Acherli",
+            "house_number": "68",
+            "road": "Waldmannstrasse",
+            "quarter": "Ackerli",
+            "city_district": "Stadtteil VI",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3027",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9492574",
+            "46.9498425",
+            "7.3834208",
+            "7.3841319"
+        ]
+    }
+]

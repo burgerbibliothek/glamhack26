@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92029470,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1844938218,
+        "lat": "46.7863672",
+        "lon": "7.3497852",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13338561760891124,
+        "addresstype": "hamlet",
+        "name": "Kriesbaumen",
+        "display_name": "Kriesbaumen, Guggisberg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3157, Schweiz",
+        "address": {
+            "hamlet": "Kriesbaumen",
+            "village": "Guggisberg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3157",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.7663672",
+            "46.8063672",
+            "7.3297852",
+            "7.3697852"
+        ]
+    }
+]

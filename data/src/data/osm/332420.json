@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 71519663,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 89468679,
+        "lat": "47.9093689",
+        "lon": "9.8997084",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.1773516541617975,
+        "addresstype": "amenity",
+        "name": "Sankt Verena",
+        "display_name": "Sankt Verena, Klosterplatz, Kurgebiet Reischberg, Wurzach, Bad Wurzach, Landkreis Ravensburg, Baden-Württemberg, 88410, Deutschland",
+        "address": {
+            "amenity": "Sankt Verena",
+            "road": "Klosterplatz",
+            "neighbourhood": "Kurgebiet Reischberg",
+            "suburb": "Wurzach",
+            "town": "Bad Wurzach",
+            "city": "Bad Wurzach",
+            "county": "Landkreis Ravensburg",
+            "state": "Baden-Württemberg",
+            "ISO3166-2-lvl4": "DE-BW",
+            "postcode": "88410",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.9092568",
+            "47.9094862",
+            "9.8993778",
+            "9.9000680"
+        ]
+    }
+]

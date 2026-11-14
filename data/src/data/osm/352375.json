@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 97239968,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1685596,
+        "lat": "47.3615882",
+        "lon": "7.3544450",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5231294863307294,
+        "addresstype": "town",
+        "name": "Delsberg",
+        "display_name": "Delsberg, Bezirk Delsberg, Jura, 2800, Schweiz",
+        "address": {
+            "town": "Delsberg",
+            "county": "Bezirk Delsberg",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2800",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3474004",
+            "47.3960762",
+            "7.2900416",
+            "7.3692073"
+        ]
+    }
+]

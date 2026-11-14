@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91961487,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11242272119,
+        "lat": "46.4752668",
+        "lon": "7.9601696",
+        "category": "tourism",
+        "type": "alpine_hut",
+        "place_rank": 30,
+        "importance": 0.2432038182346074,
+        "addresstype": "tourism",
+        "name": "Hollandiahütte",
+        "display_name": "Hollandiahütte, Mittaghorn Südgrat, Blatten, Westlich Raron, Oberwallis, Wallis, 3919, Schweiz",
+        "address": {
+            "tourism": "Hollandiahütte",
+            "road": "Mittaghorn Südgrat",
+            "city": "Blatten",
+            "county": "Westlich Raron",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3919",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4752168",
+            "46.4753168",
+            "7.9601196",
+            "7.9602196"
+        ]
+    }
+]

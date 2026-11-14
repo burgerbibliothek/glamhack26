@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 145477453,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1812282975,
+        "lat": "52.5129591",
+        "lon": "13.3904932",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.875486381318407e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "14, Taubenstraße, Friedrichswerder, Friedrichstadt, Mitte, Berlin, 10117, Deutschland",
+        "address": {
+            "house_number": "14",
+            "road": "Taubenstraße",
+            "neighbourhood": "Friedrichswerder",
+            "quarter": "Friedrichstadt",
+            "suburb": "Mitte",
+            "borough": "Mitte",
+            "city": "Berlin",
+            "ISO3166-2-lvl4": "DE-BE",
+            "postcode": "10117",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "52.5129091",
+            "52.5130091",
+            "13.3904432",
+            "13.3905432"
+        ]
+    }
+]

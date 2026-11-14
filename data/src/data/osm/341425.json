@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73468770,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10687863330,
+        "lat": "46.5748908",
+        "lon": "8.6322633",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.16005351567864498,
+        "addresstype": "peak",
+        "name": "Rotstock",
+        "display_name": "Rotstock, Andermatt, Korporation Ursern, Uri, 6490, Schweiz",
+        "address": {
+            "peak": "Rotstock",
+            "village": "Andermatt",
+            "county": "Korporation Ursern",
+            "state": "Uri",
+            "ISO3166-2-lvl4": "CH-UR",
+            "postcode": "6490",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5748408",
+            "46.5749408",
+            "8.6322133",
+            "8.6323133"
+        ]
+    }
+]

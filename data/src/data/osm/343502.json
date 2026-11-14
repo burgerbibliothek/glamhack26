@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 73290003,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2728253,
+        "lat": "47.3607886",
+        "lon": "9.1358183",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.3411720307708333,
+        "addresstype": "village",
+        "name": "Mogelsberg",
+        "display_name": "Mogelsberg, Oberhelfenschwil, Neckertal, Wahlkreis Toggenburg, St. Gallen, Schweiz",
+        "address": {
+            "village": "Mogelsberg",
+            "city": "Neckertal",
+            "county": "Wahlkreis Toggenburg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.3082803",
+            "47.3938775",
+            "9.1180284",
+            "9.1989374"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 81335313,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42458,
+        "lat": "43.4677993",
+        "lon": "11.0432115",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5683236181329302,
+        "addresstype": "village",
+        "name": "San Gimignano",
+        "display_name": "San Gimignano, Siena, Toskana, Italien",
+        "address": {
+            "village": "San Gimignano",
+            "county": "Siena",
+            "ISO3166-2-lvl6": "IT-SI",
+            "state": "Toskana",
+            "ISO3166-2-lvl4": "IT-52",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "43.4011031",
+            "43.5468437",
+            "10.9508255",
+            "11.1129599"
+        ]
+    }
+]

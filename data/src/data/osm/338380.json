@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73704319,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 412527088,
+        "lat": "46.4024960",
+        "lon": "9.9015264",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.4495825478037806,
+        "addresstype": "peak",
+        "name": "Piz Morteratsch",
+        "display_name": "Piz Morteratsch, Samaden, Maloja, Graubünden, 7503, Schweiz",
+        "address": {
+            "peak": "Piz Morteratsch",
+            "village": "Samaden",
+            "county": "Maloja",
+            "state": "Graubünden",
+            "ISO3166-2-lvl4": "CH-GR",
+            "postcode": "7503",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.4024460",
+            "46.4025460",
+            "9.9014764",
+            "9.9015764"
+        ]
+    }
+]

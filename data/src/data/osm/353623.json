@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92133163,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 4946920,
+        "lat": "46.9508942",
+        "lon": "7.4422567",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.22697289548003588,
+        "addresstype": "residential",
+        "name": "Genfergasse",
+        "display_name": "Genfergasse, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3001, Schweiz",
+        "address": {
+            "road": "Genfergasse",
+            "quarter": "Rotes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3001",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9505044",
+            "46.9512609",
+            "7.4419527",
+            "7.4425862"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91759798,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 145500,
+        "lat": "46.0520000",
+        "lon": "5.3455400",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5690225158729048,
+        "addresstype": "village",
+        "name": "Pont-d'Ain",
+        "display_name": "Pont-d'Ain, Nantua, Ain, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 01160, Frankreich",
+        "address": {
+            "village": "Pont-d'Ain",
+            "municipality": "Nantua",
+            "county": "Ain",
+            "ISO3166-2-lvl6": "FR-01",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "01160",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.0342516",
+            "46.0769405",
+            "5.3191718",
+            "5.3786533"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 80215616,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 57145825,
+        "lat": "42.6612375",
+        "lon": "12.5099492",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.053385162890058714,
+        "addresstype": "secondary",
+        "name": "Piazza del Plebiscito",
+        "display_name": "Piazza del Plebiscito, Casteltodino, Montecastrilli, Terni, Umbrien, 05026, Italien",
+        "address": {
+            "road": "Piazza del Plebiscito",
+            "village": "Casteltodino",
+            "county": "Terni",
+            "ISO3166-2-lvl6": "IT-TR",
+            "state": "Umbrien",
+            "ISO3166-2-lvl4": "IT-55",
+            "postcode": "05026",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "42.6611379",
+            "42.6613399",
+            "12.5097411",
+            "12.5101558"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73086856,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 610954338,
+        "lat": "47.0406830",
+        "lon": "8.6847527",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.44556519337943523,
+        "addresstype": "peak",
+        "name": "Klein Mythen",
+        "display_name": "Klein Mythen, Schwyz, 8849, Schweiz",
+        "address": {
+            "peak": "Klein Mythen",
+            "town": "Schwyz",
+            "county": "Schwyz",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "8849",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0406330",
+            "47.0407330",
+            "8.6847027",
+            "8.6848027"
+        ]
+    }
+]

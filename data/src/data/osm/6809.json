@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 291292868,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 105270,
+        "lat": "44.8412250",
+        "lon": "-0.5800364",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.7288670134551348,
+        "addresstype": "city",
+        "name": "Bordeaux",
+        "display_name": "Bordeaux, Gironde, Neu-Aquitanien, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "city": "Bordeaux",
+            "municipality": "Bordeaux",
+            "county": "Gironde",
+            "ISO3166-2-lvl6": "FR-33",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.8107802",
+            "44.9161806",
+            "-0.6386987",
+            "-0.5336838"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 120439298,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 113038,
+        "lat": "48.9025946",
+        "lon": "6.0547691",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5956097379088718,
+        "addresstype": "town",
+        "name": "Pont-à-Mousson",
+        "display_name": "Pont-à-Mousson, Nancy, Meurthe-et-Moselle, Groß-Osten, Metropolitanes Frankreich, 54700, Frankreich",
+        "address": {
+            "town": "Pont-à-Mousson",
+            "municipality": "Nancy",
+            "county": "Meurthe-et-Moselle",
+            "ISO3166-2-lvl6": "FR-54",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "54700",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8903606",
+            "48.9538633",
+            "6.0048753",
+            "6.0888100"
+        ]
+    }
+]

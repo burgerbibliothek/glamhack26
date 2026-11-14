@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 82625209,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 107957,
+        "lat": "43.9110641",
+        "lon": "5.2002043",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5339106677129416,
+        "addresstype": "village",
+        "name": "Gordes",
+        "display_name": "Gordes, Apt, Vaucluse, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 84220, Frankreich",
+        "address": {
+            "village": "Gordes",
+            "municipality": "Apt",
+            "county": "Vaucluse",
+            "ISO3166-2-lvl6": "FR-84",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "84220",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.8601211",
+            "43.9547344",
+            "5.1595016",
+            "5.2490699"
+        ]
+    }
+]

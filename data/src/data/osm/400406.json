@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 57152066,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 8796464,
+        "lat": "42.6491029",
+        "lon": "18.0939501",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 14,
+        "importance": 0.6502369539398906,
+        "addresstype": "city",
+        "name": "Dubrovnik",
+        "display_name": "Dubrovnik, Gespanschaft Dubrovnik-Neretva, Kroatien",
+        "address": {
+            "city": "Dubrovnik",
+            "county": "Gespanschaft Dubrovnik-Neretva",
+            "ISO3166-2-lvl4": "HR-19",
+            "country": "Kroatien",
+            "country_code": "hr"
+        },
+        "boundingbox": [
+            "42.6208867",
+            "42.7803608",
+            "17.7655924",
+            "18.1581147"
+        ]
+    }
+]

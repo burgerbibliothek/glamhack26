@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 69398832,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 171558977,
+        "lat": "46.7175472",
+        "lon": "12.2942349",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.07194870560319186,
+        "addresstype": "building",
+        "name": "Wildbad Innichen",
+        "display_name": "Wildbad Innichen, Wildbadweg, Innichen, Pustertal, Bozen, Trentino-Südtirol, 39038, Italien",
+        "address": {
+            "building": "Wildbad Innichen",
+            "road": "Wildbadweg",
+            "suburb": "Innichen",
+            "town": "Innichen",
+            "city": "Innichen",
+            "municipality": "Pustertal",
+            "county": "Bozen",
+            "ISO3166-2-lvl6": "IT-BZ",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "postcode": "39038",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.7174617",
+            "46.7176326",
+            "12.2941133",
+            "12.2943564"
+        ]
+    }
+]

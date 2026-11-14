@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 73050534,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 440302682,
+        "lat": "47.0298789",
+        "lon": "8.6885334",
+        "category": "tourism",
+        "type": "viewpoint",
+        "place_rank": 30,
+        "importance": 0.4458552958876683,
+        "addresstype": "tourism",
+        "name": "Grosser Mythen",
+        "display_name": "Grosser Mythen, Rotgrätli, Rickenbach bei Schwyz, Schwyz, 6432, Schweiz",
+        "address": {
+            "tourism": "Grosser Mythen",
+            "road": "Rotgrätli",
+            "village": "Rickenbach bei Schwyz",
+            "town": "Schwyz",
+            "county": "Schwyz",
+            "state": "Schwyz",
+            "ISO3166-2-lvl4": "CH-SZ",
+            "postcode": "6432",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.0298289",
+            "47.0299289",
+            "8.6884834",
+            "8.6885834"
+        ]
+    }
+]

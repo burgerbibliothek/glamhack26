@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 74587476,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1651597,
+        "lat": "45.7726007",
+        "lon": "11.7206547",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6039971995682427,
+        "addresstype": "city",
+        "name": "Bassano del Grappa",
+        "display_name": "Bassano del Grappa, Vicenza, Venetien, 36061, Italien",
+        "address": {
+            "city": "Bassano del Grappa",
+            "county": "Vicenza",
+            "ISO3166-2-lvl6": "IT-VI",
+            "state": "Venetien",
+            "ISO3166-2-lvl4": "IT-34",
+            "postcode": "36061",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.7231681",
+            "45.8221177",
+            "11.6444026",
+            "11.7632373"
+        ]
+    }
+]

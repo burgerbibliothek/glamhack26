@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 91897791,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 70221625,
+        "lat": "46.9720151",
+        "lon": "7.4487274",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.295109483477558e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "2a, Oberer Aareggweg, Rossfeld, Felsenau, Stadtteil II, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3004, Schweiz",
+        "address": {
+            "house_number": "2a",
+            "road": "Oberer Aareggweg",
+            "quarter": "Rossfeld",
+            "city_district": "Stadtteil II",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3004",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9719745",
+            "46.9720560",
+            "7.4486489",
+            "7.4488062"
+        ]
+    }
+]

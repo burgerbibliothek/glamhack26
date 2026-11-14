@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92250433,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 553227784,
+        "lat": "46.5123936",
+        "lon": "6.6570715",
+        "category": "highway",
+        "type": "platform",
+        "place_rank": 30,
+        "importance": 7.429846646825387e-05,
+        "addresstype": "highway",
+        "name": "Montillier",
+        "display_name": "Montillier, Avenue de Lavaux, Château-Sec, Pully, District de Lavaux-Oron, Waadt, 1009, Schweiz",
+        "address": {
+            "highway": "Montillier",
+            "road": "Avenue de Lavaux",
+            "hamlet": "Château-Sec",
+            "town": "Pully",
+            "county": "District de Lavaux-Oron",
+            "state": "Waadt",
+            "ISO3166-2-lvl4": "CH-VD",
+            "postcode": "1009",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.5123823",
+            "46.5124049",
+            "6.6569098",
+            "6.6572331"
+        ]
+    }
+]

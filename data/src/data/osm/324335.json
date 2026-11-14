@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91009699,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2946055489,
+        "lat": "46.9488953",
+        "lon": "7.4448803",
+        "category": "shop",
+        "type": "books",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "shop",
+        "name": "Fontis",
+        "display_name": "Fontis, 35,37, Zeughausgasse, Gelbes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "shop": "Fontis",
+            "house_number": "35,37",
+            "road": "Zeughausgasse",
+            "quarter": "Gelbes Quartier",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9488453",
+            "46.9489453",
+            "7.4448303",
+            "7.4449303"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 98208772,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 115244,
+        "lat": "48.9891693",
+        "lon": "2.3197111",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5371131469382987,
+        "addresstype": "town",
+        "name": "Montmorency",
+        "display_name": "Montmorency, Sarcelles, Val-d'Oise, Île-de-France, Metropolitanes Frankreich, 95160, Frankreich",
+        "address": {
+            "town": "Montmorency",
+            "municipality": "Sarcelles",
+            "county": "Val-d'Oise",
+            "ISO3166-2-lvl6": "FR-95",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "95160",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.9695843",
+            "49.0147032",
+            "2.3067620",
+            "2.3373455"
+        ]
+    }
+]

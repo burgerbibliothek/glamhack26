@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 83395174,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 76469,
+        "lat": "43.2963986",
+        "lon": "5.3777888",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.7414985565519032,
+        "addresstype": "city",
+        "name": "Marseille",
+        "display_name": "Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "city": "Marseille",
+            "municipality": "Marseille",
+            "county": "Bouches-du-Rhône",
+            "ISO3166-2-lvl6": "FR-13",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.1696228",
+            "43.3910329",
+            "5.2287864",
+            "5.5324758"
+        ]
+    }
+]

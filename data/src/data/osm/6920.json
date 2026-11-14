@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 418125705,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13835093005,
+        "lat": "46.2913977",
+        "lon": "6.9492840",
+        "category": "place",
+        "type": "region",
+        "place_rank": 18,
+        "importance": 0.160048165865568,
+        "addresstype": "region",
+        "name": "Chablais",
+        "display_name": "Chablais, Collombey-Muraz, Monthey, Unterwallis, Wallis, 1893, Schweiz",
+        "address": {
+            "region": "Chablais",
+            "village": "Collombey-Muraz",
+            "county": "Monthey",
+            "state_district": "Unterwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "1893",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.2913977",
+            "47.2913977",
+            "5.9492840",
+            "7.9492840"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 72620200,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 32846732,
+        "lat": "47.1550062",
+        "lon": "9.3131683",
+        "category": "aerialway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 4.4224460212054895e-05,
+        "addresstype": "aerialway",
+        "name": "Chäserugg (Ruggschopf)",
+        "display_name": "Chäserugg (Ruggschopf), Iltios-Chäserrugg, Alt St. Johann, Wildhaus-Alt St. Johann, Wahlkreis Toggenburg, St. Gallen, 9657, Schweiz",
+        "address": {
+            "aerialway": "Chäserugg (Ruggschopf)",
+            "road": "Iltios-Chäserrugg",
+            "village": "Alt St. Johann",
+            "city": "Wildhaus-Alt St. Johann",
+            "county": "Wahlkreis Toggenburg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9657",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1549562",
+            "47.1550562",
+            "9.3131183",
+            "9.3132183"
+        ]
+    }
+]

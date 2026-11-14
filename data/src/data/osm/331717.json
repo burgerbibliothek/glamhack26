@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 91361479,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2205222,
+        "lat": "46.6193219",
+        "lon": "7.0998362",
+        "category": "waterway",
+        "type": "river",
+        "place_rank": 18,
+        "importance": 0.47131484759845954,
+        "addresstype": "river",
+        "name": "Saane",
+        "display_name": "Saane, Freiburg, Schweiz",
+        "address": {
+            "river": "Saane",
+            "state": "Freiburg",
+            "ISO3166-2-lvl4": "CH-FR",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.3304757",
+            "46.9794960",
+            "7.0352618",
+            "7.2961351"
+        ]
+    }
+]

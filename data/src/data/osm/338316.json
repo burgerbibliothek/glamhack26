@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 73051516,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12841518323,
+        "lat": "47.1565061",
+        "lon": "9.4464890",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.066716114290074,
+        "addresstype": "locality",
+        "name": "Guscha",
+        "display_name": "Guscha, Buchs (SG), Wahlkreis Werdenberg, St. Gallen, 9470, Schweiz",
+        "address": {
+            "locality": "Guscha",
+            "town": "Buchs (SG)",
+            "county": "Wahlkreis Werdenberg",
+            "state": "St. Gallen",
+            "ISO3166-2-lvl4": "CH-SG",
+            "postcode": "9470",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.1465061",
+            "47.1665061",
+            "9.4364890",
+            "9.4564890"
+        ]
+    }
+]

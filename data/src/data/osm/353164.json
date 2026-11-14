@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91666862,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2301841093,
+        "lat": "46.9483742",
+        "lon": "7.4487181",
+        "category": "amenity",
+        "type": "bar",
+        "place_rank": 30,
+        "importance": 7.734264133664481e-05,
+        "addresstype": "amenity",
+        "name": "Les Amis Bar & Wohnzimmer",
+        "display_name": "Les Amis Bar & Wohnzimmer, 63, Rathausgasse, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3011, Schweiz",
+        "address": {
+            "amenity": "Les Amis Bar & Wohnzimmer",
+            "house_number": "63",
+            "road": "Rathausgasse",
+            "quarter": "Altstadt",
+            "city_district": "Stadtteil I",
+            "city": "Bern",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3011",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.9483242",
+            "46.9484242",
+            "7.4486681",
+            "7.4487681"
+        ]
+    }
+]

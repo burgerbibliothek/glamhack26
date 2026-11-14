@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 128661115,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 141562575,
+        "lat": "48.1650449",
+        "lon": "11.5787878",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.462272068355866e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "1, Viktoriaplatz, Schwabing-West, Alt-Schwabing, Schwabing, München, Bayern, 80803, Deutschland",
+        "address": {
+            "house_number": "1",
+            "road": "Viktoriaplatz",
+            "neighbourhood": "Schwabing-West",
+            "quarter": "Alt-Schwabing",
+            "suburb": "Schwabing",
+            "city": "München",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "postcode": "80803",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "48.1649752",
+            "48.1652004",
+            "11.5786694",
+            "11.5789026"
+        ]
+    }
+]

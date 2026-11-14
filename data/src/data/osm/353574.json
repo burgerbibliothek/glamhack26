@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 92957044,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8882661175,
+        "lat": "47.4236355",
+        "lon": "7.1911537",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.1333791676203555,
+        "addresstype": "hamlet",
+        "name": "Miserez",
+        "display_name": "Miserez, Fregiécourt, La Baroche, Bezirk Porrentruy, Jura, 2953, Schweiz",
+        "address": {
+            "hamlet": "Miserez",
+            "village": "Fregiécourt",
+            "city": "La Baroche",
+            "county": "Bezirk Porrentruy",
+            "state": "Jura",
+            "ISO3166-2-lvl4": "CH-JU",
+            "postcode": "2953",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.4036355",
+            "47.4436355",
+            "7.1711537",
+            "7.2111537"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 79899949,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42551,
+        "lat": "43.6578748",
+        "lon": "12.8038225",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5208670667418793,
+        "addresstype": "city",
+        "name": "Fossombrone",
+        "display_name": "Fossombrone, Pesaro und Urbino, Marken, 61034, Italien",
+        "address": {
+            "city": "Fossombrone",
+            "county": "Pesaro und Urbino",
+            "ISO3166-2-lvl6": "IT-PU",
+            "state": "Marken",
+            "ISO3166-2-lvl4": "IT-57",
+            "postcode": "61034",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "43.5884561",
+            "43.7271830",
+            "12.7193880",
+            "12.8852043"
+        ]
+    }
+]

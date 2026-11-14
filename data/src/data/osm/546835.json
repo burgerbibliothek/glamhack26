@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 54263357,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 39468,
+        "lat": "38.0352205",
+        "lon": "13.4514041",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5083208249429857,
+        "addresstype": "town",
+        "name": "Misilmeri",
+        "display_name": "Misilmeri, Palermo, Sizilien, 90036, Italien",
+        "address": {
+            "town": "Misilmeri",
+            "county": "Palermo",
+            "ISO3166-2-lvl6": "IT-PA",
+            "state": "Sizilien",
+            "ISO3166-2-lvl4": "IT-82",
+            "postcode": "90036",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "37.9536392",
+            "38.0865138",
+            "13.3740155",
+            "13.4902649"
+        ]
+    }
+]

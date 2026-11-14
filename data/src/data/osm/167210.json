@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 73534954,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 60260093,
+        "lat": "46.0676160",
+        "lon": "9.5986563",
+        "category": "waterway",
+        "type": "stream",
+        "place_rank": 22,
+        "importance": 0.10672276722362094,
+        "addresstype": "stream",
+        "name": "Torrente Valle Reggio",
+        "display_name": "Torrente Valle Reggio, Casera Melzi, Bema, Comunità montana della Valtellina di Morbegno, Sondrio, Lombardei, 23010, Italien",
+        "address": {
+            "stream": "Torrente Valle Reggio",
+            "hamlet": "Casera Melzi",
+            "city": "Bema",
+            "municipality": "Comunità montana della Valtellina di Morbegno",
+            "county": "Sondrio",
+            "ISO3166-2-lvl6": "IT-SO",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "postcode": "23010",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "46.0590237",
+            "46.0744107",
+            "9.5972893",
+            "9.6038806"
+        ]
+    }
+]

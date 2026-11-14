@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91974175,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 424734886,
+        "lat": "46.8943729",
+        "lon": "7.2966988",
+        "category": "building",
+        "type": "residential",
+        "place_rank": 30,
+        "importance": 5.2284275577889944e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "23, Laupenstrasse, Freiburghaus, Neuenegg, Verwaltungskreis Bern-Mittelland, Bernese Mittelland administrative region, Bern, 3176, Schweiz",
+        "address": {
+            "house_number": "23",
+            "road": "Laupenstrasse",
+            "hamlet": "Freiburghaus",
+            "village": "Neuenegg",
+            "county": "Verwaltungskreis Bern-Mittelland",
+            "state_district": "Bernese Mittelland administrative region",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "3176",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "46.8943276",
+            "46.8944181",
+            "7.2965915",
+            "7.2968060"
+        ]
+    }
+]

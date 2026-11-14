@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 88541768,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2202529,
+        "lat": "45.7827926",
+        "lon": "7.8314544",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5187618325919438,
+        "addresstype": "city",
+        "name": "Gressoney-Saint-Jean",
+        "display_name": "Gressoney-Saint-Jean, Aostatal, 11025, Italien",
+        "address": {
+            "city": "Gressoney-Saint-Jean",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "postcode": "11025",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.7256869",
+            "45.8399877",
+            "7.7817122",
+            "7.9313052"
+        ]
+    }
+]

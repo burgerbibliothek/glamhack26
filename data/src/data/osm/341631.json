@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 70972623,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 255948318,
+        "lat": "47.6184124",
+        "lon": "11.6923159",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.133384384679942,
+        "addresstype": "hamlet",
+        "name": "Trifthütte",
+        "display_name": "Trifthütte, Kreuth, Landkreis Miesbach, Bayern, Deutschland",
+        "address": {
+            "hamlet": "Trifthütte",
+            "village": "Kreuth",
+            "county": "Landkreis Miesbach",
+            "state": "Bayern",
+            "ISO3166-2-lvl4": "DE-BY",
+            "country": "Deutschland",
+            "country_code": "de"
+        },
+        "boundingbox": [
+            "47.6181417",
+            "47.6186685",
+            "11.6915825",
+            "11.6930279"
+        ]
+    }
+]

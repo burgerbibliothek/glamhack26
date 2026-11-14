@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 75474410,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 44996,
+        "lat": "45.7566557",
+        "lon": "9.7542192",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7257361288841058,
+        "addresstype": "county",
+        "name": "Bergamo",
+        "display_name": "Bergamo, Lombardei, Italien",
+        "address": {
+            "county": "Bergamo",
+            "ISO3166-2-lvl6": "IT-BG",
+            "region": "Lombardei",
+            "ISO3166-2-lvl4": "IT-25",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.4221614",
+            "46.0912367",
+            "9.4450549",
+            "10.2627486"
+        ]
+    }
+]

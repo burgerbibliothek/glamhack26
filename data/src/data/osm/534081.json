@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 88725530,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 456920789,
+        "lat": "45.9341356",
+        "lon": "7.7080730",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.26001653813030656,
+        "addresstype": "peak",
+        "name": "Testa Grigia",
+        "display_name": "Testa Grigia, Zermatt, Visp, Oberwallis, Wallis, 3920, Schweiz",
+        "address": {
+            "peak": "Testa Grigia",
+            "town": "Zermatt",
+            "county": "Visp",
+            "state_district": "Oberwallis",
+            "state": "Wallis",
+            "ISO3166-2-lvl4": "CH-VS",
+            "postcode": "3920",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "45.9340856",
+            "45.9341856",
+            "7.7080230",
+            "7.7081230"
+        ]
+    }
+]

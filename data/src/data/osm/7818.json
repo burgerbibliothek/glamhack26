@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 77428334,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 42884,
+        "lat": "44.5384728",
+        "lon": "10.9359609",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7190653569315029,
+        "addresstype": "county",
+        "name": "Modena",
+        "display_name": "Modena, Emilia-Romagna, Italien",
+        "address": {
+            "county": "Modena",
+            "ISO3166-2-lvl6": "IT-MO",
+            "state": "Emilia-Romagna",
+            "ISO3166-2-lvl4": "IT-45",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.1141520",
+            "44.9629506",
+            "10.4698307",
+            "11.3689308"
+        ]
+    }
+]

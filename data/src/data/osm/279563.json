@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 74289212,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 46260,
+        "lat": "45.8865480",
+        "lon": "11.0452369",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6042940922192769,
+        "addresstype": "town",
+        "name": "Rovereto",
+        "display_name": "Rovereto, Comunità della Vallagarina, Autonome Provinz Trient, Trentino-Südtirol, 38060, Italien",
+        "address": {
+            "town": "Rovereto",
+            "municipality": "Comunità della Vallagarina",
+            "county": "Autonome Provinz Trient",
+            "ISO3166-2-lvl6": "IT-TN",
+            "state": "Trentino-Südtirol",
+            "ISO3166-2-lvl4": "IT-32",
+            "postcode": "38060",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8001960",
+            "45.9188884",
+            "10.9974817",
+            "11.1241047"
+        ]
+    }
+]

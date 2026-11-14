@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 187073120,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2042894682,
+        "lat": "48.2508934",
+        "lon": "16.3269456",
+        "category": "place",
+        "type": "house",
+        "place_rank": 30,
+        "importance": 8.694209201185653e-05,
+        "addresstype": "place",
+        "name": "",
+        "display_name": "26, Bellevuestraße, Katastralgemeinde Untersievering, Sievering, Döbling, Wien, 1190, Österreich",
+        "address": {
+            "house_number": "26",
+            "road": "Bellevuestraße",
+            "neighbourhood": "Katastralgemeinde Untersievering",
+            "suburb": "Sievering",
+            "city_district": "Döbling",
+            "city": "Wien",
+            "ISO3166-2-lvl4": "AT-9",
+            "postcode": "1190",
+            "country": "Österreich",
+            "country_code": "at"
+        },
+        "boundingbox": [
+            "48.2508434",
+            "48.2509434",
+            "16.3268956",
+            "16.3269956"
+        ]
+    }
+]

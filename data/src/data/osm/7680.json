@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 119546932,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 113134,
+        "lat": "49.5145564",
+        "lon": "5.7679082",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5955288081816045,
+        "addresstype": "town",
+        "name": "Langich",
+        "display_name": "Langich, Val-de-Briey, Meurthe-et-Moselle, Groß-Osten, Metropolitanes Frankreich, 54400, Frankreich",
+        "address": {
+            "town": "Langich",
+            "municipality": "Val-de-Briey",
+            "county": "Meurthe-et-Moselle",
+            "ISO3166-2-lvl6": "FR-54",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "54400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.5065664",
+            "49.5368825",
+            "5.7453854",
+            "5.7883986"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92885572,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 210278756,
+        "lat": "47.2112085",
+        "lon": "7.1549238",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 3.825818265044659e-05,
+        "addresstype": "amenity",
+        "name": "Jeanguisboden",
+        "display_name": "Jeanguisboden, 52, Le Jeanguisboden, Corgémont, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern, 2720, Schweiz",
+        "address": {
+            "amenity": "Jeanguisboden",
+            "house_number": "52",
+            "isolated_dwelling": "Le Jeanguisboden",
+            "village": "Corgémont",
+            "county": "Verwaltungskreis Berner Jura",
+            "state_district": "Verwaltungsregion Berner Jura",
+            "state": "Bern",
+            "ISO3166-2-lvl4": "CH-BE",
+            "postcode": "2720",
+            "country": "Schweiz",
+            "country_code": "ch"
+        },
+        "boundingbox": [
+            "47.2111073",
+            "47.2113174",
+            "7.1547710",
+            "7.1550725"
+        ]
+    }
+]

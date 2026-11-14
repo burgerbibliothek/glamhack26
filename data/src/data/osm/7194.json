@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 431773110,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 8642,
+        "lat": "47.1425877",
+        "lon": "6.1320072",
+        "category": "boundary",
+        "type": "historic",
+        "place_rank": 25,
+        "importance": 0.6691492084590992,
+        "addresstype": "historic",
+        "name": "Freigrafschaft Burgund",
+        "display_name": "Freigrafschaft Burgund, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "historic": "Freigrafschaft Burgund",
+            "ISO3166-2-lvl15": "FR-I",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.2610184",
+            "48.0241451",
+            "5.2520162",
+            "7.1432754"
+        ]
+    }
+]
