@@ -1,32 +1,6 @@
 [
     {
-        "place_id": 145356640,
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-        "osm_type": "relation",
-        "osm_id": 1432630,
-        "lat": "52.2181829",
-        "lon": "10.6825692",
-        "category": "boundary",
-        "type": "administrative",
-        "place_rank": 16,
-        "importance": 0.41476986573684055,
-        "addresstype": "village",
-        "name": "Veltheim",
-        "display_name": "Veltheim, Samtgemeinde Sickte, Landkreis Wolfenbüttel, Niedersachsen, Deutschland",
-        "address": {
-            "village": "Veltheim",
-            "municipality": "Samtgemeinde Sickte",
-            "county": "Landkreis Wolfenbüttel",
-            "state": "Niedersachsen",
-            "ISO3166-2-lvl4": "DE-NI",
-            "country": "Deutschland",
-            "country_code": "de"
-        },
-        "boundingbox": [
-            "52.2087211",
-            "52.2430505",
-            "10.6538354",
-            "10.7036802"
-        ]
+        "lat": "47.437709",
+        "lon": "8.1461059"
     }
 ]

@@ -1,32 +1,6 @@
 [
     {
-        "place_id": 143864638,
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-        "osm_type": "relation",
-        "osm_id": 1476160,
-        "lat": "53.6195914",
-        "lon": "10.8672662",
-        "category": "boundary",
-        "type": "administrative",
-        "place_rank": 16,
-        "importance": 0.4861734626768807,
-        "addresstype": "village",
-        "name": "Seedorf",
-        "display_name": "Seedorf, Lauenburgische Seen, Kreis Herzogtum Lauenburg, Schleswig-Holstein, Deutschland",
-        "address": {
-            "village": "Seedorf",
-            "municipality": "Lauenburgische Seen",
-            "county": "Kreis Herzogtum Lauenburg",
-            "state": "Schleswig-Holstein",
-            "ISO3166-2-lvl4": "DE-SH",
-            "country": "Deutschland",
-            "country_code": "de"
-        },
-        "boundingbox": [
-            "53.5722285",
-            "53.6400435",
-            "10.8309927",
-            "10.9279103"
-        ]
+        "lat": "47.0349831",
+        "lon": "7.3116209"
     }
 ]

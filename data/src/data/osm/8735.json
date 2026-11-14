@@ -1,27 +1,6 @@
 [
     {
-        "place_id": 165827543,
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-        "osm_type": "relation",
-        "osm_id": 52822,
-        "lat": "59.6749712",
-        "lon": "14.5208584",
-        "category": "boundary",
-        "type": "administrative",
-        "place_rank": 4,
-        "importance": 0.9074842245662982,
-        "addresstype": "country",
-        "name": "Schweden",
-        "display_name": "Schweden",
-        "address": {
-            "country": "Schweden",
-            "country_code": "se"
-        },
-        "boundingbox": [
-            "55.1370957",
-            "69.0599735",
-            "10.5935025",
-            "24.1776850"
-        ]
+        "lat": "47.3710695",
+        "lon": "8.8643465"
     }
 ]

@@ -1,33 +1,6 @@
 [
     {
-        "place_id": 132894870,
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-        "osm_type": "relation",
-        "osm_id": 438959,
-        "lat": "50.7106730",
-        "lon": "15.0769449",
-        "category": "boundary",
-        "type": "administrative",
-        "place_rank": 14,
-        "importance": 0.45445544749441374,
-        "addresstype": "municipality",
-        "name": "Langenbruck",
-        "display_name": "Langenbruck, Bezirk Reichenberg, Reichenberger Region, 463 41, Tschechien",
-        "address": {
-            "municipality": "Langenbruck",
-            "district": "Bezirk Reichenberg",
-            "ISO3166-2-lvl5": "CZ-513",
-            "state": "Reichenberger Region",
-            "ISO3166-2-lvl4": "CZ-51",
-            "postcode": "463 41",
-            "country": "Tschechien",
-            "country_code": "cz"
-        },
-        "boundingbox": [
-            "50.6908025",
-            "50.7277624",
-            "15.0526315",
-            "15.0943593"
-        ]
+        "lat": "47.3498274",
+        "lon": "7.7681007"
     }
 ]

@@ -1,33 +1,6 @@
 [
     {
-        "place_id": 88673787,
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-        "osm_type": "relation",
-        "osm_id": 44648,
-        "lat": "45.3018726",
-        "lon": "7.4396812",
-        "category": "boundary",
-        "type": "administrative",
-        "place_rank": 16,
-        "importance": 0.6004688854593692,
-        "addresstype": "village",
-        "name": "Monastero di Lanzo",
-        "display_name": "Monastero di Lanzo, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Turin, Piemont, Italien",
-        "address": {
-            "village": "Monastero di Lanzo",
-            "municipality": "Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone",
-            "county": "Turin",
-            "ISO3166-2-lvl6": "IT-TO",
-            "state": "Piemont",
-            "ISO3166-2-lvl4": "IT-21",
-            "country": "Italien",
-            "country_code": "it"
-        },
-        "boundingbox": [
-            "45.2884160",
-            "45.3707108",
-            "7.4105396",
-            "7.4596918"
-        ]
+        "lat": "47.2768769",
+        "lon": "7.3709441"
     }
 ]

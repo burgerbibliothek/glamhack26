@@ -1,35 +1,6 @@
 [
     {
-        "place_id": 120652287,
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-        "osm_type": "relation",
-        "osm_id": 904595,
-        "lat": "48.1111324",
-        "lon": "5.1395849",
-        "category": "boundary",
-        "type": "administrative",
-        "place_rank": 16,
-        "importance": 0.5887153399807141,
-        "addresstype": "town",
-        "name": "Chaumont",
-        "display_name": "Chaumont, Haute-Marne, Groß-Osten, Metropolitanes Frankreich, 52000, Frankreich",
-        "address": {
-            "town": "Chaumont",
-            "municipality": "Chaumont",
-            "county": "Haute-Marne",
-            "ISO3166-2-lvl6": "FR-52",
-            "state": "Groß-Osten",
-            "ISO3166-2-lvl4": "FR-GES",
-            "region": "Metropolitanes Frankreich",
-            "postcode": "52000",
-            "country": "Frankreich",
-            "country_code": "fr"
-        },
-        "boundingbox": [
-            "48.0354519",
-            "48.1407065",
-            "5.0832429",
-            "5.2621381"
-        ]
+        "lat": "47.0326487",
+        "lon": "6.9642762"
     }
 ]

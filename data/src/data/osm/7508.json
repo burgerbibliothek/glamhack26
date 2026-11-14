@@ -1,32 +1,6 @@
 [
     {
-        "place_id": 188778438,
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-        "osm_type": "relation",
-        "osm_id": 2275746,
-        "lat": "49.0000350",
-        "lon": "20.7510716",
-        "category": "boundary",
-        "type": "administrative",
-        "place_rank": 16,
-        "importance": 0.5025539344482836,
-        "addresstype": "town",
-        "name": "Kirchdrauf",
-        "display_name": "Kirchdrauf, Bezirk Leutschau, Eperieser Landschaftsverband, 053 04, Slowakei",
-        "address": {
-            "town": "Kirchdrauf",
-            "county": "Bezirk Leutschau",
-            "region": "Eperieser Landschaftsverband",
-            "ISO3166-2-lvl4": "SK-PV",
-            "postcode": "053 04",
-            "country": "Slowakei",
-            "country_code": "sk"
-        },
-        "boundingbox": [
-            "48.9660450",
-            "49.0626264",
-            "20.6909162",
-            "20.7919958"
-        ]
+        "lat": "46.8198653",
+        "lon": "7.5483898"
     }
 ]

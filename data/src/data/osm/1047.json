@@ -1,6 +1,6 @@
 [
     {
-        "place_id": 425580324,
+        "place_id": 426514289,
         "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
         "osm_type": "way",
         "osm_id": 26707240,
@@ -12,10 +12,10 @@
         "importance": 0.41694355024061613,
         "addresstype": "historic",
         "name": "Pompeji",
-        "display_name": "Pompeji, Percorso fuori le mura, Masseria Curato, Pompei, Metropolitanstadt Neapel, Kampanien, 80045, Italien",
+        "display_name": "Pompeji, Viale Giuseppe Mazzini, Masseria Curato, Pompei, Metropolitanstadt Neapel, Kampanien, 80045, Italien",
         "address": {
             "historic": "Pompeji",
-            "road": "Percorso fuori le mura",
+            "road": "Viale Giuseppe Mazzini",
             "hamlet": "Masseria Curato",
             "town": "Pompei",
             "county": "Metropolitanstadt Neapel",

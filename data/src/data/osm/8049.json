@@ -1,35 +1,6 @@
 [
     {
-        "place_id": 90873103,
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-        "osm_type": "relation",
-        "osm_id": 158787,
-        "lat": "46.9921000",
-        "lon": "5.3670800",
-        "category": "boundary",
-        "type": "administrative",
-        "place_rank": 16,
-        "importance": 0.5605778714294762,
-        "addresstype": "village",
-        "name": "Peseux",
-        "display_name": "Peseux, Dole, Jura, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 39120, Frankreich",
-        "address": {
-            "village": "Peseux",
-            "municipality": "Dole",
-            "county": "Jura",
-            "ISO3166-2-lvl6": "FR-39",
-            "state": "Bourgogne-Franche-Comté",
-            "ISO3166-2-lvl4": "FR-BFC",
-            "region": "Metropolitanes Frankreich",
-            "postcode": "39120",
-            "country": "Frankreich",
-            "country_code": "fr"
-        },
-        "boundingbox": [
-            "46.9782603",
-            "47.0060455",
-            "5.3421500",
-            "5.3863561"
-        ]
+        "lat": "46.9824469",
+        "lon": "6.8883036"
     }
 ]

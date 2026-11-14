@@ -1,33 +1,6 @@
 [
     {
-        "place_id": 121183560,
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-        "osm_type": "relation",
-        "osm_id": 2826029,
-        "lat": "48.7338225",
-        "lon": "9.7494317",
-        "category": "boundary",
-        "type": "administrative",
-        "place_rank": 16,
-        "importance": 0.42213363392090547,
-        "addresstype": "village",
-        "name": "Ottenbach",
-        "display_name": "Ottenbach, GVV Eislingen-Ottenbach-Salach, Landkreis Göppingen, Baden-Württemberg, 73113, Deutschland",
-        "address": {
-            "village": "Ottenbach",
-            "municipality": "GVV Eislingen-Ottenbach-Salach",
-            "county": "Landkreis Göppingen",
-            "state": "Baden-Württemberg",
-            "ISO3166-2-lvl4": "DE-BW",
-            "postcode": "73113",
-            "country": "Deutschland",
-            "country_code": "de"
-        },
-        "boundingbox": [
-            "48.7099229",
-            "48.7536787",
-            "9.7249641",
-            "9.7917016"
-        ]
+        "lat": "47.28172",
+        "lon": "8.4060915"
     }
 ]

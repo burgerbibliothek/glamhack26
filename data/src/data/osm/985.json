@@ -1,21 +1,21 @@
 [
     {
-        "place_id": 273542882,
+        "place_id": 276215892,
         "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
         "osm_type": "way",
-        "osm_id": 449678706,
-        "lat": "52.9670222",
-        "lon": "-3.1335602",
-        "category": "amenity",
-        "type": "restaurant",
+        "osm_id": 290606079,
+        "lat": "52.9687109",
+        "lon": "-3.1314064",
+        "category": "leisure",
+        "type": "golf_course",
         "place_rank": 30,
         "importance": 6.197070267791282e-05,
-        "addresstype": "amenity",
+        "addresstype": "leisure",
         "name": "Vale of Llangollen Golf Club",
-        "display_name": "Vale of Llangollen Golf Club, A5, Plas-yn-pentre, Llangollen, Denbighshire, Wales, LL20 7PT, Vereinigtes Königreich",
+        "display_name": "Vale of Llangollen Golf Club, A539, Plas-yn-pentre, Llangollen, Denbighshire, Wales, LL20 7UW, Vereinigtes Königreich",
         "address": {
-            "amenity": "Vale of Llangollen Golf Club",
-            "road": "A5",
+            "leisure": "Vale of Llangollen Golf Club",
+            "road": "A539",
             "hamlet": "Plas-yn-pentre",
             "suburb": "Llangollen",
             "town": "Llangollen",
@@ -23,15 +23,15 @@
             "ISO3166-2-lvl6": "GB-DEN",
             "state": "Wales",
             "ISO3166-2-lvl4": "GB-WLS",
-            "postcode": "LL20 7PT",
+            "postcode": "LL20 7UW",
             "country": "Vereinigtes Königreich",
             "country_code": "gb"
         },
         "boundingbox": [
-            "52.9668165",
-            "52.9672557",
-            "-3.1337986",
-            "-3.1333459"
+            "52.9642514",
+            "52.9730280",
+            "-3.1417082",
+            "-3.1267353"
         ]
     }
 ]
