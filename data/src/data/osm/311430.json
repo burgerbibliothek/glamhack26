@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 87363907,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 110293,
+        "lat": "45.8930120",
+        "lon": "3.1140583",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5788034737277197,
+        "addresstype": "town",
+        "name": "Riom",
+        "display_name": "Riom, Puy-de-Dôme, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 63200, Frankreich",
+        "address": {
+            "town": "Riom",
+            "municipality": "Riom",
+            "county": "Puy-de-Dôme",
+            "ISO3166-2-lvl6": "FR-63",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "63200",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.8646726",
+            "45.9227866",
+            "3.0712281",
+            "3.1841558"
+        ]
+    }
+]

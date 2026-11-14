@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 87844407,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13633994468,
+        "lat": "44.5291669",
+        "lon": "5.0302177",
+        "category": "place",
+        "type": "quarter",
+        "place_rank": 20,
+        "importance": 0.13339495155260545,
+        "addresstype": "quarter",
+        "name": "Le Plan",
+        "display_name": "Le Plan, Le Poët-Laval, Nyons, Drôme, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 26160, Frankreich",
+        "address": {
+            "quarter": "Le Plan",
+            "village": "Le Poët-Laval",
+            "municipality": "Nyons",
+            "county": "Drôme",
+            "ISO3166-2-lvl6": "FR-26",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "26160",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.5191669",
+            "44.5391669",
+            "5.0202177",
+            "5.0402177"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 34292917,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 262708480,
+        "lat": "-33.8988889",
+        "lon": "18.9658333",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.2521482229732802,
+        "addresstype": "suburb",
+        "name": "Languedoc",
+        "display_name": "Languedoc, Stellenbosch Ward 3, Stellenbosch Local Municipality, Cape Winelands District Municipality, Westkap, 7681, Südafrika",
+        "address": {
+            "suburb": "Languedoc",
+            "city": "Stellenbosch Local Municipality",
+            "county": "Cape Winelands District Municipality",
+            "state": "Westkap",
+            "ISO3166-2-lvl4": "ZA-WC",
+            "postcode": "7681",
+            "country": "Südafrika",
+            "country_code": "za"
+        },
+        "boundingbox": [
+            "-33.9188889",
+            "-33.8788889",
+            "18.9458333",
+            "18.9858333"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 85835724,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 718485449,
+        "lat": "44.1519780",
+        "lon": "1.7538169",
+        "category": "highway",
+        "type": "footway",
+        "place_rank": 27,
+        "importance": 0.04005809948882276,
+        "addresstype": "road",
+        "name": "Rue Delphinat",
+        "display_name": "Rue Delphinat, La Condamine, Saint-Antonin-Noble-Val, Montauban, Tarn-et-Garonne, Okzitanien, Metropolitanes Frankreich, 82140, Frankreich",
+        "address": {
+            "road": "Rue Delphinat",
+            "hamlet": "La Condamine",
+            "village": "Saint-Antonin-Noble-Val",
+            "municipality": "Montauban",
+            "county": "Tarn-et-Garonne",
+            "ISO3166-2-lvl6": "FR-82",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "82140",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.1519277",
+            "44.1520139",
+            "1.7535703",
+            "1.7540607"
+        ]
+    }
+]

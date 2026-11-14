@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 280698178,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 201972075,
+        "lat": "51.2979675",
+        "lon": "-0.4738621",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 0.3113151607222326,
+        "addresstype": "building",
+        "name": "Ockham Park",
+        "display_name": "Ockham Park, Guileshill Lane, Bridge End, Ockham, Guildford, Surrey, England, GU23 6NG, Vereinigtes Königreich",
+        "address": {
+            "building": "Ockham Park",
+            "road": "Guileshill Lane",
+            "hamlet": "Bridge End",
+            "suburb": "Ockham",
+            "village": "Ockham",
+            "city": "Guildford",
+            "county": "Surrey",
+            "ISO3166-2-lvl6": "GB-SRY",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "GU23 6NG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.2976653",
+            "51.2982987",
+            "-0.4739516",
+            "-0.4729338"
+        ]
+    }
+]

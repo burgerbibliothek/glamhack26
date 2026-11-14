@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 88455018,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 344715578,
+        "lat": "45.8917008",
+        "lon": "6.9072290",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.38250674189122186,
+        "addresstype": "peak",
+        "name": "Aiguille du Plan",
+        "display_name": "Aiguille du Plan, Chamonix-Mont-Blanc, Bonneville, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74400, Frankreich",
+        "address": {
+            "peak": "Aiguille du Plan",
+            "town": "Chamonix-Mont-Blanc",
+            "municipality": "Bonneville",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.8916508",
+            "45.8917508",
+            "6.9071790",
+            "6.9072790"
+        ]
+    }
+]

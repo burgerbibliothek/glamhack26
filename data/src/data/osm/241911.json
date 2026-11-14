@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 94211531,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 80423,
+        "lat": "47.7817311",
+        "lon": "7.0088624",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.5342493152973423,
+        "addresstype": "city_district",
+        "name": "Masmünster",
+        "display_name": "Masmünster, Masevaux-Niederbruck, Thann-Gebweiler, Oberelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 68290, Frankreich",
+        "address": {
+            "city_district": "Masmünster",
+            "city": "Masevaux-Niederbruck",
+            "municipality": "Thann-Gebweiler",
+            "county": "Oberelsass",
+            "ISO3166-2-lvl6": "FR-68",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "68290",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.7410945",
+            "47.8223867",
+            "6.9222271",
+            "7.0304116"
+        ]
+    }
+]

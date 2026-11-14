@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 97845225,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1207191,
+        "lat": "48.5508514",
+        "lon": "2.1639559",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5070256130930981,
+        "addresstype": "city",
+        "name": "Breux-Jouy",
+        "display_name": "Breux-Jouy, Étampes, Essonne, Île-de-France, Metropolitanes Frankreich, 91650, Frankreich",
+        "address": {
+            "city": "Breux-Jouy",
+            "municipality": "Étampes",
+            "county": "Essonne",
+            "ISO3166-2-lvl6": "FR-91",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "91650",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.5365113",
+            "48.5654235",
+            "2.1385875",
+            "2.1817372"
+        ]
+    }
+]

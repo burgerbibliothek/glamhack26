@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 119669237,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 113136,
+        "lat": "48.6911344",
+        "lon": "6.4642569",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5756096053664224,
+        "addresstype": "village",
+        "name": "Serres",
+        "display_name": "Serres, Lunéville, Meurthe-et-Moselle, Groß-Osten, Metropolitanes Frankreich, 54370, Frankreich",
+        "address": {
+            "village": "Serres",
+            "municipality": "Lunéville",
+            "county": "Meurthe-et-Moselle",
+            "ISO3166-2-lvl6": "FR-54",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "54370",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.6671332",
+            "48.7195374",
+            "6.4237002",
+            "6.4862167"
+        ]
+    }
+]

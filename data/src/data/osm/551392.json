@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 89942808,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 184526,
+        "lat": "45.3501289",
+        "lon": "5.5047411",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.577942499003183,
+        "addresstype": "village",
+        "name": "Rives",
+        "display_name": "Rives, Grenoble, Isère, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 38140, Frankreich",
+        "address": {
+            "village": "Rives",
+            "municipality": "Grenoble",
+            "county": "Isère",
+            "ISO3166-2-lvl6": "FR-38",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "38140",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.3359893",
+            "45.3851897",
+            "5.4473010",
+            "5.5222542"
+        ]
+    }
+]

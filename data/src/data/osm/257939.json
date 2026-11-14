@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 88809336,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 205129729,
+        "lat": "45.8545219",
+        "lon": "6.8921639",
+        "category": "natural",
+        "type": "arete",
+        "place_rank": 22,
+        "importance": 0.39995219095429424,
+        "addresstype": "arete",
+        "name": "Aiguilles du Diable",
+        "display_name": "Aiguilles du Diable, Chamonix-Mont-Blanc, Bonneville, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74400, Frankreich",
+        "address": {
+            "arete": "Aiguilles du Diable",
+            "town": "Chamonix-Mont-Blanc",
+            "municipality": "Bonneville",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.8543421",
+            "45.8545834",
+            "6.8909713",
+            "6.8933439"
+        ]
+    }
+]

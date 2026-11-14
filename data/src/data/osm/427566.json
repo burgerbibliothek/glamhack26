@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 90912005,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 140520,
+        "lat": "46.1534255",
+        "lon": "5.6058987",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.577942499003183,
+        "addresstype": "village",
+        "name": "Nantua",
+        "display_name": "Nantua, Ain, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "village": "Nantua",
+            "municipality": "Nantua",
+            "county": "Ain",
+            "ISO3166-2-lvl6": "FR-01",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.1185935",
+            "46.1791437",
+            "5.5719344",
+            "5.6436174"
+        ]
+    }
+]

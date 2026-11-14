@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 119988671,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 904715,
+        "lat": "48.4602195",
+        "lon": "4.8430948",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.47916464822171495,
+        "addresstype": "city_district",
+        "name": "Robert-Magny",
+        "display_name": "Robert-Magny, La Porte du Der, Saint-Dizier, Haute-Marne, Groß-Osten, Metropolitanes Frankreich, 52220, Frankreich",
+        "address": {
+            "city_district": "Robert-Magny",
+            "city": "La Porte du Der",
+            "municipality": "Saint-Dizier",
+            "county": "Haute-Marne",
+            "ISO3166-2-lvl6": "FR-52",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "52220",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.4305843",
+            "48.4897354",
+            "4.8023846",
+            "4.8840440"
+        ]
+    }
+]

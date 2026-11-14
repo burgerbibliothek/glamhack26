@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 281005680,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 20992523,
+        "lat": "51.6553875",
+        "lon": "-0.3957425",
+        "category": "place",
+        "type": "town",
+        "place_rank": 18,
+        "importance": 0.5788034737277197,
+        "addresstype": "town",
+        "name": "Watford",
+        "display_name": "Watford, Hertfordshire, England, WD17 2DN, Vereinigtes Königreich",
+        "address": {
+            "town": "Watford",
+            "city": "Watford",
+            "county": "Hertfordshire",
+            "ISO3166-2-lvl6": "GB-HRT",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "WD17 2DN",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.6153875",
+            "51.6953875",
+            "-0.4357425",
+            "-0.3557425"
+        ]
+    }
+]

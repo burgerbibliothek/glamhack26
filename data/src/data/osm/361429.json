@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 81774795,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 270887367,
+        "lat": "42.1285849",
+        "lon": "9.1337639",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.27236747457604304,
+        "addresstype": "railway",
+        "name": "Vizzavona",
+        "display_name": "Vizzavona, D 523, Vizzavona Gare, Vivario, Corte, Oberkorsika, Korsika, Metropolitanes Frankreich, 20219, Frankreich",
+        "address": {
+            "railway": "Vizzavona",
+            "road": "D 523",
+            "hamlet": "Vizzavona Gare",
+            "village": "Vivario",
+            "municipality": "Corte",
+            "county": "Oberkorsika",
+            "ISO3166-2-lvl6": "FR-2B",
+            "state": "Korsika",
+            "ISO3166-2-lvl4": "FR-20R",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "20219",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "42.1235849",
+            "42.1335849",
+            "9.1287639",
+            "9.1387639"
+        ]
+    }
+]

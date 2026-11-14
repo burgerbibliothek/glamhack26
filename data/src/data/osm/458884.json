@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 100300293,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3018626,
+        "lat": "49.7246322",
+        "lon": "0.8808866",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5936544285967968,
+        "addresstype": "village",
+        "name": "Boudeville",
+        "display_name": "Boudeville, Rouen, Seine-Maritime, Normandie, Metropolitanes Frankreich, 76560, Frankreich",
+        "address": {
+            "village": "Boudeville",
+            "municipality": "Rouen",
+            "county": "Seine-Maritime",
+            "ISO3166-2-lvl6": "FR-76",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "76560",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.7090157",
+            "49.7315981",
+            "0.8530719",
+            "0.8934061"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 279080505,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 17859918,
+        "lat": "52.4081812",
+        "lon": "-1.5104770",
+        "category": "place",
+        "type": "city",
+        "place_rank": 16,
+        "importance": 0.6385928906954611,
+        "addresstype": "city",
+        "name": "Coventry",
+        "display_name": "Coventry, West Midlands, England, CV1 1LL, Vereinigtes Königreich",
+        "address": {
+            "city": "Coventry",
+            "ISO3166-2-lvl8": "GB-COV",
+            "state_district": "West Midlands",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "CV1 1LL",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "52.2481812",
+            "52.5681812",
+            "-1.6704770",
+            "-1.3504770"
+        ]
+    }
+]

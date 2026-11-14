@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 102869284,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1179579,
+        "lat": "50.3237921",
+        "lon": "2.4472663",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6178510372026241,
+        "addresstype": "village",
+        "name": "Maizières",
+        "display_name": "Maizières, Arras, Pas-de-Calais, Nordfrankreich, Metropolitanes Frankreich, 62127, Frankreich",
+        "address": {
+            "village": "Maizières",
+            "municipality": "Arras",
+            "county": "Pas-de-Calais",
+            "ISO3166-2-lvl6": "FR-62",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "62127",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.3066506",
+            "50.3368913",
+            "2.4192722",
+            "2.4618818"
+        ]
+    }
+]

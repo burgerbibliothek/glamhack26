@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 422787419,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 14027155999,
+        "lat": "57.0901319",
+        "lon": "-2.2244258",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13337852826733804,
+        "addresstype": "hamlet",
+        "name": "Kingcausie",
+        "display_name": "Kingcausie, Kirkton of Maryculter, Aberdeenshire, Schottland, AB12 5FR, Vereinigtes Königreich",
+        "address": {
+            "hamlet": "Kingcausie",
+            "village": "Kirkton of Maryculter",
+            "county": "Aberdeenshire",
+            "ISO3166-2-lvl6": "GB-ABD",
+            "state": "Schottland",
+            "ISO3166-2-lvl4": "GB-SCT",
+            "postcode": "AB12 5FR",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "57.0701319",
+            "57.1101319",
+            "-2.2444258",
+            "-2.2044258"
+        ]
+    }
+]

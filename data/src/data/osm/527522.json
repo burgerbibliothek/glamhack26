@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 82388773,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 48645,
+        "lat": "43.8757936",
+        "lon": "5.3970648",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5380582956255238,
+        "addresstype": "town",
+        "name": "Apt",
+        "display_name": "Apt, Vaucluse, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 84400, Frankreich",
+        "address": {
+            "town": "Apt",
+            "municipality": "Apt",
+            "county": "Vaucluse",
+            "ISO3166-2-lvl6": "FR-84",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "84400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.8417696",
+            "43.9209023",
+            "5.3063858",
+            "5.4565767"
+        ]
+    }
+]

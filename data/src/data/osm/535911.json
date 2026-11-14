@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 88474098,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 106731,
+        "lat": "45.9831374",
+        "lon": "7.0004814",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.3834517876427295,
+        "addresstype": "glacier",
+        "name": "Glacier du Tour",
+        "display_name": "Glacier du Tour, Chamonix-Mont-Blanc, Bonneville, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74400, Frankreich",
+        "address": {
+            "glacier": "Glacier du Tour",
+            "town": "Chamonix-Mont-Blanc",
+            "municipality": "Bonneville",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.9685160",
+            "45.9991667",
+            "6.9715118",
+            "7.0231020"
+        ]
+    }
+]

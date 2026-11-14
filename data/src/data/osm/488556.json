@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 88295977,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 929248500,
+        "lat": "44.1496824",
+        "lon": "7.5618775",
+        "category": "mountain_pass",
+        "type": "yes",
+        "place_rank": 20,
+        "importance": 0.43745051855579875,
+        "addresstype": "mountain_pass",
+        "name": "Tenda-Pass",
+        "display_name": "Tenda-Pass, Limone Piemonte, Cuneo, Piemont, Italien",
+        "address": {
+            "mountain_pass": "Tenda-Pass",
+            "city": "Limone Piemonte",
+            "county": "Cuneo",
+            "ISO3166-2-lvl6": "IT-CN",
+            "state": "Piemont",
+            "ISO3166-2-lvl4": "IT-21",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "44.1496324",
+            "44.1497324",
+            "7.5618275",
+            "7.5619275"
+        ]
+    }
+]

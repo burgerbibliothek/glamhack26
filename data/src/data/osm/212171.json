@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 427812015,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 88071,
+        "lat": "51.2070749",
+        "lon": "0.7210362",
+        "category": "boundary",
+        "type": "ceremonial",
+        "place_rank": 25,
+        "importance": 0.7110381037126606,
+        "addresstype": "ceremonial",
+        "name": "Kent",
+        "display_name": "Kent, England, Vereinigtes Königreich",
+        "address": {
+            "ceremonial": "Kent",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "50.9104763",
+            "51.5036817",
+            "0.0335249",
+            "1.4517689"
+        ]
+    }
+]

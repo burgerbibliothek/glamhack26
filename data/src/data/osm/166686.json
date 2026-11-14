@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 93445837,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 389390,
+        "lat": "47.5863563",
+        "lon": "7.2533811",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.559565828355552,
+        "addresstype": "village",
+        "name": "Hirsingen",
+        "display_name": "Hirsingen, Altkirch, Oberelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 68560, Frankreich",
+        "address": {
+            "village": "Hirsingen",
+            "municipality": "Altkirch",
+            "county": "Oberelsass",
+            "ISO3166-2-lvl6": "FR-68",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "68560",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.5608380",
+            "47.6084073",
+            "7.2068402",
+            "7.2877705"
+        ]
+    }
+]

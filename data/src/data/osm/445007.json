@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 96734100,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 410608,
+        "lat": "48.1758188",
+        "lon": "2.8738344",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5738498711858794,
+        "addresstype": "village",
+        "name": "Égreville",
+        "display_name": "Égreville, Fontainebleau, Seine-et-Marne, Île-de-France, Metropolitanes Frankreich, 77620, Frankreich",
+        "address": {
+            "village": "Égreville",
+            "municipality": "Fontainebleau",
+            "county": "Seine-et-Marne",
+            "ISO3166-2-lvl6": "FR-77",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "77620",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.1553920",
+            "48.2159834",
+            "2.8375026",
+            "2.9365650"
+        ]
+    }
+]

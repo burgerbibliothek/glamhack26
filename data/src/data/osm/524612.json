@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 373116956,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 151516568,
+        "lat": "46.3890880",
+        "lon": "-90.7344140",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.2562004762132184,
+        "addresstype": "hamlet",
+        "name": "Highbridge",
+        "display_name": "Highbridge, Town of Ashland, Ashland County, Wisconsin, 54846, Vereinigte Staaten von Amerika",
+        "address": {
+            "hamlet": "Highbridge",
+            "city": "Town of Ashland",
+            "county": "Ashland County",
+            "state": "Wisconsin",
+            "ISO3166-2-lvl4": "US-WI",
+            "postcode": "54846",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "46.3690880",
+            "46.4090880",
+            "-90.7544140",
+            "-90.7144140"
+        ]
+    }
+]

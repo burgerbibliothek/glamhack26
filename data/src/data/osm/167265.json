@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 91356875,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 69011733,
+        "lat": "46.3705124",
+        "lon": "6.3276094",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.09078915819201436,
+        "addresstype": "amenity",
+        "name": "Église Saint-Pancrace",
+        "display_name": "Église Saint-Pancrace, Rue du Moulin, Le Pré Ponce, Yvoire, Thonon-les-Bains, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74140, Frankreich",
+        "address": {
+            "amenity": "Église Saint-Pancrace",
+            "road": "Rue du Moulin",
+            "hamlet": "Le Pré Ponce",
+            "village": "Yvoire",
+            "municipality": "Thonon-les-Bains",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74140",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.3704266",
+            "46.3705954",
+            "6.3274250",
+            "6.3277934"
+        ]
+    }
+]

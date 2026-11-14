@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 87903164,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 87515,
+        "lat": "44.7352708",
+        "lon": "4.5986733",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5756495082064352,
+        "addresstype": "town",
+        "name": "Privas",
+        "display_name": "Privas, Ardèche, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 07000, Frankreich",
+        "address": {
+            "town": "Privas",
+            "municipality": "Privas",
+            "county": "Ardèche",
+            "ISO3166-2-lvl6": "FR-07",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "07000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.6966661",
+            "44.7457123",
+            "4.5699449",
+            "4.6197387"
+        ]
+    }
+]

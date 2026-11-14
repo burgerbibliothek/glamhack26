@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 121295182,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 14218398,
+        "lat": "48.4098331",
+        "lon": "7.0684799",
+        "category": "boundary",
+        "type": "natural",
+        "place_rank": 18,
+        "importance": 0.5866321479289093,
+        "addresstype": "region",
+        "name": "Vogesen",
+        "display_name": "Vogesen, Groß-Osten, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "region": "Vogesen",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.6952057",
+            "49.1270186",
+            "6.4390831",
+            "7.9122160"
+        ]
+    }
+]

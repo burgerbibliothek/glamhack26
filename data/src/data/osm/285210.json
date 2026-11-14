@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 99533160,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 374796,
+        "lat": "49.2789504",
+        "lon": "1.7778260",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5951374660949039,
+        "addresstype": "town",
+        "name": "Gisors",
+        "display_name": "Gisors, Les Andelys, Eure, Normandie, Metropolitanes Frankreich, 27140, Frankreich",
+        "address": {
+            "town": "Gisors",
+            "municipality": "Les Andelys",
+            "county": "Eure",
+            "ISO3166-2-lvl6": "FR-27",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "27140",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.2467045",
+            "49.3082822",
+            "1.7254552",
+            "1.8028556"
+        ]
+    }
+]

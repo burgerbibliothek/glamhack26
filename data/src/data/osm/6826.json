@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 274989468,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3745390656,
+        "lat": "55.1231397",
+        "lon": "-7.4378306",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06673114290074006,
+        "addresstype": "locality",
+        "name": "Boyne Hill",
+        "display_name": "Boyne Hill, Buncrana Rural ED, Inishowen Municipal District, County Donegal, Ulster, Irland",
+        "address": {
+            "locality": "Boyne Hill",
+            "city_district": "Buncrana Rural ED",
+            "region": "Inishowen Municipal District",
+            "county": "County Donegal",
+            "ISO3166-2-lvl6": "IE-DL",
+            "ISO3166-2-lvl5": "IE-U",
+            "country": "Irland",
+            "country_code": "ie"
+        },
+        "boundingbox": [
+            "55.1131397",
+            "55.1331397",
+            "-7.4478306",
+            "-7.4278306"
+        ]
+    }
+]

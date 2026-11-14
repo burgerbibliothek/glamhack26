@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 44981229,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1192695373,
+        "lat": "21.4865419",
+        "lon": "39.1840388",
+        "category": "landuse",
+        "type": "residential",
+        "place_rank": 24,
+        "importance": 0.43712059073386417,
+        "addresstype": "residential",
+        "name": "Historisch Jeddah",
+        "display_name": "Historisch Jeddah, Dschidda, Gouvernement Dschidda, Provinz Mekka, Saudi-Arabien",
+        "address": {
+            "residential": "Historisch Jeddah",
+            "city": "Dschidda",
+            "county": "Gouvernement Dschidda",
+            "state": "Provinz Mekka",
+            "ISO3166-2-lvl4": "SA-02",
+            "country": "Saudi-Arabien",
+            "country_code": "sa"
+        },
+        "boundingbox": [
+            "21.4772046",
+            "21.4958391",
+            "39.1759786",
+            "39.1931278"
+        ]
+    }
+]

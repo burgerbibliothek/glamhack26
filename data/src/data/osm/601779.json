@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 292361481,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1468674518,
+        "lat": "42.4783742",
+        "lon": "-1.6462681",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05339496070801858,
+        "addresstype": "residential",
+        "name": "Paseo de Sauveterre de Guyenne",
+        "display_name": "Paseo de Sauveterre de Guyenne, Olite / Erriberri, Erdialdea, Navarra, 31390, Spanien",
+        "address": {
+            "road": "Paseo de Sauveterre de Guyenne",
+            "village": "Olite / Erriberri",
+            "county": "Erdialdea",
+            "state": "Navarra",
+            "ISO3166-2-lvl6": "ES-NA",
+            "ISO3166-2-lvl4": "ES-NC",
+            "postcode": "31390",
+            "country": "Spanien",
+            "country_code": "es"
+        },
+        "boundingbox": [
+            "42.4783464",
+            "42.4784021",
+            "-1.6463055",
+            "-1.6462308"
+        ]
+    }
+]

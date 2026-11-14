@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91228259,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1808553692,
+        "lat": "46.3317588",
+        "lon": "6.7468588",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1600591523613336,
+        "addresstype": "peak",
+        "name": "Mont de Chillon",
+        "display_name": "Mont de Chillon, Vacheresse, Thonon-les-Bains, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74360, Frankreich",
+        "address": {
+            "peak": "Mont de Chillon",
+            "village": "Vacheresse",
+            "municipality": "Thonon-les-Bains",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74360",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.3317088",
+            "46.3318088",
+            "6.7468088",
+            "6.7469088"
+        ]
+    }
+]

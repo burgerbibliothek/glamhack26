@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 20384009,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9684323002,
+        "lat": "-36.1329945",
+        "lon": "149.1205525",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.1600454360265507,
+        "addresstype": "peak",
+        "name": "Hanger Hill",
+        "display_name": "Hanger Hill, Neusüdwales, Australien",
+        "address": {
+            "peak": "Hanger Hill",
+            "state": "Neusüdwales",
+            "ISO3166-2-lvl4": "AU-NSW",
+            "country": "Australien",
+            "country_code": "au"
+        },
+        "boundingbox": [
+            "-36.1330445",
+            "-36.1329445",
+            "149.1205025",
+            "149.1206025"
+        ]
+    }
+]

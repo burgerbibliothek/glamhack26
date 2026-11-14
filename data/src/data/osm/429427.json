@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 90049027,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 7437,
+        "lat": "45.2897932",
+        "lon": "5.6343825",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.6748390578118775,
+        "addresstype": "county",
+        "name": "Isère",
+        "display_name": "Isère, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "county": "Isère",
+            "ISO3166-2-lvl6": "FR-38",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.6958924",
+            "45.8836353",
+            "4.7415728",
+            "6.3590884"
+        ]
+    }
+]

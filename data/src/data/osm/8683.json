@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 293620772,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 531269292,
+        "lat": "50.7588136",
+        "lon": "-1.2983610",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.05339045471885249,
+        "addresstype": "residential",
+        "name": "West Hill Grove",
+        "display_name": "West Hill Grove, Cowes, Isle of Wight, England, PO31 7EF, Vereinigtes Königreich",
+        "address": {
+            "road": "West Hill Grove",
+            "town": "Cowes",
+            "county": "Isle of Wight",
+            "ISO3166-2-lvl6": "GB-IOW",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "PO31 7EF",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "50.7584947",
+            "50.7590770",
+            "-1.2986746",
+            "-1.2981218"
+        ]
+    }
+]

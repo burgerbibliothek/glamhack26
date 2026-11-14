@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 98514105,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1268387,
+        "lat": "49.9401534",
+        "lon": "1.7261888",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5920206279021614,
+        "addresstype": "village",
+        "name": "Villeroy",
+        "display_name": "Villeroy, Amiens, Somme, Nordfrankreich, Metropolitanes Frankreich, 80140, Frankreich",
+        "address": {
+            "village": "Villeroy",
+            "municipality": "Amiens",
+            "county": "Somme",
+            "ISO3166-2-lvl6": "FR-80",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "80140",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.9232692",
+            "49.9564834",
+            "1.7062778",
+            "1.7464607"
+        ]
+    }
+]

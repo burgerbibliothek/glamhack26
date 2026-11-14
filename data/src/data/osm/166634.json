@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 101330143,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 139610,
+        "lat": "51.0347708",
+        "lon": "2.3772525",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6513387786177546,
+        "addresstype": "city",
+        "name": "Dünkirchen",
+        "display_name": "Dünkirchen, Nord, Nordfrankreich, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "city": "Dünkirchen",
+            "municipality": "Dünkirchen",
+            "county": "Nord",
+            "ISO3166-2-lvl6": "FR-59",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.9759801",
+            "51.0581006",
+            "2.2397196",
+            "2.4465017"
+        ]
+    }
+]

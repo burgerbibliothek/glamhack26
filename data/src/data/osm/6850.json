@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 281368627,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1326762432,
+        "lat": "50.8214626",
+        "lon": "-0.1400561",
+        "category": "place",
+        "type": "city",
+        "place_rank": 16,
+        "importance": 0.6542525418875271,
+        "addresstype": "city",
+        "name": "Brighton",
+        "display_name": "Brighton, Brighton and Hove, England, BN1 1HJ, Vereinigtes Königreich",
+        "address": {
+            "city": "Brighton",
+            "county": "Brighton and Hove",
+            "ISO3166-2-lvl6": "GB-BNH",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "BN1 1HJ",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "50.6614626",
+            "50.9814626",
+            "-0.3000561",
+            "0.0199439"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 290943222,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 167718,
+        "lat": "43.1922408",
+        "lon": "-0.6115586",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5993812522639304,
+        "addresstype": "town",
+        "name": "Oloron-Sainte-Marie",
+        "display_name": "Oloron-Sainte-Marie, Pyrenäen-Atlantik, Neu-Aquitanien, Metropolitanes Frankreich, 64400, Frankreich",
+        "address": {
+            "town": "Oloron-Sainte-Marie",
+            "municipality": "Oloron-Sainte-Marie",
+            "county": "Pyrenäen-Atlantik",
+            "ISO3166-2-lvl6": "FR-64",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "64400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.0859982",
+            "43.2496681",
+            "-0.6894562",
+            "-0.5013621"
+        ]
+    }
+]

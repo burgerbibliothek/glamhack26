@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 425591832,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 21262489,
+        "lat": "51.5501355",
+        "lon": "-0.1408009",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.47708681271515835,
+        "addresstype": "suburb",
+        "name": "Kentish Town",
+        "display_name": "Kentish Town, London Borough of Camden, Groß-London, England, Vereinigtes Königreich",
+        "address": {
+            "suburb": "Kentish Town",
+            "city_district": "London Borough of Camden",
+            "ISO3166-2-lvl8": "GB-CMD",
+            "city": "Groß-London",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.5418130",
+            "51.5572990",
+            "-0.1587723",
+            "-0.1290923"
+        ]
+    }
+]

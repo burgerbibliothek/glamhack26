@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 88374121,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 148157,
+        "lat": "44.0554043",
+        "lon": "5.0487681",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5588479762060754,
+        "addresstype": "town",
+        "name": "Carpentras",
+        "display_name": "Carpentras, Vaucluse, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 84200, Frankreich",
+        "address": {
+            "town": "Carpentras",
+            "municipality": "Carpentras",
+            "county": "Vaucluse",
+            "ISO3166-2-lvl6": "FR-84",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "84200",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.0223396",
+            "44.1034231",
+            "5.0149369",
+            "5.1017856"
+        ]
+    }
+]

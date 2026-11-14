@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 119584245,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 113079,
+        "lat": "48.6762624",
+        "lon": "5.8941759",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6113736269723354,
+        "addresstype": "town",
+        "name": "Toul",
+        "display_name": "Toul, Meurthe-et-Moselle, Groß-Osten, Metropolitanes Frankreich, 54200, Frankreich",
+        "address": {
+            "town": "Toul",
+            "municipality": "Toul",
+            "county": "Meurthe-et-Moselle",
+            "ISO3166-2-lvl6": "FR-54",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "54200",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.6302619",
+            "48.7285562",
+            "5.8547394",
+            "5.9412285"
+        ]
+    }
+]

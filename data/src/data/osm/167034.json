@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 93531769,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 38246,
+        "lat": "47.7467233",
+        "lon": "7.3389937",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6414220858040396,
+        "addresstype": "city",
+        "name": "Mülhausen",
+        "display_name": "Mülhausen, Oberelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "city": "Mülhausen",
+            "municipality": "Mülhausen",
+            "county": "Oberelsass",
+            "ISO3166-2-lvl6": "FR-68",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.7218791",
+            "47.7833721",
+            "7.2824940",
+            "7.3686272"
+        ]
+    }
+]

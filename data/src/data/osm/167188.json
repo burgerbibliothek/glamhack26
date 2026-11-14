@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 119865827,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 60638901,
+        "lat": "48.9000358",
+        "lon": "6.0507898",
+        "category": "railway",
+        "type": "stop",
+        "place_rank": 30,
+        "importance": 6.537651636525548e-05,
+        "addresstype": "railway",
+        "name": "Moselbrück",
+        "display_name": "Moselbrück, Place Thiers, Centre ville, Pont-à-Mousson, Nancy, Meurthe-et-Moselle, Groß-Osten, Metropolitanes Frankreich, 54700, Frankreich",
+        "address": {
+            "railway": "Moselbrück",
+            "road": "Place Thiers",
+            "suburb": "Centre ville",
+            "town": "Pont-à-Mousson",
+            "municipality": "Nancy",
+            "county": "Meurthe-et-Moselle",
+            "ISO3166-2-lvl6": "FR-54",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "54700",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8999858",
+            "48.9000858",
+            "6.0507398",
+            "6.0508398"
+        ]
+    }
+]

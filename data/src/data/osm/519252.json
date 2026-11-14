@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 99830030,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2687236540,
+        "lat": "49.3819136",
+        "lon": "0.1019715",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.19283288150311992,
+        "addresstype": "hamlet",
+        "name": "Hennequeville",
+        "display_name": "Hennequeville, Trouville-sur-Mer, Lisieux, Calvados, Normandie, Metropolitanes Frankreich, 14360, Frankreich",
+        "address": {
+            "hamlet": "Hennequeville",
+            "village": "Trouville-sur-Mer",
+            "municipality": "Lisieux",
+            "county": "Calvados",
+            "ISO3166-2-lvl6": "FR-14",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "14360",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.3619136",
+            "49.4019136",
+            "0.0819715",
+            "0.1219715"
+        ]
+    }
+]

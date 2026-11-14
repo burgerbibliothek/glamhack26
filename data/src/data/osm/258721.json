@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 99786048,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 543082,
+        "lat": "49.0268903",
+        "lon": "1.1510164",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6279202649642787,
+        "addresstype": "town",
+        "name": "Évreux",
+        "display_name": "Évreux, Eure, Normandie, Metropolitanes Frankreich, 27000, Frankreich",
+        "address": {
+            "town": "Évreux",
+            "municipality": "Évreux",
+            "county": "Eure",
+            "ISO3166-2-lvl6": "FR-27",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "27000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.9890824",
+            "49.0469103",
+            "1.0893795",
+            "1.1915861"
+        ]
+    }
+]

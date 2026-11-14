@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 120975157,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 71033,
+        "lat": "48.5846140",
+        "lon": "7.7507127",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.7372988337549014,
+        "addresstype": "city",
+        "name": "Straßburg",
+        "display_name": "Straßburg, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "city": "Straßburg",
+            "municipality": "Straßburg",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.4919357",
+            "48.6461896",
+            "7.6881371",
+            "7.8360646"
+        ]
+    }
+]

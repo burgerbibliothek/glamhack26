@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 283538843,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1405839,
+        "lat": "48.6420518",
+        "lon": "-0.2109440",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5694952943834666,
+        "addresstype": "village",
+        "name": "Rânes",
+        "display_name": "Rânes, Argentan, Orne, Normandie, Metropolitanes Frankreich, 61150, Frankreich",
+        "address": {
+            "village": "Rânes",
+            "municipality": "Argentan",
+            "county": "Orne",
+            "ISO3166-2-lvl6": "FR-61",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "61150",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.6073885",
+            "48.6774231",
+            "-0.2702260",
+            "-0.1685838"
+        ]
+    }
+]

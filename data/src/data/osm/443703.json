@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 274359922,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 21091709,
+        "lat": "56.1181242",
+        "lon": "-3.9360012",
+        "category": "place",
+        "type": "city",
+        "place_rank": 16,
+        "importance": 0.5782978264769929,
+        "addresstype": "city",
+        "name": "Stirling",
+        "display_name": "Stirling, Schottland, FK8 2DD, Vereinigtes Königreich",
+        "address": {
+            "city": "Stirling",
+            "county": "Stirling",
+            "ISO3166-2-lvl6": "GB-STG",
+            "state": "Schottland",
+            "ISO3166-2-lvl4": "GB-SCT",
+            "postcode": "FK8 2DD",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "55.9581242",
+            "56.2781242",
+            "-4.0960012",
+            "-3.7760012"
+        ]
+    }
+]

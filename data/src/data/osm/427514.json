@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 287428468,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 182415,
+        "lat": "47.2733517",
+        "lon": "-2.2138905",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6005234779678092,
+        "addresstype": "town",
+        "name": "Saint-Nazaire",
+        "display_name": "Saint-Nazaire, Loire-Atlantique, Pays de la Loire, Metropolitanes Frankreich, 44600, Frankreich",
+        "address": {
+            "town": "Saint-Nazaire",
+            "municipality": "Saint-Nazaire",
+            "county": "Loire-Atlantique",
+            "ISO3166-2-lvl6": "FR-44",
+            "state": "Pays de la Loire",
+            "ISO3166-2-lvl4": "FR-PDL",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "44600",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.2332011",
+            "47.3205858",
+            "-2.3106603",
+            "-2.1800264"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 97677896,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 85802,
+        "lat": "48.8846830",
+        "lon": "2.2695658",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6357117079663522,
+        "addresstype": "town",
+        "name": "Neuilly-sur-Seine",
+        "display_name": "Neuilly-sur-Seine, Nanterre, Hauts-de-Seine, Île-de-France, Metropolitanes Frankreich, 92200, Frankreich",
+        "address": {
+            "town": "Neuilly-sur-Seine",
+            "municipality": "Nanterre",
+            "county": "Hauts-de-Seine",
+            "ISO3166-2-lvl6": "FR-92",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "92200",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8740806",
+            "48.8983695",
+            "2.2456228",
+            "2.2844692"
+        ]
+    }
+]

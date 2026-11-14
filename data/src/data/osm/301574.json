@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 99783541,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2673357,
+        "lat": "49.7074621",
+        "lon": "0.2031905",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6005030111097401,
+        "addresstype": "village",
+        "name": "Étretat",
+        "display_name": "Étretat, Le Havre, Seine-Maritime, Normandie, Metropolitanes Frankreich, 76790, Frankreich",
+        "address": {
+            "village": "Étretat",
+            "municipality": "Le Havre",
+            "county": "Seine-Maritime",
+            "ISO3166-2-lvl6": "FR-76",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "76790",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.6916535",
+            "49.7177631",
+            "0.1817103",
+            "0.2261389"
+        ]
+    }
+]

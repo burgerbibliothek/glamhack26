@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 93910114,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 946608,
+        "lat": "47.8479819",
+        "lon": "4.0851241",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5594892909091955,
+        "addresstype": "village",
+        "name": "Tanlay",
+        "display_name": "Tanlay, Avallon, Yonne, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 89430, Frankreich",
+        "address": {
+            "village": "Tanlay",
+            "municipality": "Avallon",
+            "county": "Yonne",
+            "ISO3166-2-lvl6": "FR-89",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "89430",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.8106054",
+            "47.8861949",
+            "4.0097710",
+            "4.1557612"
+        ]
+    }
+]

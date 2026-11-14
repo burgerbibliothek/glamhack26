@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 95828042,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6506984291,
+        "lat": "46.4610532",
+        "lon": "0.1569044",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339285954070343,
+        "addresstype": "hamlet",
+        "name": "Touffou",
+        "display_name": "Touffou, Cloué, Poitiers, Vienne, Neu-Aquitanien, Metropolitanes Frankreich, 86600, Frankreich",
+        "address": {
+            "hamlet": "Touffou",
+            "village": "Cloué",
+            "municipality": "Poitiers",
+            "county": "Vienne",
+            "ISO3166-2-lvl6": "FR-86",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "86600",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.4410532",
+            "46.4810532",
+            "0.1369044",
+            "0.1769044"
+        ]
+    }
+]

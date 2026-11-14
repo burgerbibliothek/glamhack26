@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 95974948,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 105284,
+        "lat": "47.1667182",
+        "lon": "0.2402095",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5675720699713815,
+        "addresstype": "town",
+        "name": "Chinon",
+        "display_name": "Chinon, Indre-et-Loire, Zentrum-Loiretal, Metropolitanes Frankreich, 37500, Frankreich",
+        "address": {
+            "town": "Chinon",
+            "municipality": "Chinon",
+            "county": "Indre-et-Loire",
+            "ISO3166-2-lvl6": "FR-37",
+            "state": "Zentrum-Loiretal",
+            "ISO3166-2-lvl4": "FR-CVL",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "37500",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.1308976",
+            "47.2075624",
+            "0.1888891",
+            "0.2976345"
+        ]
+    }
+]

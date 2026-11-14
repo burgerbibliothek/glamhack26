@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 90721093,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 142223,
+        "lat": "46.0597000",
+        "lon": "5.6051500",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5694185626416541,
+        "addresstype": "village",
+        "name": "Brénod",
+        "display_name": "Brénod, Nantua, Ain, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 01110, Frankreich",
+        "address": {
+            "village": "Brénod",
+            "municipality": "Nantua",
+            "county": "Ain",
+            "ISO3166-2-lvl6": "FR-01",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "01110",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.0398505",
+            "46.1186200",
+            "5.5816809",
+            "5.6413191"
+        ]
+    }
+]

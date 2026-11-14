@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 86564973,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 146357,
+        "lat": "44.2015827",
+        "lon": "0.6176112",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6071604494835512,
+        "addresstype": "town",
+        "name": "Agen",
+        "display_name": "Agen, Lot-et-Garonne, Neu-Aquitanien, Metropolitanes Frankreich, 47000, Frankreich",
+        "address": {
+            "town": "Agen",
+            "municipality": "Agen",
+            "county": "Lot-et-Garonne",
+            "ISO3166-2-lvl6": "FR-47",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "47000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.1782874",
+            "44.2237801",
+            "0.6026662",
+            "0.6576922"
+        ]
+    }
+]

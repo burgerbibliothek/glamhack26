@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 273396834,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 619431699,
+        "lat": "57.4232096",
+        "lon": "-4.5741700",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13336833524071104,
+        "addresstype": "hamlet",
+        "name": "Eskadale",
+        "display_name": "Eskadale, Highland, Schottland, Vereinigtes Königreich",
+        "address": {
+            "hamlet": "Eskadale",
+            "county": "Highland",
+            "ISO3166-2-lvl6": "GB-HLD",
+            "state": "Schottland",
+            "ISO3166-2-lvl4": "GB-SCT",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "57.4032096",
+            "57.4432096",
+            "-4.5941700",
+            "-4.5541700"
+        ]
+    }
+]

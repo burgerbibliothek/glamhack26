@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 276028707,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 322700657,
+        "lat": "55.6736271",
+        "lon": "-3.7780361",
+        "category": "place",
+        "type": "town",
+        "place_rank": 18,
+        "importance": 0.46552270554444963,
+        "addresstype": "town",
+        "name": "Lanark",
+        "display_name": "Lanark, South Lanarkshire, Schottland, ML11 7EX, Vereinigtes Königreich",
+        "address": {
+            "town": "Lanark",
+            "county": "South Lanarkshire",
+            "ISO3166-2-lvl6": "GB-SLK",
+            "state": "Schottland",
+            "ISO3166-2-lvl4": "GB-SCT",
+            "postcode": "ML11 7EX",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "55.6336271",
+            "55.7136271",
+            "-3.8180361",
+            "-3.7380361"
+        ]
+    }
+]

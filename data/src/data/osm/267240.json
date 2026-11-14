@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 90728516,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 539500,
+        "lat": "46.4904567",
+        "lon": "4.6728780",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5699429266838023,
+        "addresstype": "village",
+        "name": "Massilly",
+        "display_name": "Massilly, Mâcon, Saône-et-Loire, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 71250, Frankreich",
+        "address": {
+            "village": "Massilly",
+            "municipality": "Mâcon",
+            "county": "Saône-et-Loire",
+            "ISO3166-2-lvl6": "FR-71",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "71250",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.4767441",
+            "46.5043446",
+            "4.6533658",
+            "4.6867873"
+        ]
+    }
+]

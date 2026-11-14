@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 97650561,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 109361,
+        "lat": "48.8387639",
+        "lon": "2.4916592",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.548403626801446,
+        "addresstype": "town",
+        "name": "Nogent-sur-Marne",
+        "display_name": "Nogent-sur-Marne, Val-de-Marne, Île-de-France, Metropolitanes Frankreich, 94130, Frankreich",
+        "address": {
+            "town": "Nogent-sur-Marne",
+            "municipality": "Nogent-sur-Marne",
+            "county": "Val-de-Marne",
+            "ISO3166-2-lvl6": "FR-94",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "94130",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8261621",
+            "48.8478019",
+            "2.4645142",
+            "2.4976198"
+        ]
+    }
+]

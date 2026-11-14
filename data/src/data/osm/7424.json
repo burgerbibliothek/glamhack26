@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 100752129,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2580090,
+        "lat": "51.0691871",
+        "lon": "1.0840382",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.4807552415105173,
+        "addresstype": "town",
+        "name": "Hythe",
+        "display_name": "Hythe, Folkestone and Hythe, Kent, England, Vereinigtes Königreich",
+        "address": {
+            "town": "Hythe",
+            "city": "Folkestone and Hythe",
+            "county": "Kent",
+            "ISO3166-2-lvl6": "GB-KEN",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.0466435",
+            "51.0896115",
+            "1.0221437",
+            "1.1289516"
+        ]
+    }
+]

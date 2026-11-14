@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 119603160,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 918583,
+        "lat": "48.8015469",
+        "lon": "4.9196978",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5698013254737292,
+        "addresstype": "village",
+        "name": "Remennecourt",
+        "display_name": "Remennecourt, Bar-le-Duc, Meuse, Groß-Osten, Metropolitanes Frankreich, 55800, Frankreich",
+        "address": {
+            "village": "Remennecourt",
+            "municipality": "Bar-le-Duc",
+            "county": "Meuse",
+            "ISO3166-2-lvl6": "FR-55",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "55800",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.7898693",
+            "48.8085086",
+            "4.8930632",
+            "4.9347326"
+        ]
+    }
+]

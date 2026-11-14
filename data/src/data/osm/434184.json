@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 86129497,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 74425,
+        "lat": "44.1353979",
+        "lon": "0.3392503",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5543949307649998,
+        "addresstype": "village",
+        "name": "Nérac",
+        "display_name": "Nérac, Lot-et-Garonne, Neu-Aquitanien, Metropolitanes Frankreich, 47600, Frankreich",
+        "address": {
+            "village": "Nérac",
+            "municipality": "Nérac",
+            "county": "Lot-et-Garonne",
+            "ISO3166-2-lvl6": "FR-47",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "47600",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.0891710",
+            "44.1784647",
+            "0.2791515",
+            "0.4147274"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 284353438,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 297387,
+        "lat": "48.5824932",
+        "lon": "-3.8331972",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5757491590688528,
+        "addresstype": "town",
+        "name": "Morlaix",
+        "display_name": "Morlaix, Finistère, Bretagne, Metropolitanes Frankreich, 29600, Frankreich",
+        "address": {
+            "town": "Morlaix",
+            "municipality": "Morlaix",
+            "county": "Finistère",
+            "ISO3166-2-lvl6": "FR-29",
+            "state": "Bretagne",
+            "ISO3166-2-lvl4": "FR-BRE",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "29600",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.5637375",
+            "48.6301348",
+            "-3.8596302",
+            "-3.7835282"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 123530619,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 932926,
+        "lat": "48.8632757",
+        "lon": "8.0844618",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5907818139512858,
+        "addresstype": "village",
+        "name": "Beinheim",
+        "display_name": "Beinheim, Hagenau-Weißenburg, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67930, Frankreich",
+        "address": {
+            "village": "Beinheim",
+            "municipality": "Hagenau-Weißenburg",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67930",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8283562",
+            "48.8749020",
+            "8.0589411",
+            "8.1215643"
+        ]
+    }
+]

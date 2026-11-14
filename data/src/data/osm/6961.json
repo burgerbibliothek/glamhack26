@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 356991465,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 170728,
+        "lat": "40.8584328",
+        "lon": "-74.1637553",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5018498929470575,
+        "addresstype": "city",
+        "name": "Clifton",
+        "display_name": "Clifton, Passaic County, New Jersey, Vereinigte Staaten von Amerika",
+        "address": {
+            "city": "Clifton",
+            "county": "Passaic County",
+            "state": "New Jersey",
+            "ISO3166-2-lvl4": "US-NJ",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "40.8199335",
+            "40.8993980",
+            "-74.1977340",
+            "-74.1178040"
+        ]
+    }
+]

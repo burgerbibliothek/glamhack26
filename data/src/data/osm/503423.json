@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 289584452,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 124655,
+        "lat": "45.2842853",
+        "lon": "-0.3082856",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5672100553870034,
+        "addresstype": "village",
+        "name": "Polignac",
+        "display_name": "Polignac, Jonzac, Charente-Maritime, Neu-Aquitanien, Metropolitanes Frankreich, 17210, Frankreich",
+        "address": {
+            "village": "Polignac",
+            "municipality": "Jonzac",
+            "county": "Charente-Maritime",
+            "ISO3166-2-lvl6": "FR-17",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "17210",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.2685570",
+            "45.2908656",
+            "-0.3280526",
+            "-0.2860437"
+        ]
+    }
+]

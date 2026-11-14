@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 283843040,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 127864,
+        "lat": "50.9025349",
+        "lon": "-1.4041890",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.6611172127446537,
+        "addresstype": "city",
+        "name": "Southampton",
+        "display_name": "Southampton, England, Vereinigtes Königreich",
+        "address": {
+            "city": "Southampton",
+            "ISO3166-2-lvl6": "GB-STH",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "50.8715095",
+            "50.9561307",
+            "-1.4790050",
+            "-1.3219862"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 121322943,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 48648085,
+        "lat": "48.0751262",
+        "lon": "7.3497712",
+        "category": "landuse",
+        "type": "commercial",
+        "place_rank": 24,
+        "importance": 0.08006853055619131,
+        "addresstype": "commercial",
+        "name": "Hôtel du Département - Immeuble Europe",
+        "display_name": "Hôtel du Département - Immeuble Europe, Colmar, Colmar-Rappoltsweiler, Oberelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 68000, Frankreich",
+        "address": {
+            "commercial": "Hôtel du Département - Immeuble Europe",
+            "town": "Colmar",
+            "municipality": "Colmar-Rappoltsweiler",
+            "county": "Oberelsass",
+            "ISO3166-2-lvl6": "FR-68",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "68000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.0749447",
+            "48.0753536",
+            "7.3494779",
+            "7.3500627"
+        ]
+    }
+]

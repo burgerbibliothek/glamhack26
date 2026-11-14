@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 273898471,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1900654,
+        "lat": "57.1482429",
+        "lon": "-2.0928095",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.6509419795916966,
+        "addresstype": "city",
+        "name": "Aberdeen",
+        "display_name": "Aberdeen, Schottland, Vereinigtes Königreich",
+        "address": {
+            "city": "Aberdeen",
+            "ISO3166-2-lvl6": "GB-ABE",
+            "state": "Schottland",
+            "ISO3166-2-lvl4": "GB-SCT",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "57.0761867",
+            "57.2353072",
+            "-2.3609399",
+            "-2.0161507"
+        ]
+    }
+]

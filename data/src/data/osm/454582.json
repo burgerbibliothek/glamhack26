@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 98241156,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 162856,
+        "lat": "48.9525181",
+        "lon": "2.3145039",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5377566180617396,
+        "addresstype": "town",
+        "name": "Épinay-sur-Seine",
+        "display_name": "Épinay-sur-Seine, Saint-Denis, Seine-Saint-Denis, Île-de-France, Metropolitanes Frankreich, 93800, Frankreich",
+        "address": {
+            "town": "Épinay-sur-Seine",
+            "municipality": "Saint-Denis",
+            "county": "Seine-Saint-Denis",
+            "ISO3166-2-lvl6": "FR-93",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "93800",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.9426269",
+            "48.9663105",
+            "2.2882783",
+            "2.3460488"
+        ]
+    }
+]

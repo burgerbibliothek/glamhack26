@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 87550123,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 8638,
+        "lat": "45.7100132",
+        "lon": "3.1531803",
+        "category": "boundary",
+        "type": "historic",
+        "place_rank": 25,
+        "importance": 0.6196480990882817,
+        "addresstype": "historic",
+        "name": "Auvergne",
+        "display_name": "Auvergne, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "historic": "Auvergne",
+            "ISO3166-2-lvl15": "FR-C",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.6159054",
+            "46.8041547",
+            "2.0629360",
+            "4.4904591"
+        ]
+    }
+]

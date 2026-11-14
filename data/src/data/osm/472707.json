@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 80886042,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1772249,
+        "lat": "42.3052904",
+        "lon": "9.1511935",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5517915696701671,
+        "addresstype": "town",
+        "name": "Corte",
+        "display_name": "Corte, Oberkorsika, Korsika, Metropolitanes Frankreich, 20250, Frankreich",
+        "address": {
+            "town": "Corte",
+            "municipality": "Corte",
+            "county": "Oberkorsika",
+            "ISO3166-2-lvl6": "FR-2B",
+            "state": "Korsika",
+            "ISO3166-2-lvl4": "FR-20R",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "20250",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "42.2031740",
+            "42.3446650",
+            "8.9265020",
+            "9.2117750"
+        ]
+    }
+]

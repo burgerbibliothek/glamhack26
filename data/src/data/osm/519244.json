@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 284423924,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 905534,
+        "lat": "48.6495180",
+        "lon": "-2.0260409",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6250994319975981,
+        "addresstype": "town",
+        "name": "Saint-Malo",
+        "display_name": "Saint-Malo, Ille-et-Vilaine, Bretagne, Metropolitanes Frankreich, 35400, Frankreich",
+        "address": {
+            "town": "Saint-Malo",
+            "municipality": "Saint-Malo",
+            "county": "Ille-et-Vilaine",
+            "ISO3166-2-lvl6": "FR-35",
+            "state": "Bretagne",
+            "ISO3166-2-lvl4": "FR-BRE",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "35400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.5979853",
+            "48.6949736",
+            "-2.0765246",
+            "-1.9367259"
+        ]
+    }
+]

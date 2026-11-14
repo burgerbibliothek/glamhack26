@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 97442691,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 149203,
+        "lat": "48.6137734",
+        "lon": "2.4818087",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5710113466689551,
+        "addresstype": "town",
+        "name": "Corbeil-Essonnes",
+        "display_name": "Corbeil-Essonnes, Évry, Essonne, Île-de-France, Metropolitanes Frankreich, 91100, Frankreich",
+        "address": {
+            "town": "Corbeil-Essonnes",
+            "municipality": "Évry",
+            "county": "Essonne",
+            "ISO3166-2-lvl6": "FR-91",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "91100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.5690740",
+            "48.6253571",
+            "2.4366347",
+            "2.4922688"
+        ]
+    }
+]

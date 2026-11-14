@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92034643,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 719573503,
+        "lat": "46.8773535",
+        "lon": "6.4328927",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339670939192796,
+        "addresstype": "hamlet",
+        "name": "La Joux Verte",
+        "display_name": "La Joux Verte, La Cluse-et-Mijoux, Pontarlier, Doubs, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 25300, Frankreich",
+        "address": {
+            "hamlet": "La Joux Verte",
+            "village": "La Cluse-et-Mijoux",
+            "municipality": "Pontarlier",
+            "county": "Doubs",
+            "ISO3166-2-lvl6": "FR-25",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "25300",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.8573535",
+            "46.8973535",
+            "6.4128927",
+            "6.4528927"
+        ]
+    }
+]

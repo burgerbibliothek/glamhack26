@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 282386511,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5669965,
+        "lat": "50.7379968",
+        "lon": "-2.9065606",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.42034214799233083,
+        "addresstype": "suburb",
+        "name": "Charmouth",
+        "display_name": "Charmouth, Dorset, England, Vereinigtes Königreich",
+        "address": {
+            "suburb": "Charmouth",
+            "county": "Dorset",
+            "ISO3166-2-lvl6": "GB-DOR",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "50.7321053",
+            "50.7439150",
+            "-2.9213838",
+            "-2.8886083"
+        ]
+    }
+]

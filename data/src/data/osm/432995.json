@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 91233535,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3335542,
+        "lat": "46.3384462",
+        "lon": "4.1586527",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5754797529721865,
+        "addresstype": "village",
+        "name": "Varenne-l'Arconce",
+        "display_name": "Varenne-l'Arconce, Charolles, Saône-et-Loire, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 71110, Frankreich",
+        "address": {
+            "village": "Varenne-l'Arconce",
+            "municipality": "Charolles",
+            "county": "Saône-et-Loire",
+            "ISO3166-2-lvl6": "FR-71",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "71110",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.3231739",
+            "46.3593481",
+            "4.1324714",
+            "4.1758375"
+        ]
+    }
+]

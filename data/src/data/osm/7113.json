@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 277435997,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 58447,
+        "lat": "52.5310214",
+        "lon": "-1.2649062",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.8954187298341272,
+        "addresstype": "state",
+        "name": "England",
+        "display_name": "England, Vereinigtes Königreich",
+        "address": {
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "49.6740000",
+            "55.9170000",
+            "-6.7047494",
+            "2.0919117"
+        ]
+    }
+]

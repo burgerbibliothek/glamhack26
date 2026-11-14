@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 121054465,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 75743,
+        "lat": "48.5603561",
+        "lon": "7.6157491",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.589373705223048,
+        "addresstype": "village",
+        "name": "Hangenbieten",
+        "display_name": "Hangenbieten, Straßburg, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67980, Frankreich",
+        "address": {
+            "village": "Hangenbieten",
+            "municipality": "Straßburg",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67980",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.5417960",
+            "48.5709407",
+            "7.5977467",
+            "7.6263270"
+        ]
+    }
+]

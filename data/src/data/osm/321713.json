@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 85386099,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 125209,
+        "lat": "43.4255556",
+        "lon": "0.6244444",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5674817537575916,
+        "addresstype": "village",
+        "name": "Bellegarde",
+        "display_name": "Bellegarde, Mirande, Gers, Okzitanien, Metropolitanes Frankreich, 32140, Frankreich",
+        "address": {
+            "village": "Bellegarde",
+            "municipality": "Mirande",
+            "county": "Gers",
+            "ISO3166-2-lvl6": "FR-32",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "32140",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.4058209",
+            "43.4556962",
+            "0.5972448",
+            "0.6684845"
+        ]
+    }
+]

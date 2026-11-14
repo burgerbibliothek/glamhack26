@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 284354621,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 376823,
+        "lat": "48.6355232",
+        "lon": "-1.5102571",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5902253914525409,
+        "addresstype": "village",
+        "name": "Le Mont-Saint-Michel",
+        "display_name": "Le Mont-Saint-Michel, Avranches, Manche, Normandie, Metropolitanes Frankreich, 50170, Frankreich",
+        "address": {
+            "village": "Le Mont-Saint-Michel",
+            "municipality": "Avranches",
+            "county": "Manche",
+            "ISO3166-2-lvl6": "FR-50",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "50170",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.6119741",
+            "48.6370310",
+            "-1.5495487",
+            "-1.5094796"
+        ]
+    }
+]

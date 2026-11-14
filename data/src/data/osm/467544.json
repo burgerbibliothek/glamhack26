@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 89646397,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 168182,
+        "lat": "45.3735991",
+        "lon": "4.8124049",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5743298819281035,
+        "addresstype": "village",
+        "name": "Roussillon",
+        "display_name": "Roussillon, Vienne, Isère, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 38150, Frankreich",
+        "address": {
+            "village": "Roussillon",
+            "municipality": "Vienne",
+            "county": "Isère",
+            "ISO3166-2-lvl6": "FR-38",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "38150",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.3560526",
+            "45.4076565",
+            "4.7867555",
+            "4.8400028"
+        ]
+    }
+]

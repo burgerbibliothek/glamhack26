@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 120472974,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 75141,
+        "lat": "48.6056872",
+        "lon": "7.6857854",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5895029735288126,
+        "addresstype": "village",
+        "name": "Oberhausbergen",
+        "display_name": "Oberhausbergen, Straßburg, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67205, Frankreich",
+        "address": {
+            "village": "Oberhausbergen",
+            "municipality": "Straßburg",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67205",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.5972107",
+            "48.6211944",
+            "7.6659373",
+            "7.7087815"
+        ]
+    }
+]

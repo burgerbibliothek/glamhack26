@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 122447435,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 60631,
+        "lat": "48.2730754",
+        "lon": "7.2833510",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5563252605932449,
+        "addresstype": "village",
+        "name": "Leberau",
+        "display_name": "Leberau, Colmar-Rappoltsweiler, Oberelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 68660, Frankreich",
+        "address": {
+            "village": "Leberau",
+            "municipality": "Colmar-Rappoltsweiler",
+            "county": "Oberelsass",
+            "ISO3166-2-lvl6": "FR-68",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "68660",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.2360907",
+            "48.2906766",
+            "7.2408665",
+            "7.3337209"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 89003027,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 168861,
+        "lat": "45.4458331",
+        "lon": "4.9310763",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5719888354741073,
+        "addresstype": "village",
+        "name": "Chalon",
+        "display_name": "Chalon, Vienne, Isère, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 38122, Frankreich",
+        "address": {
+            "village": "Chalon",
+            "municipality": "Vienne",
+            "county": "Isère",
+            "ISO3166-2-lvl6": "FR-38",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "38122",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.4369661",
+            "45.4621893",
+            "4.9191230",
+            "4.9602138"
+        ]
+    }
+]

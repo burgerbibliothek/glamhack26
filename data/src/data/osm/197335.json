@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 95138079,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 120092,
+        "lat": "46.2067884",
+        "lon": "3.4320562",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.546905062154712,
+        "addresstype": "village",
+        "name": "Saint-Germain-des-Fossés",
+        "display_name": "Saint-Germain-des-Fossés, Vichy, Allier, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 03260, Frankreich",
+        "address": {
+            "village": "Saint-Germain-des-Fossés",
+            "municipality": "Vichy",
+            "county": "Allier",
+            "ISO3166-2-lvl6": "FR-03",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "03260",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.1748062",
+            "46.2160566",
+            "3.4069003",
+            "3.4508658"
+        ]
+    }
+]

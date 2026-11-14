@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 423720501,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 57539,
+        "lat": "51.4430141",
+        "lon": "-2.5816622",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.7042167330140456,
+        "addresstype": "county",
+        "name": "Bristol",
+        "display_name": "Bristol, West of England, England, Vereinigtes Königreich",
+        "address": {
+            "county": "Bristol",
+            "ISO3166-2-lvl6": "GB-BST",
+            "state_district": "West of England",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.3416261",
+            "51.5444317",
+            "-3.1178243",
+            "-2.5104192"
+        ]
+    }
+]

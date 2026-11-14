@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 93151795,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 147268,
+        "lat": "47.3732282",
+        "lon": "6.8730690",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5621775493514254,
+        "addresstype": "village",
+        "name": "Villars-lès-Blamont",
+        "display_name": "Villars-lès-Blamont, Montbéliard, Doubs, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 25310, Frankreich",
+        "address": {
+            "village": "Villars-lès-Blamont",
+            "municipality": "Montbéliard",
+            "county": "Doubs",
+            "ISO3166-2-lvl6": "FR-25",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "25310",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.3504934",
+            "47.3845910",
+            "6.8451254",
+            "6.8958151"
+        ]
+    }
+]

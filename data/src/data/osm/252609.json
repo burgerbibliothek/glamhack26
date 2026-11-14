@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 99922629,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 286383,
+        "lat": "50.9253519",
+        "lon": "1.8875755",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6147802291643184,
+        "addresstype": "village",
+        "name": "Coulogne",
+        "display_name": "Coulogne, Calais, Pas-de-Calais, Nordfrankreich, Metropolitanes Frankreich, 62137, Frankreich",
+        "address": {
+            "village": "Coulogne",
+            "municipality": "Calais",
+            "county": "Pas-de-Calais",
+            "ISO3166-2-lvl6": "FR-62",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "62137",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.8908110",
+            "50.9345020",
+            "1.8566104",
+            "1.9243867"
+        ]
+    }
+]

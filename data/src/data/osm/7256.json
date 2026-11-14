@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 275111729,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11127374,
+        "lat": "55.8611550",
+        "lon": "-4.2501687",
+        "category": "place",
+        "type": "city",
+        "place_rank": 16,
+        "importance": 0.7520825832994846,
+        "addresstype": "city",
+        "name": "Glasgow",
+        "display_name": "Glasgow, Glasgow City, Schottland, G2 1AL, Vereinigtes Königreich",
+        "address": {
+            "city": "Glasgow",
+            "county": "Glasgow City",
+            "ISO3166-2-lvl6": "GB-GLG",
+            "state": "Schottland",
+            "ISO3166-2-lvl4": "GB-SCT",
+            "postcode": "G2 1AL",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "55.7011550",
+            "56.0211550",
+            "-4.4101687",
+            "-4.0901687"
+        ]
+    }
+]

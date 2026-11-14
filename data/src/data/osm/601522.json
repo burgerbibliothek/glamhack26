@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 92863047,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 39064,
+        "lat": "47.7165607",
+        "lon": "7.3294114",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.5331327035017669,
+        "addresstype": "city_district",
+        "name": "Brunstatt",
+        "display_name": "Brunstatt, Brunstatt-Didenheim, Mülhausen, Oberelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 68350, Frankreich",
+        "address": {
+            "city_district": "Brunstatt",
+            "city": "Brunstatt-Didenheim",
+            "municipality": "Mülhausen",
+            "county": "Oberelsass",
+            "ISO3166-2-lvl6": "FR-68",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "68350",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.6990726",
+            "47.7340511",
+            "7.3036746",
+            "7.3551602"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 106057808,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1141681,
+        "lat": "50.0867635",
+        "lon": "2.9816234",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.618403659222234,
+        "addresstype": "village",
+        "name": "Bertincourt",
+        "display_name": "Bertincourt, Arras, Pas-de-Calais, Nordfrankreich, Metropolitanes Frankreich, 62124, Frankreich",
+        "address": {
+            "village": "Bertincourt",
+            "municipality": "Arras",
+            "county": "Pas-de-Calais",
+            "ISO3166-2-lvl6": "FR-62",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "62124",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.0736285",
+            "50.1049361",
+            "2.9514884",
+            "3.0075666"
+        ]
+    }
+]

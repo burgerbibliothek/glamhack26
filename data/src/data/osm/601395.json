@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 123393892,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1166619,
+        "lat": "48.8054219",
+        "lon": "7.5367636",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.587236525258217,
+        "addresstype": "village",
+        "name": "Issenhausen",
+        "display_name": "Issenhausen, Zabern, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67330, Frankreich",
+        "address": {
+            "village": "Issenhausen",
+            "municipality": "Zabern",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67330",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.7979279",
+            "48.8129568",
+            "7.5185448",
+            "7.5470483"
+        ]
+    }
+]

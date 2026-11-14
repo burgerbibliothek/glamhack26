@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 103721143,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 53355,
+        "lat": "50.3579317",
+        "lon": "3.5234846",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.639226791329566,
+        "addresstype": "city",
+        "name": "Valenciennes",
+        "display_name": "Valenciennes, Nord, Nordfrankreich, Metropolitanes Frankreich, 59300, Frankreich",
+        "address": {
+            "city": "Valenciennes",
+            "municipality": "Valenciennes",
+            "county": "Nord",
+            "ISO3166-2-lvl6": "FR-59",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "59300",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.3366638",
+            "50.3874585",
+            "3.4762503",
+            "3.5522750"
+        ]
+    }
+]

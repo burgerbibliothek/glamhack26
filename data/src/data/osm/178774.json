@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 303398090,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 151845485,
+        "lat": "31.7901685",
+        "lon": "-92.3695842",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13336833524071104,
+        "addresstype": "hamlet",
+        "name": "Rochelle",
+        "display_name": "Rochelle, Grant Parish, Louisiana, 71432, Vereinigte Staaten von Amerika",
+        "address": {
+            "hamlet": "Rochelle",
+            "county": "Grant Parish",
+            "state": "Louisiana",
+            "ISO3166-2-lvl4": "US-LA",
+            "postcode": "71432",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "31.7701685",
+            "31.8101685",
+            "-92.3895842",
+            "-92.3495842"
+        ]
+    }
+]

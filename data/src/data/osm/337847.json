@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 96034987,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10266102391,
+        "lat": "47.7978906",
+        "lon": "1.0250815",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13339260929274432,
+        "addresstype": "hamlet",
+        "name": "Montrieux",
+        "display_name": "Montrieux, Naveil, Vendôme, Loir-et-Cher, Zentrum-Loiretal, Metropolitanes Frankreich, 41100, Frankreich",
+        "address": {
+            "hamlet": "Montrieux",
+            "village": "Naveil",
+            "municipality": "Vendôme",
+            "county": "Loir-et-Cher",
+            "ISO3166-2-lvl6": "FR-41",
+            "state": "Zentrum-Loiretal",
+            "ISO3166-2-lvl4": "FR-CVL",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "41100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.7778906",
+            "47.8178906",
+            "1.0050815",
+            "1.0450815"
+        ]
+    }
+]

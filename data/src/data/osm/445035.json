@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 85475645,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 85809,
+        "lat": "45.6484505",
+        "lon": "0.1561947",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6292885880069666,
+        "addresstype": "city",
+        "name": "Angoulême",
+        "display_name": "Angoulême, Charente, Neu-Aquitanien, Metropolitanes Frankreich, 16000, Frankreich",
+        "address": {
+            "city": "Angoulême",
+            "municipality": "Angoulême",
+            "county": "Charente",
+            "ISO3166-2-lvl6": "FR-16",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "16000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.6200489",
+            "45.6715827",
+            "0.0996131",
+            "0.1904234"
+        ]
+    }
+]

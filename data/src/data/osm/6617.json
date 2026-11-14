@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 279046899,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 25798916,
+        "lat": "52.9882648",
+        "lon": "-1.8883420",
+        "category": "tourism",
+        "type": "theme_park",
+        "place_rank": 30,
+        "importance": 0.46080112317962113,
+        "addresstype": "tourism",
+        "name": "Alton Towers",
+        "display_name": "Alton Towers, Alton, Staffordshire Moorlands, Staffordshire, England, ST10 4DB, Vereinigtes Königreich",
+        "address": {
+            "tourism": "Alton Towers",
+            "administrative": "Alton",
+            "city": "Staffordshire Moorlands",
+            "county": "Staffordshire",
+            "ISO3166-2-lvl6": "GB-STS",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "ST10 4DB",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "52.9834579",
+            "52.9930717",
+            "-1.8983547",
+            "-1.8680348"
+        ]
+    }
+]

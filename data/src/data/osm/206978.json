@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 94598279,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 282525,
+        "lat": "47.7961287",
+        "lon": "3.5705790",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6310454020519292,
+        "addresstype": "town",
+        "name": "Auxerre",
+        "display_name": "Auxerre, Yonne, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 89000, Frankreich",
+        "address": {
+            "town": "Auxerre",
+            "municipality": "Auxerre",
+            "county": "Yonne",
+            "ISO3166-2-lvl6": "FR-89",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "89000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.7348564",
+            "47.8523810",
+            "3.5261079",
+            "3.6380173"
+        ]
+    }
+]

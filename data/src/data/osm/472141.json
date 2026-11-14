@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 289441757,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 112859,
+        "lat": "46.2080560",
+        "lon": "-1.5158330",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5742891666428972,
+        "addresstype": "village",
+        "name": "Ars-en-Ré",
+        "display_name": "Ars-en-Ré, La Rochelle, Charente-Maritime, Neu-Aquitanien, Metropolitanes Frankreich, 17590, Frankreich",
+        "address": {
+            "village": "Ars-en-Ré",
+            "municipality": "La Rochelle",
+            "county": "Charente-Maritime",
+            "ISO3166-2-lvl6": "FR-17",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "17590",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.1932372",
+            "46.2309681",
+            "-1.5434103",
+            "-1.4734248"
+        ]
+    }
+]

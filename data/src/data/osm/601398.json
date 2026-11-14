@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 120206975,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1062571764,
+        "lat": "48.4196465",
+        "lon": "6.9423772",
+        "category": "natural",
+        "type": "valley",
+        "place_rank": 22,
+        "importance": 0.10673055542839702,
+        "addresstype": "valley",
+        "name": "Vallée de Ravines",
+        "display_name": "Vallée de Ravines, Sens, Saint-Dié-des-Vosges, Vosges, Groß-Osten, Metropolitanes Frankreich, 88210, Frankreich",
+        "address": {
+            "valley": "Vallée de Ravines",
+            "village": "Sens",
+            "municipality": "Saint-Dié-des-Vosges",
+            "county": "Vosges",
+            "ISO3166-2-lvl6": "FR-88",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "88210",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.3996939",
+            "48.4333950",
+            "6.9045991",
+            "6.9824778"
+        ]
+    }
+]

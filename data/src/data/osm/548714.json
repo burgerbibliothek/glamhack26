@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 324198938,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 238150,
+        "lat": "47.6594091",
+        "lon": "-122.6766317",
+        "category": "boundary",
+        "type": "census",
+        "place_rank": 25,
+        "importance": 0.42076810418755856,
+        "addresstype": "town",
+        "name": "Silverdale",
+        "display_name": "Silverdale, Kitsap County, Washington, Vereinigte Staaten von Amerika",
+        "address": {
+            "town": "Silverdale",
+            "county": "Kitsap County",
+            "state": "Washington",
+            "ISO3166-2-lvl4": "US-WA",
+            "country": "Vereinigte Staaten von Amerika",
+            "country_code": "us"
+        },
+        "boundingbox": [
+            "47.6334160",
+            "47.7060741",
+            "-122.7248071",
+            "-122.6393898"
+        ]
+    }
+]

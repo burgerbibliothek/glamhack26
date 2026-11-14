@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92349906,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 388829,
+        "lat": "47.4054737",
+        "lon": "6.8906360",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5622877100740271,
+        "addresstype": "village",
+        "name": "Glay",
+        "display_name": "Glay, Montbéliard, Doubs, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 25310, Frankreich",
+        "address": {
+            "village": "Glay",
+            "municipality": "Montbéliard",
+            "county": "Doubs",
+            "ISO3166-2-lvl6": "FR-25",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "25310",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.3876327",
+            "47.4162862",
+            "6.8714842",
+            "6.9178194"
+        ]
+    }
+]

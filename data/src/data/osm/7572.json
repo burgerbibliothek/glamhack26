@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 280980769,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2669075054,
+        "lat": "51.4089005",
+        "lon": "-0.4902658",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.33478681080244976,
+        "addresstype": "village",
+        "name": "Laleham",
+        "display_name": "Laleham, Spelthorne, Surrey, England, TW18 1SD, Vereinigtes Königreich",
+        "address": {
+            "village": "Laleham",
+            "city": "Spelthorne",
+            "county": "Surrey",
+            "ISO3166-2-lvl6": "GB-SRY",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "TW18 1SD",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.3889005",
+            "51.4289005",
+            "-0.5102658",
+            "-0.4702658"
+        ]
+    }
+]

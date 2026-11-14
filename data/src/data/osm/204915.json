@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 284663668,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 8508381,
+        "lat": "50.4433489",
+        "lon": "-4.6246566",
+        "category": "boundary",
+        "type": "traditional",
+        "place_rank": 25,
+        "importance": 0.6979834998866016,
+        "addresstype": "traditional",
+        "name": "Cornwall",
+        "display_name": "Cornwall, England, Vereinigtes Königreich",
+        "address": {
+            "traditional": "Cornwall",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "49.8646365",
+            "50.9312729",
+            "-6.4458104",
+            "-4.1649444"
+        ]
+    }
+]

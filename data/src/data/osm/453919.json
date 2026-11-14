@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 291837354,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 162431,
+        "lat": "43.2957547",
+        "lon": "-0.3685668",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6577548562329019,
+        "addresstype": "city",
+        "name": "Pau",
+        "display_name": "Pau, Pyrenäen-Atlantik, Neu-Aquitanien, Metropolitanes Frankreich, 64000, Frankreich",
+        "address": {
+            "city": "Pau",
+            "municipality": "Pau",
+            "county": "Pyrenäen-Atlantik",
+            "ISO3166-2-lvl6": "FR-64",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "64000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.2857792",
+            "43.3580393",
+            "-0.3925513",
+            "-0.2943049"
+        ]
+    }
+]

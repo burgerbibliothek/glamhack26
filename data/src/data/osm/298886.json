@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 285071587,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 106682,
+        "lat": "48.1244503",
+        "lon": "-1.2143310",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5645592857937731,
+        "addresstype": "town",
+        "name": "Vitré",
+        "display_name": "Vitré, Fougères-Vitré, Ille-et-Vilaine, Bretagne, Metropolitanes Frankreich, 35500, Frankreich",
+        "address": {
+            "town": "Vitré",
+            "municipality": "Fougères-Vitré",
+            "county": "Ille-et-Vilaine",
+            "ISO3166-2-lvl6": "FR-35",
+            "state": "Bretagne",
+            "ISO3166-2-lvl4": "FR-BRE",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "35500",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.0748016",
+            "48.1462143",
+            "-1.2495022",
+            "-1.1446555"
+        ]
+    }
+]

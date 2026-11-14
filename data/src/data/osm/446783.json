@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 280150333,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1107708,
+        "lat": "49.0491048",
+        "lon": "-1.3392101",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5745837805718689,
+        "addresstype": "village",
+        "name": "Savigny",
+        "display_name": "Savigny, Coutances, Manche, Normandie, Metropolitanes Frankreich, 50210, Frankreich",
+        "address": {
+            "village": "Savigny",
+            "municipality": "Coutances",
+            "county": "Manche",
+            "ISO3166-2-lvl6": "FR-50",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "50210",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.0347668",
+            "49.0797027",
+            "-1.3607802",
+            "-1.2990685"
+        ]
+    }
+]

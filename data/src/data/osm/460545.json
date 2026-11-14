@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 94254023,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 153978,
+        "lat": "47.2608040",
+        "lon": "5.2864826",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5958739017661077,
+        "addresstype": "village",
+        "name": "Longchamp",
+        "display_name": "Longchamp, Dijon, Côte-d'Or, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 21110, Frankreich",
+        "address": {
+            "village": "Longchamp",
+            "municipality": "Dijon",
+            "county": "Côte-d'Or",
+            "ISO3166-2-lvl6": "FR-21",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "21110",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.2397745",
+            "47.2826653",
+            "5.2583884",
+            "5.3266522"
+        ]
+    }
+]

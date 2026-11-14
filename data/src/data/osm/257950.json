@@ -1,0 +1,31 @@
+[
+    {
+        "place_id": 88608796,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 615361748,
+        "lat": "45.8664913",
+        "lon": "6.9806612",
+        "category": "highway",
+        "type": "path",
+        "place_rank": 27,
+        "importance": 0.04006098039215685,
+        "addresstype": "road",
+        "name": "Grandes Jorasses",
+        "display_name": "Grandes Jorasses, Courmayeur, Aostatal, Italien",
+        "address": {
+            "road": "Grandes Jorasses",
+            "city": "Courmayeur",
+            "state": "Aostatal",
+            "ISO3166-2-lvl4": "IT-23",
+            "country": "Italien",
+            "country_code": "it"
+        },
+        "boundingbox": [
+            "45.8575099",
+            "45.8688108",
+            "6.9764965",
+            "6.9884580"
+        ]
+    }
+]

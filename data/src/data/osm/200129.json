@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 96656729,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 86609,
+        "lat": "48.9582708",
+        "lon": "2.8773541",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6183257406715253,
+        "addresstype": "town",
+        "name": "Meaux",
+        "display_name": "Meaux, Seine-et-Marne, Île-de-France, Metropolitanes Frankreich, 77100, Frankreich",
+        "address": {
+            "town": "Meaux",
+            "municipality": "Meaux",
+            "county": "Seine-et-Marne",
+            "ISO3166-2-lvl6": "FR-77",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "77100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.9355398",
+            "48.9789845",
+            "2.8627113",
+            "2.9441071"
+        ]
+    }
+]

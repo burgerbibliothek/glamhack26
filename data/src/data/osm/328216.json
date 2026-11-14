@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 84918157,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 92100896,
+        "lat": "43.1848909",
+        "lon": "3.0040041",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 0.42044889705287697,
+        "addresstype": "amenity",
+        "name": "Cathédrale Saint-Just et Saint-Pasteur",
+        "display_name": "Cathédrale Saint-Just et Saint-Pasteur, Rue Armand Gauthier, Bourg, Narbonne, Aude, Okzitanien, Metropolitanes Frankreich, 11100, Frankreich",
+        "address": {
+            "amenity": "Cathédrale Saint-Just et Saint-Pasteur",
+            "road": "Rue Armand Gauthier",
+            "quarter": "Bourg",
+            "town": "Narbonne",
+            "municipality": "Narbonne",
+            "county": "Aude",
+            "ISO3166-2-lvl6": "FR-11",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "11100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.1845859",
+            "43.1851975",
+            "3.0032270",
+            "3.0043766"
+        ]
+    }
+]

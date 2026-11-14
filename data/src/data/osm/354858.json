@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 84924226,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2573936,
+        "lat": "43.8975793",
+        "lon": "2.6422387",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5371490616823549,
+        "addresstype": "village",
+        "name": "La Serre",
+        "display_name": "La Serre, Millau, Aveyron, Okzitanien, Metropolitanes Frankreich, 12380, Frankreich",
+        "address": {
+            "village": "La Serre",
+            "municipality": "Millau",
+            "county": "Aveyron",
+            "ISO3166-2-lvl6": "FR-12",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "12380",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.8739416",
+            "43.9177607",
+            "2.6134910",
+            "2.6944647"
+        ]
+    }
+]

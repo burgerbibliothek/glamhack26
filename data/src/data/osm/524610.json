@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 273679896,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 432667970,
+        "lat": "57.2538116",
+        "lon": "-4.4945992",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.4376968782224089,
+        "addresstype": "village",
+        "name": "Foyers",
+        "display_name": "Foyers, Highland, Schottland, IV2 6YB, Vereinigtes Königreich",
+        "address": {
+            "village": "Foyers",
+            "county": "Highland",
+            "ISO3166-2-lvl6": "GB-HLD",
+            "state": "Schottland",
+            "ISO3166-2-lvl4": "GB-SCT",
+            "postcode": "IV2 6YB",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "57.2338116",
+            "57.2738116",
+            "-4.5145992",
+            "-4.4745992"
+        ]
+    }
+]

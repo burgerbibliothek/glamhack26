@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 119223059,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 153920,
+        "lat": "49.7033759",
+        "lon": "4.9433409",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5970783926938001,
+        "addresstype": "town",
+        "name": "Sedan",
+        "display_name": "Sedan, Ardennes, Groß-Osten, Metropolitanes Frankreich, 08200, Frankreich",
+        "address": {
+            "town": "Sedan",
+            "municipality": "Sedan",
+            "county": "Ardennes",
+            "ISO3166-2-lvl6": "FR-08",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "08200",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.6723166",
+            "49.7262938",
+            "4.8771797",
+            "4.9764494"
+        ]
+    }
+]

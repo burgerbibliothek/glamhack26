@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 95451769,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 665390403,
+        "lat": "47.5392184",
+        "lon": "1.8634107",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.05339298008697639,
+        "addresstype": "tertiary",
+        "name": "Rue Avrain de Meung",
+        "display_name": "Rue Avrain de Meung, Le Cormier Vieux, La Ferté-Beauharnais, Romorantin-Lanthenay, Loir-et-Cher, Zentrum-Loiretal, Metropolitanes Frankreich, 41210, Frankreich",
+        "address": {
+            "road": "Rue Avrain de Meung",
+            "hamlet": "Le Cormier Vieux",
+            "village": "La Ferté-Beauharnais",
+            "municipality": "Romorantin-Lanthenay",
+            "county": "Loir-et-Cher",
+            "ISO3166-2-lvl6": "FR-41",
+            "state": "Zentrum-Loiretal",
+            "ISO3166-2-lvl4": "FR-CVL",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "41210",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.5384015",
+            "47.5395882",
+            "1.8594748",
+            "1.8672781"
+        ]
+    }
+]

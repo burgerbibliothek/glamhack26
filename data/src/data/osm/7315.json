@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": 282675630,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3064410,
+        "lat": "49.4622913",
+        "lon": "-2.5812023",
+        "category": "place",
+        "type": "island",
+        "place_rank": 17,
+        "importance": 0.6075721284474326,
+        "addresstype": "island",
+        "name": "Guernsey",
+        "display_name": "Guernsey",
+        "address": {
+            "island": "Guernsey",
+            "state": "Guernsey",
+            "country": "Guernsey",
+            "country_code": "gg"
+        },
+        "boundingbox": [
+            "49.4155331",
+            "49.5090776",
+            "-2.6751703",
+            "-2.5018140"
+        ]
+    }
+]

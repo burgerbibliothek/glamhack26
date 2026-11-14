@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 289599624,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 19373584,
+        "lat": "43.1802145",
+        "lon": "-0.4159821",
+        "category": "boundary",
+        "type": "natural",
+        "place_rank": 18,
+        "importance": 0.5750987014764918,
+        "addresstype": "region",
+        "name": "Béarn",
+        "display_name": "Béarn, Neu-Aquitanien, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "region": "Béarn",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "42.7775376",
+            "43.5831275",
+            "-1.0639593",
+            "-0.0370802"
+        ]
+    }
+]

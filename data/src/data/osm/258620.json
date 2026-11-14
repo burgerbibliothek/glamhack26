@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 98416373,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 911088,
+        "lat": "48.9274192",
+        "lon": "2.0426301",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5827050138394245,
+        "addresstype": "town",
+        "name": "Poissy",
+        "display_name": "Poissy, Saint-Germain-en-Laye, Yvelines, Île-de-France, Metropolitanes Frankreich, 78300, Frankreich",
+        "address": {
+            "town": "Poissy",
+            "municipality": "Saint-Germain-en-Laye",
+            "county": "Yvelines",
+            "ISO3166-2-lvl6": "FR-78",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "78300",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8910939",
+            "48.9570390",
+            "1.9795241",
+            "2.0707044"
+        ]
+    }
+]

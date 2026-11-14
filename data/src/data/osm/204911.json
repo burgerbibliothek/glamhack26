@@ -1,0 +1,28 @@
+[
+    {
+        "place_id": 87191811,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 8211782,
+        "lat": "45.4120086",
+        "lon": "2.8170727",
+        "category": "boundary",
+        "type": "natural",
+        "place_rank": 18,
+        "importance": 0.6042425553020825,
+        "addresstype": "region",
+        "name": "Zentralmassiv",
+        "display_name": "Zentralmassiv, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "region": "Zentralmassiv",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.3160588",
+            "47.5123954",
+            "0.4061506",
+            "4.9352644"
+        ]
+    }
+]

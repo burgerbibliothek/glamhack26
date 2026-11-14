@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 100653084,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 26049431,
+        "lat": "51.4028046",
+        "lon": "0.0148142",
+        "category": "place",
+        "type": "town",
+        "place_rank": 18,
+        "importance": 0.5315484894413066,
+        "addresstype": "town",
+        "name": "Bromley",
+        "display_name": "Bromley, Groß-London, England, BR1 1EY, Vereinigtes Königreich",
+        "address": {
+            "town": "Bromley",
+            "city": "Groß-London",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "BR1 1EY",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.3628046",
+            "51.4428046",
+            "-0.0251858",
+            "0.0548142"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 96709864,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 946433,
+        "lat": "48.1978559",
+        "lon": "3.2826060",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5960786283988375,
+        "addresstype": "town",
+        "name": "Sens",
+        "display_name": "Sens, Yonne, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 89100, Frankreich",
+        "address": {
+            "town": "Sens",
+            "municipality": "Sens",
+            "county": "Yonne",
+            "ISO3166-2-lvl6": "FR-89",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "89100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.1596110",
+            "48.2299226",
+            "3.2597586",
+            "3.3478838"
+        ]
+    }
+]

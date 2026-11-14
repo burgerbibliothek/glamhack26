@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 95775442,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 273622,
+        "lat": "47.5876861",
+        "lon": "1.3337639",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.624770522037342,
+        "addresstype": "town",
+        "name": "Blois",
+        "display_name": "Blois, Loir-et-Cher, Zentrum-Loiretal, Metropolitanes Frankreich, 41000, Frankreich",
+        "address": {
+            "town": "Blois",
+            "municipality": "Blois",
+            "county": "Loir-et-Cher",
+            "ISO3166-2-lvl6": "FR-41",
+            "state": "Zentrum-Loiretal",
+            "ISO3166-2-lvl4": "FR-CVL",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "41000",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.5416092",
+            "47.6209277",
+            "1.2541093",
+            "1.3556756"
+        ]
+    }
+]

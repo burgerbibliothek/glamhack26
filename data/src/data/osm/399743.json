@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 83174366,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 272287,
+        "lat": "43.5661521",
+        "lon": "4.1915400",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5706786615523073,
+        "addresstype": "town",
+        "name": "Aigues-Mortes",
+        "display_name": "Aigues-Mortes, Nîmes, Gard, Okzitanien, Metropolitanes Frankreich, 30220, Frankreich",
+        "address": {
+            "town": "Aigues-Mortes",
+            "municipality": "Nîmes",
+            "county": "Gard",
+            "ISO3166-2-lvl6": "FR-30",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "30220",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.4958113",
+            "43.5920372",
+            "4.0760703",
+            "4.2442867"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 281470319,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 6020363,
+        "lat": "51.9527514",
+        "lon": "-1.9675136",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.4077792123453851,
+        "addresstype": "suburb",
+        "name": "Winchcombe",
+        "display_name": "Winchcombe, Tewkesbury, Gloucestershire, England, Vereinigtes Königreich",
+        "address": {
+            "suburb": "Winchcombe",
+            "city": "Tewkesbury",
+            "county": "Gloucestershire",
+            "ISO3166-2-lvl6": "GB-GLS",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.9234476",
+            "51.9820326",
+            "-2.0083885",
+            "-1.9268755"
+        ]
+    }
+]

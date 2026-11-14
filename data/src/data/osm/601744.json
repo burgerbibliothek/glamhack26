@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 103403771,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1120883,
+        "lat": "50.4628000",
+        "lon": "2.8855000",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6142679577710828,
+        "addresstype": "village",
+        "name": "Annay",
+        "display_name": "Annay, Lens, Pas-de-Calais, Nordfrankreich, Metropolitanes Frankreich, 62880, Frankreich",
+        "address": {
+            "village": "Annay",
+            "municipality": "Lens",
+            "county": "Pas-de-Calais",
+            "ISO3166-2-lvl6": "FR-62",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "62880",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.4499537",
+            "50.4711838",
+            "2.8581399",
+            "2.9115616"
+        ]
+    }
+]

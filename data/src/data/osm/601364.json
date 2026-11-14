@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 93602412,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 112024,
+        "lat": "47.8202088",
+        "lon": "7.1794082",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5527039471137092,
+        "addresstype": "village",
+        "name": "Uffholz",
+        "display_name": "Uffholz, Thann-Gebweiler, Oberelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 68700, Frankreich",
+        "address": {
+            "village": "Uffholz",
+            "municipality": "Thann-Gebweiler",
+            "county": "Oberelsass",
+            "ISO3166-2-lvl6": "FR-68",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "68700",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.8104338",
+            "47.8536405",
+            "7.1137550",
+            "7.2235714"
+        ]
+    }
+]

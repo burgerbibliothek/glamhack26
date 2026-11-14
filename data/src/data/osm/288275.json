@@ -1,0 +1,40 @@
+[
+    {
+        "place_id": 120886920,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9148225145,
+        "lat": "48.5323964",
+        "lon": "7.6897407",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.23648094285300414,
+        "addresstype": "railway",
+        "name": "Graffenstaden",
+        "display_name": "Graffenstaden, Rue de l'Industrie, Zone d'Activités Forlen, Geispolsheim-Bahnhof, Geispolsheim, Straßburg, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67118, Frankreich",
+        "address": {
+            "railway": "Graffenstaden",
+            "road": "Rue de l'Industrie",
+            "industrial": "Zone d'Activités Forlen",
+            "village": "Geispolsheim-Bahnhof",
+            "municipality": "Straßburg",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67118",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.5273964",
+            "48.5373964",
+            "7.6847407",
+            "7.6947407"
+        ]
+    }
+]

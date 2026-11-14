@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 98924742,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3009758,
+        "lat": "49.7945618",
+        "lon": "1.1349043",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5910582623742081,
+        "addresstype": "village",
+        "name": "Sainte-Foy",
+        "display_name": "Sainte-Foy, Dieppe, Seine-Maritime, Normandie, Metropolitanes Frankreich, 76590, Frankreich",
+        "address": {
+            "village": "Sainte-Foy",
+            "municipality": "Dieppe",
+            "county": "Seine-Maritime",
+            "ISO3166-2-lvl6": "FR-76",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "76590",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.7816629",
+            "49.8160866",
+            "1.1162507",
+            "1.1666780"
+        ]
+    }
+]

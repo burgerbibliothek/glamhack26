@@ -1,0 +1,39 @@
+[
+    {
+        "place_id": 93817964,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9308990994,
+        "lat": "47.8899397",
+        "lon": "6.9976161",
+        "category": "railway",
+        "type": "station",
+        "place_rank": 30,
+        "importance": 0.244781979759108,
+        "addresstype": "railway",
+        "name": "Wesserling",
+        "display_name": "Wesserling, Rue du Général de Gaulle, Felleringen, Thann-Gebweiler, Oberelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 68470, Frankreich",
+        "address": {
+            "railway": "Wesserling",
+            "road": "Rue du Général de Gaulle",
+            "village": "Felleringen",
+            "municipality": "Thann-Gebweiler",
+            "county": "Oberelsass",
+            "ISO3166-2-lvl6": "FR-68",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "68470",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.8849397",
+            "47.8949397",
+            "6.9926161",
+            "7.0026161"
+        ]
+    }
+]

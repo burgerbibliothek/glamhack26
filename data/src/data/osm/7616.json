@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 277747412,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 358309,
+        "lat": "53.7974185",
+        "lon": "-1.5437941",
+        "category": "place",
+        "type": "city",
+        "place_rank": 16,
+        "importance": 0.6780319497874053,
+        "addresstype": "city",
+        "name": "Leeds",
+        "display_name": "Leeds, West Yorkshire, England, LS1 6AL, Vereinigtes Königreich",
+        "address": {
+            "city": "Leeds",
+            "ISO3166-2-lvl8": "GB-LDS",
+            "state_district": "West Yorkshire",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "LS1 6AL",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "53.6374185",
+            "53.9574185",
+            "-1.7037941",
+            "-1.3837941"
+        ]
+    }
+]

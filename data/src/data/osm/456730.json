@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 85504772,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 255571,
+        "lat": "43.4829992",
+        "lon": "3.2787556",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5537432782825058,
+        "addresstype": "village",
+        "name": "Pouzolles",
+        "display_name": "Pouzolles, Béziers, Hérault, Okzitanien, Metropolitanes Frankreich, 34480, Frankreich",
+        "address": {
+            "village": "Pouzolles",
+            "municipality": "Béziers",
+            "county": "Hérault",
+            "ISO3166-2-lvl6": "FR-34",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "34480",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.4585870",
+            "43.4977865",
+            "3.2507275",
+            "3.2948629"
+        ]
+    }
+]

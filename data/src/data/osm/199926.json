@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 290535676,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 154171,
+        "lat": "46.4096570",
+        "lon": "-0.2018603",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5362270265100928,
+        "addresstype": "village",
+        "name": "Saint-Maixent-l'École",
+        "display_name": "Saint-Maixent-l'École, Niort, Deux-Sèvres, Neu-Aquitanien, Metropolitanes Frankreich, 79400, Frankreich",
+        "address": {
+            "village": "Saint-Maixent-l'École",
+            "municipality": "Niort",
+            "county": "Deux-Sèvres",
+            "ISO3166-2-lvl6": "FR-79",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "79400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.3988765",
+            "46.4299968",
+            "-0.2337200",
+            "-0.1907809"
+        ]
+    }
+]

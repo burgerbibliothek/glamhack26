@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 89001322,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 367945276,
+        "lat": "45.8876199",
+        "lon": "6.9176383",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.2432038182346074,
+        "addresstype": "peak",
+        "name": "Dent du Requin",
+        "display_name": "Dent du Requin, Chamonix-Mont-Blanc, Bonneville, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74400, Frankreich",
+        "address": {
+            "peak": "Dent du Requin",
+            "town": "Chamonix-Mont-Blanc",
+            "municipality": "Bonneville",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.8875699",
+            "45.8876699",
+            "6.9175883",
+            "6.9176883"
+        ]
+    }
+]

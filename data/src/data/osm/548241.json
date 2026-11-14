@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 100800506,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 21421224,
+        "lat": "51.1251275",
+        "lon": "1.3134228",
+        "category": "place",
+        "type": "town",
+        "place_rank": 18,
+        "importance": 0.602100502612426,
+        "addresstype": "town",
+        "name": "Dover",
+        "display_name": "Dover, Kent, England, CT16 1NB, Vereinigtes Königreich",
+        "address": {
+            "town": "Dover",
+            "city": "Dover",
+            "county": "Kent",
+            "ISO3166-2-lvl6": "GB-KEN",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "CT16 1NB",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.0851275",
+            "51.1651275",
+            "1.2734228",
+            "1.3534228"
+        ]
+    }
+]

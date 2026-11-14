@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 277428251,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 29269754,
+        "lat": "52.1130523",
+        "lon": "-4.0787610",
+        "category": "place",
+        "type": "town",
+        "place_rank": 18,
+        "importance": 0.4514027827507835,
+        "addresstype": "town",
+        "name": "Lampeter",
+        "display_name": "Lampeter, Ceredigion, Wales, SA48 7DX, Vereinigtes Königreich",
+        "address": {
+            "town": "Lampeter",
+            "county": "Ceredigion",
+            "ISO3166-2-lvl6": "GB-CGN",
+            "state": "Wales",
+            "ISO3166-2-lvl4": "GB-WLS",
+            "postcode": "SA48 7DX",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "52.0730523",
+            "52.1530523",
+            "-4.1187610",
+            "-4.0387610"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 120662391,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 89859,
+        "lat": "48.8387397",
+        "lon": "7.8318155",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.606085332830038,
+        "addresstype": "city",
+        "name": "Hagenau",
+        "display_name": "Hagenau, Hagenau-Weißenburg, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67500, Frankreich",
+        "address": {
+            "city": "Hagenau",
+            "municipality": "Hagenau-Weißenburg",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67500",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.7741739",
+            "48.9033640",
+            "7.6336988",
+            "8.0087206"
+        ]
+    }
+]

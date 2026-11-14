@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 88991426,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 74336,
+        "lat": "45.7753000",
+        "lon": "5.8080700",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5381644391400797,
+        "addresstype": "village",
+        "name": "Saint-Pierre-de-Curtille",
+        "display_name": "Saint-Pierre-de-Curtille, Chambéry, Savoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 73310, Frankreich",
+        "address": {
+            "village": "Saint-Pierre-de-Curtille",
+            "municipality": "Chambéry",
+            "county": "Savoyen",
+            "ISO3166-2-lvl6": "FR-73",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "73310",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.7318179",
+            "45.7949658",
+            "5.7942589",
+            "5.8637178"
+        ]
+    }
+]

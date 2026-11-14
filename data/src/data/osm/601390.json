@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 121190837,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 374587,
+        "lat": "48.6437325",
+        "lon": "7.5233697",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5876695771636281,
+        "addresstype": "village",
+        "name": "Kuttolsheim",
+        "display_name": "Kuttolsheim, Zabern, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67520, Frankreich",
+        "address": {
+            "village": "Kuttolsheim",
+            "municipality": "Zabern",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67520",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.6367533",
+            "48.6572037",
+            "7.4832217",
+            "7.5476390"
+        ]
+    }
+]

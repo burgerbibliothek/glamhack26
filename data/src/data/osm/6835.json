@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 273457139,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 773497283,
+        "lat": "54.2464805",
+        "lon": "-1.4271327",
+        "category": "place",
+        "type": "locality",
+        "place_rank": 25,
+        "importance": 0.06670968108644236,
+        "addresstype": "locality",
+        "name": "Breckenbrough",
+        "display_name": "Breckenbrough, Newsham with Breckenbrough, Kirby Wiske, North Yorkshire, York and North Yorkshire, England, YO7 4EW, Vereinigtes Königreich",
+        "address": {
+            "locality": "Breckenbrough",
+            "suburb": "Newsham with Breckenbrough",
+            "village": "Kirby Wiske",
+            "county": "North Yorkshire",
+            "ISO3166-2-lvl6": "GB-NYK",
+            "state_district": "York and North Yorkshire",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "YO7 4EW",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "54.2364805",
+            "54.2564805",
+            "-1.4371327",
+            "-1.4171327"
+        ]
+    }
+]

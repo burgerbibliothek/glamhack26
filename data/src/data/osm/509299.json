@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 120155483,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 36458,
+        "lat": "49.2577886",
+        "lon": "4.0319260",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6858599370822757,
+        "addresstype": "city",
+        "name": "Reims",
+        "display_name": "Reims, Marne, Groß-Osten, Metropolitanes Frankreich, 51100, Frankreich",
+        "address": {
+            "city": "Reims",
+            "municipality": "Reims",
+            "county": "Marne",
+            "ISO3166-2-lvl6": "FR-51",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "51100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.2039186",
+            "49.3031870",
+            "3.9858192",
+            "4.1302563"
+        ]
+    }
+]

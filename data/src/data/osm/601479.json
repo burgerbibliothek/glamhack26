@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 93959977,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1981179,
+        "lat": "47.9194208",
+        "lon": "7.1567420",
+        "category": "boundary",
+        "type": "local_authority",
+        "place_rank": 25,
+        "importance": 0.2844781372993679,
+        "addresstype": "local_authority",
+        "name": "Communauté de communes de la Région de Guebwiller",
+        "display_name": "Communauté de communes de la Région de Guebwiller, Oberelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "local_authority": "Communauté de communes de la Région de Guebwiller",
+            "county": "Oberelsass",
+            "ISO3166-2-lvl6": "FR-68",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.8498860",
+            "48.0189711",
+            "7.0287058",
+            "7.3313033"
+        ]
+    }
+]

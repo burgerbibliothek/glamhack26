@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 283255273,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 17857979,
+        "lat": "51.8995685",
+        "lon": "-2.0711559",
+        "category": "place",
+        "type": "town",
+        "place_rank": 18,
+        "importance": 0.5876363669529038,
+        "addresstype": "town",
+        "name": "Cheltenham",
+        "display_name": "Cheltenham, Gloucestershire, England, GL52 2RX, Vereinigtes Königreich",
+        "address": {
+            "town": "Cheltenham",
+            "city": "Cheltenham",
+            "county": "Gloucestershire",
+            "ISO3166-2-lvl6": "GB-GLS",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "GL52 2RX",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.8595685",
+            "51.9395685",
+            "-2.1111559",
+            "-2.0311559"
+        ]
+    }
+]

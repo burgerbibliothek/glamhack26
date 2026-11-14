@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 281642691,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 39012177,
+        "lat": "51.2658137",
+        "lon": "-1.0371107",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.053391219195849514,
+        "addresstype": "residential",
+        "name": "The Dell",
+        "display_name": "The Dell, Hatch, Old Basing and Lychpit, Old Basing, Basingstoke and Deane, Hampshire, England, RG24 7EQ, Vereinigtes Königreich",
+        "address": {
+            "road": "The Dell",
+            "neighbourhood": "Hatch",
+            "suburb": "Hatch",
+            "village": "Old Basing",
+            "city": "Basingstoke and Deane",
+            "county": "Hampshire",
+            "ISO3166-2-lvl6": "GB-HAM",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "RG24 7EQ",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.2657435",
+            "51.2658838",
+            "-1.0372183",
+            "-1.0370032"
+        ]
+    }
+]

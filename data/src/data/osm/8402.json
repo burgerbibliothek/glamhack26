@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 97909042,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 18476624,
+        "lat": "48.9383732",
+        "lon": "2.3627508",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6449491326892864,
+        "addresstype": "city",
+        "name": "Saint-Denis",
+        "display_name": "Saint-Denis, Seine-Saint-Denis, Île-de-France, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "city": "Saint-Denis",
+            "municipality": "Saint-Denis",
+            "county": "Seine-Saint-Denis",
+            "ISO3166-2-lvl6": "FR-93",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.9014901",
+            "48.9740606",
+            "2.3332192",
+            "2.3981181"
+        ]
+    }
+]

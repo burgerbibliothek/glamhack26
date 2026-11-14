@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 98520630,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 9165902,
+        "lat": "48.9312511",
+        "lon": "2.0912611",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6119605255129082,
+        "addresstype": "city",
+        "name": "Saint-Germain-en-Laye",
+        "display_name": "Saint-Germain-en-Laye, Yvelines, Île-de-France, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "city": "Saint-Germain-en-Laye",
+            "municipality": "Saint-Germain-en-Laye",
+            "county": "Yvelines",
+            "ISO3166-2-lvl6": "FR-78",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8746786",
+            "48.9872176",
+            "2.0372132",
+            "2.1731173"
+        ]
+    }
+]

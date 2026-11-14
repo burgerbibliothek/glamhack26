@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 283253825,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 904451,
+        "lat": "48.7842759",
+        "lon": "-0.5521714",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5687793029412541,
+        "addresstype": "village",
+        "name": "Aubusson",
+        "display_name": "Aubusson, Argentan, Orne, Normandie, Metropolitanes Frankreich, 61100, Frankreich",
+        "address": {
+            "village": "Aubusson",
+            "municipality": "Argentan",
+            "county": "Orne",
+            "ISO3166-2-lvl6": "FR-61",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "61100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.7634443",
+            "48.7955534",
+            "-0.5680923",
+            "-0.5387108"
+        ]
+    }
+]

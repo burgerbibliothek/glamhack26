@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 284251064,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1066732,
+        "lat": "49.4209730",
+        "lon": "-1.4100434",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.5663651518401688,
+        "addresstype": "village",
+        "name": "Gourbesville",
+        "display_name": "Gourbesville, Picauville, Cherbourg, Manche, Normandie, Metropolitanes Frankreich, 50480, Frankreich",
+        "address": {
+            "village": "Gourbesville",
+            "city": "Picauville",
+            "municipality": "Cherbourg",
+            "county": "Manche",
+            "ISO3166-2-lvl6": "FR-50",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "50480",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.4016145",
+            "49.4400772",
+            "-1.4347574",
+            "-1.3793811"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 91268401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1020206132,
+        "lat": "46.3386842",
+        "lon": "6.0379718",
+        "category": "highway",
+        "type": "track",
+        "place_rank": 26,
+        "importance": 0.05339722362096586,
+        "addresstype": "track",
+        "name": "Route Forestière du Pays de Gex",
+        "display_name": "Route Forestière du Pays de Gex, Gex, Ain, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 01170, Frankreich",
+        "address": {
+            "road": "Route Forestière du Pays de Gex",
+            "town": "Gex",
+            "municipality": "Gex",
+            "county": "Ain",
+            "ISO3166-2-lvl6": "FR-01",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "01170",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.3363332",
+            "46.3415857",
+            "6.0362263",
+            "6.0383090"
+        ]
+    }
+]

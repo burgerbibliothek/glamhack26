@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 84244812,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1806623,
+        "lat": "42.8492109",
+        "lon": "1.6043495",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5526756268822862,
+        "addresstype": "village",
+        "name": "Tarascon-sur-Ariège",
+        "display_name": "Tarascon-sur-Ariège, Foix, Ariège, Okzitanien, Metropolitanes Frankreich, 09400, Frankreich",
+        "address": {
+            "village": "Tarascon-sur-Ariège",
+            "municipality": "Foix",
+            "county": "Ariège",
+            "ISO3166-2-lvl6": "FR-09",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "09400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "42.8251052",
+            "42.8622713",
+            "1.5600405",
+            "1.6270996"
+        ]
+    }
+]

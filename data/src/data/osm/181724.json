@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 92680761,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 138856,
+        "lat": "47.3850626",
+        "lon": "6.8507740",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5633070385760139,
+        "addresstype": "village",
+        "name": "Blamont",
+        "display_name": "Blamont, Montbéliard, Doubs, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 25310, Frankreich",
+        "address": {
+            "village": "Blamont",
+            "municipality": "Montbéliard",
+            "county": "Doubs",
+            "ISO3166-2-lvl6": "FR-25",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "25310",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.3755750",
+            "47.4058261",
+            "6.8230493",
+            "6.8904285"
+        ]
+    }
+]

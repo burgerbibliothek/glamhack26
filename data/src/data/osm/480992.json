@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 81462852,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 73283,
+        "lat": "41.9263991",
+        "lon": "8.7376029",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6106296065115536,
+        "addresstype": "city",
+        "name": "Ajaccio",
+        "display_name": "Ajaccio, Südkorsika, Korsika, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "city": "Ajaccio",
+            "municipality": "Ajaccio",
+            "county": "Südkorsika",
+            "ISO3166-2-lvl6": "FR-2A",
+            "state": "Korsika",
+            "ISO3166-2-lvl4": "FR-20R",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "41.8738984",
+            "41.9771822",
+            "8.5855655",
+            "8.8261006"
+        ]
+    }
+]

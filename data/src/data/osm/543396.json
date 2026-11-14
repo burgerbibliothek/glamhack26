@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 121575735,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 907040,
+        "lat": "48.3657983",
+        "lon": "7.2930383",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5825795358377123,
+        "addresstype": "village",
+        "name": "Breitenbach",
+        "display_name": "Breitenbach, Schlettstadt-Erstein, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67220, Frankreich",
+        "address": {
+            "village": "Breitenbach",
+            "municipality": "Schlettstadt-Erstein",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67220",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.3570618",
+            "48.3900980",
+            "7.2483436",
+            "7.3304526"
+        ]
+    }
+]

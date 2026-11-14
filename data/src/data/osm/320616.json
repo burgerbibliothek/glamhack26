@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 120280353,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 151130,
+        "lat": "48.3672540",
+        "lon": "5.4872018",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5697576942035311,
+        "addresstype": "village",
+        "name": "Brechainville",
+        "display_name": "Brechainville, Neufchâteau, Vosges, Groß-Osten, Metropolitanes Frankreich, 88350, Frankreich",
+        "address": {
+            "village": "Brechainville",
+            "municipality": "Neufchâteau",
+            "county": "Vosges",
+            "ISO3166-2-lvl6": "FR-88",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "88350",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.3472359",
+            "48.3768784",
+            "5.4529441",
+            "5.5514562"
+        ]
+    }
+]

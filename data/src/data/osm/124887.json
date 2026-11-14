@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 103551954,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 55938,
+        "lat": "50.1757546",
+        "lon": "3.2346145",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6346995066089213,
+        "addresstype": "city",
+        "name": "Cambrai",
+        "display_name": "Cambrai, Nord, Nordfrankreich, Metropolitanes Frankreich, 59400, Frankreich",
+        "address": {
+            "city": "Cambrai",
+            "municipality": "Cambrai",
+            "county": "Nord",
+            "ISO3166-2-lvl6": "FR-59",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "59400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "50.1409938",
+            "50.2036509",
+            "3.2015106",
+            "3.2809002"
+        ]
+    }
+]

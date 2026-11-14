@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 88688502,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 85421,
+        "lat": "44.8984037",
+        "lon": "6.6436313",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5709149346441321,
+        "addresstype": "town",
+        "name": "Briançon",
+        "display_name": "Briançon, Hochalpen, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 05100, Frankreich",
+        "address": {
+            "town": "Briançon",
+            "municipality": "Briançon",
+            "county": "Hochalpen",
+            "ISO3166-2-lvl6": "FR-05",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "05100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.8692177",
+            "44.9297935",
+            "6.6004291",
+            "6.7065027"
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 282509868,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 102740,
+        "lat": "48.2640845",
+        "lon": "-2.9202408",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.7043789699304144,
+        "addresstype": "state",
+        "name": "Bretagne",
+        "display_name": "Bretagne, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "state": "Bretagne",
+            "ISO3166-2-lvl4": "FR-BRE",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.2777550",
+            "49.1133044",
+            "-5.1440329",
+            "-1.0156900"
+        ]
+    }
+]

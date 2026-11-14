@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 121297449,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 83913,
+        "lat": "48.1654410",
+        "lon": "7.5444161",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5914668429166653,
+        "addresstype": "village",
+        "name": "Markolsheim",
+        "display_name": "Markolsheim, Schlettstadt-Erstein, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67390, Frankreich",
+        "address": {
+            "village": "Markolsheim",
+            "municipality": "Schlettstadt-Erstein",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67390",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.1203213",
+            "48.1793643",
+            "7.5151192",
+            "7.6115777"
+        ]
+    }
+]

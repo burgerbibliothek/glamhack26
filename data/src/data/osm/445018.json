@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 424372160,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 197563,
+        "lat": "49.5805561",
+        "lon": "3.0000288",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6075537502982604,
+        "addresstype": "town",
+        "name": "Noyon",
+        "display_name": "Noyon, Compiègne, Oise, Nordfrankreich, Metropolitanes Frankreich, 60400, Frankreich",
+        "address": {
+            "town": "Noyon",
+            "municipality": "Compiègne",
+            "county": "Oise",
+            "ISO3166-2-lvl6": "FR-60",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "60400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.5478118",
+            "49.6082335",
+            "2.9702935",
+            "3.0443429"
+        ]
+    }
+]

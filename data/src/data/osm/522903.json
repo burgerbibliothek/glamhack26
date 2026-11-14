@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 85555376,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1561572,
+        "lat": "43.6132000",
+        "lon": "1.9733700",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.547321365951329,
+        "addresstype": "village",
+        "name": "Prades",
+        "display_name": "Prades, Castres, Tarn, Okzitanien, Metropolitanes Frankreich, 81220, Frankreich",
+        "address": {
+            "village": "Prades",
+            "municipality": "Castres",
+            "county": "Tarn",
+            "ISO3166-2-lvl6": "FR-81",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "81220",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.5973346",
+            "43.6242195",
+            "1.9479008",
+            "1.9964720"
+        ]
+    }
+]

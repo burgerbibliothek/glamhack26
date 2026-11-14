@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 281841937,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2718908,
+        "lat": "51.2367391",
+        "lon": "-2.9933389",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.28779482241276744,
+        "addresstype": "suburb",
+        "name": "Burnham-on-Sea and Highbridge",
+        "display_name": "Burnham-on-Sea and Highbridge, Burnham-on-Sea, Somerset, England, Vereinigtes Königreich",
+        "address": {
+            "suburb": "Burnham-on-Sea and Highbridge",
+            "town": "Burnham-on-Sea",
+            "county": "Somerset",
+            "ISO3166-2-lvl6": "GB-SOM",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.2126851",
+            "51.2608479",
+            "-3.0223732",
+            "-2.9561778"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 96178651,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 76306,
+        "lat": "47.3900474",
+        "lon": "0.6889268",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6637774691008642,
+        "addresstype": "city",
+        "name": "Tours",
+        "display_name": "Tours, Indre-et-Loire, Zentrum-Loiretal, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "city": "Tours",
+            "municipality": "Tours",
+            "county": "Indre-et-Loire",
+            "ISO3166-2-lvl6": "FR-37",
+            "state": "Zentrum-Loiretal",
+            "ISO3166-2-lvl4": "FR-CVL",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.3489171",
+            "47.4395937",
+            "0.6528317",
+            "0.7373427"
+        ]
+    }
+]

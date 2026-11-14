@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": 282972971,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 57538,
+        "lat": "50.7241405",
+        "lon": "-3.6607788",
+        "category": "boundary",
+        "type": "ceremonial",
+        "place_rank": 25,
+        "importance": 0.687073694590314,
+        "addresstype": "ceremonial",
+        "name": "Devon",
+        "display_name": "Devon, England, Vereinigtes Königreich",
+        "address": {
+            "ceremonial": "Devon",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "50.2014491",
+            "51.2468388",
+            "-4.6809626",
+            "-2.8866407"
+        ]
+    }
+]

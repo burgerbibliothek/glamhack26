@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 89478691,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 367945274,
+        "lat": "45.9042308",
+        "lon": "6.9188413",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.3819330985084628,
+        "addresstype": "peak",
+        "name": "Aiguille des Grands Charmoz",
+        "display_name": "Aiguille des Grands Charmoz, Chamonix-Mont-Blanc, Bonneville, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74400, Frankreich",
+        "address": {
+            "peak": "Aiguille des Grands Charmoz",
+            "town": "Chamonix-Mont-Blanc",
+            "municipality": "Bonneville",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.9041808",
+            "45.9042808",
+            "6.9187913",
+            "6.9188913"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 87770441,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 76009,
+        "lat": "44.1253665",
+        "lon": "4.0852818",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5870356852312154,
+        "addresstype": "town",
+        "name": "Alès",
+        "display_name": "Alès, Gard, Okzitanien, Metropolitanes Frankreich, 30100, Frankreich",
+        "address": {
+            "town": "Alès",
+            "municipality": "Alès",
+            "county": "Gard",
+            "ISO3166-2-lvl6": "FR-30",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "30100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.0936790",
+            "44.1563481",
+            "4.0535448",
+            "4.1276058"
+        ]
+    }
+]

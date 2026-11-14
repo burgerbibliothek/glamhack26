@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 89088292,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 188343637,
+        "lat": "45.9136531",
+        "lon": "6.9386736",
+        "category": "natural",
+        "type": "glacier",
+        "place_rank": 22,
+        "importance": 0.4457104052663012,
+        "addresstype": "glacier",
+        "name": "Mer de Glace",
+        "display_name": "Mer de Glace, Chamonix-Mont-Blanc, Bonneville, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74400, Frankreich",
+        "address": {
+            "glacier": "Mer de Glace",
+            "town": "Chamonix-Mont-Blanc",
+            "municipality": "Bonneville",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.8991890",
+            "45.9281586",
+            "6.9215107",
+            "6.9479941"
+        ]
+    }
+]

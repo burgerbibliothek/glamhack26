@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 119653174,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 75801,
+        "lat": "48.4964210",
+        "lon": "7.4698832",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5928847945198898,
+        "addresstype": "village",
+        "name": "Rosheim",
+        "display_name": "Rosheim, Molsheim, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67560, Frankreich",
+        "address": {
+            "village": "Rosheim",
+            "municipality": "Molsheim",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67560",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.4610901",
+            "48.5117596",
+            "7.3196308",
+            "7.5144755"
+        ]
+    }
+]

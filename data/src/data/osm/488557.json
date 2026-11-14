@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 283008974,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 158849,
+        "lat": "49.2023260",
+        "lon": "-0.7960620",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5890819152317868,
+        "addresstype": "village",
+        "name": "Castillon",
+        "display_name": "Castillon, Bayeux, Calvados, Normandie, Metropolitanes Frankreich, 14490, Frankreich",
+        "address": {
+            "village": "Castillon",
+            "municipality": "Bayeux",
+            "county": "Calvados",
+            "ISO3166-2-lvl6": "FR-14",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "14490",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.1784659",
+            "49.2147010",
+            "-0.8346743",
+            "-0.7701400"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 273617349,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 21511530,
+        "lat": "56.3403678",
+        "lon": "-2.7950440",
+        "category": "place",
+        "type": "town",
+        "place_rank": 18,
+        "importance": 0.5425566069700949,
+        "addresstype": "town",
+        "name": "St Andrews",
+        "display_name": "St Andrews, Fife, Schottland, KY16 9NU, Vereinigtes Königreich",
+        "address": {
+            "town": "St Andrews",
+            "county": "Fife",
+            "ISO3166-2-lvl6": "GB-FIF",
+            "state": "Schottland",
+            "ISO3166-2-lvl4": "GB-SCT",
+            "postcode": "KY16 9NU",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "56.3003678",
+            "56.3803678",
+            "-2.8350440",
+            "-2.7550440"
+        ]
+    }
+]

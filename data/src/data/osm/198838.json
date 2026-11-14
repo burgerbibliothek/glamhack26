@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 99277911,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2815754,
+        "lat": "49.1605604",
+        "lon": "1.3336126",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5878436550101933,
+        "addresstype": "village",
+        "name": "Gaillon",
+        "display_name": "Gaillon, Les Andelys, Eure, Normandie, Metropolitanes Frankreich, 27600, Frankreich",
+        "address": {
+            "village": "Gaillon",
+            "municipality": "Les Andelys",
+            "county": "Eure",
+            "ISO3166-2-lvl6": "FR-27",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "27600",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.1451638",
+            "49.1753574",
+            "1.2902359",
+            "1.3909500"
+        ]
+    }
+]

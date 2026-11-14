@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 291076809,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 166727,
+        "lat": "43.3872190",
+        "lon": "-1.6636947",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6022136066259567,
+        "addresstype": "town",
+        "name": "Saint-Jean-de-Luz",
+        "display_name": "Saint-Jean-de-Luz, Bayonne, Pyrenäen-Atlantik, Neu-Aquitanien, Metropolitanes Frankreich, 64500, Frankreich",
+        "address": {
+            "town": "Saint-Jean-de-Luz",
+            "municipality": "Bayonne",
+            "county": "Pyrenäen-Atlantik",
+            "ISO3166-2-lvl6": "FR-64",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "64500",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.3651663",
+            "43.4222395",
+            "-1.6698688",
+            "-1.5971327"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 99669441,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2811540,
+        "lat": "50.8746139",
+        "lon": "0.0051153",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.5186904791792434,
+        "addresstype": "suburb",
+        "name": "Lewes",
+        "display_name": "Lewes, Offham, Lewes, East Sussex, England, Vereinigtes Königreich",
+        "address": {
+            "suburb": "Lewes",
+            "village": "Offham",
+            "town": "Lewes",
+            "county": "East Sussex",
+            "ISO3166-2-lvl6": "GB-ESX",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "50.8594841",
+            "50.8892754",
+            "-0.0309011",
+            "0.0493130"
+        ]
+    }
+]

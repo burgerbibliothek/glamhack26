@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 86757923,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 145155,
+        "lat": "44.8534568",
+        "lon": "0.4875310",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5894949017306703,
+        "addresstype": "town",
+        "name": "Bergerac",
+        "display_name": "Bergerac, Dordogne, Neu-Aquitanien, Metropolitanes Frankreich, 24100, Frankreich",
+        "address": {
+            "town": "Bergerac",
+            "municipality": "Bergerac",
+            "county": "Dordogne",
+            "ISO3166-2-lvl6": "FR-24",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "24100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.8037799",
+            "44.9001468",
+            "0.4310926",
+            "0.5454285"
+        ]
+    }
+]

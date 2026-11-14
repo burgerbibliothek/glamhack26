@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 273633289,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 19414244,
+        "lat": "54.5963910",
+        "lon": "-5.9301829",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 14,
+        "importance": 0.7047258684940816,
+        "addresstype": "city",
+        "name": "Belfast",
+        "display_name": "Belfast, County Antrim, Nordirland, Vereinigtes Königreich",
+        "address": {
+            "city": "Belfast",
+            "ISO3166-2-lvl7": "GB-BFS",
+            "county": "County Antrim",
+            "state": "Nordirland",
+            "ISO3166-2-lvl4": "GB-NIR",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "54.5305618",
+            "54.6649674",
+            "-6.0601801",
+            "-5.8073559"
+        ]
+    }
+]

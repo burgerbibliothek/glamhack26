@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 279879444,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 308735385,
+        "lat": "51.6980148",
+        "lon": "-2.6808821",
+        "category": "place",
+        "type": "village",
+        "place_rank": 19,
+        "importance": 0.38727847050761693,
+        "addresstype": "village",
+        "name": "Tintern",
+        "display_name": "Tintern, Monmouthshire, Wales, NP16 6SY, Vereinigtes Königreich",
+        "address": {
+            "village": "Tintern",
+            "county": "Monmouthshire",
+            "ISO3166-2-lvl6": "GB-MON",
+            "state": "Wales",
+            "ISO3166-2-lvl4": "GB-WLS",
+            "postcode": "NP16 6SY",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.6780148",
+            "51.7180148",
+            "-2.7008821",
+            "-2.6608821"
+        ]
+    }
+]

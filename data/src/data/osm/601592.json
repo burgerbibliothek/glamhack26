@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 93450612,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 69274,
+        "lat": "47.7888815",
+        "lon": "7.5094906",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5581351999255528,
+        "addresstype": "village",
+        "name": "Ottmarsheim",
+        "display_name": "Ottmarsheim, Mülhausen, Oberelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 68490, Frankreich",
+        "address": {
+            "village": "Ottmarsheim",
+            "municipality": "Mülhausen",
+            "county": "Oberelsass",
+            "ISO3166-2-lvl6": "FR-68",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "68490",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.7634634",
+            "47.8078656",
+            "7.4450603",
+            "7.5408432"
+        ]
+    }
+]

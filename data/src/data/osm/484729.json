@@ -1,0 +1,38 @@
+[
+    {
+        "place_id": 82059620,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3943148923,
+        "lat": "43.7302391",
+        "lon": "7.3613607",
+        "category": "highway",
+        "type": "bus_stop",
+        "place_rank": 30,
+        "importance": 5.85343709467768e-05,
+        "addresstype": "highway",
+        "name": "Èze Village",
+        "display_name": "Èze Village, Boulevard du Maréchal Leclerc, Èze-Bord-de-Mer, Èze, Nizza, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitanes Frankreich, 06360, Frankreich",
+        "address": {
+            "highway": "Èze Village",
+            "road": "Boulevard du Maréchal Leclerc",
+            "suburb": "Èze-Bord-de-Mer",
+            "village": "Èze",
+            "municipality": "Nizza",
+            "county": "Maritime Alps",
+            "ISO3166-2-lvl6": "FR-06",
+            "state": "Provence-Alpes-Côte d'Azur",
+            "ISO3166-2-lvl4": "FR-PAC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "06360",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "43.7301891",
+            "43.7302891",
+            "7.3613107",
+            "7.3614107"
+        ]
+    }
+]

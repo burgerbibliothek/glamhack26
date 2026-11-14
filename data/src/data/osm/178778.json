@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 100021883,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 104492,
+        "lat": "49.4938975",
+        "lon": "0.1079732",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6784794831885882,
+        "addresstype": "city",
+        "name": "Le Havre",
+        "display_name": "Le Havre, Seine-Maritime, Normandie, Metropolitanes Frankreich, Frankreich",
+        "address": {
+            "city": "Le Havre",
+            "municipality": "Le Havre",
+            "county": "Seine-Maritime",
+            "ISO3166-2-lvl6": "FR-76",
+            "state": "Normandie",
+            "ISO3166-2-lvl4": "FR-NOR",
+            "region": "Metropolitanes Frankreich",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.4516697",
+            "49.5401463",
+            "0.0667992",
+            "0.1955556"
+        ]
+    }
+]

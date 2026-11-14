@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 94086574,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 115177,
+        "lat": "47.5102368",
+        "lon": "6.7977564",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.6079568830068891,
+        "addresstype": "town",
+        "name": "Montbéliard",
+        "display_name": "Montbéliard, Doubs, Bourgogne-Franche-Comté, Metropolitanes Frankreich, 25200, Frankreich",
+        "address": {
+            "town": "Montbéliard",
+            "municipality": "Montbéliard",
+            "county": "Doubs",
+            "ISO3166-2-lvl6": "FR-25",
+            "state": "Bourgogne-Franche-Comté",
+            "ISO3166-2-lvl4": "FR-BFC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "25200",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.4906341",
+            "47.5430531",
+            "6.7418940",
+            "6.8247304"
+        ]
+    }
+]

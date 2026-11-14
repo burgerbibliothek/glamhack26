@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 273799385,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 88067,
+        "lat": "54.6666670",
+        "lon": "-1.7500000",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.6187608953233207,
+        "addresstype": "county",
+        "name": "Durham",
+        "display_name": "Durham, North East, England, Vereinigtes Königreich",
+        "address": {
+            "county": "Durham",
+            "ISO3166-2-lvl6": "GB-DUR",
+            "state_district": "North East",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "54.4514765",
+            "54.9186925",
+            "-2.3557375",
+            "-1.2396918"
+        ]
+    }
+]

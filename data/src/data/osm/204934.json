@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 283452023,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 318967,
+        "lat": "48.0944459",
+        "lon": "-4.3311243",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5602128103227032,
+        "addresstype": "town",
+        "name": "Douarnenez",
+        "display_name": "Douarnenez, Quimper, Finistère, Bretagne, Metropolitanes Frankreich, 29100, Frankreich",
+        "address": {
+            "town": "Douarnenez",
+            "municipality": "Quimper",
+            "county": "Finistère",
+            "ISO3166-2-lvl6": "FR-29",
+            "state": "Bretagne",
+            "ISO3166-2-lvl4": "FR-BRE",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "29100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.0483951",
+            "48.1102358",
+            "-4.3789423",
+            "-4.2696225"
+        ]
+    }
+]

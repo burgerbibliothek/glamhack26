@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 121021820,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 911091,
+        "lat": "48.4217476",
+        "lon": "7.1867740",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5898571513220264,
+        "addresstype": "village",
+        "name": "Urbach",
+        "display_name": "Urbach, Molsheim, Unterelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 67130, Frankreich",
+        "address": {
+            "village": "Urbach",
+            "municipality": "Molsheim",
+            "county": "Unterelsass",
+            "ISO3166-2-lvl6": "FR-67",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "67130",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.4095239",
+            "48.4332669",
+            "7.1762221",
+            "7.2050396"
+        ]
+    }
+]

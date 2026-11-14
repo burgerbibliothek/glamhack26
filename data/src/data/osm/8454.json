@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": 280342711,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 16486527,
+        "lat": "51.4277844",
+        "lon": "-0.3336530",
+        "category": "place",
+        "type": "town",
+        "place_rank": 18,
+        "importance": 0.5090968538944352,
+        "addresstype": "town",
+        "name": "Teddington",
+        "display_name": "Teddington, Groß-London, England, TW11 8EE, Vereinigtes Königreich",
+        "address": {
+            "town": "Teddington",
+            "city": "Groß-London",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "TW11 8EE",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "51.3877844",
+            "51.4677844",
+            "-0.3736530",
+            "-0.2936530"
+        ]
+    }
+]

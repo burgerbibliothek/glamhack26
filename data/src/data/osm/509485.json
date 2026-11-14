@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": 281012189,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1610961669,
+        "lat": "51.0612766",
+        "lon": "-1.3131692",
+        "category": "place",
+        "type": "city",
+        "place_rank": 16,
+        "importance": 0.6001335096757001,
+        "addresstype": "city",
+        "name": "Winchester",
+        "display_name": "Winchester, Hampshire, England, SO23 9LF, Vereinigtes Königreich",
+        "address": {
+            "city": "Winchester",
+            "county": "Hampshire",
+            "ISO3166-2-lvl6": "GB-HAM",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "SO23 9LF",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "50.9012766",
+            "51.2212766",
+            "-1.4731692",
+            "-1.1531692"
+        ]
+    }
+]

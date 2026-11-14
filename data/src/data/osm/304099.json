@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 97261801,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 162562,
+        "lat": "48.8565557",
+        "lon": "2.5290045",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5198462938619313,
+        "addresstype": "town",
+        "name": "Neuilly-sur-Marne",
+        "display_name": "Neuilly-sur-Marne, Le Raincy, Seine-Saint-Denis, Île-de-France, Metropolitanes Frankreich, 93330, Frankreich",
+        "address": {
+            "town": "Neuilly-sur-Marne",
+            "municipality": "Le Raincy",
+            "county": "Seine-Saint-Denis",
+            "ISO3166-2-lvl6": "FR-93",
+            "state": "Île-de-France",
+            "ISO3166-2-lvl4": "FR-IDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "93330",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "48.8522196",
+            "48.8766595",
+            "2.5161675",
+            "2.5677584"
+        ]
+    }
+]

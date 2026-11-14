@@ -1,0 +1,37 @@
+[
+    {
+        "place_id": 121825587,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 905904,
+        "lat": "48.0312179",
+        "lon": "7.1177655",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5555436770409913,
+        "addresstype": "village",
+        "name": "Luttenbach bei Münster",
+        "display_name": "Luttenbach bei Münster, Colmar-Rappoltsweiler, Oberelsass, European Collectivity of Alsace, Groß-Osten, Metropolitanes Frankreich, 68140, Frankreich",
+        "address": {
+            "village": "Luttenbach bei Münster",
+            "municipality": "Colmar-Rappoltsweiler",
+            "county": "Oberelsass",
+            "ISO3166-2-lvl6": "FR-68",
+            "state_district": "European Collectivity of Alsace",
+            "ISO3166-2-lvl5": "FR-6AE",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "68140",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.9806676",
+            "48.0407759",
+            "7.0964409",
+            "7.1384357"
+        ]
+    }
+]

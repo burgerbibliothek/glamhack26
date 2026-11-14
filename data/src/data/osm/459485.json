@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 282962205,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 259435397,
+        "lat": "50.4243740",
+        "lon": "-3.5626306",
+        "category": "place",
+        "type": "suburb",
+        "place_rank": 19,
+        "importance": 0.22052600253021823,
+        "addresstype": "suburb",
+        "name": "Goodrington",
+        "display_name": "Goodrington, Paignton, Torbay, Devon and Torbay, England, TQ4 6LN, Vereinigtes Königreich",
+        "address": {
+            "suburb": "Goodrington",
+            "town": "Paignton",
+            "county": "Torbay",
+            "ISO3166-2-lvl6": "GB-TOB",
+            "state_district": "Devon and Torbay",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "postcode": "TQ4 6LN",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "50.4043740",
+            "50.4443740",
+            "-3.5826306",
+            "-3.5426306"
+        ]
+    }
+]

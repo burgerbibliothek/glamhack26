@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 87652180,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 122724,
+        "lat": "44.6092335",
+        "lon": "2.0324321",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5612274109472323,
+        "addresstype": "town",
+        "name": "Figeac",
+        "display_name": "Figeac, Lot, Okzitanien, Metropolitanes Frankreich, 46100, Frankreich",
+        "address": {
+            "town": "Figeac",
+            "municipality": "Figeac",
+            "county": "Lot",
+            "ISO3166-2-lvl6": "FR-46",
+            "state": "Okzitanien",
+            "ISO3166-2-lvl4": "FR-OCC",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "46100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.5671573",
+            "44.6458604",
+            "1.9673103",
+            "2.0797748"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 86234953,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 74416,
+        "lat": "44.3905556",
+        "lon": "0.3091667",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5466881545805051,
+        "addresstype": "village",
+        "name": "Tonneins",
+        "display_name": "Tonneins, Marmande, Lot-et-Garonne, Neu-Aquitanien, Metropolitanes Frankreich, 47400, Frankreich",
+        "address": {
+            "village": "Tonneins",
+            "municipality": "Marmande",
+            "county": "Lot-et-Garonne",
+            "ISO3166-2-lvl6": "FR-47",
+            "state": "Neu-Aquitanien",
+            "ISO3166-2-lvl4": "FR-NAQ",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "47400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "44.3396122",
+            "44.4288708",
+            "0.2867289",
+            "0.3725373"
+        ]
+    }
+]

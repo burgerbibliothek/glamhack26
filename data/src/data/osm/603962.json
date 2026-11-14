@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 92184886,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8421291535,
+        "lat": "46.1708462",
+        "lon": "6.2584179",
+        "category": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.13341234988937206,
+        "addresstype": "hamlet",
+        "name": "Vétraz",
+        "display_name": "Vétraz, Vétraz-Monthoux, Saint-Julien-en-Genevois, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74100, Frankreich",
+        "address": {
+            "hamlet": "Vétraz",
+            "town": "Vétraz-Monthoux",
+            "municipality": "Saint-Julien-en-Genevois",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74100",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "46.1508462",
+            "46.1908462",
+            "6.2384179",
+            "6.2784179"
+        ]
+    }
+]

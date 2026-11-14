@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 94010700,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3094359,
+        "lat": "47.7862246",
+        "lon": "5.0622145",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5479028277844017,
+        "addresstype": "village",
+        "name": "Auberive",
+        "display_name": "Auberive, Langres, Haute-Marne, Groß-Osten, Metropolitanes Frankreich, 52160, Frankreich",
+        "address": {
+            "village": "Auberive",
+            "municipality": "Langres",
+            "county": "Haute-Marne",
+            "ISO3166-2-lvl6": "FR-52",
+            "state": "Groß-Osten",
+            "ISO3166-2-lvl4": "FR-GES",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "52160",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "47.7267627",
+            "47.8409337",
+            "5.0014021",
+            "5.1886895"
+        ]
+    }
+]

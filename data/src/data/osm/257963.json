@@ -1,0 +1,36 @@
+[
+    {
+        "place_id": 88733436,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1241260299,
+        "lat": "45.9028436",
+        "lon": "6.9190588",
+        "category": "natural",
+        "type": "peak",
+        "place_rank": 18,
+        "importance": 0.3869235073939477,
+        "addresstype": "peak",
+        "name": "Aiguille du Grépon",
+        "display_name": "Aiguille du Grépon, Chamonix-Mont-Blanc, Bonneville, Hochsavoyen, Auvergne-Rhone-Alpen, Metropolitanes Frankreich, 74400, Frankreich",
+        "address": {
+            "peak": "Aiguille du Grépon",
+            "town": "Chamonix-Mont-Blanc",
+            "municipality": "Bonneville",
+            "county": "Hochsavoyen",
+            "ISO3166-2-lvl6": "FR-74",
+            "state": "Auvergne-Rhone-Alpen",
+            "ISO3166-2-lvl4": "FR-ARA",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "74400",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "45.9027936",
+            "45.9028936",
+            "6.9190088",
+            "6.9191088"
+        ]
+    }
+]

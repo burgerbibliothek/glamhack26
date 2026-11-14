@@ -1,0 +1,34 @@
+[
+    {
+        "place_id": 278296888,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1402066,
+        "lat": "52.8065684",
+        "lon": "-0.6190473",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 20,
+        "importance": 0.2827546027204031,
+        "addresstype": "village",
+        "name": "Colsterworth",
+        "display_name": "Colsterworth, Woolsthorpe, South Kesteven, Lincolnshire, Greater Lincolnshire, England, Vereinigtes Königreich",
+        "address": {
+            "village": "Colsterworth",
+            "city": "South Kesteven",
+            "county": "Lincolnshire",
+            "ISO3166-2-lvl6": "GB-LIN",
+            "state_district": "Greater Lincolnshire",
+            "state": "England",
+            "ISO3166-2-lvl4": "GB-ENG",
+            "country": "Vereinigtes Königreich",
+            "country_code": "gb"
+        },
+        "boundingbox": [
+            "52.7842679",
+            "52.8235513",
+            "-0.6827623",
+            "-0.5671511"
+        ]
+    }
+]

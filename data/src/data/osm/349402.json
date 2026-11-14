@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 99105919,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1433363,
+        "lat": "49.6558200",
+        "lon": "2.8608768",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.587677877085589,
+        "addresstype": "village",
+        "name": "Avricourt",
+        "display_name": "Avricourt, Compiègne, Oise, Nordfrankreich, Metropolitanes Frankreich, 60310, Frankreich",
+        "address": {
+            "village": "Avricourt",
+            "municipality": "Compiègne",
+            "county": "Oise",
+            "ISO3166-2-lvl6": "FR-60",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "60310",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.6271852",
+            "49.6722254",
+            "2.8433182",
+            "2.8874217"
+        ]
+    }
+]

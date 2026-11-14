@@ -1,0 +1,35 @@
+[
+    {
+        "place_id": 99606842,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 153338,
+        "lat": "49.7400000",
+        "lon": "3.7713889",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.5984092431503802,
+        "addresstype": "village",
+        "name": "Marle",
+        "display_name": "Marle, Laon, Aisne, Nordfrankreich, Metropolitanes Frankreich, 02250, Frankreich",
+        "address": {
+            "village": "Marle",
+            "municipality": "Laon",
+            "county": "Aisne",
+            "ISO3166-2-lvl6": "FR-02",
+            "state": "Nordfrankreich",
+            "ISO3166-2-lvl4": "FR-HDF",
+            "region": "Metropolitanes Frankreich",
+            "postcode": "02250",
+            "country": "Frankreich",
+            "country_code": "fr"
+        },
+        "boundingbox": [
+            "49.7158368",
+            "49.7730271",
+            "3.7288109",
+            "3.8019320"
+        ]
+    }
+]
