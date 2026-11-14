@@ -48,7 +48,7 @@
     #fmenu .n { color: #6b7280; font-weight: 400; }
     #clear { display: none; padding: 5px 12px; font: inherit; font-size: 12px; font-weight: 600; cursor: pointer;
              color: var(--ui); background: #fff; border: 2px solid var(--ui); border-radius: 999px; }
-    @media (max-width: 720px) { .filters { top: 62px; } .tl { top: 190px; } }
+    @media (max-width: 720px) { .filters { top: 62px; } }   /* .tl's mobile offset lives after the .tl rule, or it loses the cascade */
 
     /* legend, bottom left */
     .legend {
@@ -84,6 +84,7 @@
     /* vertical timeline filter (birth year), right edge: oldest at top */
     .tl { position: fixed; left: 12px; top: 140px; bottom: 172px; width: 96px; z-index: 2; display: flex; flex-direction: column; align-items: flex-start; }
     .tl[hidden] { display: none; }
+    @media (max-width: 720px) { .tl { top: 190px; } }   /* clear the two pills + the "clear selection" button above */
     .tl .t { font-size: 12px; font-weight: 700; margin: 6px 0 20px 2px; }
     #tl-play { padding: 4px 12px; font: inherit; font-size: 12px; font-weight: 700; cursor: pointer; color: var(--ui); background: #fff; border: 2px solid var(--ui); border-radius: 999px; }
     #tl-play.on { background: var(--ui); color: #fff; }
@@ -296,11 +297,20 @@ function render(quick) {   // quick = timeline drag: no re-fade, keeps the lines
 
   // places: hide suspect unless asked; mark those touched by the selection / clicked arcs
   const ends = new Set(shown.flatMap(a => [a.source, a.target]));
+  // with a filter on, births / deaths (and so dot size) count only the matching people
+  const cnt = { b: new Map(), d: new Map() };
+  if (sel) for (const a of matched) {
+    cnt.b.set(a.source, (cnt.b.get(a.source) || 0) + 1);
+    cnt.d.set(a.target, (cnt.d.get(a.target) || 0) + 1);
+  }
   map.getSource('points').setData({ type: 'FeatureCollection', features: D.places
     .filter(p => state.suspect || !p.suspect)
-    .map(p => ({ type: 'Feature', geometry: { type: 'Point', coordinates: [p.lon, p.lat] },
-      properties: { label: p.label, country: p.country, births: p.births, deaths: p.deaths,
-                    total: p.births + p.deaths, suspect: p.suspect, hit: ends.has(p.id) } })) });
+    .map(p => {
+      const births = sel ? cnt.b.get(p.id) || 0 : p.births, deaths = sel ? cnt.d.get(p.id) || 0 : p.deaths;
+      return { type: 'Feature', geometry: { type: 'Point', coordinates: [p.lon, p.lat] },
+        properties: { label: p.label, country: p.country, births, deaths,
+                      total: births + deaths, suspect: p.suspect, hit: ends.has(p.id) } };
+    }) });
   const people = state.mode === 'people';
   map.setPaintProperty('points', 'circle-radius', people
     ? 3                                                                        // people tab: every dot the same size
@@ -332,7 +342,7 @@ function render(quick) {   // quick = timeline drag: no re-fade, keeps the lines
     ? `<div class="sum">${sel ? `${matched.length} person${matched.length === 1 ? '' : 's'} ${who}` : `${D.arcs.length} persons`}</div>` +
       `<div class="grad"></div><div class="row"><span>born</span><span>died</span></div>` +
       `<div class="hint">Line width = persons on the same route.</div>`
-    : `<div class="hint">Circle size = births + deaths at that place. Hollow grey = suspect geocode.</div>`;
+    : `<div class="hint">Circle size = births + deaths at that place${sel ? ' (filtered people only)' : ''}. Hollow grey = suspect geocode.</div>`;
 }
 
 // ---- timeline: vertical two-handle birth-year range, oldest at top ----
